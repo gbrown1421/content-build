@@ -49,7 +49,7 @@ Transparent white artwork, so it **must** sit on a dark panel. Panel background 
 copywriter's and is final** — "Real fares out of Richmond, checked and graded" matches the live
 `/deals` page voice.
 
-## ★ THE TRAP — A VALIDATOR WILL FAIL
+## The validator — housekeeping, NOT a blocker
 
 `newsletterTool.ts` around line **1494**:
 
@@ -59,8 +59,8 @@ copywriter's and is final** — "Real fares out of Richmond, checked and graded"
       /View All Deals/
     ];
 
-Two of those three strings disappear with this change. **Update the patterns in the SAME commit**
-or header validation fails and may block a send. Replace the first two with checks for the logo
+All three strings disappear with this change. Update the patterns so the check stays meaningful —
+**but it does NOT block a send, and this spec previously claimed it did. That was wrong.** Replace the first two with checks for the logo
 `src` and the new subhead. **All THREE patterns now change** — the button text changes too (see below), so replace the third as well.
 
 **Grep for other references** before committing — there may be a snapshot test, a preview
@@ -109,3 +109,31 @@ This spec does not fix that, and it should not be bundled in. Raising it so it i
 by a subscriber. Options, for Glenn: leave it (a subscriber can ignore a signup panel), suppress
 the panel via a query parameter on the link from the newsletter, or give the page a members-aware
 variant. **Glenn's call, not the builder's.**
+
+---
+
+## ★ CORRECTION (Glenn, 2026-09-23) — the validator does not block anything
+
+An earlier version of this spec warned that changing the header would fail validation and "may
+block a send". **That was wrong, and Glenn caught it from evidence:** "View All Deals" is not in
+the newsletter that arrived in his inbox this morning — zero occurrences — and it sent anyway.
+
+The reason, at `newsletterTool.ts` ~line 1793:
+
+    // TEMPORARY: Allow testing with relaxed validation to verify email formatting
+    if (!validationResult.isValid) {
+      logger?.warn('⚠️ Newsletter validation WARNINGS detected - proceeding for testing', ...);
+      // Continue execution for testing - validation is too strict
+    }
+
+It logs and proceeds. **Today's newsletter already fails the header check and went out regardless.**
+
+So updating `headerPatterns` is tidiness, not a tripwire. Do it anyway — leaving a check that
+describes an email nobody sends any more is worse than no check — but nothing breaks if the order
+of work puts it second.
+
+**Separate finding, not part of this spec:** a QA check that cannot fail is the failure mode the
+charter names explicitly (§3, the 2026-08-22 incident where four QA dimensions reported success
+without testing anything). This bypass is marked TEMPORARY and is evidently permanent. Whether to
+re-arm it is Glenn's call — re-arming it today would immediately start blocking sends, because
+the current template fails its own check.
