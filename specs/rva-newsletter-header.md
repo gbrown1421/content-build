@@ -1,6 +1,7 @@
 # SPEC — RVA newsletter header: use the approved logo
 
-**Raised by Glenn 2026-09-23. Not started. Higher priority than `rva-catch-all.md`** —
+**★ APPROVED BY GLENN 2026-09-23 — the header design below is signed off, build it as written.**
+**Not started. Higher priority than `rva-catch-all.md`** —
 this is customer-facing and a press pitch already went out carrying the old header.
 
 ## What is wrong
