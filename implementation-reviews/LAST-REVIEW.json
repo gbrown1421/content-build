@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-09-29T12:52:00-04:00",
-  "reportFile": "2026-09-29-1236.md",
-  "note": "Timestamp is this run's FINISH time, not its start. The 17:08 run on 9/22 stamped its start and re-opened five hours it had already lived through. This window spanned the 4d19h scheduler outage (2026-09-24T21:18Z -> 2026-09-29T16:36Z)."
+  "lastReview": "2026-09-29T13:12:00-04:00",
+  "reportFile": "2026-09-29-1309.md",
+  "note": "Timestamp is this run's FINISH time, not its start. Window was 16:52Z-17:09Z (17 min) and held 0 claims - the 12:36 review had just closed. ugh-board-reconciliation-930pm session local_93204df9 is STILL stuck (3d14h); every other routine caught up 16:14-16:31Z."
 }
