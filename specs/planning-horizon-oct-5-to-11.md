@@ -1,81 +1,77 @@
-# Planning horizon is 5 days. The floor is 7. Oct 5–11 is empty across all three projects.
+# The calendar horizon is 5 days. The floor is 7. The copy is mostly written; the ROWS are not.
 
 **Found:** 2026-09-29 19:55 ET, `ugh-charter-review-3x-daily`
-**Owner: THE COPYWRITER (the interactive session).** Not mine — a scheduled run may not write a
-caption, a headline, a poll option or a calendar row. This spec is the handover.
+**Revised 20:05 ET the same run** — the first version of this spec said the Oct 5–11 copy needed
+writing. That was wrong and is corrected below: most of it already exists.
 
-## The evidence
+## The one hard fact
 
 Queried `calendar_entries` on Lovable `f42abd5c-1bf5-4137-b1a8-85fb291ddff5`:
 
 ```
-project | last_planned | rows after 2026-09-29
-pixfix  | 2026-10-04   | 5
-rva     | 2026-10-04   | 6
-ugh     | 2026-10-04   | 7
+project | max(post_date) | rows after 2026-09-29
+pixfix  | 2026-10-04     | 5
+rva     | 2026-10-04     | 6
+ugh     | 2026-10-04     | 7
 ```
 
-Today is Tue 2026-09-29. **Horizon = 5 days.** Charter §2c: *"The horizon must never fall below
-7 days. If it has, that is a gap to close now, not at the next review."*
+Today is Tue 2026-09-29. **Horizon = 5 days**, against charter §2c: *"The horizon must never fall
+below 7 days. If it has, that is a gap to close now, not at the next review."*
 
-The root cause is upstream of the decay: **the Sunday 2026-09-27 review planned ONE week, not two.**
-Sep 28 → Oct 4 is exactly 7 days. The rule is 14 (Glenn, 2026-09-20, restated 2026-09-21), and the
-second week is the buffer that stops the far edge ever becoming today. It was never laid down, so
-there is no buffer to spend — the horizon went from 7 to 5 in two days with nothing behind it.
+The publish path reads `calendar_entries` — `daily-driver` selects `status='ready'` off that table.
+**Copy in a build file with no calendar row is not a scheduled post.** So the floor is breached on
+the measure that matters, whatever the build files hold.
 
-## What has to be written: Mon 2026-10-05 → Sun 2026-10-11
+## What is NOT the problem — corrected
 
-The weekly slot pattern is stable and verified over two consecutive full weeks (Sep 21–27 and
-Sep 28–Oct 4). Copy it forward — 24 rows:
+The copy largely exists already. Read off the build files tonight:
 
-| Day | Time | Project | Type | Slot |
-|---|---|---|---|---|
-| Mon 10-05 | 08:00 | ugh | daily_moment | UGH static |
-| Mon 10-05 | 12:00 | pixfix | carousel | 5 slides |
-| Mon 10-05 | 18:00 | rva | video | Reel 15s |
-| Tue 10-06 | 09:00 | ugh | daily_moment | UGH static |
-| Tue 10-06 | 12:00 | rva | carousel | 5 cards |
-| Tue 10-06 | 17:00 | pixfix | daily_moment | studio explainer |
-| Wed 10-07 | 12:00 | ugh | poll | Ask the Feed |
-| Wed 10-07 | 18:00 | pixfix | video | Reel |
-| Wed 10-07 | 19:00 | rva | daily_moment | Question post |
-| Thu 10-08 | 08:00 | ugh | daily_moment | UGH static |
-| Thu 10-08 | 12:00 | pixfix | carousel | 5 slides |
-| Thu 10-08 | 12:30 | rva | video | Reel 20s |
-| Fri 10-09 | 08:00 | rva | poll | **Story poll — Glenn's lane, posted by hand** |
-| Fri 10-09 | 17:00 | ugh | video | Friday reel |
-| Fri 10-09 | 17:00 | pixfix | daily_moment | Character spotlight |
-| Fri 10-09 | 17:30 | rva | daily_moment | Local identity |
-| Sat 10-10 | 10:00 | rva | daily_moment | Route check |
-| Sat 10-10 | 11:00 | ugh | daily_moment | UGH static |
-| Sat 10-10 | 12:00 | pixfix | poll | Comment poll |
-| Sun 10-11 | 09:00 | ugh | daily_moment | **UGH Tails EP 009 — poster** |
-| Sun 10-11 | 12:00 | ugh | daily_moment | **UGH Tails EP 009 — episode announcement** |
-| Sun 10-11 | 17:00 | ugh | video | **UGH Tails EP 009 — reel** |
-| Sun 10-11 | 17:00 | pixfix | daily_moment | Turnaround of the week |
-| Sun 10-11 | 19:00 | rva | carousel | 4 cards |
+| Build file | October slots written | Last day |
+|---|---|---|
+| `CONTENT-BUILD-UGH.md` | Mon 5, Wed 7, Fri 9, Sat 10, Sun 11 (×3), Mon 12, Wed 14, Fri 16, Sat 17, Sun 18 | **18 Oct** |
+| `CONTENT-BUILD-PIXFIX.md` | Mon 5, Tue 6, Wed 7, Thu 8, Fri 9, Sat 10, Sun 11, Mon 12, Tue 13, Wed 14, Thu 15, Fri 16, Sat 17, Sun 18 | **18 Oct** |
+| `CONTENT-BUILD-RVA.md` | Thu 1, Fri 2, Sat 3, Sun 4 | **4 Oct** |
 
-## The one row with a real production dependency
+UGH and PixFix are written nineteen days out — past the 14-day rule, not short of it. **This is not
+a Copywriter failure to plan.** It is uncommitted at the moment of writing because that session is
+mid-write: `CONTENT-BUILD-UGH.md` mtime 19:59, `CONTENT-BUILD-PIXFIX.md` mtime 20:01, i.e. being
+edited as this ran. Deliberately not committed by this run — in-flight work belongs to the session
+writing it.
 
-**UGH Tails EP 009, Sun 2026-10-11** — poster, announcement and reel, three rows. EP 008 lands
-Sun 10-04. An episode is the single thing on this calendar that cannot be produced the morning it
-posts, and the 14-day rule exists for exactly this row. Writing the Oct 5–11 week gives the Peer
-run eleven days of lead time on EP 009. Leaving it unwritten gives it whatever is left when
-someone notices.
+## What is actually outstanding
 
-## Cautions that apply to this copy
+1. **Calendar rows for Oct 5 onward do not exist for any project.** The copy for UGH and PixFix is
+   ready to attach to rows. Until the rows exist, nothing after Sun 4 Oct can be booked or
+   published, and the horizon reads 5 days.
+2. **RVA copy stops at Sun 4 Oct** — the only project genuinely short of copy. It needs Oct 5–11 at
+   minimum to clear the floor: Mon 18:00 reel 15s · Tue 12:00 carousel 5 cards · Wed 19:00 question
+   post · Thu 12:30 reel 20s · **Fri 08:00 story poll (Glenn's lane, posted by hand)** · Fri 17:30
+   local identity · Sat 10:00 route check · Sun 19:00 carousel 4 cards. That pattern is verified
+   over the two full weeks 21–27 Sep and 28 Sep–4 Oct.
+3. **UGH Tails EP 009, Sun 11 Oct** — poster, announcement and reel. Copy is written. It is the one
+   row on the calendar that cannot be produced the morning it posts, and it has no row yet. This is
+   precisely the production dependency the 14-day buffer exists to protect.
 
-- **US spelling in every line** (charter §3). Grep the week before it is committed.
-- **A caption may only promise a thing that exists.** No "subscribe to watch the next adventure"
-  unless EP 009 is hosted; no back-catalogue or cadence promise without checking the mechanism.
-- **Story poll Fri 10-09 needs a background built and Glenn posts it by hand** — GHL cannot post an
-  Instagram Story. Two of these went dark (25 Sep, 28 Sep) because the copy was never written and
-  the Builder is forbidden to invent a line. Write the poll question and options with the row.
-- Rows land as `status='planned'`; UGH static and comment polls are booked by server Automation at
-  6 AM on the day, so `planned` the night before is normal for those and not a gap.
+## Whose it is
+
+Calendar rows and slot times are the **Copywriter's** (charter §2c: "Plus slot times, calendar rows
+and the 14-day plan"). A scheduled run may not create them, which is why this is a spec and not a
+fix. RVA's Oct 5–11 copy is the Copywriter's too.
+
+## Cautions that apply
+
+- **US spelling in every line** (charter §3) — grep the new weeks before they deploy.
+- **A caption may only promise a thing that exists.** No back-catalogue or cadence promise for
+  EP 009 without checking the mechanism first.
+- **Fri 9 Oct 08:00 RVA story poll needs a background built and Glenn posts it by hand.** Two of
+  these went dark (25 Sep, 28 Sep) because no copy existed and the Builder is forbidden to invent a
+  line. Write the question and the options with the row.
+- Rows land `status='planned'`; UGH statics and comment polls are booked by server Automation at
+  6 AM on the day, so `planned` the night before is normal for those and is not a gap.
 
 ## Done means
 
-`select project, max(post_date) from calendar_entries group by project` returns `2026-10-11` for
-all three projects, and every new row has a non-empty caption. Then the horizon is 12 days and the
-Sunday 2026-10-04 review extends it to 2026-10-18.
+`select project, max(post_date) from calendar_entries group by project` returns **2026-10-11 or
+later** for all three projects, every new row has a non-empty caption, and `CONTENT-BUILD-RVA.md`
+carries Oct 5–11. The horizon is then 12+ days and the Sun 4 Oct review extends it to 18 Oct —
+which UGH and PixFix copy already reaches.
