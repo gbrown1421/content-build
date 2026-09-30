@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-09-30T09:22:00Z",
-  "reportFile": "2026-09-30-0920.md",
-  "note": "9pm run, but this session's wall clock advanced ~8h mid-run (first check 2026-09-30T01:09:45Z, last 09:20Z), so the window covers 2026-09-29T21:36:12Z-2026-09-30T09:22Z. 11 claims: 8 PASS / 3 FAIL. Two Process Alerts, both FAIL on scope and both closed in the run - the no-browser guard was in 6 of 7 SKILL.md files (producer-sweep carried the pre-d6b9daec narrow version; now canonical in all 7, no SHA because .claude/scheduled-tasks is not version controlled), and the PixFix no-voice revert missed the 14 Oct reel (marked in c2e9e0f). Third FAIL: 0227dc0's calendar_entries claim cannot be verified from a scheduled run - no cancellable route to that table. OPEN FOR GLENN: ugh-board-reconciliation-930pm session local_93204df9 still running since 2026-09-25T22:39Z, lastRunAt unmoved, needs a manual kill. OPEN CONTRADICTION: producer-sweep/SKILL.md line 30 mandates query_database, which cannot be cancelled - paste-ready handover is in the report. Report commit 088f98f."
+  "lastReview": "2026-09-30T17:10:00Z",
+  "reportFile": "2026-09-30-1310.md",
+  "note": "1pm run. Window 2026-09-30T09:22Z-17:10Z. No Glenn turns, no commits in any repo. Two Process Alerts from the 04:30 charter-review tail (producer-sweep query_database ban; story-poll DO NOT REGISTER) - both PASS; sweep loaded the ban 3x with zero MCP calls, but its misfire-diagnosis branch has not fired yet. board-reconciliation stuck session cleared (lastRunAt 09:20Z). Report commit e1da04b."
 }
