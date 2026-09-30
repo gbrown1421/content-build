@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-09-30T17:10:00Z",
-  "reportFile": "2026-09-30-1310.md",
-  "note": "1pm run. Window 2026-09-30T09:22Z-17:10Z. No Glenn turns, no commits in any repo. Two Process Alerts from the 04:30 charter-review tail (producer-sweep query_database ban; story-poll DO NOT REGISTER) - both PASS; sweep loaded the ban 3x with zero MCP calls, but its misfire-diagnosis branch has not fired yet. board-reconciliation stuck session cleared (lastRunAt 09:20Z). Report commit e1da04b."
+  "lastReview": "2026-09-30T21:10:06Z",
+  "reportFile": "2026-09-30-1710.md",
+  "note": "5pm run. Window 17:10Z-2026-09-30T21:10:06Z. 0 claims: no Glenn turns, no Process Alerts, no commits beyond the 1pm review's own. Contradiction: pixfix/build-turnaround-reel.mjs header still says NO VOICEOVER, EVER after Glenn's 9/29 revert; handover drafted by sweep c9442f19, needs Glenn's voice pick."
 }
