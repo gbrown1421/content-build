@@ -743,6 +743,360 @@ We check Richmond fares every morning: https://rvacheapflights.com/deals
 
 ---
 
+## MON 5 OCT · 07:30 · STORY POLL — THE AISLE *(Instagram only)*
+
+- **Question:** Four hours in the middle seat, or $60 more for the aisle?
+- **A:** Middle seat · **B:** Pay the $60
+- **Background: not built yet.** Title **THE AISLE**, line **Your $60 question.**
+
+---
+
+## MON 5 OCT · 18:00 · REEL 30s — Destination review: Chicago
+**No fares.** No price, no dates, no route claims — voiceover, screen or caption.
+★ 30s, not 15s. A destination review does not fit in fifteen seconds (Open item 3).
+
+★ DEST-HEROES ONLY + one brand card. Uses 3 of the 92 approved heroes.
+**VOICE:** English_MaturePartner @1.0, fal-ai/minimax/speech-02-hd. One narrator per property.
+★ Length measured at 2.89 w/s, not the house 2.3.
+
+| Time | Picture | On screen | SAY |
+|---|---|---|---|
+| 0–5s | CHI_FAL lakefront hero | CHICAGO IN OCTOBER | "Chicago is cool and clear in the fall." |
+| 5–14s | CHI_FAL architecture hero | THE LAKEFRONT · THE ARCHITECTURE | "The lakefront is at its best, and so is the architecture. This is the month the city is most worth walking." |
+| 14–24s | CHI_FAL third hero | GO NOW, NOT IN JANUARY | "It is also the last comfortable window. After this the wind off the lake makes every decision for you." |
+| 24–30s | Brand card | rvacheapflights.com/deals | "We check Richmond fares every morning." |
+
+**CAPTION (Facebook)**
+```
+Chicago is cool and clear in the fall. The lakefront is at its best, and so is the architecture.
+
+October is the last comfortable window. After this, the wind off the lake starts making your decisions for you — where you eat, how far you walk, whether you go outside at all.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## TUE 6 OCT · 12:00 · CAROUSEL 5 cards — Cities that are better in October
+
+| Card | Picture | Text on card |
+|---|---|---|
+| 1 | navy card | **FIVE CITIES THAT ARE BETTER NOW**<br>Than they were in July. |
+| 2 | BOS_FAL hero | **BOSTON**<br>Crisp, walkable, and the color peaks this month. |
+| 3 | CHI_FAL hero | **CHICAGO**<br>Cool and clear. The lakefront is at its best. |
+| 4 | NYC_FAL hero | **NEW YORK**<br>Cool and bright, with Central Park turning. |
+| 5 | brand card | **We check Richmond fares every morning.**<br>rvacheapflights.com/deals |
+
+**HEADLINE:** BETTER IN OCTOBER THAN IN JULY
+
+**CAPTION (Facebook)**
+```
+Some places are summer places. These are not.
+
+Boston is at its best in the fall — crisp, walkable, and New England color peaks in October. Chicago is cool and clear, and the lakefront is at its best. New York is cool and bright, with Central Park turning color.
+
+All three are miserable in August and unrecognizable in January. This is the month.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## WED 7 OCT · 19:00 · QUESTION POST — The one you always fly past
+RIC departure board at dusk, navy and orange. No fares anywhere.
+
+**HEADLINE:** WHERE DO YOU<br>ALWAYS CONNECT?
+
+**CAPTION (Facebook)**
+```
+There is a city you have been to eleven times and never left the airport.
+
+Charlotte. Atlanta. Philadelphia. Somewhere you have walked two miles of concourse in and know exactly where the good coffee is, and have never once seen outside.
+
+Which one is yours — and would you actually stop there for a weekend?
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## THU 8 OCT · 12:30 · REEL 20s — What "checked" actually means
+**No fares.** No price, no dates.
+★ **Protect the method.** Says fares are checked and graded. Never says how.
+**VOICE:** English_MaturePartner @1.0. Length measured at 2.89 w/s.
+
+| Time | Picture | On screen | SAY |
+|---|---|---|---|
+| 0–4s | RIC departures board | EVERY MORNING | "Every morning, Richmond fares get checked." |
+| 4–11s | Navy card, orange rule | MOST OF THEM DO NOT MAKE IT | "Most of them do not make it through. A low number on its own is not a deal." |
+| 11–16s | Navy card | ONLY WHAT IS WORTH YOUR TIME | "What comes out the other side is graded to ensure top value, and nothing else gets sent." |
+| 16–20s | Brand card | rvacheapflights.com/deals | "That is the whole service." |
+
+**CAPTION (Facebook)**
+```
+Every morning, Richmond fares get checked. Most of them do not make it through.
+
+A low number on its own is not a deal. It might be a bad route, a punishing layover, or a fare that has been sitting at that price for six months.
+
+What comes out the other side is graded to ensure top value. Nothing else gets sent.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## FRI 9 OCT · 08:00 · STORY POLL — THE CARRY-ON *(Instagram only)*
+
+- **Question:** Four days away. Carry-on only, or check the bag?
+- **A:** Carry-on only · **B:** Check it
+- **Background: not built yet.** Title **THE CARRY-ON**, line **Four days. One bag?**
+
+---
+
+## FRI 9 OCT · 17:30 · LOCAL IDENTITY — The terminal you can see the whole of
+RIC main concourse, navy evening light through the glass, orange interior glow.
+
+**HEADLINE:** YOU CAN SEE<br>THE WHOLE THING
+
+**CAPTION (Facebook)**
+```
+Stand in the middle of RIC and you can see both ends of it.
+
+That sounds like a small airport being damned with faint praise. It is not. It means you know where your gate is the moment you clear security, and you have never once run through a terminal here.
+
+People who fly out of the big ones forget that is even possible.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## SAT 10 OCT · 10:00 · ROUTE CHECK — Nashville in the fall
+★ Route Check holds the Saturday 10:00 slot (replaced the retired Proof / Receipt format, 3 Oct).
+No fare anywhere.
+
+**Picture:** BNA_FAL hero.
+**HEADLINE:** NASHVILLE<br>COOLS OFF
+
+**CAPTION (Facebook)**
+```
+Nashville cools off in the fall. Live music every night, and football fills the weekends.
+
+Which is the honest case for going now rather than in June, when the same streets are the same temperature as a parking lot and twice as crowded.
+
+You can do it in a weekend from Richmond without taking a day off.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## SUN 11 OCT · 19:00 · CAROUSEL 4 cards — What actually drives the price
+
+| Card | Picture | Text on card |
+|---|---|---|
+| 1 | navy card | **WHY THE SAME SEAT<br>COSTS TWO DIFFERENT THINGS** |
+| 2 | navy card | **WHEN YOU GO**<br>The week matters more than the month. |
+| 3 | navy card | **HOW LONG YOU STAY**<br>A Saturday night changes the number. |
+| 4 | brand card | **We check all of it every morning.**<br>rvacheapflights.com/deals |
+
+**HEADLINE:** WHY THE SAME SEAT COSTS TWO DIFFERENT THINGS
+
+**CAPTION (Facebook)**
+```
+Two people on the same plane, in the same row, paid very different amounts. Neither of them did anything clever.
+
+The week you pick matters more than the month. Whether you stay a Saturday night changes the number. How far out you booked matters, but nowhere near as much as people think.
+
+None of that is a trick you can learn once. It is just what has to be checked, every morning, per route.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## MON 12 OCT · 07:30 · STORY POLL — THE EARLY ONE *(Instagram only)*
+
+- **Question:** First flight out, or the one that gets you there after dark?
+- **A:** First flight · **B:** After dark
+- **Background: not built yet.** Title **THE EARLY ONE**, line **Dawn, or dinner time?**
+
+---
+
+## MON 12 OCT · 18:00 · REEL 30s — Destination review: Charleston
+**No fares.** No price, no dates, no route claims.
+★ 30s. DEST-HEROES ONLY + one brand card.
+**VOICE:** English_MaturePartner @1.0. Length measured at 2.89 w/s.
+
+| Time | Picture | On screen | SAY |
+|---|---|---|---|
+| 0–5s | CHS_FAL hero | CHARLESTON IN OCTOBER | "Charleston cools off in the fall." |
+| 5–14s | CHS_FAL second hero | THE HUMIDITY BREAKS | "The humidity breaks, the evenings stay warm, and it is the best walking weather of the year." |
+| 14–24s | CHS_FAL third hero | A CITY BUILT FOR WALKING | "Which matters more here than most places, because the whole point of Charleston is on foot." |
+| 24–30s | Brand card | rvacheapflights.com/deals | "We check Richmond fares every morning." |
+
+**CAPTION (Facebook)**
+```
+Charleston cools off in the fall. The humidity breaks, the evenings stay warm, and it is the best walking weather of the year.
+
+That matters more in Charleston than it would anywhere else, because the entire point of the place is on foot — the streets, the houses, the waterfront, none of which is any fun in August.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## TUE 13 OCT · 12:00 · CAROUSEL 5 cards — Warm places, after the crowds
+
+| Card | Picture | Text on card |
+|---|---|---|
+| 1 | navy card | **STILL WARM.<br>NO LONGER BUSY.** |
+| 2 | ARU_FAL hero | **ARUBA**<br>Below the hurricane belt. Dry, breezy, quieter. |
+| 3 | TCI_FAL hero | **TURKS AND CAICOS**<br>Near-empty beaches. Grace Bay has room. |
+| 4 | MBJ_FAL hero | **MONTEGO BAY**<br>Warm water, calm resorts, before the season starts. |
+| 5 | brand card | **We check Richmond fares every morning.**<br>rvacheapflights.com/deals |
+
+**HEADLINE:** STILL WARM, NO LONGER BUSY
+
+**CAPTION (Facebook)**
+```
+The window between hurricane season easing and high season starting is short, and almost nobody uses it.
+
+Aruba sits below the hurricane belt — fall there is dry, breezy and warm, and the beaches are quieter before winter. Turks and Caicos is calm, with near-empty beaches and room to spare on Grace Bay. Montego Bay is quiet, warm water and calm resorts, before the winter season starts.
+
+Same water. Same weather. Considerably fewer people.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## WED 14 OCT · 19:00 · QUESTION POST — The trip you have already decided on
+Navy card, orange rule, RIC gate window at night. No fares anywhere.
+
+**HEADLINE:** WHERE ARE YOU<br>GOING IN 2027?
+
+**CAPTION (Facebook)**
+```
+Not the trip you are researching. The one you have already decided on and have not booked.
+
+Everyone has one. It has a city, it has roughly a season, and it has been sitting there for long enough that you have stopped mentioning it out loud.
+
+Say it here and it becomes slightly more real. Where is it?
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## THU 15 OCT · 12:30 · REEL 20s — The fare that was never a deal
+**No fares.** No price, no dates.
+★ **Protect the method.** Never says how grading works.
+**VOICE:** English_MaturePartner @1.0. Length measured at 2.89 w/s.
+
+| Time | Picture | On screen | SAY |
+|---|---|---|---|
+| 0–4s | Navy card, low number implied not shown | A LOW NUMBER | "A low number is not automatically a deal." |
+| 4–11s | Navy card, orange rule | TWO STOPS · TWENTY-ONE HOURS | "Some of them are cheap because the route is punishing, and you pay for it in a different currency." |
+| 11–16s | RIC departures | THE ONES THAT SURVIVE | "The ones that survive are the ones worth your two days off." |
+| 16–20s | Brand card | rvacheapflights.com/deals | "Graded every morning, out of Richmond." |
+
+**CAPTION (Facebook)**
+```
+A low number is not automatically a deal.
+
+Some fares are cheap because the routing is punishing — two stops, an overnight in a terminal, and a day of your holiday spent arriving. You did not save money. You paid in a different currency.
+
+The ones that survive grading are the ones worth your days off.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## FRI 16 OCT · 08:00 · STORY POLL — THE LONG WEEKEND *(Instagram only)*
+
+- **Question:** Three days somewhere close, or one big trip a year?
+- **A:** Three days, often · **B:** One big trip
+- **Background: not built yet.** Title **THE LONG WEEKEND**, line **Often, or once?**
+
+---
+
+## FRI 16 OCT · 17:30 · LOCAL IDENTITY — Nobody connects through Richmond
+RIC exterior at dusk, navy sky, orange terminal glow.
+
+**HEADLINE:** NOBODY CONNECTS<br>THROUGH HERE
+
+**CAPTION (Facebook)**
+```
+Richmond is not a hub, and that is the best thing about it.
+
+Nobody is running through this terminal to make a tight connection. Nobody is stranded here because a bank of flights went down at once. The people in this building are going somewhere, or they are home.
+
+It is a different kind of airport and it makes for a different kind of morning.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## SAT 17 OCT · 10:00 · ROUTE CHECK — New York in the fall
+★ Route Check holds the Saturday 10:00 slot. No fare anywhere.
+
+**Picture:** NYC_FAL hero.
+**HEADLINE:** NEW YORK<br>IN OCTOBER
+
+**CAPTION (Facebook)**
+```
+New York is at its best in the fall. Cool and bright, with Central Park turning color.
+
+It is also the version of the city that is actually pleasant to walk, which is the only way anyone sees it properly. Summer New York is an endurance event. October New York is the one in the photographs.
+
+Close enough from Richmond to go for two nights and not feel like you wasted the travel.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## SUN 18 OCT · 19:00 · CAROUSEL 4 cards — The Thanksgiving window is closing
+
+| Card | Picture | Text on card |
+|---|---|---|
+| 1 | navy card | **THE THANKSGIVING WINDOW**<br>It closes this month. |
+| 2 | navy card | **BOOK BY MID-OCTOBER**<br>After that it moves one direction. |
+| 3 | navy card | **THE WEDNESDAY BEFORE**<br>Is the single worst day to fly. |
+| 4 | brand card | **We check Richmond fares every morning.**<br>rvacheapflights.com/deals |
+
+**HEADLINE:** THE THANKSGIVING WINDOW IS CLOSING
+
+**CAPTION (Facebook)**
+```
+If you are flying anywhere for Thanksgiving, this is the part of October where it stops getting cheaper.
+
+The Wednesday before is the worst day to fly, every year, without exception. Flying out Monday or Tuesday instead is usually the single biggest thing you can do to the price, and it costs you nothing but two days of the same week you were going to take off anyway.
+
+Christmas has its own window, and it closes at the end of this month.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
 ## Open — needs Glenn
 
 1. **The newsletter subscribe URL.** It appears in every destination review. Not inventing one — `rvacheapflights.com/deals` is the deals page, not a signup.

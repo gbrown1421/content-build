@@ -650,7 +650,7 @@ express yourself.
 
 **HEADLINE:** THE ALARM vs THE SNOOZE
 **IMAGE:** photoreal 4:5 split. Left: a phone on a nightstand at 6:00, alarm screen lit, a hand
-reaching for it in early grey light. Right: the same phone at 6:27, three dismissed alarms stacked
+reaching for it in early gray light. Right: the same phone at 6:27, three dismissed alarms stacked
 on the lock screen, the room brighter than it should be. Labels **THE ALARM** · **THE SNOOZE**.
 No faces.
 **POLL OPTIONS:** THE ALARM · THE SNOOZE
@@ -938,6 +938,235 @@ New episode every Sunday at five.
 
 ---
 
+## MON 5 OCT · 08:00 · STATIC — The charger that was never in the wall
+**Daily moment.** Real photographic person, phone in hand, looking at a charging cable whose plug
+end is sitting loose on the floor. Red band (Push Through It).
+
+**HEADLINE:** PLUGGED IN<br>TO NOTHING
+
+**CAPTION (Facebook)**
+```
+The cable was in the phone. The phone was on the nightstand. Everything looked right.
+
+The other end of the cable was on the floor, next to the wall, touching nothing.
+
+Eight hours of charging that did not happen, discovered at the exact moment you need to leave.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## WED 7 OCT · 12:00 · ASK THE FEED — THE FRIDGE vs THE INBOX
+**FB comment poll.** Photoreal A/B split card, orange divider (Laugh Through It energy).
+Real photographic objects, never illustrated.
+
+**Card:** left half — an open refrigerator with something unidentifiable at the back. Right half —
+a phone showing an inbox with a very large unread count. Letter **A** over the fridge, letter **B**
+over the inbox.
+
+**HEADLINE:** WHICH ONE HAS<br>BEEN LONGER?
+
+**Poll options:** `A — The fridge` · `B — The inbox`
+
+**CAPTION (Facebook)**
+```
+Be honest. Which one has been left longer?
+
+A — the thing at the back of the fridge.
+B — the unread count on your phone.
+
+Both of them are still going to be there tonight. We are not here to fix that.
+
+Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## FRI 9 OCT · 17:00 · REEL — Friday: the list you never wrote down
+**Reactive UGH.** Real photographic person. Blue band (Grow Through It). No SFX.
+
+| Time | Picture | On screen | SAY |
+|---|---|---|---|
+| 0–3s | Person stops mid-room, clearly trying to remember something | IT WAS SOMETHING. | "You walked in here for a reason." |
+| 3–9s | Same person, retracing steps, checking pockets | *nothing* | "It was important enough to get up for, and it is completely gone." |
+| 9–13s | Person shrugs, starts on something else | DO THE NEXT THING. | "It comes back later, usually at midnight. Until then, do the next thing." |
+| 13–16s | UGH lockup | UGH. WE SHOW UP. | "UGH happens. We still show up." |
+
+**CAPTION (Facebook)**
+```
+You walked into the room for a reason. It was important enough to stand up for. It is now completely gone.
+
+Retracing your steps does not work. Checking your pockets does not work. It comes back at midnight, unprompted, when you can do nothing about it.
+
+Until then you do the next thing, which is all any of us were ever doing.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SAT 10 OCT · 11:00 · STATIC — The one errand that became six
+**Daily moment.** Real photographic person in a car, holding a short handwritten list, surrounded by
+more bags than the list accounts for. Orange band (Laugh Through It).
+
+**HEADLINE:** ONE THING.<br>IT WAS ONE THING.
+
+**CAPTION (Facebook)**
+```
+You left the house for one thing. You have been gone two hours and the back seat disagrees with the list.
+
+Nobody planned the other five stops. They attached themselves on the way, each one entirely reasonable in isolation.
+
+The original thing is still not bought. It never is.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SUN 11 OCT · 09:00 · UGH TAILS EP 009 — POSTER
+★ **NOT READY — EP 009 DOES NOT EXIST.** Only `Downloads/UGH TAILS_Ep009 Build Plan.docx` is on
+disk. There is no `UGH-Tails-Ep009-THE-LEASH-NARRATED.mp4` and no poster plate; built episodes stop
+at EP 008. **Do not build or book this row** — set `assigned_to = 'glenn'` and hand it over.
+
+Copy is deliberately withheld rather than drafted: a poster announcing "five o'clock today" for an
+episode that will not land is precisely the promise this file forbids. **To clear this, EP 009 must
+be built and rendered by Fri 9 Oct** to hold the Sunday slot.
+
+**Held for release once the episode exists:** title THE LEASH, tagline
+*"The walk had not started. The knot had."*
+
+---
+
+## SUN 11 OCT · 12:00 · UGH TAILS EP 009 — EPISODE ANNOUNCEMENT
+★ **NOT READY — depends on EP 009.** See 09:00 above. Do not build or book.
+
+---
+
+## SUN 11 OCT · 17:00 · UGH TAILS EP 009 — REEL
+★ **NOT READY — depends on EP 009.** See 09:00 above. Do not build or book.
+When it is built, the end card names EP 010 = THE STICK, *"Tank found the perfect stick. It had
+infrastructure."*
+
+---
+
+## MON 12 OCT · 08:00 · STATIC — The umbrella that stayed in the hall
+**Daily moment.** Real photographic person standing in a doorway in visible rain, looking back
+inside at an umbrella leaning against the wall. Red band (Push Through It).
+
+**HEADLINE:** IT IS RIGHT<br>THERE. INSIDE.
+
+**CAPTION (Facebook)**
+```
+You checked the forecast. You put the umbrella by the door specifically so this would not happen.
+
+You are now forty feet from the door, in the rain, doing the math on whether going back is worse than carrying on.
+
+It is never worse. You carry on anyway. Everyone does.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## WED 14 OCT · 12:00 · ASK THE FEED — THE DRAWER vs THE CLOSET
+**FB comment poll.** Photoreal A/B split card, orange divider. Real photographic objects.
+
+**Card:** left half — a kitchen drawer of loose cables, batteries and unidentified keys. Right half —
+a closet floor of shoes and bags nobody has opened this year. Letter **A** over the drawer, letter
+**B** over the closet.
+
+**HEADLINE:** WHICH ONE ARE YOU<br>NOT OPENING TODAY?
+
+**Poll options:** `A — The drawer` · `B — The closet`
+
+**CAPTION (Facebook)**
+```
+Every house has both. Which one are you not opening today?
+
+A — the drawer. Cables for devices you no longer own, and three keys nobody can identify.
+B — the closet floor. You know what is down there. You have decided it can wait.
+
+The correct answer is both. We are just curious which one you admitted to first.
+
+Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## FRI 16 OCT · 17:00 · REEL — Friday: the week you did not lose
+**Reactive UGH.** Real photographic person. Purple band (Express Yourself). No SFX.
+
+| Time | Picture | On screen | SAY |
+|---|---|---|---|
+| 0–3s | Person at the end of a long week, looking at an untouched list | NONE OF IT GOT DONE. | "Look at the list. Almost none of it is crossed off." |
+| 3–9s | Same person, glancing at what did get handled — a fixed thing, a fed family | *nothing* | "But the week happened anyway. Things got handled that were never on the list at all." |
+| 9–13s | Person puts the list down, does not rewrite it | THE LIST IS NOT THE WEEK. | "The list is not the week. It never was." |
+| 13–16s | UGH lockup | UGH. WE SHOW UP. | "UGH happens. We still show up." |
+
+**CAPTION (Facebook)**
+```
+Look at the list you wrote on Monday. Almost none of it is crossed off.
+
+Now look at what actually happened this week. The thing that broke got dealt with. People got fed. Somebody needed you at an inconvenient hour and you went.
+
+None of that was on the list, which says more about the list than it does about the week.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SAT 17 OCT · 11:00 · STATIC — The nap that took the afternoon
+**Daily moment.** Real photographic person waking on a sofa into unmistakably evening light, phone
+face-up showing a time later than expected. Blue band (Grow Through It).
+
+**HEADLINE:** IT WAS TWO.<br>IT IS NOW DARK.
+
+**CAPTION (Facebook)**
+```
+You sat down at two o'clock for a minute. It is dark, and you have the specific headache that only comes from sleeping through an afternoon you had plans for.
+
+Nothing on today's list is happening now. The day is functionally over and you are somehow still tired.
+
+Your body took what it needed without consulting you. That is usually a sign it had been asking nicely for a while.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SUN 18 OCT · 09:00 · UGH TAILS EP 010 — POSTER
+★ **NOT READY — EP 010 DOES NOT EXIST.** Only `Downloads/UGH TAILS_Ep010 Build Plan.docx` is on
+disk. **Do not build or book this row** — set `assigned_to = 'glenn'` and hand it over.
+**To clear this, EP 010 must be built and rendered by Fri 16 Oct.**
+
+**Held for release once the episode exists:** title THE STICK, tagline
+*"Tank found the perfect stick. It had infrastructure."*
+
+---
+
+## SUN 18 OCT · 12:00 · UGH TAILS EP 010 — EPISODE ANNOUNCEMENT
+★ **NOT READY — depends on EP 010.** See 09:00 above. Do not build or book.
+
+---
+
+## SUN 18 OCT · 17:00 · UGH TAILS EP 010 — REEL
+★ **NOT READY — depends on EP 010.** See 09:00 above. Do not build or book.
+When it is built, the end card names EP 011 = THE HICCUPS, *"Pip had a point to make. His diaphragm
+had notes."*
+
+---
+
 ## Open — needs Glenn
 
 1. **OpenAI key for `fable`** — the only thing between Meet Pip and Friday 08:00.
@@ -947,3 +1176,11 @@ New episode every Sunday at five.
    none is in `ugh_moment_pool`. They are harmless where they sit but they're a trap for anything
    that looks copy up by date and time. **Say the word and I delete the section** — I have not,
    because deleting a week of written copy isn't mine to do on my own.
+
+4. ★ **EP 009 AND EP 010 DO NOT EXIST, AND THEY HOLD SIX SLOTS.** Only
+   `Downloads/UGH TAILS_Ep009 Build Plan.docx` and `..._Ep010 Build Plan.docx` are on disk.
+   Rendered episodes stop at EP 008. All six rows — Sun 11 Oct and Sun 18 Oct, 09:00 / 12:00 /
+   17:00 — are written **NOT READY**, set `assigned_to = 'glenn'`, and carry no copy, because a
+   poster saying "five o'clock today" for an episode that will not land is the promise this file
+   forbids. **EP 009 must be rendered by Fri 9 Oct and EP 010 by Fri 16 Oct** to hold those
+   Sundays. Release the held titles then: EP 009 = THE LEASH, EP 010 = THE STICK.

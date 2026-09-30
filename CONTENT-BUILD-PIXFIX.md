@@ -42,7 +42,7 @@ missing either one.
 
 **Assets:** Pip Whittaker canon, already in the library — `media_assets`, project `pixfix`,
 `mood_tags` contains `pip-whittaker`. **No generation.** One asset per slide, as listed.
-Brand styling per the PixFix site: light-grey canvas, charcoal text bar, thin steel-blue tile
+Brand styling per the PixFix site: light-gray canvas, charcoal text bar, thin steel-blue tile
 border, gold accent. No UGH overlay, no IguanaLover, no pathway color.
 
 | Slide | Asset | Text on slide |
@@ -94,7 +94,7 @@ are built by hand first, or the driver stops sending PixFix entries down the UGH
 will be auto-rendered as an UGH Moment at 06:00 ET on its day and published on PixFix.
 
 **None of these may carry the UGH overlay, the IguanaLover face, a pathway color, or "ugh. we
-show up."** PixFix styling only: light-grey canvas, charcoal name bar, thin steel-blue tile
+show up."** PixFix styling only: light-gray canvas, charcoal name bar, thin steel-blue tile
 border, gold accent, the PixFix logo.
 
 ---
@@ -233,7 +233,7 @@ pixfixstudio.com/order.html — link in bio.
 
 ## WED 16 SEP · 12:00 · CAROUSEL 5 slides · How to pick a reference image
 
-**Assets:** library masters, no generation. PixFix styling: light-grey canvas, charcoal text
+**Assets:** library masters, no generation. PixFix styling: light-gray canvas, charcoal text
 bar, thin steel-blue tile border, gold accent. No UGH overlay, no IguanaLover, no pathway color.
 
 | Slide | Asset | Text on slide |
@@ -419,7 +419,7 @@ whole point of the post is that these are the real delivered files.
 ★ **Format note:** there is no `REEL · Turnaround (PixFix)` section in `CONTENT-FORMATS.md` — this
 is the first PixFix reel. Built to the shape below; see *Open — needs Glenn* item 3.
 
-**Shape:** 1080×1920 (9:16). PixFix styling only — light-grey canvas, charcoal text bar, thin
+**Shape:** 1080×1920 (9:16). PixFix styling only — light-gray canvas, charcoal text bar, thin
 steel-blue tile border, gold accent. **No UGH font, no IguanaLover, no pathway color, no
 "ugh. we show up."**
 
@@ -569,14 +569,19 @@ Order: https://pixfixstudio.com/order.html
 ---
 
 ## WED 30 SEP · 18:00 · REEL · The turnaround, angle by angle
-**PixFix styling.** Library assets only, no generation. Studio-craftsman voice.
+**PixFix styling.** Library assets only, no generation.
+★ **NO VOICEOVER — corrected 2026-09-29.** This entry previously carried a SAY column with four
+spoken lines, which contradicted "Open — needs Glenn" item 3: PixFix has no narrator voice and one
+has not been chosen. A maker filling that column picks a voice by default, and PixFix ends up
+sounding like RVA. The SAY column is removed; the spoken lines are folded into the on-screen text
+and the caption, which lose nothing. **Text on screen plus a music bed. Do not assign a narrator.**
 
-| Time | Picture | On screen | SAY |
-|---|---|---|---|
-| 0–3s | Character front view on white | FRONT | "Front." |
-| 3–8s | Profiles, then three-quarters | PROFILES · THREE-QUARTERS | "Both profiles. Both three-quarters. Matched, not mirrored." |
-| 8–13s | Rear, then both rear three-quarters | THE BACK | "The back, and both rear three-quarters. The ones that usually get skipped." |
-| 13–17s | Full plate, then brand card | From $129 · pixfixstudio.com | "Eight angles, nine files, no watermark. From a hundred and twenty-nine dollars." |
+| Time | Picture | On screen |
+|---|---|---|
+| 0–3s | Character front view on white | FRONT |
+| 3–8s | Profiles, then three-quarters | BOTH PROFILES · BOTH THREE-QUARTERS<br>Matched, not mirrored. |
+| 8–13s | Rear, then both rear three-quarters | THE BACK<br>And the two nobody orders. |
+| 13–17s | Full plate, then brand card | EIGHT ANGLES · NINE FILES · NO WATERMARK<br>From $129 · pixfixstudio.com |
 
 **CAPTION (Facebook)**
 ```
@@ -715,6 +720,308 @@ That sounds like a small thing until you have tried to drop a character onto a p
 You paid for the character. You get the character.
 
 From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## MON 5 OCT · 12:00 · CAROUSEL 5 slides · What "eight angles" actually means
+
+| Slide | Picture | Text on slide |
+|---|---|---|
+| 1 | Character front view on white | **EIGHT ANGLES.**<br>Here is all of them. |
+| 2 | Front + both profiles | **FRONT. LEFT. RIGHT.**<br>The three everyone asks for. |
+| 3 | Both three-quarters | **THE TWO THREE-QUARTERS.**<br>Matched, not mirrored. |
+| 4 | Rear + both rear three-quarters | **AND THE THREE FROM BEHIND.**<br>The ones that get skipped. |
+| 5 | Brand card | **Nine files. No watermark.**<br>From $129 · pixfixstudio.com |
+
+**HEADLINE:** EIGHT ANGLES, AND WHAT EACH ONE IS FOR
+
+**CAPTION (Facebook)**
+```
+Eight angles sounds like a number until you need the one you do not have.
+
+Front, both profiles, both three-quarters, the rear and both rear three-quarters. The last three are the ones most sets skip, and they are the ones you reach for the moment your character has to turn around.
+
+Mirrored is not matched. A flipped profile puts the part in their hair on the wrong side and the scar on the wrong cheek.
+
+Nine files, no watermark. From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## TUE 6 OCT · 17:00 · STATIC · The file you did not know you needed
+**PixFix styling.** Library assets only, no generation. Single rear three-quarter plate on white.
+
+**HEADLINE:** THE ANGLE<br>NOBODY ORDERS
+
+**CAPTION (Facebook)**
+```
+Nobody opens with "I need the rear three-quarter." They ask for the front, the profile, maybe a three-quarter.
+
+Then the scene needs the character walking away, or turning, or looking back over one shoulder — and the set they paid for cannot do it.
+
+That is why it is in every turnaround here rather than an upsell.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## WED 7 OCT · 18:00 · REEL · Mirrored is not matched
+**PixFix styling.** Library assets only, no generation.
+★ **NO VOICEOVER.** Text on screen plus a music bed — PixFix has no narrator voice and one has not
+been chosen. Do not assign one. See "Open — needs Glenn" item 3. There is no SAY column here on
+purpose.
+
+| Time | Picture | On screen |
+|---|---|---|
+| 0–3s | Left profile on white | LEFT PROFILE |
+| 3–7s | The same plate flipped horizontally, labeled | FLIPPED. NOT THE SAME. |
+| 7–12s | The real right profile beside the flipped one, differences ringed | THE PART. THE SCAR. THE POCKET. |
+| 12–16s | Full eight-plate set, then brand card | EIGHT REAL ANGLES · From $129 · pixfixstudio.com |
+
+**CAPTION (Facebook)**
+```
+A flipped profile is not the other profile.
+
+Flip it and the part in their hair crosses over. The scar changes cheek. The pocket, the buttons, the strap across the shoulder — all of it swaps sides, and a reader who has seen the character twice will feel it before they can name it.
+
+Both profiles get drawn here. So do both three-quarters, and both rear three-quarters.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## THU 8 OCT · 12:00 · CAROUSEL 5 slides · What you actually get in the folder
+
+| Slide | Picture | Text on slide |
+|---|---|---|
+| 1 | Folder of nine files on white | **NINE FILES.**<br>Here is each one. |
+| 2 | The eight angle plates as a grid | **EIGHT ANGLE PLATES.**<br>Full resolution. Transparent background. |
+| 3 | The contact sheet | **ONE CONTACT SHEET.**<br>All eight on a page, for reference. |
+| 4 | Close crop showing clean edge | **NO WATERMARK. NO CROP MARKS.**<br>Delivered ready to use. |
+| 5 | Brand card | **Yours to use however you like.**<br>From $129 · pixfixstudio.com |
+
+**HEADLINE:** WHAT IS ACTUALLY IN THE FOLDER
+
+**CAPTION (Facebook)**
+```
+Nine files. Eight angle plates at full resolution on transparent backgrounds, plus one contact sheet with all eight on a single page so you can find the one you need without opening eight files.
+
+No watermark. No crop marks. No "preview" version you have to pay again to unlock.
+
+You own what comes back and you can use it however you want.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## FRI 9 OCT · 17:00 · STATIC · Turnaround of the week — the three-quarters
+**PixFix styling.** Library assets only. Both three-quarter plates side by side on white.
+
+**HEADLINE:** BOTH THREE-QUARTERS.<br>DRAWN TWICE.
+
+**CAPTION (Facebook)**
+```
+These two took the longest, and they are the pair most likely to be faked elsewhere.
+
+A three-quarter view hides half the face and shows half the body, so every asymmetry in the design has to be decided rather than guessed. Drawn separately, both of them, on purpose.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## SAT 10 OCT · 12:00 · COMMENT POLL · Which angle breaks your character first?
+**FB comment poll.** PixFix styling, A/B split card on white, studio-neutral divider.
+
+**Card:** left half — a rear three-quarter plate. Right half — a straight profile plate.
+Letter **A** over the rear three-quarter, letter **B** over the profile.
+
+**Poll options:** `A — Rear three-quarter` · `B — Profile`
+
+**CAPTION (Facebook)**
+```
+If a character is going to fall apart across a set, it usually happens on one of these two.
+
+A — the rear three-quarter. Nothing to anchor to and every proportion on display.
+B — the straight profile. One wrong nose and it is somebody else entirely.
+
+Which one gives you more trouble? Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## SUN 11 OCT · 17:00 · STATIC · Turnaround of the week — the rear
+**PixFix styling.** Library assets only. Single rear plate on white.
+
+**HEADLINE:** THE BACK<br>IS A DESIGN
+
+**CAPTION (Facebook)**
+```
+The back of a character is not the front with the face removed.
+
+It is where the hair actually sits, where the seams run, what the bag does to the shoulder line. Get it wrong and every shot of them walking away looks borrowed from someone else.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## MON 12 OCT · 12:00 · CAROUSEL 5 slides · Why one good picture is not a character
+
+| Slide | Picture | Text on slide |
+|---|---|---|
+| 1 | One striking front-view portrait | **ONE GREAT PICTURE.**<br>This is where most people stop. |
+| 2 | The same character, second angle, subtly different | **THE SECOND PICTURE IS THE TEST.** |
+| 3 | Side-by-side with drift ringed | **DRIFT.**<br>Jaw, collar, hairline. |
+| 4 | The matched eight-plate set | **A SET IS DECIDED ONCE.**<br>Then it holds. |
+| 5 | Brand card | **Eight angles. Nine files.**<br>From $129 · pixfixstudio.com |
+
+**HEADLINE:** ONE PICTURE IS NOT A CHARACTER
+
+**CAPTION (Facebook)**
+```
+One good picture is not a character. It is a portrait.
+
+The test is the second picture. Generate a character twice and the jaw moves, the collar changes shape, the hairline creeps. Each image looks fine alone and wrong beside the last one.
+
+A turnaround settles every one of those decisions once, so the eighth picture still looks like the first.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## TUE 13 OCT · 17:00 · STATIC · Transparent backgrounds, and why they matter
+**PixFix styling.** Library assets only. One plate shown over two different backgrounds.
+
+**HEADLINE:** NO BACKGROUND.<br>ON PURPOSE.
+
+**CAPTION (Facebook)**
+```
+Every plate comes back on a transparent background.
+
+That is not a technicality. It means the same character drops onto a page, a cover, a title card or a storefront without you cutting anything out, and without a white box appearing around them at the worst possible moment.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## WED 14 OCT · 18:00 · REEL · The eighth picture
+**PixFix styling.** Library assets only, no generation.
+★ **NO VOICEOVER.** Text on screen plus a music bed. Do not assign a narrator. See item 3 below.
+
+| Time | Picture | On screen |
+|---|---|---|
+| 0–3s | Plate 1, front view | PICTURE ONE |
+| 3–7s | Plates 2 through 7 in quick succession | TWO. THREE. FOUR. FIVE. SIX. SEVEN. |
+| 7–12s | Plate 8 held beside plate 1 | STILL THE SAME CHARACTER. |
+| 12–16s | Full set, then brand card | THAT IS THE WHOLE JOB · From $129 · pixfixstudio.com |
+
+**CAPTION (Facebook)**
+```
+The first picture is easy. Anyone can get the first picture.
+
+The eighth one, still recognizably the same person, with the same jaw and the same collar and the same weight in the shoulders — that is the job.
+
+Eight angles, nine files, no watermark.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## THU 15 OCT · 12:00 · CAROUSEL 5 slides · How an order actually runs
+
+| Slide | Picture | Text on slide |
+|---|---|---|
+| 1 | Order page on a screen | **1 · YOU SEND WHAT YOU HAVE.**<br>Reference images, or a description. |
+| 2 | Intake scan panel | **2 · WE CHECK IT FIRST.**<br>Before you pay anything. |
+| 3 | Work in progress plates | **3 · THE SET GETS DRAWN.**<br>Eight angles, decided together. |
+| 4 | Folder of nine files | **4 · NINE FILES COME BACK.**<br>No watermark. |
+| 5 | Brand card | **From $129.**<br>pixfixstudio.com |
+
+**HEADLINE:** HOW AN ORDER ACTUALLY RUNS
+
+**CAPTION (Facebook)**
+```
+Four steps, and the second one is the one people do not expect.
+
+You send what you have. We check the reference before you pay, because a set built from images that were never going to work is nobody's idea of a good outcome. Then the eight angles get drawn as one set of decisions. Then nine files come back.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## FRI 16 OCT · 17:00 · STATIC · Turnaround of the week — the front
+**PixFix styling.** Library assets only. Single front plate on white.
+
+**HEADLINE:** THE ONE<br>EVERYTHING ELSE ANSWERS TO
+
+**CAPTION (Facebook)**
+```
+The front view is the reference every other angle gets checked against.
+
+Height, proportion, where the eyeline sits, how the clothing hangs. Settle it here and the other seven have something to be wrong against. Skip it and nothing in the set has an argument.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## SAT 17 OCT · 12:00 · COMMENT POLL · What are you building?
+**FB comment poll.** PixFix styling, A/B split card on white.
+
+**Card:** left half — a stack of pages suggesting a book or serial. Right half — a screen suggesting
+a game or visual novel. Letter **A** over the pages, letter **B** over the screen.
+
+**Poll options:** `A — Something written` · `B — Something played`
+
+**CAPTION (Facebook)**
+```
+Genuinely curious who is out there.
+
+A — something written. A serial, a novel, a comic, where the same character has to show up across chapters.
+B — something played. A game, a visual novel, where the same character has to show up on screen from whatever angle the scene needs.
+
+Both end up needing the same thing. Comment A or B, and tell us what it is.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## SUN 18 OCT · 17:00 · STATIC · Turnaround of the week — the full set
+**PixFix styling.** Library assets only. All eight plates as one contact sheet.
+
+**HEADLINE:** ALL EIGHT.<br>ONE CHARACTER.
+
+**CAPTION (Facebook)**
+```
+This is what the whole thing looks like on one page.
+
+Eight angles that agree with each other, which is the only reason any of them are worth having. Plus the contact sheet itself, so the next person who needs to draw this character has something to work from.
+
+Nine files. No watermark. From $129.
+
+Order: https://pixfixstudio.com/order.html
 ```
 **IG last line:** `pixfixstudio.com/order.html — link in bio.`
 
