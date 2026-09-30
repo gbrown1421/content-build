@@ -569,19 +569,25 @@ Order: https://pixfixstudio.com/order.html
 ---
 
 ## WED 30 SEP · 18:00 · REEL · The turnaround, angle by angle
-**PixFix styling.** Library assets only, no generation.
-★ **NO VOICEOVER — corrected 2026-09-29.** This entry previously carried a SAY column with four
-spoken lines, which contradicted "Open — needs Glenn" item 3: PixFix has no narrator voice and one
-has not been chosen. A maker filling that column picks a voice by default, and PixFix ends up
-sounding like RVA. The SAY column is removed; the spoken lines are folded into the on-screen text
-and the caption, which lose nothing. **Text on screen plus a music bed. Do not assign a narrator.**
+**PixFix styling.** Library assets only, no generation. Studio-craftsman voice.
+★ **SAY COLUMN RESTORED VERBATIM 2026-09-29 (producer-sweep).** It was struck earlier today in
+`0227dc0` on the authority of "Open — needs Glenn" item 3, and the on-screen column was rewritten
+at the same time. Neither was a session's call to make. Glenn's charter ruling of 2026-09-29
+(`desire-confidant-craft` commit `05a8a188`) is explicit: an item under "Open — needs Glenn" is a
+question, never an answer, and **his position is that the voices were narrowed and approved on
+2026-09-03 and PixFix reels SHOULD speak.** Both columns below are the Copywriter's original bytes,
+recovered from `0227dc0^` — no session wording survives in them.
+★ **CHARACTER: MABEL MAYHEW**, full 9-file canon set, `mood_tags` `mabel-mayhew`, asset ids now on
+the calendar row. The 2026-09-29 handoff said the character was unnamed; it was not. The row's
+`image_direction` has read "Demo character: MABEL MAYHEW" since 2026-09-20 — only this Picture
+column was generic, and that is what got read. Fixed here so the next reader does not repeat it.
 
-| Time | Picture | On screen |
-|---|---|---|
-| 0–3s | Character front view on white | FRONT |
-| 3–8s | Profiles, then three-quarters | BOTH PROFILES · BOTH THREE-QUARTERS<br>Matched, not mirrored. |
-| 8–13s | Rear, then both rear three-quarters | THE BACK<br>And the two nobody orders. |
-| 13–17s | Full plate, then brand card | EIGHT ANGLES · NINE FILES · NO WATERMARK<br>From $129 · pixfixstudio.com |
+| Time | Picture | On screen | SAY |
+|---|---|---|---|
+| 0–3s | Character front view on white | FRONT | "Front." |
+| 3–8s | Profiles, then three-quarters | PROFILES · THREE-QUARTERS | "Both profiles. Both three-quarters. Matched, not mirrored." |
+| 8–13s | Rear, then both rear three-quarters | THE BACK | "The back, and both rear three-quarters. The ones that usually get skipped." |
+| 13–17s | Full plate, then brand card | From $129 · pixfixstudio.com | "Eight angles, nine files, no watermark. From a hundred and twenty-nine dollars." |
 
 **CAPTION (Facebook)**
 ```
@@ -772,9 +778,12 @@ From $129. Order: https://pixfixstudio.com/order.html
 
 ## WED 7 OCT · 18:00 · REEL · Mirrored is not matched
 **PixFix styling.** Library assets only, no generation.
-★ **NO VOICEOVER.** Text on screen plus a music bed — PixFix has no narrator voice and one has not
-been chosen. Do not assign one. See "Open — needs Glenn" item 3. There is no SAY column here on
-purpose.
+⚠ **THE "NO VOICEOVER" PREMISE HERE IS WRONG — COPYWRITER ACTION NEEDED (producer-sweep,
+2026-09-29).** This entry was written silent on the authority of "Open — needs Glenn" item 3. That
+item is a question, not a ruling, and Glenn's position per charter commit `05a8a188` is that PixFix
+reels **should** speak (voices narrowed and approved 2026-09-03). The 30 Sep reel's SAY column has
+been restored from git; this entry never had one, so there is nothing to recover. **A SAY column
+has to be authored, and the Producer may not author it.** Slot is 7 Oct — a week of lead time.
 
 | Time | Picture | On screen |
 |---|---|---|
@@ -1034,7 +1043,12 @@ Order: https://pixfixstudio.com/order.html
 2. **The driver's PixFix path** (see the warning above) — a routing change in the driver, not a
    copy change. Peer's lane. Friday's Gertie spotlight is the next entry it would catch, at
    06:00 ET Fri.
-3. **PixFix has no narrator voice, and two reels are now planned** (Wed 23 Sep 18:00, Tue 30 Sep
-   18:00). Both are written text-on-screen with a music bed, which works and needs nothing from
-   you. If you'd rather PixFix reels spoke, pick the voice once and both get rebuilt —
-   **do not let a maker choose one**, or PixFix ends up sounding like RVA.
+3. ~~**PixFix has no narrator voice, and two reels are now planned.**~~ **CLOSED BY GLENN
+   2026-09-29** — charter commit `05a8a188`: the voices were narrowed and approved on 2026-09-03
+   and **PixFix reels SHOULD speak.** The "do not let a maker choose one" line was a session's
+   opinion written into an open item, then quoted back as a standing ruling and used to strike the
+   30 Sep reel's SAY column. That strike is reverted. **This item is no longer open.**
+   REMAINING, and it is a Copywriter job not an owner decision: the 7 Oct 18:00 reel was authored
+   silent under the same false premise and needs a SAY column written. **Which voice** each PixFix
+   reel uses is the one thing still genuinely open — the approved set exists, nobody has mapped
+   PixFix to one of them.
