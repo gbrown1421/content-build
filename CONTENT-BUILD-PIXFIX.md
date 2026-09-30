@@ -932,7 +932,13 @@ From $129. Order: https://pixfixstudio.com/order.html
 
 ## WED 14 OCT · 18:00 · REEL · The eighth picture
 **PixFix styling.** Library assets only, no generation.
-★ **NO VOICEOVER.** Text on screen plus a music bed. Do not assign a narrator. See item 3 below.
+⚠ **THE "NO VOICEOVER" PREMISE HERE IS WRONG — COPYWRITER ACTION NEEDED (implementation-review,
+2026-09-30).** This entry was written silent citing "item 3 below". That item is now **CLOSED BY
+GLENN 2026-09-29** (charter commit `05a8a188`): PixFix reels **should** speak, voices narrowed and
+approved 2026-09-03. The 30 Sep reel's SAY column was restored from git in `02138a3` and the 7 Oct
+reel was flagged at the same time; this entry was missed. It never had a SAY column, so there is
+nothing to recover — **one has to be authored, and the Producer may not author it.** Slot is
+14 Oct, so there is lead time.
 
 | Time | Picture | On screen |
 |---|---|---|
