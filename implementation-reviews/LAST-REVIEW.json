@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-09-30T21:10:06Z",
-  "reportFile": "2026-09-30-1710.md",
-  "note": "5pm run. Window 17:10Z-2026-09-30T21:10:06Z. 0 claims: no Glenn turns, no Process Alerts, no commits beyond the 1pm review's own. Contradiction: pixfix/build-turnaround-reel.mjs header still says NO VOICEOVER, EVER after Glenn's 9/29 revert; handover drafted by sweep c9442f19, needs Glenn's voice pick."
+  "lastReview": "2026-10-01T01:11:55Z",
+  "reportFile": "2026-09-30-2110.md",
+  "note": "9pm run. Window 2026-09-30T21:10:06Z-2026-10-01T01:11:55Z. 0 claims: no Glenn turns, no Process Alerts, no commits beyond the 5pm review's own. Two standing contradictions: (1) pixfix/build-turnaround-reel.mjs header still says NO VOICEOVER, EVER, needs Glenn's voice pick; 18:00 PixFix reel misfired. (2) producer-sweep/SKILL.md lines 20 and 36 still tell the sweep to build reels, against the charter."
 }
