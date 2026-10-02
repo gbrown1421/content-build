@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-02T01:09:18Z",
-  "reportFile": "2026-10-01-2109.md",
-  "note": "9pm run. Window 2026-10-01T21:10:43Z-2026-10-02T01:09:18Z. 0 claims: no Glenn turns, no Process Alerts, no commits or rule-file edits; two producer-sweeps (0 misfires) and one read-only charter review. The 1pm run's two FAILs (hand-back rows not written to the calendar; Builder to-do depends on peer calling query_database) had no activity and stand as reported in 2026-10-01-1310.md."
+  "lastReview": "2026-10-02T17:12:30Z",
+  "reportFile": "2026-10-02-1309.md",
+  "note": "1pm run. Window 2026-10-02T01:09:18Z-2026-10-02T17:12:30Z. 1 PASS / 1 FAIL, both unflagged, no Process Alerts. FAIL: Custom Size Charts is pushed (7f39ff5a) and published but the signed-in render/approve/download path has never run on the deployed app. PASS: Studio DB via Lovable, already in charter. Open thread (Cragger restyle) captured to memory as OPEN. The two 1 Oct FAILs (hand-back rows unwritten; Builder cannot read the calendar) stand."
 }
