@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-02T17:12:30Z",
-  "reportFile": "2026-10-02-1309.md",
-  "note": "1pm run. Window 2026-10-02T01:09:18Z-2026-10-02T17:12:30Z. 1 PASS / 1 FAIL, both unflagged, no Process Alerts. FAIL: Custom Size Charts is pushed (7f39ff5a) and published but the signed-in render/approve/download path has never run on the deployed app. PASS: Studio DB via Lovable, already in charter. Open thread (Cragger restyle) captured to memory as OPEN. The two 1 Oct FAILs (hand-back rows unwritten; Builder cannot read the calendar) stand."
+  "lastReview": "2026-10-02T21:09:30Z",
+  "reportFile": "2026-10-02-1709.md",
+  "note": "5pm run. Window 2026-10-02T17:12:30Z-2026-10-02T21:09:30Z. 0 PASS / 2 FAIL, both unflagged, no Process Alerts. FAIL 1: Cragger style change to rendered is ruled and in memory but nothing is in the Studio; renders blocked on OpenAI Platform API credits (gpt_image_2_429). FAIL 2: migration route (Bobby+Eli under UGH Adventures, four Craggers under temporary Kragger family, purge, rename back) was unwritten; this run added it to memory cragger-style-change-rendered. Purge vs rename-to-legacy is unruled; no peer spec. Deleted superseded memory cragger-restyle-open-question. Carried: size-chart signed-in path, builder hand-backs, builder calendar read."
 }
