@@ -32,16 +32,38 @@ That was one of the two features Glenn highlighted to Ivan and it transfers at z
 The UI, the tap-off interaction, the double-tap "my pick" marking, the tips page and the whole
 layout port unchanged.
 
-## ★ What does NOT port — the blocker
+## ★ CORRECTED 2026-10-03 — the data source, and it is NOT the long pole
 
-**The tier data is hardcoded in `index.html` and there is no pipeline behind it.** The NFL board
-tiers off *"7,681 real drafts from the last seven days."* A filesystem search for a harvester
-(`7681`, `adp`, `average draft`, `mock draft` across js/mjs/py/json/md) found **nothing** — only
-Blender's bundled Python. Sleeper's players endpoint carries `search_rank`, which is a popularity
-signal, **not ADP**.
+An earlier version of this spec said the tier data had "no pipeline behind it" and called it
+the long pole. **That was wrong.** There was never a harvester to find because there was never
+a harvester — the NFL board pulls from a free public API.
 
-**So an NBA draft-position source has to be found or built, and that is the long pole — not the UI.**
-Decide this first; everything else is hours.
+**Source identified: Fantasy Football Calculator.**
+`https://fantasyfootballcalculator.com/api/v1/adp/ppr?teams=12&year=2026` returns 200 with
+meta `{type, teams, rounds, total_drafts, start_date, end_date}` — byte-for-byte the shape
+embedded in `BOARD`, and player records `{name, team, adp, bye}` mapping exactly onto the
+four-field arrays `["Jahmyr Gibbs","DET",1.5,6]`.
+
+**It is football-only.** `fantasybasketballcalculator.com` does not resolve;
+`/v1/players/nba/adp` and `/v1/adp/nba` on Sleeper both 404.
+
+**Two live NBA candidates, probed 2026-10-03:**
+
+| source | result | note |
+|---|---|---|
+| `lm-api-reads.fantasy.espn.com/apis/v3/games/fba/seasons/2027/players` | **200** | Same endpoint family as the `ffl` football game. Already returns `ownership.percentOwned`. ESPN publishes average draft position in its player views — needs the right `view` param (likely `kona_player_info` + an `X-Fantasy-Filter` header). **Strongest lead.** |
+| `hashtagbasketball.com/fantasy-basketball-rankings` | 200, 1.8 MB **HTML** | Full rankings, but scraping not an API |
+
+**The NBA record is smaller than the NFL one: name, team, ADP.** Basketball has no bye weeks,
+so the fourth field is free — use it for primary category contribution or multi-position
+eligibility.
+
+★ **The real long pole is the EDITORIAL layer.** The tier names and position notes are
+hand-written and they are the product: "Crème de la crème", "Same points, three rounds
+later", "The wait-and-win zone", "After the cliff — stream instead", "Last pick, no
+thought", and notes like *"1 starter · one goes early, the next five don't — waiting costs
+almost nothing."* An API hands you a table of numbers; that writing is what makes it a tool.
+**No source provides it and it is the Copywriter's job, not a maker's.**
 
 ## ★ And the product logic needs rethinking, not translating
 
