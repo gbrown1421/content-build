@@ -163,7 +163,21 @@ Unchanged from NFL — `build-vibe.mjs` already implements all of it:
 ## 7. What must be true before this is called done
 
 1. Every plate is 1920×1080 or larger and Anthony is recognisably the same man as the NFL spot.
-2. The three DON'T phrase x-ranges are **measured off the new scene-4 plate**, not inherited.
+2. ~~The three DON’T phrase x-ranges are measured off the new scene-4 plate, not inherited.~~
+   **DONE 2026-10-03** — measured off `nba_dont_04.png` (1920×1080), so `K = 1` and no plate→delivery
+   scaling is needed any more:
+
+   ```js
+   const PHRASES = [
+     { x0: 226,  x1: 857  },   // DON’T REACH.
+     { x0: 902,  x1: 1323 },   // DON’T PANIC.
+     { x0: 1396, x1: 1806 },   // DON’T GUESS.
+   ];
+   const BAND_Y0 = 929, BAND_Y1 = 1079;   // includes the purple brush swash under the type
+   ```
+
+   The magenta middle phrase is why the first measuring pass found only two clusters: a
+   brightness test that requires a high green channel does not see magenta glyphs.
 3. The QR in the finished MP4 **decodes** — `build-vibe.mjs` already decodes it at the end of the
    run and fails loudly if it does not.
 4. No placeholder UI remains in the delivered master.
