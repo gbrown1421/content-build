@@ -33,31 +33,49 @@ a new line.
 
 ---
 
-## ★ THE ONE THING THAT IS NOT A FIND-AND-REPLACE
+## ★ THE AXIS — SETTLED, POSITIONAL (Glenn, 2026-10-03)
 
-The NFL spot sells **positional tier cliffs** — *how many RBs are left before it falls off*.
-`specs/nba-draft-tool-port.md` establishes that NBA fantasy does not work that way: multi-position
-eligibility is standard, most leagues are 9-cat H2H or points, and there is no RB-cliff equivalent.
-**Scarcity in NBA is categorical.** The creators being pitched talk about punt builds — punt FT%,
-punt assists — not positional runs.
+An earlier draft of this plan moved the hero line from positional tier cliffs to category
+scarcity, following the recommendation in `specs/nba-draft-tool-port.md`. **Glenn ruled against
+that on 2026-10-03: keep the positional / value axis.**
 
-So the hero product line changes axis:
+His evidence, from YouTube autocomplete pulled the same day (`own/reports/2026-10-03.md`):
 
-| | NFL (shipped) | NBA |
-|---|---|---|
-| Hero line | "tracks your tiers live as players come off the board" | "tracks every category live as players come off the board" |
-| The fear | the last good RB goes | **the last guy who gets you blocks goes** |
-| The proof shot | a position tier reading 1 LEFT | **a category column reading 1 LEFT** |
+| rank | query |
+|---|---|
+| 2 | fantasy basketball points league |
+| 4 | nba fantasy points league |
+| 7 | nba fantasy category league |
+| 9 | fantasy basketball categories |
 
-The emotional job is identical — *am I about to miss the last one?* — which is why everything else
-in the spot survives intact.
+Points leagues outrank categories on **both** seeds. A points league has no categories at all —
+value is a single number, which is exactly the NFL model. And the largest draft-lane outreach
+target found (11 slots) is **"BLEAV in Fantasy Basketball — NBA Points & Dynasty"**, a
+points-league channel.
 
-⚠ **This depends on a product decision Glenn has not made yet.** The port spec recommends re-cutting
-the axis from position to category and flags it as his call. **If he keeps the positional board,
-three lines change and nothing else does** — they are marked ⚑ in the timeline below. Do not
-generate final plates until that is settled; the copy is burned into the art.
+So the hero line stays about **value and tier cliffs**, and the three VO lines that had been
+flagged flip back to their NFL wording. DON'T REACH / DON'T PANIC / DON'T GUESS, GO WIN YOUR
+DRAFT and the QR + $6 close are all verbatim from the NFL spot.
 
----
+**Category boards are v2, and nothing is wasted by deferring them.** The per-category stats
+(BLK / STL / AST / 3PM / FT%) come from the same free ESPN call that supplies ADP — verified 200,
+no key, 400 players, every one carrying a real `averageDraftPosition` (Jokic 1.6, SGA 2.9,
+Wemby 3.1):
+
+```
+lm-api-reads.fantasy.espn.com/apis/v3/games/fba/seasons/2027/segments/0/leaguedefaults/3
+  ?view=kona_player_info      + x-fantasy-filter header
+```
+
+### The one real adjustment — multi-position eligibility
+
+This is the part that is **not** a find-and-replace. NBA players carry more than one position:
+Sleeper and ESPN both return e.g. `["PF","SF"]` on a single player. So **a player must count in
+every slot he qualifies for, or the tier counts lie** — and the tier count is the whole product.
+A dual-eligible forward taken off the board has to decrement both SF and PF.
+
+Board labels are **PG / SG / SF / PF / C / UTIL**. No CB, no DL, and none of the invented
+abbreviations the first image pass produced.
 
 ## 1. What carries over untouched
 
@@ -76,7 +94,7 @@ generate final plates until that is settled; the copy is burned into the art.
 | Element | NFL | NBA |
 |---|---|---|
 | Jersey | white #22 **football** jersey, shoulder bulk | white #22 **basketball tank**, same purple trim |
-| Round board | WR / QB / RB / TE / CB / DL | **PG / SG / SF / PF / C / G / F** |
+| Round board | WR / QB / RB / TE / CB / DL | **PG / SG / SF / PF / C / UTIL** |
 | Wall diagram | football X's and O's play | **basketball halfcourt set** |
 | Checklist panel | TALENT · FIT · VALUE · UPSIDE · DEPTH · SCHEME | **PTS · REB · AST · 3PM · STL · BLK · FG% · FT%** |
 | Season hook | "Draft night is here" | "Draft night is here" (unchanged — still true) |
@@ -92,13 +110,12 @@ Scene timings are identical to the NFL cut, so `build-vibe.mjs` SCENES needs onl
 |---|---|---|---|---|
 | 0:00–0:03 | **HOOK** | Dark war-room. Draft-clock beep, arena lights hit. Anthony walks left-to-right, shoulders hunched, staring worriedly at his phone. | "Draft night is here. You gonna guess your way through it?" | YOUR DRAFT STARTS SOON. / YOU READY? |
 | 0:03–0:07 | **PROBLEM → CONTROL** | Flash of draft-pressure alerts, then Anthony stops and presents his phone to camera. Hard cut into the tool. | "Or are you gonna know exactly where the value is?" | WHO'S LEFT? / WHERE'S THE DROP-OFF? |
-| 0:07–0:12 | **TOOL REVEAL** | Animate into the board. Fast crops across three categories. Show players-left counters. Cross one player off and update the count. | ⚑ "The Last-Minute Draft Tool tracks every category live as players come off the board." | CROSS THEM OFF. / COUNTS UPDATE LIVE. |
-| 0:12–0:18 | **WHY IT MATTERS** | Zoom to a category reading **1 LEFT**, pulsing warning. Shift to a category with depth remaining. | ⚑ "See which categories are about to run dry. Know when to strike — and when you can wait." | DON'T REACH. / DON'T PANIC. / DON'T GUESS. |
-| 0:18–0:23 | **RAH-RAH PAYOFF** | Confident Anthony. Upright, raised eyebrow, slight smile. Brighter arena atmosphere than the open. | ⚑ "Stay ahead of the run. Take the value. Build the roster everybody else wishes they drafted." | GO WIN YOUR DRAFT. |
+| 0:07–0:12 | **TOOL REVEAL** | Animate into the board. Fast crops across three position tiers. Show players-left counters. Cross one player off and update the count. | "The Last-Minute Draft Tool tracks your tiers live as players come off the board." | CROSS THEM OFF. / TIERS UPDATE LIVE. |
+| 0:12–0:18 | **WHY IT MATTERS** | Zoom to a position tier reading **1 LEFT**, pulsing warning. Shift to a category with depth remaining. | "See where the drop-off is coming. Know when to strike — and when you can wait." | DON'T REACH. / DON'T PANIC. / DON'T GUESS. |
+| 0:18–0:23 | **RAH-RAH PAYOFF** | Confident Anthony. Upright, raised eyebrow, slight smile. Brighter arena atmosphere than the open. | "Stay ahead of the run. Take the value. Build the roster everybody else wishes they drafted." | GO WIN YOUR DRAFT. |
 | 0:23–0:30 | **HARD CTA** | Anthony left, presenting toward clean right space. Large QR, $6, product name. | "Your draft isn't waiting. Get the Last-Minute Draft Tool for six bucks. Scan it now — and go win your draft." | LAST-MINUTE DRAFT TOOL / $6 / SCAN. SET YOUR LEAGUE. DRAFT. |
 
-⚑ = changes if Glenn keeps the positional board instead of category scarcity. Positional fallback:
-"tracks your tiers live" / "See where the drop-off is coming" / payoff line unchanged.
+No flagged lines remain — the axis is settled, so every line above is final copy.
 
 ## 4. Final 30-second voiceover script
 
@@ -107,8 +124,8 @@ through the product proof, hit the final GO WIN YOUR DRAFT strong but controlled
 what creates the energy — do not shout every line.
 
 > "Draft night is here. You gonna guess your way through it? Or are you gonna know exactly where the
-> value is? The Last-Minute Draft Tool tracks every category live as players come off the board. See
-> which categories are about to run dry. Know when to strike — and when you can wait. Don't reach.
+> value is? The Last-Minute Draft Tool tracks your tiers live as players come off the board. See
+> where the drop-off is coming. Know when to strike — and when you can wait. Don't reach.
 > Don't panic. Don't guess. Stay ahead of the run. Take the value. Build the roster everybody else
 > wishes they drafted. Your draft isn't waiting. Get the Last-Minute Draft Tool for six bucks. Scan
 > it now — and go win your draft."
@@ -120,7 +137,7 @@ hits at **13.37 / 13.90 / 14.79** should survive. Re-derive from the chosen read
 
 | ID | Description | Status | Notes |
 |---|---|---|---|
-| NBA-ANT-01 | Hook — Anthony walking L→R, worried, phone | GENERATE | Basketball tank. Round board reads PG/SG/SF/PF/C. |
+| NBA-ANT-01 | Hook — Anthony walking L→R, worried, phone | GENERATE | Basketball tank. Round board reads PG/SG/SF/PF/C/UTIL. |
 | NBA-ANT-02 | Problem→control — stopped, phone toward viewer | GENERATE | |
 | NBA-ANT-03 | Tool reveal — product screen dominant | GENERATE + **placeholder UI** | Real screenshots not available yet |
 | NBA-ANT-04 | Why it matters — the three DON'T phrases burned in | GENERATE | **Phrase x-ranges must be re-measured off the new plate** — `build-vibe.mjs` has the NFL coordinates hardcoded |
