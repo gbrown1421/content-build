@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-03T11:37:46Z",
-  "reportFile": "2026-10-03-0737.md",
-  "note": "Window 2026-10-02T21:09:30Z-2026-10-03T11:37:46Z. 0 claims, 0 PASS / 0 FAIL. No Glenn turns, no Process Alerts, no commits outside the previous review's own. Found in passing: the 2 Oct 5pm review sat 14h23m on a permission prompt for an rm in a scheduled run, and the 2 Oct 9pm review did not run. Carried from 2026-10-02-1709.md: Cragger rendered style not in Studio; purge vs rename-to-legacy unruled."
+  "lastReview": "2026-10-03T17:11:59Z",
+  "reportFile": "2026-10-03-1311.md",
+  "note": "Window 2026-10-03T11:37:46Z-2026-10-03T17:11:59Z. 6 claims, 4 PASS / 2 FAIL. FAIL 1: move of NBA files to content-build/outreach was reverted (f18c1be), superseded. FAIL 2: eight OneDrive git mirrors verified local==mirror, but cloud upload unverifiable; Neon runbook memory file excluded pending rotate/redact. This run wrote: Draft-Tool-Groups 9a9b77b, memory 01403cf. Carried from 2026-10-02-1709.md: Cragger rendered style not in Studio; purge vs rename-to-legacy unruled."
 }
