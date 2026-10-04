@@ -77,24 +77,48 @@ fix keyed on `status` will only catch one of them. Key on `post_type` + `platfor
    dimensions shipped hardcoded `pass: true` on 2026-08-22 for exactly this reason.
 4. `channels.mjs` renders the new section.
 
-## ★ THE SECOND DEFECT, AND IT IS THE WORSE ONE
+## ★ THE SECOND DEFECT — AND GLENN HAS RULED ON THE FIX
 
 **Glenn cannot mark a hand-posted row complete once it ages off the schedule** (his words,
 2026-10-04): *"normally I would update the status after i post it. But since this was scheduled 2
 days ago, it is no longer on the schedule for me to update."*
 
-So the workflow has a hole the code fix above does not close. A story poll is the one row type that
-**requires** a human to mark it done, and the Planner stops showing it before he can. Post it late,
-or post it on time and forget for a day, and the row is stranded `booked` forever — permanently
-P0 under the current health logic, and permanently unfixable from the UI.
+A story poll is the only row type that **requires** a human to close it, and the Planner stops
+showing it before he can. Post it late, or post it on time and close it tomorrow, and the row is
+stranded `booked` forever — unfixable from the UI and a standing P0 under the current health logic.
 
-**The Planner needs a way to reach a past row and close it.** Whatever shape that takes — a date
-range that reaches backwards, a "needs closing" list, a one-click Mark posted on anything with
-`post_type='poll'` and no `published_at` — it has to be reachable **after** the slot, because that
-is the only time a hand-posted row can honestly be marked done.
+### ★ THE RULING (Glenn, 2026-10-04) — build THIS, not a way to reach backwards
 
-This is the actual root cause. The health exclusion stops the false alarm; this stops the data
-being wrong in the first place.
+> *"instead of reaching back to update a row, have the peer adjust feed on screen so that any row
+> that has not been properly closed as either processed/killed, remains at the top of the feed and
+> does not count toward the 2 week window from the past Sunday."*
+
+Two parts, both required:
+
+**1. An unclosed row PINS TO THE TOP OF THE FEED and stays there.** It never ages off. "Properly
+closed" means exactly two terminal states — **processed** (it went out) or **killed** (it is not
+going out). Anything else is open, and an open row sits at the top until someone resolves it. This
+removes the need to hunt for a past row, because the row never leaves.
+
+**2. An unclosed row DOES NOT COUNT toward the two-week window measured from the past Sunday.**
+The planning horizon counts forward from the last Sunday review. A straggler pinned at the top is
+*outside* that count — so a row nobody closed cannot masquerade as planned coverage and cannot eat
+into the fortnight the Sunday review is supposed to guarantee.
+
+★ **An earlier draft of this spec proposed a backwards date range or a "needs closing" list.
+That is superseded — it was a Copywriter session's suggestion, not a ruling, and Glenn has
+replaced it.** Do not build a way to reach back into the past; build a feed where the row never
+falls out of reach in the first place.
+
+### What the ruling must prove
+
+1. A row past its slot with no terminal state **appears at the top of the feed** and stays across
+   a reload and a date change.
+2. Marking it **processed** or **killed** removes it from the top. Nothing else does.
+3. The two-week-from-Sunday count **excludes** pinned rows — demonstrate the horizon number with
+   and without one open straggler and show it does not move.
+4. A genuine miss still reaches `overdue` and still sets `p0` (see "It must prove" above). The
+   pin is a UI affordance; it is not a substitute for the alarm.
 
 ## Already done, 2026-10-04
 
