@@ -127,3 +127,18 @@ The two rows are closed — Glenn confirmed he posted both, so the Copywriter se
 both gone from OVERDUE and RVA reading `last published 0h ago`. ⚠ MIDDLE SEAT's `published_at` is
 its **slot time** (2026-09-28 11:30Z), not an observed timestamp — Glenn said he posted it the day
 it was due and the exact minute is not recoverable.
+
+## Build status as of the implementation review, 2026-10-04 5:08pm ET
+
+- **Second defect (the ruling): BUILT AND DEPLOYED, not yet seen rendering.** ugh-content-hub
+  `91dd0bf` (`src/routes/_authenticated/planner.tsx`), on origin. The live chunk
+  `/assets/planner-86PyM_eE.js` on ugh-moment-maker.lovable.app carries "Needs closing" and
+  "It went out". Terminal states are `posted` and `exception`. The building session could not sign
+  in, so nobody has watched the panel render. Do not build it again.
+- **First defect (story polls force P0): NOT BUILT.** `supabase/functions/health/index.ts` has no
+  `byHand` branch; line 158 is unchanged.
+- **This defect has a second, older spec:** `health-p0-false-on-by-hand-story-polls.md`
+  (`8f68503`, 2026-09-29). Same endpoint, same cause. Build once, close both files.
+- **Live now:** `/health` returns `p0: true` with one overdue row, the PixFix reel of
+  2026-09-30 18:00 (`db547ede`), whose `status` is already `exception`. The Planner treats
+  `exception` as closed; the health function still raises P0 on it.
