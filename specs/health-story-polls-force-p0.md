@@ -55,11 +55,17 @@ Do **not** simply drop them. They still need surfacing — the whole point is th
 post them — but as *"waiting on Glenn"*, not as *"the pipeline failed."* `channels.mjs` prints
 `byHand` under its own heading.
 
-★ **Check what the real discriminator is before coding.** `post_type` may not be populated on every
-historical story-poll row; the two above were written weeks apart and reached `overdue` through two
-*different* branches (`status='posted'` vs `status='booked'`), so they do not look identical in the
-data. A title match on `Story poll` is a fallback, not the primary test — titles are copy and copy
-changes.
+★ **THE DISCRIMINATOR IS VERIFIED — queried 2026-10-04, do not re-derive it.** Both rows carry
+`post_type = 'poll'` and `platforms = ["instagram"]`. That pair is the test: an Instagram-only poll
+cannot be machine-posted. Do **not** match on the title — titles are copy and copy changes.
+
+```
+a4e06531-ddb3-432b-880f-b9dd94a150d0  2026-09-28 07:30  poll  [instagram]  status=posted
+d0e099ed-4f8d-41c6-ad9b-172711b851ed  2026-10-02 08:00  poll  [instagram]  status=booked
+```
+
+⚠ Note they reached `overdue` through **different branches** (`status='posted'` vs `'booked'`), so a
+fix keyed on `status` will only catch one of them. Key on `post_type` + `platforms`.
 
 ## It must prove
 
@@ -71,7 +77,29 @@ changes.
    dimensions shipped hardcoded `pass: true` on 2026-08-22 for exactly this reason.
 4. `channels.mjs` renders the new section.
 
-## Also outstanding, separately
+## ★ THE SECOND DEFECT, AND IT IS THE WORSE ONE
 
-The two rows above are **complete** (Glenn posted both) but their calendar state does not say so.
-Whoever fixes this should close them out so they stop surfacing regardless of the code change.
+**Glenn cannot mark a hand-posted row complete once it ages off the schedule** (his words,
+2026-10-04): *"normally I would update the status after i post it. But since this was scheduled 2
+days ago, it is no longer on the schedule for me to update."*
+
+So the workflow has a hole the code fix above does not close. A story poll is the one row type that
+**requires** a human to mark it done, and the Planner stops showing it before he can. Post it late,
+or post it on time and forget for a day, and the row is stranded `booked` forever — permanently
+P0 under the current health logic, and permanently unfixable from the UI.
+
+**The Planner needs a way to reach a past row and close it.** Whatever shape that takes — a date
+range that reaches backwards, a "needs closing" list, a one-click Mark posted on anything with
+`post_type='poll'` and no `published_at` — it has to be reachable **after** the slot, because that
+is the only time a hand-posted row can honestly be marked done.
+
+This is the actual root cause. The health exclusion stops the false alarm; this stops the data
+being wrong in the first place.
+
+## Already done, 2026-10-04
+
+The two rows are closed — Glenn confirmed he posted both, so the Copywriter session set
+`publish_state='published'` and `published_at` on each, and the 15:50 channel check came back with
+both gone from OVERDUE and RVA reading `last published 0h ago`. ⚠ MIDDLE SEAT's `published_at` is
+its **slot time** (2026-09-28 11:30Z), not an observed timestamp — Glenn said he posted it the day
+it was due and the exact minute is not recoverable.
