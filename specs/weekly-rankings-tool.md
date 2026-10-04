@@ -99,7 +99,7 @@ until after that. Do not arrive at the call assuming NBA.
 
 ## Business shape
 
-Weekly use changes the model. The draft tool is $5.99 once a year. This is used every Tuesday
+Weekly use changes the model. The draft tool is $6 once a year. This is used every Tuesday
 through January, which supports a subscription — or free-with-Ivan's-branding, where he gets
 audience and Glenn gets the list.
 
