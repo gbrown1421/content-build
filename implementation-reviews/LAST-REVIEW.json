@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-03T21:08:38Z",
-  "reportFile": "2026-10-03-1708.md",
-  "note": "Window 2026-10-03T17:11:59Z-2026-10-03T21:08:38Z. 7 claims, 5 PASS / 2 FAIL. FAIL 1: content-kit 6e353d4 (NBA plate script) committed, not pushed. FAIL 2: YouTube credentials recorded and scripts committed, but token liveness not re-checked and no sending bot exists. Prior FAIL (off-machine backup) closed by Glenn's own look, 969afd8. Carried: RVA newsletter validator still off (newsletterTool.ts:1799); Cragger rendered style not in Studio."
+  "lastReview": "2026-10-04T01:08:31Z",
+  "reportFile": "2026-10-03-2108.md",
+  "note": "Window 2026-10-03T21:08:38Z-2026-10-04T01:08:31Z. 7 claims, all unflagged, 4 PASS / 3 FAIL. FAIL 1: Kalshi Pulse live and scheduled but X and Discord not covered, and no cron run of the finished pipeline yet. FAIL 2: NBA ad - content-kit 01cb31c unpushed, nba-plates.mjs uncommitted, the 01:04Z corrections in flight. FAIL 3 carried: YouTube token liveness unverified, no sending bot. Carried: RVA newsletter validator still off (newsletterTool.ts:1799); Cragger rendered style not in Studio. Memory commits 67c549a, c4d2c08."
 }
