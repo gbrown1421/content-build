@@ -1167,6 +1167,120 @@ had notes."*
 
 ---
 
+## MON 19 OCT · 08:00 · STATIC — The bag that made it to the driveway
+**Daily moment.** Real photographic person standing in a driveway, one grocery bag split at the
+seam, contents spread across the concrete, car door still open behind them. Blue band
+(Grow Through It).
+
+**HEADLINE:** IT HELD<br>THE WHOLE WAY.
+
+**CAPTION (Facebook)**
+```
+It held in the cart. It held in the trunk. It held across the entire drive.
+
+Then it got nine feet from the door and gave up completely, which means it was never going to hold, it was just waiting for an audience.
+
+You will pick it all up. You will carry the rest in two trips, the way you should have in the first place.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## WED 21 OCT · 12:00 · ASK THE FEED — THE TRUNK vs THE SPARE ROOM
+**FB comment poll.** Photoreal A/B split card, orange divider. Real photographic objects.
+
+**Card:** left half — an open car trunk holding a folding chair, a bag for donation and something
+that needed returning three weeks ago. Right half — a spare room with a bed you cannot see, under
+laundry that is clean. Letter **A** over the trunk, letter **B** over the room.
+
+**HEADLINE:** WHICH ONE HAS<br>BEEN LIKE THAT LONGEST?
+
+**Poll options:** `A — The trunk` · `B — The spare room`
+
+**CAPTION (Facebook)**
+```
+Both are storage now. Neither was supposed to be.
+
+A — the trunk. There is a thing in there that needed returning, and the window for returning it has quietly closed.
+B — the spare room. The laundry on that bed is clean. It has been clean for some time.
+
+Nobody is fixing either one today. Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## FRI 23 OCT · 17:00 · REEL — Friday: the thing you kept moving
+**Reactive UGH.** Real photographic person. Purple band (Express Yourself). No SFX.
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–4s | Person at a kitchen table, moving one envelope from one pile to another | MONDAY | `There was one thing on the list that could wait.` |
+| 4–8s | Same table, same envelope, different pile | WEDNESDAY | `So it waited. And you moved it.` |
+| 8–13s | Same envelope, now on a windowsill | FRIDAY | `Five days. You have handled it eleven times and opened it none.` |
+| 13–18s | Person picks it up, finally opens it | IT TOOK NINETY SECONDS | `It took ninety seconds.` |
+| 18–22s | Person sitting back, envelope open, week over | WE STILL SHOW UP | `That is the week. Next one starts the same.` |
+
+**CAPTION (Facebook)**
+```
+There is always one. It is never the hard thing — the hard thing gets done, because it is obviously urgent.
+
+It is the small one with no deadline attached, so it gets carried from Monday to Friday, picked up and put down, never actually opened.
+
+It takes ninety seconds. It always takes ninety seconds.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SAT 24 OCT · 11:00 · STATIC — The spot that was not a spot
+**Daily moment.** Real photographic person standing beside their car in a full lot, looking at a
+gap ahead of them that turns out to hold a small bollard. Orange band (Laugh Through It).
+
+**HEADLINE:** THERE WAS<br>A POLE IN IT.
+
+**CAPTION (Facebook)**
+```
+You saw it from across the parking lot. You committed. You may have driven with some urgency to reach it.
+
+There is a pole in it. There has always been a pole in it. From forty feet away, in the only angle available to you, the pole was invisible.
+
+You are now reversing out of a non-space in front of people. Saturday is going well.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SUN 25 OCT · 09:00 · UGH TAILS EP 011 — POSTER
+★ **NOT READY — EP 011 DOES NOT EXIST, AND NEITHER DO 009 OR 010.** Built episodes stop at EP 008.
+**Do not build or book this row** — set `assigned_to = 'glenn'` and hand it over.
+
+Copy is withheld rather than drafted, same as 009 and 010: a poster announcing an episode that will
+not land is the promise this file forbids. **This row cannot clear before 009 and 010 do.**
+
+**Held for release once the episode exists:** title THE HICCUPS, tagline
+*"Pip had a point to make. His diaphragm had notes."*
+
+---
+
+## SUN 25 OCT · 12:00 · UGH TAILS EP 011 — EPISODE ANNOUNCEMENT
+★ **NOT READY — depends on EP 011.** See 09:00 above. Do not build or book.
+
+---
+
+## SUN 25 OCT · 17:00 · UGH TAILS EP 011 — REEL
+★ **NOT READY — depends on EP 011.** See 09:00 above. Do not build or book.
+When it is built, the end card names EP 012 — the Series 1 finale. Per the slate, EP 012 is
+**Sun 1 Nov**, then one Sunday dark, then Series 2 opens **Sun 15 Nov**.
+
+---
+
 ## Open — needs Glenn
 
 1. **OpenAI key for `fable`** — the only thing between Meet Pip and Friday 08:00.

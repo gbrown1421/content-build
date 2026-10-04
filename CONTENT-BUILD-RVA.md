@@ -1097,6 +1097,172 @@ We check Richmond fares every morning: https://rvacheapflights.com/deals
 
 ---
 
+## MON 19 OCT · 18:00 · REEL 30s — Destination review: Savannah
+**RVA styling.** Segoe UI Black, RVA logo, navy/orange. Never the UGH font. No fare anywhere.
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–5s | SAV hero — the squares under live oaks | SAVANNAH | `Savannah is a ninety minute flight and a different century.` |
+| 5–11s | Street level, Spanish moss, brick | TWENTY-TWO SQUARES | `Twenty-two public squares, all walkable, none of them requiring a car.` |
+| 11–18s | Riverfront at dusk | OCTOBER IS THE MONTH | `Go in the fall. The summer is the reason people say they would not go back.` |
+| 18–24s | Quiet residential lane, morning | TWO NIGHTS IS ENOUGH | `Two nights does it properly. Three is a holiday.` |
+| 24–30s | RVA brand card | WE CHECK RIC EVERY MORNING | `We check Richmond fares every morning.` |
+
+**CAPTION (Facebook)**
+```
+Savannah is the trip people put off because it feels like it should be a bigger undertaking than it is.
+
+It is a short flight, it is walkable end to end, and October is the month it is actually pleasant rather than something to be endured.
+
+Two nights is enough to see it properly and come home feeling like you went somewhere.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## TUE 20 OCT · 12:00 · CAROUSEL 5 cards — What the cheap seat actually costs
+Navy cards, orange rule. No fares anywhere. **No painted buttons** — PNG buttons are a dead tap.
+
+| Card | Picture | Text |
+|---|---|---|
+| 1 | Boarding area, basic economy line | THE FARE IS NOT THE PRICE |
+| 2 | A carry-on being measured at the gate | The bag is the first thing they get back. Check what is included before the fare looks good. |
+| 3 | Middle seat, row of three | No seat selection means the middle seat, and on a full flight that is not a risk, it is the plan. |
+| 4 | Departures board showing a change | Cheapest fares are usually the least flexible. A schedule change you cannot move is the real cost. |
+| 5 | RIC exterior, calm morning | A good fare is a cheap one you would still take at the normal price. That is the whole test. |
+
+**CAPTION (Facebook)**
+```
+The number on the search page is not what the trip costs. Everyone knows this and everyone forgets it at the moment of booking.
+
+Bag, seat, and whether you can move it if your week changes — those three decide whether a cheap fare was actually cheap.
+
+A good fare is one you would still take at the normal price. That is the only test that survives contact with the airport.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## WED 21 OCT · 19:00 · QUESTION POST — The airport you will not connect through again
+Navy card, orange rule, departures board at night. No fares anywhere.
+
+**HEADLINE:** WHICH ONE<br>BURNED YOU?
+
+**CAPTION (Facebook)**
+```
+Everyone has one. An airport where something went wrong once and you have quietly routed around it ever since.
+
+It is rarely rational. One bad night in one terminal and that airport is on a list it will never come off.
+
+Which one is it for you, and what did it do?
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## THU 22 OCT · 12:30 · REEL 20s — The Tuesday myth
+**RVA styling.** Segoe UI Black, RVA logo, navy/orange. Never the UGH font. No fare anywhere.
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–4s | Phone showing a fare search | "BOOK ON TUESDAY" | `You have heard that you should book on a Tuesday.` |
+| 4–9s | Calendar, several days circled | THAT ENDED YEARS AGO | `That stopped being true years ago. Prices move all week now.` |
+| 9–15s | RIC departures board | WHAT MATTERS IS WHEN YOU FLY | `What still matters is when you fly, not when you buy.` |
+| 15–20s | RVA brand card | WE CHECK EVERY MORNING | `Which is why we check every morning instead.` |
+
+**CAPTION (Facebook)**
+```
+Book on a Tuesday. Everyone has heard it. It has not been true for years.
+
+Fares move continuously now, which means there is no clever day to sit and wait for — there is only the fare that is in front of you and whether it is actually good.
+
+When you fly still matters enormously. When you buy, far less than people think.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## FRI 23 OCT · 08:00 · STORY POLL — THE RED EYE *(Instagram only)*
+
+- **Question:** Red eye and keep the day, or leave in daylight and lose it?
+- **A:** Red eye · **B:** Daylight
+- **Background: not built yet.** Title **THE RED EYE**, line **Keep the day, or sleep?**
+
+★ Posted by hand. GHL cannot post an Instagram Story.
+
+---
+
+## FRI 23 OCT · 17:30 · LOCAL IDENTITY — The parking you can actually afford
+RIC parking lot at dusk, navy sky, orange terminal glow. No fares anywhere.
+
+**HEADLINE:** YOU CAN PARK<br>AND WALK IN.
+
+**CAPTION (Facebook)**
+```
+At most airports, parking is a decision. You price the lots, you consider the shuttle, you work out whether it is cheaper to be dropped off.
+
+Here you park and you walk into the terminal. That is the whole process, and it is worth more on a 6am departure than any amount of airline loyalty.
+
+It is a small thing until you have done the other version recently.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## SAT 24 OCT · 10:00 · ROUTE CHECK — Denver before the snow
+★ Route Check holds the Saturday 10:00 slot. No fare anywhere.
+
+**Picture:** DEN_FAL hero.
+**HEADLINE:** DENVER<br>BEFORE THE SNOW
+
+**CAPTION (Facebook)**
+```
+Late October is the narrow window where Denver is still a hiking city and not yet a ski city.
+
+The mountains are open, the town is not full, and the prices have not done the thing they do the moment the first resort announces an opening date.
+
+It is a direct flight from Richmond, which makes a long weekend genuinely a long weekend rather than two travel days with a gap in the middle.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## SUN 25 OCT · 19:00 · CAROUSEL 4 cards — December is quietly filling up
+Navy cards, orange rule. No fares anywhere. **No painted buttons.**
+
+| Card | Picture | Text |
+|---|---|---|
+| 1 | RIC departures board, evening | DECEMBER IS CLOSER THAN IT LOOKS |
+| 2 | Calendar, December weeks marked | The two weeks before Christmas price like a holiday because they are one. |
+| 3 | Quiet terminal, early morning | The first week of December is the cheapest week of the month and nobody flies it. |
+| 4 | RVA brand card | We watch RIC every morning and send the ones worth taking. |
+
+**CAPTION (Facebook)**
+```
+December has two completely different prices depending on which half of it you are in.
+
+The week before Christmas is a holiday fare and will not improve. The first week of the month is quiet, cheap, and the only version of December travel that is relaxing.
+
+If the trip is flexible at all, it is worth looking at now rather than in five weeks.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
 ## Open — needs Glenn
 
 1. **The newsletter subscribe URL.** It appears in every destination review. Not inventing one — `rvacheapflights.com/deals` is the deals page, not a signup.

@@ -1042,6 +1042,164 @@ Order: https://pixfixstudio.com/order.html
 
 ---
 
+## MON 19 OCT · 12:00 · CAROUSEL 5 slides · What a reference photo cannot tell us
+**PixFix styling.** Library assets only, no generation.
+
+| Slide | Picture | Text |
+|---|---|---|
+| 1 | A single front-facing plate | ONE PICTURE. ONE ANGLE. |
+| 2 | Same plate, with the back of the head greyed out | A front view says nothing about the back of the head. We are not guessing it — you tell us. |
+| 3 | Two plates side by side, hairline circled | Hairline, ear shape and collar are where a turnaround falls apart. They have to be decided once. |
+| 4 | A character card with heights marked | That is what the card is for. Decide it there, and all eight angles agree. |
+| 5 | Full eight-plate contact sheet | Then the set is consistent because it was specified, not because it got lucky. |
+
+**CAPTION (Facebook)**
+```
+A front-facing reference is one angle of a head that has four.
+
+The back, the ear shape, where the hairline actually sits — none of that is in the photo, and anything not decided up front gets decided differently on every plate.
+
+So it gets decided once, on the card, before a single angle is rendered. That is the difference between eight pictures and a turnaround.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## TUE 20 OCT · 17:00 · STATIC · The three-quarter is the hard one
+**PixFix styling.** Library assets only. Three-quarter plate shown large, front and profile small
+either side.
+
+**HEADLINE:** FRONT IS EASY.<br>PROFILE IS EASY.
+
+**CAPTION (Facebook)**
+```
+Front and profile are the two angles anything can produce. They are also the two that hide the most.
+
+The three-quarter is where a face has to be the same face from a direction nobody drew it from. Jaw, cheek, the distance from eye to ear — it all has to survive the turn.
+
+If the three-quarters hold, the set holds. If they do not, nothing else matters.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## WED 21 OCT · 18:00 · REEL · Nine files
+**PixFix styling.** Library assets only, no generation. **This reel SPEAKS** — per Glenn
+2026-09-29, PixFix reels have a narrator; the "no voiceover" premise was a session's invention and
+is closed.
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–4s | A single plate on transparent checkerboard | EIGHT ANGLES | `You get eight angles.` |
+| 4–9s | Plates fanning out one by one | ONE CHARACTER | `Every one of them the same character, which is the entire point.` |
+| 9–14s | The contact sheet assembling | PLUS THE CONTACT SHEET | `And a contact sheet, so the next person who draws them has something to work from.` |
+| 14–19s | Plate dropped onto a page, then a title card, no cut-out | NO WATERMARK | `Transparent backgrounds. No watermark. Yours.` |
+| 19–24s | Brand card | FROM $129 · PIXFIXSTUDIO.COM | `From a hundred and twenty nine dollars.` |
+
+**CAPTION (Facebook)**
+```
+Nine files. Eight angles plus the contact sheet.
+
+Transparent backgrounds on every one, so they drop onto a page or a title card without you cutting anything out and without a white box turning up at the worst moment.
+
+No watermark. They are yours to use.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## THU 22 OCT · 12:00 · CAROUSEL 5 slides · Who this is actually for
+**PixFix styling.** Library assets only.
+
+| Slide | Picture | Text |
+|---|---|---|
+| 1 | Contact sheet, neutral | IF YOUR CHARACTER HAS TO SHOW UP TWICE |
+| 2 | Plate over a book page | A serial or a novel. Chapter four needs the same face as chapter one. |
+| 3 | Plate over a game screen | A game or a visual novel. The scene decides the angle, not you. |
+| 4 | Plate over a stream overlay | A channel or a brand. People recognize a character before they read a name. |
+| 5 | Full set | One job, three uses. Eight angles that agree with each other. |
+
+**CAPTION (Facebook)**
+```
+This is for anyone whose character has to show up more than once.
+
+A serial where chapter four needs the same face as chapter one. A game where the scene picks the angle. A channel where people recognize the character before they read the name.
+
+Different work, same requirement — a set of angles that agree with each other.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## FRI 23 OCT · 17:00 · STATIC · Turnaround of the week — the profile
+**PixFix styling.** Library assets only. Left profile plate, full bleed.
+
+**HEADLINE:** STILL THE<br>SAME JAW.
+
+**CAPTION (Facebook)**
+```
+The profile is where you find out whether the front view was a decision or an accident.
+
+Same jaw, same nose, same weight in the shoulders, seen from an angle that shares almost no pixels with the picture everyone starts from.
+
+That is the test, and it is the one shot people forget to ask for.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## SAT 24 OCT · 12:00 · COMMENT POLL · Which angle do you actually need?
+**FB comment poll.** PixFix styling, A/B split card on white.
+
+**Card:** left half — a clean front-facing plate. Right half — a rear three-quarter plate. Letter
+**A** over the front, letter **B** over the rear three-quarter.
+
+**Poll options:** `A — The front` · `B — The one behind them`
+
+**CAPTION (Facebook)**
+```
+Everyone asks for the front. Almost nobody asks for the one they end up needing.
+
+A — the front. It is the picture you picture.
+B — the rear three-quarter. It is the one a scene demands the moment a character walks away from something.
+
+Comment A or B, and tell us what you are making.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## SUN 25 OCT · 17:00 · STATIC · Turnaround of the week — the rear three-quarter
+**PixFix styling.** Library assets only. Rear three-quarter plate, full bleed.
+
+**HEADLINE:** THE ONE<br>NOBODY ASKS FOR.
+
+**CAPTION (Facebook)**
+```
+Nobody orders a character turnaround thinking about the view from behind and to the side.
+
+Then the scene needs them walking away, or looking back over a shoulder, and it turns out that is the only angle that will do.
+
+It is in the set because the set is not finished without it.
+
+Nine files. No watermark. From $129.
+
+Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
 ## Open — needs Glenn
 
 1. **Delete the Wed "winner delivered" post** from PixFix FB and IG. It states a winner who does
