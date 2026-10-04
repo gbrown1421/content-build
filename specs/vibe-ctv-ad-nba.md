@@ -115,3 +115,40 @@ twice.
   The ad *plan* for social is still unwritten: `META-AD.md` is NFL-era and points at the dead $5.99
   link.
 - **The NFL spot.** Still points at the $5.99 legacy link. Separate decision.
+
+---
+
+## ★ LAUNCHED 2026-10-04 — read off the Vibe campaigns table, not assumed
+
+| | |
+|---|---|
+| Campaign | `NBA Last-Minute Draft Tool - Oct 2026 test` |
+| Status | **Delivering** (Vibe shows "Learning") |
+| Goal | Traffic · $10 Cost per Session |
+| Flight | **10/04/2026 – 10/05/2026** (2 days) |
+| Budget | **$50 Daily** → $100 total, Strategy #1 |
+| Targeting | All Apps & Channels · TV · Entire US · Basketball audience 20.8M |
+| Creative | `NBA_LMDT_AD30_CTV_-24LUFS`, 30s, transcoded by Vibe |
+| Spend / Impressions / CPM at launch | — / — / — (nothing served yet) |
+
+★ **The publish button does not visibly respond.** It stayed on screen, enabled, with the URL still
+at `?step=summary` after the click — the same non-advancing behaviour every other button in this SPA
+has. **It had published.** The proof is the dashboard counter moving **Draft 0 / Delivering 1** (it
+was 0/0/0/0 beforehand) and the campaign row above. Do not re-click a publish button here on the
+strength of the button still being there; go read the campaigns table.
+
+### The two numbers to read on 2026-10-06
+
+Baselines taken **before** anything served:
+
+1. **Stripe NBA link volume: $0.** Product `prod_` behind
+   `https://buy.stripe.com/9B6dR81Uk87t7xpgNn93y02`. Anything above $0 during the flight is
+   attributable to this spot — nothing else points at that link yet.
+2. **Vibe pixel `WtTtWi` sessions.** Now installed on `/`, `/order`, `/privacy` and `/thanks`, so
+   unlike the version of this plan written this morning, **Vibe CAN see a visit** — a household that
+   saw the ad and later landed on the order page shows up as a Session. That is the number the $10
+   Cost per Session goal is optimising against.
+
+★ **Scans are not the only path any more.** The pixel means a viewer who ignores the QR and types the
+domain later still counts. If sessions are non-zero and Stripe is $0, the landing page is the
+problem, not the spot — which is the cheap fix.
