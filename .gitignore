@@ -1,2 +1,6 @@
 *.bak
 .fixpaths.mjs
+
+# Microsoft Office lock files (~$name.docx). They appeared in a commit on 2026-10-04
+# when a spec was open in Word.
+~$*
