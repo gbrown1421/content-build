@@ -41,16 +41,21 @@ chasing it** — if $50 produces nothing, $200 produces nothing four times over.
 | Duration | **30.00s exactly** |
 | Picture | 1920×1080, H.264 High, 30 fps, 8,512 kb/s |
 | Audio | AAC-LC, 48 kHz stereo, 192 kb/s |
-| Loudness | **−24.4 LUFS, −8.2 dBTP** |
+| Loudness | **−24.0 LUFS, −8.2 dBTP** |
 
 ★ **Submit the −24 LUFS version, not the delivered cut.** The original is **−19.3 LUFS** — about
 5 dB hot for streaming TV. That gets rejected on some platforms and, where it is accepted, it is the
 ad that blares louder than the programme. The video stream is copied untouched, so the picture is
 bit-identical.
 
-★ **The QR decodes — checked by decoding it, not by trusting a filename:**
-`https://buy.stripe.com/9B6dR81Uk87t7xpgNn93y02` (NBA, $6). **Not** the NFL link, which is a
-different product at $5.99 and has taken a real sale.
+★ **UPDATED 2026-10-04 — the QR goes to the ORDER PAGE, not straight to checkout.** Decoded out of
+the finished file rather than trusted: `https://lastminutedrafttool.com/order?board=nba`. That page
+states the $6, the window to 11 Apr 2027 and a support address before handing off to the right
+Stripe product — and it means the price or the offer can change later **without reissuing a QR that
+is already in the world.**
+
+★ **Source is `NBA_LMDT_AD30_CTV.mp4`. NOT `v01`,** which is superseded and still carries the old
+code that went straight to Stripe. Nothing ships from v01.
 
 **Confirm in the dashboard:** Vibe's accepted file size, container and whether they re-encode.
 
@@ -98,7 +103,15 @@ twice.
 
 ## What is NOT in this plan
 
-- **Social.** The 9:16 and 1:1 cuts are a different channel with a different close — a QR is dead
-  weight on a phone-held screen. That is the Meta plan, and it needs rewriting for NBA and the $6
-  link before it runs.
+- **Social.** Cut and delivered, but a **different channel with a different close** — a QR is dead
+  weight on a phone-held screen, so the social version speaks and shows the domain instead.
+  `cuts/NBA_LMDT_SOCIAL_9x16.mp4` and `cuts/NBA_LMDT_SOCIAL_1x1.mp4`, both from
+  `NBA_LMDT_AD30_SOCIAL.mp4`, both 30.00s.
+
+  ★ **Social is mastered to −14 LUFS, not −24.** Instagram, TikTok and YouTube normalise to roughly
+  −14; a −24 file plays noticeably quiet against everything around it. Same spot, two deliveries,
+  two targets — do not submit the CTV master to social or the social cut to Vibe.
+
+  The ad *plan* for social is still unwritten: `META-AD.md` is NFL-era and points at the dead $5.99
+  link.
 - **The NFL spot.** Still points at the $5.99 legacy link. Separate decision.
