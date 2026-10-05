@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-04T21:09:00Z",
-  "reportFile": "2026-10-04-1708.md",
-  "note": "Window 2026-10-04T17:09:00Z-2026-10-04T21:09:00Z. 11 claims (5 new, 6 carried), all unflagged, 3 PASS / 8 FAIL. New FAIL: Planner pin deployed (hub 91dd0bf, live chunk planner-86PyM_eE.js) but never seen rendering; health story-poll/exception P0 exclusion not built (p0=true live on an 'exception' row db547ede). Carried FAIL: OWN 21:05Z report footer still says NBA tool does not exist + NFL 'free' (own-run.mjs 207-208); draft-tool-copy.md still $5.99; draft-board-nba 2 files uncommitted, no expiry; content-kit 7 commits unpushed (HEAD 141c468, remotes b3290f8) third review running; Vibe not checkable (read 6 Oct); TUBE sent 4, all visible, still not scheduled. PASS: charter decay line bf6143e3; Sunday plan f8504fc; two story-poll rows closed. Review commits: spec status block c936b46, report d012dd7."
+  "lastReview": "2026-10-05T01:09:00Z",
+  "reportFile": "2026-10-04-2108.md",
+  "note": "Window 2026-10-04T21:09:00Z-2026-10-05T01:09:00Z. 0 new claims (Glenn did not type; last interactive timestamp 20:06Z). 8 carried, all unflagged, 1 PASS / 7 FAIL. PASS: content-kit pushed, origin and backup at 141c468. Still FAIL: Planner pin never seen rendering (hub 91dd0bf); health p0=true on 'exception' row db547ede, fix not built; OWN footer fixed in own-run.mjs 7d793c6 but no run has printed it (5am ET run proves it, read own/reports footer at the 1pm review); draft-tool-copy.md still $5.99; draft-board-nba committed 2bc17aa but expiry not built; Vibe not checkable (read 6 Oct); TUBE not scheduled. Report commit 20127c0."
 }
