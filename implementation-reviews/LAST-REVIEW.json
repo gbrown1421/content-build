@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-05T01:09:00Z",
-  "reportFile": "2026-10-04-2108.md",
-  "note": "Window 2026-10-04T21:09:00Z-2026-10-05T01:09:00Z. 0 new claims (Glenn did not type; last interactive timestamp 20:06Z). 8 carried, all unflagged, 1 PASS / 7 FAIL. PASS: content-kit pushed, origin and backup at 141c468. Still FAIL: Planner pin never seen rendering (hub 91dd0bf); health p0=true on 'exception' row db547ede, fix not built; OWN footer fixed in own-run.mjs 7d793c6 but no run has printed it (5am ET run proves it, read own/reports footer at the 1pm review); draft-tool-copy.md still $5.99; draft-board-nba committed 2bc17aa but expiry not built; Vibe not checkable (read 6 Oct); TUBE not scheduled. Report commit 20127c0."
+  "lastReview": "2026-10-05T17:11:16Z",
+  "reportFile": "2026-10-05-1308.md",
+  "note": "Window 2026-10-05T01:09:00Z-2026-10-05T17:11:16Z. 1 new claim (OWN spacing/retry, 15559aa, unflagged), 7 carried. 0 PASS / 8 FAIL. Both OWN items close if the 5pm ET scheduled run (21:04Z) writes a report with the NBA footer and no CHECKS NOT MADE. Still FAIL: Planner pin unseen (hub 91dd0bf); health lists exception row and by-hand Story poll as overdue, fix not built; draft-tool-copy.md still 5.99; link expiry not built; Vibe not checkable (read 6 Oct); TUBE not scheduled. Also: content-kit b9fe398 on backup, not origin. Report commit 7b3407d."
 }
