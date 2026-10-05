@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-05T17:11:16Z",
-  "reportFile": "2026-10-05-1308.md",
-  "note": "Window 2026-10-05T01:09:00Z-2026-10-05T17:11:16Z. 1 new claim (OWN spacing/retry, 15559aa, unflagged), 7 carried. 0 PASS / 8 FAIL. Both OWN items close if the 5pm ET scheduled run (21:04Z) writes a report with the NBA footer and no CHECKS NOT MADE. Still FAIL: Planner pin unseen (hub 91dd0bf); health lists exception row and by-hand Story poll as overdue, fix not built; draft-tool-copy.md still 5.99; link expiry not built; Vibe not checkable (read 6 Oct); TUBE not scheduled. Also: content-kit b9fe398 on backup, not origin. Report commit 7b3407d."
+  "lastReview": "2026-10-05T21:12:30Z",
+  "reportFile": "2026-10-05-1708.md",
+  "note": "Window 2026-10-05T17:11:16Z-2026-10-05T21:12:30Z. 0 new claims, 8 carried. 2 PASS / 6 FAIL. Both OWN items PASSED on the 5pm scheduled run (1e8bc8e) and drop off. Still FAIL: Planner pin unseen (hub 91dd0bf); health lists exception row and by-hand Story poll as overdue, fix not built; draft-tool-copy.md still 5.99; link expiry not built; Vibe not checkable (read 6 Oct); TUBE not scheduled. Also: content-kit b9fe398 on backup, not origin. Report commit 298b98b."
 }
