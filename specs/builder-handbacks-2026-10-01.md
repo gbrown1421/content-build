@@ -56,3 +56,18 @@ update calendar_entries set assigned_to='glenn', handoff_reason='Builder 2026-10
 -- Story polls staged in content-kit/out/drive (jpg + txt both on disk)
 update calendar_entries set copy_state='staged' where id in ('6a59bc1e-638d-49e4-9718-a140324254c3','9cdf1edf-dd4f-4513-9f30-1955ee3467f4','3af03093-b8e0-4ee5-a564-c30c8aa3b065','3f806110-d0a9-4631-afaa-4ac5a474f9b1');
 ```
+
+## Update — 5 Oct 2026 morning run
+
+- All four hand-backs above still stand: none of the four build-file entries has changed (the only
+  build-file commit since 30 Sep is `f8504fc`, which appended 19–25 Oct). Row 1 is tomorrow, 12:00.
+- The SQL above is still unapplied as of the last calendar list on disk (peer run, 4 Oct 06:41 ET).
+- **New Story poll staged:** RVA · Fri 23 Oct 08:00 · THE RED EYE —
+  `C:\Users\gbrow\Downloads\content-kit\out\drive\2026-10-23-0800-RVA.jpg` + `.txt`, copy verbatim
+  from `CONTENT-BUILD-RVA.md` line 1193. Its calendar row id is not known to the Builder (the row
+  list on disk predates the 19–25 Oct plan), so its `copy_state='staged'` update is by date:
+
+```sql
+update calendar_entries set copy_state='staged', assigned_to='glenn'
+where project='rva' and post_date='2026-10-23' and post_time='08:00' and title ilike 'Story poll%';
+```
