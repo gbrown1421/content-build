@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-06T17:14:18Z",
-  "reportFile": "2026-10-06-1308.md",
-  "note": "Window 2026-10-06T01:09:39Z-2026-10-06T17:14:18Z. 5 new claims, 6 carried. 4 PASS / 6 FAIL. PASS: story-poll stamp; health byHand + exception skip (closes the carried health item); health publish clock; booked = Story polls ruling in charter 2c-1. FAIL: status rename (producer-sweep SKILL.md lines 30 and 36 still say ready / needs_media); Planner pin (THE AISLE still booked, not closed via the Planner after ef87f0d); draft-tool-copy.md still 5.99; link expiry not built; Vibe not checkable; TUBE not scheduled. Report commit 29e2afa."
+  "lastReview": "2026-10-06T21:10:44Z",
+  "reportFile": "2026-10-06-1708.md",
+  "note": "Window 2026-10-06T17:14:18Z-2026-10-06T21:10:44Z. 0 new claims, 6 carried. 0 PASS / 6 FAIL, all unchanged from 13:08: producer-sweep SKILL.md lines 30 and 36 still say ready / needs_media; THE AISLE still booked; draft-tool-copy.md still 5.99; link expiry not built; Vibe not checkable; TUBE not scheduled. Also: RVA row 42593104 still planned 5h past slot; scheduler idle ~18:20Z-20:28Z, cause not established. Report commit 2060ff6."
 }
