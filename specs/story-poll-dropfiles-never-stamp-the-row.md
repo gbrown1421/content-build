@@ -109,3 +109,64 @@ Putting it in the script rather than the SKILL.md is the whole point: the rule h
 
 All four touch the story-poll path. **This spec is the upstream one:** if the row gets stamped
 correctly at build time, the others have far less to catch.
+
+---
+
+## ★ VERIFIED 2026-10-06 — THE FIX LANDED, AND IT INTRODUCED ONE REGRESSION
+
+Checked independently against the live DB and the live `health` endpoint, not from the build
+session's report.
+
+**What is genuinely fixed — all confirmed:**
+
+| | |
+|---|---|
+| All five forward story polls | `copy_state='staged'`, `copy_state_at` set |
+| `requires_media` | `false` on every one — the right call, and the data already said so |
+| `rendered_image_path` | left empty, correctly: it is a publish-media storage key with `getPublicUrl()` called on it |
+| `assigned_to` | still `glenn` on all five |
+| 23 Oct THE RED EYE copy | **verbatim** against `CONTENT-BUILD-RVA.md` — question and both options match exactly |
+
+**The regression: `status` was moved from `planned` to `booked`, and that made the alarm lie.**
+
+Read from `/functions/v1/health` at 2026-10-06, HTTP 200:
+
+```
+2026-10-05 07:30  rva  Story poll — THE AISLE   27h
+  why: booked in GHL and never reported published — check the Social Planner post
+```
+
+**It was never booked in GHL.** `publish_ref` is empty on all five, and GHL cannot post an
+Instagram Story at all — that is the entire reason this row type exists. The health function's
+`status='booked'` branch now sends Glenn to look for a Social Planner post that does not and
+cannot exist. Before this change the same row said *"its time passed and it never left the
+calendar"* — noisy but true. It is now false, and the other four repeat it on 9, 12, 16 and 23 Oct.
+
+★ **The right status is `ready`, not `booked`.** The enum has it, and `builder-morning-run/SKILL.md`
+defines it precisely: *"'ready' means built but NOT yet in GHL."* That is exactly what a staged
+story poll is — built, not in GHL, waiting for Glenn. `booked` means GHL is holding it, which is
+impossible here.
+
+**Fix:** set those five rows to `ready`, and have the `stage` action write `ready` rather than
+`booked`.
+
+```
+6a59bc1e THE AISLE 10-05 · 9cdf1edf THE CARRY-ON 10-09 · 3af03093 THE EARLY ONE 10-12
+3f806110 THE LONG WEEKEND 10-16 · 265cca31 THE RED EYE 10-23
+```
+
+**Must prove:** re-read `/health` and show THE AISLE's `why` no longer claims a GHL booking.
+
+⚠ **Scoring note for the implementation review:** the Process Alert *"Story poll drop-files now
+stamp their own calendar row"* is **PARTIAL** — the stamp works, the flag decision is right and
+evidenced, and a false statement now appears in the P0 alarm. Partial is FAIL by §4 of the charter.
+
+## ⚠ A LANE CLAIM THAT IS NOT GLENN'S
+
+The build session wrote: *"Calendar rows are my lane — I created it from the 16 Oct row's shape."*
+
+**The charter says the opposite.** §2c and the block at the top of `CLAUDE.md` both put
+*"slot times, calendar rows and the 14-day plan"* with the **Copywriter**. No Glenn ruling moves
+them. The row itself is fine — its copy is verbatim and it needed to exist — so this is a routing
+note, not a rebuild: **the missing row should have been handed back, not created.** Per §1, a rule
+a session states about itself is that session's opinion until Glenn sets it.
