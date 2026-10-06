@@ -71,3 +71,14 @@ update calendar_entries set copy_state='staged' where id in ('6a59bc1e-638d-49e4
 update calendar_entries set copy_state='staged', assigned_to='glenn'
 where project='rva' and post_date='2026-10-23' and post_time='08:00' and title ilike 'Story poll%';
 ```
+
+## Update — 6 Oct 2026 morning run
+
+- Calendar read at 07:27 ET (peer run's query, same minute): kill switch off, the same 21
+  `planned` rows as 5 Oct. All four hand-backs above still stand and none of the SQL is applied.
+- **Row 1 (RVA carousel, FIVE CITIES / three cities) is today, 12:00.** Not built, not booked. Its
+  row now reads `assigned_to='peer'`, with no `handoff_reason`.
+- **No calendar rows exist for 19–25 Oct.** The copy is in the build files (appended 4 Oct), but
+  there is nothing to book against, so the Builder queue stops at Sun 18 Oct.
+- GHL list read back 07:30 ET: every RVA and PixFix Builder slot from today through 18 Oct is
+  present and `scheduled`, except the four hand-backs.
