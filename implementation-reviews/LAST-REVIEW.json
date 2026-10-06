@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-06T01:09:39Z",
-  "reportFile": "2026-10-05-2108.md",
-  "note": "Window 2026-10-05T21:12:30Z-2026-10-06T01:09:39Z. 0 new claims, 6 carried. 0 PASS / 6 FAIL. Still FAIL: Planner pin unseen (hub 91dd0bf); health lists exception row and by-hand Story poll as overdue, fix not built; draft-tool-copy.md still 5.99; link expiry not built; Vibe not checkable (read 6 Oct); TUBE not scheduled. content-kit b9fe398 now on origin. Report commit 884d7c1."
+  "lastReview": "2026-10-06T17:14:18Z",
+  "reportFile": "2026-10-06-1308.md",
+  "note": "Window 2026-10-06T01:09:39Z-2026-10-06T17:14:18Z. 5 new claims, 6 carried. 4 PASS / 6 FAIL. PASS: story-poll stamp; health byHand + exception skip (closes the carried health item); health publish clock; booked = Story polls ruling in charter 2c-1. FAIL: status rename (producer-sweep SKILL.md lines 30 and 36 still say ready / needs_media); Planner pin (THE AISLE still booked, not closed via the Planner after ef87f0d); draft-tool-copy.md still 5.99; link expiry not built; Vibe not checkable; TUBE not scheduled. Report commit 29e2afa."
 }
