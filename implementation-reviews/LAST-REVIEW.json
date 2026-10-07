@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-07T17:10:47Z",
-  "reportFile": "2026-10-07-1309.md",
-  "note": "Window 2026-10-07T01:10:48Z-2026-10-07T17:10:47Z. 0 new claims, 6 carried. 0 PASS / 6 FAIL, all unchanged: producer-sweep SKILL.md lines 30 and 36 still say ready / needs_media (4th fail); THE AISLE still booked (per 15:54Z sweep, row not read directly); draft-tool-copy.md still 5.99; link expiry not built; Vibe not checkable; TUBE not scheduled. RVA row 42593104 now exception (closed). Scheduler ran normally."
+  "lastReview": "2026-10-07T21:09:55Z",
+  "reportFile": "2026-10-07-1708.md",
+  "note": "Window 2026-10-07T17:10:47Z-2026-10-07T21:09:55Z. 0 new claims, 6 carried. 0 PASS / 6 FAIL, all unchanged: producer-sweep SKILL.md lines 30 and 36 still say ready / needs_media (5th fail); THE AISLE still unposted (per 17:54Z sweep, row not read directly); draft-tool-copy.md still 5.99; link expiry not built; Vibe not checkable; TUBE not scheduled. PixFix 18:00 reel still has no SAY column. Scheduler ran normally."
 }
