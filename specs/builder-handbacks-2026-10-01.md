@@ -82,3 +82,24 @@ where project='rva' and post_date='2026-10-23' and post_time='08:00' and title i
   there is nothing to book against, so the Builder queue stops at Sun 18 Oct.
 - GHL list read back 07:30 ET: every RVA and PixFix Builder slot from today through 18 Oct is
   present and `scheduled`, except the four hand-backs.
+
+## Update — 7 Oct 2026 morning run
+
+- No same-morning calendar list existed (Builder fired 06:19 ET, before the peer run), so this run
+  worked from the 6 Oct 07:27 list, `health/channels.mjs`, the GHL scheduled list (read 06:20 ET)
+  and a scan of the interactive transcripts for calendar writes since. Kill switch: NOT RE-READ.
+- **Row 1 (RVA carousel, 6 Oct 12:00) has expired** — 18 h past its slot, still `planned`, never
+  built. The Builder cannot write the status. Replace the row-1 hand-back above with:
+
+```sql
+update calendar_entries set status='exception' where id='42593104-21c1-4c8a-aa5e-cdc778f4b658' and status='planned';
+```
+
+- **The Story poll SQL above is obsolete.** `rva/build-poll-dropfiles.mjs` now stamps the rows
+  itself; run 06:21 ET, 9 of 9 returned 200. Staged: 5, 9, 12, 16 and 23 Oct
+  (`265cca31-82b6-4539-9a7c-eeac0497f4ee` is the 23 Oct row). The four September/2 Oct rows
+  answered `alreadyClosed`.
+- Hand-backs 2, 3 and 4 (PixFix 12, 15, 17 Oct) still stand: the build files are unchanged since
+  4 Oct. Their three `assigned_to='glenn'` updates above are still unapplied as far as this run
+  can tell.
+- Still no calendar rows for 19–25 Oct other than the 23 Oct Story poll.
