@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-06T21:10:44Z",
-  "reportFile": "2026-10-06-1708.md",
-  "note": "Window 2026-10-06T17:14:18Z-2026-10-06T21:10:44Z. 0 new claims, 6 carried. 0 PASS / 6 FAIL, all unchanged from 13:08: producer-sweep SKILL.md lines 30 and 36 still say ready / needs_media; THE AISLE still booked; draft-tool-copy.md still 5.99; link expiry not built; Vibe not checkable; TUBE not scheduled. Also: RVA row 42593104 still planned 5h past slot; scheduler idle ~18:20Z-20:28Z, cause not established. Report commit 2060ff6."
+  "lastReview": "2026-10-07T01:10:48Z",
+  "reportFile": "2026-10-06-2108.md",
+  "note": "Window 2026-10-06T21:10:44Z-2026-10-07T01:10:48Z. 0 new claims, 6 carried. 0 PASS / 6 FAIL, all unchanged from 13:08: producer-sweep SKILL.md lines 30 and 36 still say ready / needs_media; THE AISLE not closed (per 23:54Z sweep, row not read directly); draft-tool-copy.md still 5.99; link expiry not built; Vibe not checkable; TUBE not scheduled. Also: RVA row 42593104 still not exception 9h past slot. Scheduler ran normally. Report commit 2bc3c1b."
 }
