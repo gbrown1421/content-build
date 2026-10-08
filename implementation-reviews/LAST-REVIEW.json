@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-08T17:11:58Z",
-  "reportFile": "2026-10-08-1308.md",
-  "note": "Window 2026-10-08T01:09:42Z-2026-10-08T17:11:58Z. 5 new claims, all unflagged, 6 carried. 3 PASS / 8 FAIL. New FAILs: 'carrying on' still at CONTENT-BUILD-UGH.md:1068 (12 Oct static); PixFix hand-back rows c3a5fd46/17965912/657191ae not read back (Fri 6:18am Builder run proves it). Carried unchanged: producer-sweep SKILL.md lines 30 and 36 (7th fail); THE AISLE; draft-tool-copy.md 5.99; link expiry; Vibe; TUBE. PixFix voice still unpicked, round4 audition waiting on Glenn."
+  "lastReview": "2026-10-08T21:11:52Z",
+  "reportFile": "2026-10-08-1708.md",
+  "note": "Window 2026-10-08T17:11:58Z-2026-10-08T21:11:52Z. 6 new claims (2 flagged, 4 unflagged), all PASS; 8 carried FAILs unchanged. 6 PASS / 8 FAIL. Review fixed two stale five-day bump lines (Draft-Tool-Groups aa99b0d) and one stale memory line (pixfix-reel-voice). 14 Oct PixFix reel booked, both GHL ids PRESENT. Carried: carrying on at CONTENT-BUILD-UGH.md:1068; PixFix hand-back rows (Fri 6:18am Builder run proves); producer-sweep SKILL.md lines 30/36 (8th fail); THE AISLE; draft-tool-copy.md 5.99; link expiry; Vibe; TUBE schedule. Open with Glenn: two of three TUBE bumps removed by YouTube, session said stop the bumps, no answer yet."
 }
