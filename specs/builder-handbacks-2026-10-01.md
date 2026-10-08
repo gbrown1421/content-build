@@ -116,3 +116,13 @@ update calendar_entries set status='exception' where id='42593104-21c1-4c8a-aa5e
   on the 7 Oct list all three rows still read `planned` with no `assigned_to`. Their three
   `assigned_to='glenn'` updates above are still unapplied. Row 2 is Monday.
 - Still no calendar rows for 19–25 Oct other than the 23 Oct Story poll.
+
+## Update — 8 Oct 2026, interactive session (Glenn: "go for 10")
+
+- **Hand-backs 2, 3 and 4 are APPLIED.** Rows `c3a5fd46`, `17965912` and `657191ae` now read
+  `assigned_to='glenn'` with the `handoff_reason` text from the SQL above (read back from the
+  update's `returning`). Status is still `planned` on all three.
+- Row 1 was already `exception`. Nothing in the SQL above is outstanding any more.
+- **Superseded the same morning (charter review, 11:40am 8 Oct):** the interactive session then fixed all
+  three entries (`d549572`) and reported the rows as `assigned_to='builder'` with `handoff_reason`
+  cleared. That is the session's report, not a read-back by a scheduled run.
