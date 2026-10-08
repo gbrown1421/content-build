@@ -891,10 +891,10 @@ From $129. Order: https://pixfixstudio.com/order.html
 
 | Slide | Picture | Text on slide |
 |---|---|---|
-| 1 | One striking front-view portrait | **ONE GREAT PICTURE.**<br>This is where most people stop. |
-| 2 | The same character, second angle, subtly different | **THE SECOND PICTURE IS THE TEST.** |
-| 3 | Side-by-side with drift ringed | **DRIFT.**<br>Jaw, collar, hairline. |
-| 4 | The matched eight-plate set | **A SET IS DECIDED ONCE.**<br>Then it holds. |
+| 1 | `_subjects/brenda-front-checker.png` — the front plate alone | **ONE GREAT PICTURE.**<br>This is where most people stop. |
+| 2 | `_subjects/mabel-34-pair.png` — the two three-quarters side by side | **THE SECOND PICTURE IS THE TEST.** |
+| 3 | `_subjects/brenda-profiles-pair.png` — left and right profile side by side | **THESE THREE HAVE TO AGREE.**<br>Jaw, collar, hairline. |
+| 4 | `_subjects/tank-plate-8.png` — the matched eight-plate set | **A SET IS DECIDED ONCE.**<br>Then it holds. |
 | 5 | Brand card | **Eight angles. Nine files.**<br>From $129 · pixfixstudio.com |
 
 **HEADLINE:** ONE PICTURE IS NOT A CHARACTER
@@ -965,10 +965,10 @@ From $129. Order: https://pixfixstudio.com/order.html
 
 | Slide | Picture | Text on slide |
 |---|---|---|
-| 1 | Order page on a screen | **1 · YOU SEND WHAT YOU HAVE.**<br>Reference images, or a description. |
-| 2 | Intake scan panel | **2 · WE CHECK IT FIRST.**<br>Before you pay anything. |
-| 3 | Work in progress plates | **3 · THE SET GETS DRAWN.**<br>Eight angles, decided together. |
-| 4 | Folder of nine files | **4 · NINE FILES COME BACK.**<br>No watermark. |
+| 1 | `out/pixfix-0921/order-step-upload.png` | **1 · YOU SEND ONE IMAGE.**<br>That is the whole intake. |
+| 2 | `_subjects/order-check-crop.png` | **2 · WE CHECK IT FIRST.**<br>Before you pay anything. |
+| 3 | `_subjects/kaito-plate-2x4.png` — the eight angles as one grid | **3 · THE SET GETS DRAWN.**<br>Eight angles, decided together. |
+| 4 | `_subjects/brenda-plate-8.png` — the turnaround plate | **4 · NINE FILES COME BACK.**<br>Eight angles plus the plate. No watermark. |
 | 5 | Brand card | **From $129.**<br>pixfixstudio.com |
 
 **HEADLINE:** HOW AN ORDER ACTUALLY RUNS
@@ -977,7 +977,7 @@ From $129. Order: https://pixfixstudio.com/order.html
 ```
 Four steps, and the second one is the one people do not expect.
 
-You send what you have. We check the reference before you pay, because a set built from images that were never going to work is nobody's idea of a good outcome. Then the eight angles get drawn as one set of decisions. Then nine files come back.
+You send one image. We check it before you pay, because a set built from a reference that was never going to work is nobody's idea of a good outcome. Then the eight angles get drawn as one set of decisions. Then nine files come back.
 
 From $129. Order: https://pixfixstudio.com/order.html
 ```
@@ -1005,8 +1005,9 @@ From $129. Order: https://pixfixstudio.com/order.html
 ## SAT 17 OCT · 12:00 · COMMENT POLL · What are you building?
 **FB comment poll.** PixFix styling, A/B split card on white.
 
-**Card:** left half — a stack of pages suggesting a book or serial. Right half — a screen suggesting
-a game or visual novel. Letter **A** over the pages, letter **B** over the screen.
+**Card:** TYPE ONLY — no photography, because the library holds character plates and nothing else.
+PixFix white, split down the middle with the PixFix rule. Left half: letter **A** above
+**SOMETHING WRITTEN**. Right half: letter **B** above **SOMETHING PLAYED**. Nothing else on the card.
 
 **Poll options:** `A — Something written` · `B — Something played`
 
