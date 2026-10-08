@@ -510,7 +510,7 @@ One image in, from $129. Order: https://pixfixstudio.com/order.html
 ```
 When a character turnaround comes back, which angle do you check first?
 
-A — the front. It is the one you already know, so any drift shows straight away.
+A — the front. It is the one you already know, so any drift shows right away.
 B — the back. It is the one that gets skipped, so it is where mistakes hide.
 
 There is a right answer and we will argue for it in the comments.
@@ -944,11 +944,11 @@ read from the SAY column below, so it is the one that had to be right first.
 | Time | Picture | On screen | Say |
 |---|---|---|---|
 | 0–3s | Plate 1, front view | 1 | `Anyone can get the first picture.` |
-| 3–7s | Plates 2 through 7 in quick succession | 2 · 3 · 4 · 5 · 6 · 7 | `It is the second one that catches you out.` |
-| 7–12s | Plate 8 held beside plate 1 | STILL THE SAME CHARACTER. | `So we settle all eight together, in one go.` |
+| 3–7s | Plates 2 through 7 in quick succession | 2 · 3 · 4 · 5 · 6 · 7 | `The second one is where it falls apart.` |
+| 7–12s | Plate 8 held beside plate 1 | STILL THE SAME CHARACTER. | `So we lock all eight down at the same time.` |
 | 12–16s | Full set, then brand card | THAT IS THE WHOLE JOB · From $129 · pixfixstudio.com | `And the eighth still looks like the first.` |
 
-**32 spoken words · 16s allows 36 at 2.3 w/s.** Beat by beat: 6 / 9 / 9 / 8 against budgets of
+**32 spoken words · 16s allows 36 at 2.3 w/s.** Beat by beat: 6 / 8 / 10 / 8 against budgets of
 6.9 / 9.2 / 11.5 / 9.2. No timing moved.
 
 ★ **The price is on screen and not spoken here.** Adding *"from a hundred and twenty-nine
@@ -1108,7 +1108,7 @@ is closed.
 | 0–4s | A single plate on transparent checkerboard | NINE FILES | `Here is what actually lands in your folder.` |
 | 4–9s | Plates fanning out one by one | *(nothing — the voice carries it)* | `Eight angles, and every one of them is the same character.` |
 | 9–14s | The contact sheet assembling | + THE CONTACT SHEET | `Then a ninth file with all eight on one sheet.` |
-| 14–19s | Plate dropped onto a page, then a title card, no cut-out | NO WATERMARK | `They are transparent, so they drop straight onto a page.` |
+| 14–19s | Plate dropped onto a page, then a title card, no cut-out | NO WATERMARK | `They are transparent, so they drop right onto a page.` |
 | 19–24s | Brand card | FROM $129 · PIXFIXSTUDIO.COM | `Yours to use, from a hundred and twenty-nine dollars.` |
 
 **49 spoken words · 24s allows 55 at 2.3 w/s.** Beat by beat: 8 / 11 / 10 / 10 / 10 against

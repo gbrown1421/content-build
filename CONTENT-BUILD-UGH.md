@@ -1067,7 +1067,7 @@ You checked the forecast. You put the umbrella by the door specifically so this 
 
 You are now forty feet from the door, in the rain, doing the math on whether going back is worse than carrying on.
 
-It is never worse. You carry on anyway. Everyone does.
+It is never worse. You go anyway. Everyone does.
 
 UGH happens. We still show up.
 ```
