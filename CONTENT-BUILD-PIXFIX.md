@@ -932,20 +932,30 @@ From $129. Order: https://pixfixstudio.com/order.html
 
 ## WED 14 OCT · 18:00 · REEL · The eighth picture
 **PixFix styling.** Library assets only, no generation.
-⚠ **THE "NO VOICEOVER" PREMISE HERE IS WRONG — COPYWRITER ACTION NEEDED (implementation-review,
-2026-09-30).** This entry was written silent citing "item 3 below". That item is now **CLOSED BY
-GLENN 2026-09-29** (charter commit `05a8a188`): PixFix reels **should** speak, voices narrowed and
-approved 2026-09-03. The 30 Sep reel's SAY column was restored from git in `02138a3` and the 7 Oct
-reel was flagged at the same time; this entry was missed. It never had a SAY column, so there is
-nothing to recover — **one has to be authored, and the Producer may not author it.** Slot is
-14 Oct, so there is lead time.
+**This reel SPEAKS.** ★ **NARRATION AUTHORED 2026-10-08** after Glenn heard the 30 Sep script
+read in twelve voices: *"the copy is poorly written. it should be more conversational. we are
+selling a product not listing ingredients."* The fault was the script, not the voice — fragments
+make any narrator stop dead on every period and read an inventory. This one is written as full
+sentences that run into each other.
 
-| Time | Picture | On screen |
-|---|---|---|
-| 0–3s | Plate 1, front view | PICTURE ONE |
-| 3–7s | Plates 2 through 7 in quick succession | TWO. THREE. FOUR. FIVE. SIX. SEVEN. |
-| 7–12s | Plate 8 held beside plate 1 | STILL THE SAME CHARACTER. |
-| 12–16s | Full set, then brand card | THAT IS THE WHOLE JOB · From $129 · pixfixstudio.com |
+★ **THIS IS THE VOICE-AUDITION SCRIPT.** The PixFix narrator is not cast yet and the audition is
+read from the SAY column below, so it is the one that had to be right first.
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–3s | Plate 1, front view | 1 | `Anyone can get the first picture.` |
+| 3–7s | Plates 2 through 7 in quick succession | 2 · 3 · 4 · 5 · 6 · 7 | `It is the second one that catches you out.` |
+| 7–12s | Plate 8 held beside plate 1 | STILL THE SAME CHARACTER. | `So we settle all eight together, in one go.` |
+| 12–16s | Full set, then brand card | THAT IS THE WHOLE JOB · From $129 · pixfixstudio.com | `And the eighth still looks like the first.` |
+
+**32 spoken words · 16s allows 36 at 2.3 w/s.** Beat by beat: 6 / 9 / 9 / 8 against budgets of
+6.9 / 9.2 / 11.5 / 9.2. No timing moved.
+
+★ **The price is on screen and not spoken here.** Adding *"from a hundred and twenty-nine
+dollars"* costs 7 words and puts the script over its cap; a number is the screen's job
+(CONTENT-FORMATS: the voice carries the detail, the screen carries what must be read).
+★ **"PICTURE ONE" came off screen** — the voice now says it. The bare numerals are left as a
+visual count, which is where a list of angles belongs.
 
 **CAPTION (Facebook)**
 ```
@@ -1095,11 +1105,24 @@ is closed.
 
 | Time | Picture | On screen | Say |
 |---|---|---|---|
-| 0–4s | A single plate on transparent checkerboard | EIGHT ANGLES | `You get eight angles.` |
-| 4–9s | Plates fanning out one by one | ONE CHARACTER | `Every one of them the same character, which is the entire point.` |
-| 9–14s | The contact sheet assembling | PLUS THE CONTACT SHEET | `And a contact sheet, so the next person who draws them has something to work from.` |
-| 14–19s | Plate dropped onto a page, then a title card, no cut-out | NO WATERMARK | `Transparent backgrounds. No watermark. Yours.` |
-| 19–24s | Brand card | FROM $129 · PIXFIXSTUDIO.COM | `From a hundred and twenty nine dollars.` |
+| 0–4s | A single plate on transparent checkerboard | NINE FILES | `Here is what actually lands in your folder.` |
+| 4–9s | Plates fanning out one by one | *(nothing — the voice carries it)* | `Eight angles, and every one of them is the same character.` |
+| 9–14s | The contact sheet assembling | + THE CONTACT SHEET | `Then a ninth file with all eight on one sheet.` |
+| 14–19s | Plate dropped onto a page, then a title card, no cut-out | NO WATERMARK | `They are transparent, so they drop straight onto a page.` |
+| 19–24s | Brand card | FROM $129 · PIXFIXSTUDIO.COM | `Yours to use, from a hundred and twenty-nine dollars.` |
+
+**49 spoken words · 24s allows 55 at 2.3 w/s.** Beat by beat: 8 / 11 / 10 / 10 / 10 against
+budgets of 9.2 / 11.5 / 11.5 / 11.5 / 11.5. No timing moved.
+
+★ **The spoken line says "a ninth file with all eight on one sheet" and names it nothing.** That
+is deliberate: the facts list at line 28 calls it **one turnaround plate**, while "contact sheet"
+is used nine times in this file and has already gone out in published posts. Both describe the
+same artifact. The narration is true under either, so it does not pick a side, and the on-screen
+line keeps the established **CONTACT SHEET** rather than renaming shipped brand language on a
+session's own judgement.
+⚠ **One of those two names should win, and that is Glenn's call, not mine** — flagged, not fixed.
+★ **"EIGHT ANGLES" and "ONE CHARACTER" came off screen** — beat 2 says both out loud, so the
+screen was repeating the voice.
 
 **CAPTION (Facebook)**
 ```
