@@ -103,3 +103,16 @@ update calendar_entries set status='exception' where id='42593104-21c1-4c8a-aa5e
   4 Oct. Their three `assigned_to='glenn'` updates above are still unapplied as far as this run
   can tell.
 - Still no calendar rows for 19–25 Oct other than the 23 Oct Story poll.
+
+## Update — 8 Oct 2026 morning run
+
+- Builder fired 06:19 ET, before the peer run again. Worked from the peer's 7 Oct 06:41 list (kill
+  switch off then; NOT RE-READ today), `health/channels.mjs`, the GHL scheduled list (06:20 ET) and
+  a scan of every session transcript since for calendar writes (none found).
+- Row 1 (RVA carousel, 6 Oct) was set to `exception` by the peer run on 7 Oct. Closed.
+- `rva/build-poll-dropfiles.mjs` run 06:21 ET: 9 of 9 returned 200. 9, 12, 16 and 23 Oct staged;
+  5 Oct now answers `alreadyClosed`.
+- Hand-backs 2, 3 and 4 (PixFix 12, 15, 17 Oct) still stand: build files unchanged since 4 Oct, and
+  on the 7 Oct list all three rows still read `planned` with no `assigned_to`. Their three
+  `assigned_to='glenn'` updates above are still unapplied. Row 2 is Monday.
+- Still no calendar rows for 19–25 Oct other than the 23 Oct Story poll.
