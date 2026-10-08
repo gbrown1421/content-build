@@ -1240,3 +1240,9 @@ Order: https://pixfixstudio.com/order.html
    silent under the same false premise and needs a SAY column written. **Which voice** each PixFix
    reel uses is the one thing still genuinely open — the approved set exists, nobody has mapped
    PixFix to one of them.
+   ★ **VOICE DECIDED BY GLENN 2026-10-08:** two ElevenLabs narrators, **Sarah** and **Eric**,
+   picked at random per reel — *"use B and E were we randomly pick between the two so we have a
+   little variation"*. Ids, settings and the render command are in `CONTENT-FORMATS.md` under the
+   narrator table; `content-kit/pixfix/say.mjs` makes the pick. Nothing about the voice is open
+   any more. What remains is the Producer's: `pixfix/build-turnaround-reel.mjs` still has no
+   voice track at all.

@@ -21,6 +21,23 @@ Music sits under the voice and never replaces it.
 | UGH | Dry, deadpan, in on the joke. Never zany. |
 | PixFix | Studio craftsman. Plain, precise, quietly proud of the work. |
 
+★ **PIXFIX HAS TWO NARRATORS, PICKED AT RANDOM PER REEL** (Glenn, 2026-10-08: *"use B and E were
+we randomly pick between the two so we have a little variation"*). This is the one exception to
+one-narrator-per-property, and it is his.
+
+| | ElevenLabs voice | voice_id |
+|---|---|---|
+| B | Sarah | `EXAVITQu4vr4xnSDxMaL` |
+| E | Eric | `cjVigY5qzO86Huf0OWal` |
+
+Model `eleven_multilingual_v2`, stability 0.4, similarity 0.75, style 0.2, speaker boost on —
+the settings the auditions were approved at. One voice reads the whole reel; the variation is
+between reels, never between lines. Render with `content-kit/pixfix/say.mjs` through
+`railway run` (the ElevenLabs key lives only in the Railway env). It makes the pick, writes it to
+`voice.json` beside the audio and reuses it on a re-render. **Do not choose the voice by hand.**
+The MiniMax system voices were auditioned first and rejected as robotic and too deliberate;
+the audition files are in `content-kit/out/pixfix/_voice-audition/`.
+
 **The voice carries the detail; the screen carries only what has to be read.** If a line works
 spoken, it does not also go on screen. Text on screen is for the things a viewer must see —
 a name, a number, a call to action.
