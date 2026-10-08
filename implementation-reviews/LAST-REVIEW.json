@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-08T01:09:42Z",
-  "reportFile": "2026-10-07-2108.md",
-  "note": "Window 2026-10-07T21:09:55Z-2026-10-08T01:09:42Z. 0 new claims, 6 carried. 0 PASS / 6 FAIL, all unchanged: producer-sweep SKILL.md lines 30 and 36 still say ready / needs_media (6th fail); THE AISLE not re-read; draft-tool-copy.md still 5.99; link expiry not built; Vibe not checkable; TUBE not scheduled. PixFix 7 Oct 18:00 reel went dark (not_rendered, no SAY column); row 95f5dddf needs exception. Scheduler ran normally."
+  "lastReview": "2026-10-08T17:11:58Z",
+  "reportFile": "2026-10-08-1308.md",
+  "note": "Window 2026-10-08T01:09:42Z-2026-10-08T17:11:58Z. 5 new claims, all unflagged, 6 carried. 3 PASS / 8 FAIL. New FAILs: 'carrying on' still at CONTENT-BUILD-UGH.md:1068 (12 Oct static); PixFix hand-back rows c3a5fd46/17965912/657191ae not read back (Fri 6:18am Builder run proves it). Carried unchanged: producer-sweep SKILL.md lines 30 and 36 (7th fail); THE AISLE; draft-tool-copy.md 5.99; link expiry; Vibe; TUBE. PixFix voice still unpicked, round4 audition waiting on Glenn."
 }
