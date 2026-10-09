@@ -126,3 +126,18 @@ update calendar_entries set status='exception' where id='42593104-21c1-4c8a-aa5e
 - **Superseded the same morning (charter review, 11:40am 8 Oct):** the interactive session then fixed all
   three entries (`d549572`) and reported the rows as `assigned_to='builder'` with `handoff_reason`
   cleared. That is the session's report, not a read-back by a scheduled run.
+
+## Update — 9 Oct 2026 morning run
+
+- Builder fired 06:19 ET, before the peer run. Worked from the peer's 8 Oct 06:41 list plus the
+  interactive session's 8 Oct 10:44 ET read-back (rows 2, 3 and 4 `planned`, `assigned_to='builder'`).
+  Kill switch NOT RE-READ by this run; the producer's `book` action checks it server-side.
+- **Hand-backs 2, 3 and 4 are BUILT AND BOOKED**, confirmed present in the GHL scheduled list:
+  - 12 Oct 12:00 carousel `c3a5fd46` -> `6ac8c0cf6fb1669fc7151122,6ac8c0d0584a85a87fcb4fe5`
+  - 15 Oct 12:00 carousel `17965912` -> `6ac8c0d871e999f8a8fb6171,6ac8c0d871e999f8a8fb6250`
+  - 17 Oct 12:00 comment poll `657191ae` -> `6ac8c0db5125a0c009cd4a55`
+- **One picture differs from the entry.** 15 Oct slide 3 names `_subjects/kaito-plate-2x4.png`. That
+  file is cut off through its bottom row (two of the eight angles end at the waist), so the slide
+  uses `_subjects/kaito-plate-8.png`: same character, same eight angles, one intact 4x2 grid.
+- Nothing in this file is outstanding. Still no calendar rows for 19-25 Oct other than the 23 Oct
+  Story poll.
