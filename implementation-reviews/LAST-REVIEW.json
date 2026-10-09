@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-09T01:10:29Z",
-  "reportFile": "2026-10-08-2108.md",
-  "note": "Window 2026-10-08T21:11:52Z-2026-10-09T01:10:29Z. 0 new claims (no interactive activity, no Process Alerts). 0 PASS / 8 FAIL, all 8 carried unchanged. Found: 7:37pm charter review session e039fae5 ended mid tool call trying to edit producer-sweep/SKILL.md lines 30/36; edit did not land, scheduler not blocked. Carried: carrying on at CONTENT-BUILD-UGH.md:1068; PixFix hand-back rows (Fri 6:18am Builder run proves); producer-sweep SKILL.md lines 30/36 (9th fail); THE AISLE; draft-tool-copy.md 5.99; link expiry; Vibe; TUBE schedule + Stop the bumps unanswered."
+  "lastReview": "2026-10-09T17:11:21Z",
+  "reportFile": "2026-10-09-1309.md",
+  "note": "Window 2026-10-09T01:10:29Z-2026-10-09T17:11:21Z. 3 PASS / 7 FAIL. Closed: producer-sweep SKILL.md status labels (cbf33fd), PixFix hand-back rows (5 GHL ids PRESENT), build-type-poll.mjs (6807493). New FAIL: OWN filters 7dd2b90 not yet loaded by a scheduled run (5:04pm run proves). Carried: carrying on at CONTENT-BUILD-UGH.md:1068; THE AISLE; draft-tool-copy.md 5.99; link expiry; Vibe; TUBE schedule + Stop the bumps. Contradiction: producer-sweep SKILL.md line 36 video role vs charter 2c, handover in report."
 }
