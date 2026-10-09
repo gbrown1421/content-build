@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-08T21:11:52Z",
-  "reportFile": "2026-10-08-1708.md",
-  "note": "Window 2026-10-08T17:11:58Z-2026-10-08T21:11:52Z. 6 new claims (2 flagged, 4 unflagged), all PASS; 8 carried FAILs unchanged. 6 PASS / 8 FAIL. Review fixed two stale five-day bump lines (Draft-Tool-Groups aa99b0d) and one stale memory line (pixfix-reel-voice). 14 Oct PixFix reel booked, both GHL ids PRESENT. Carried: carrying on at CONTENT-BUILD-UGH.md:1068; PixFix hand-back rows (Fri 6:18am Builder run proves); producer-sweep SKILL.md lines 30/36 (8th fail); THE AISLE; draft-tool-copy.md 5.99; link expiry; Vibe; TUBE schedule. Open with Glenn: two of three TUBE bumps removed by YouTube, session said stop the bumps, no answer yet."
+  "lastReview": "2026-10-09T01:10:29Z",
+  "reportFile": "2026-10-08-2108.md",
+  "note": "Window 2026-10-08T21:11:52Z-2026-10-09T01:10:29Z. 0 new claims (no interactive activity, no Process Alerts). 0 PASS / 8 FAIL, all 8 carried unchanged. Found: 7:37pm charter review session e039fae5 ended mid tool call trying to edit producer-sweep/SKILL.md lines 30/36; edit did not land, scheduler not blocked. Carried: carrying on at CONTENT-BUILD-UGH.md:1068; PixFix hand-back rows (Fri 6:18am Builder run proves); producer-sweep SKILL.md lines 30/36 (9th fail); THE AISLE; draft-tool-copy.md 5.99; link expiry; Vibe; TUBE schedule + Stop the bumps unanswered."
 }
