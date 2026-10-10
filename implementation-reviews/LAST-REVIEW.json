@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-09T21:13:05Z",
-  "reportFile": "2026-10-09-1709.md",
-  "note": "Window 2026-10-09T17:11:21Z-2026-10-09T21:13:05Z. 6 PASS / 7 FAIL. Closed: OWN filters 7dd2b90 (loaded by 21:05Z run). New PASS: OWN widening 88e4e63, any-fantasy-sport ruling c8ed38f (+memory a22fb57), send pre-flight 39c03f0, bumps retired 9ac11a9, Meta pixel 03e747e live on 4 pages. New FAIL: Meta 20/day x5 campaign 52646561456208 still a draft, no audience or end date. Carried: carrying on at CONTENT-BUILD-UGH.md:1068; THE AISLE; draft-tool-copy.md 5.99; link expiry; Vibe; TUBE schedule. Contradictions: producer-sweep SKILL.md lines 20/36 video role vs charter 2c; sweeps say no EP 009 mp4 but content-kit/ugh/tails/out has it. Zero Process Alerts posted; 7 unflagged."
+  "lastReview": "2026-10-10T01:12:32Z",
+  "reportFile": "2026-10-09-2109.md",
+  "note": "Window 2026-10-09T21:13:05Z-2026-10-10T01:12:32Z. 0 PASS / 8 FAIL. New FAIL: 8/day TUBE cap removed from roster (b4c981e) but tube/send.mjs line 28 still defaults TUBE_CAP to 8. Meta campaign now published and funded per session 2fdb915c read-back, not checkable from a scheduled run so still FAIL. Carried: TUBE schedule (openers.json still 6, untouched since 2:53pm); carrying on at CONTENT-BUILD-UGH.md:1068; THE AISLE; draft-tool-copy.md 5.99; link expiry; Vibe. Contradictions: roster vs send.mjs cap; META-AD.md 21-54/nine interests vs published 21-65+/five; 7:54pm sweep says UGH Friday reel Facebook half dead while 7:41pm charter review says it published 6:09pm (misfire log reposted:false is stale); producer-sweep SKILL.md lines 20/36 vs charter 2c. Memory written: 34a3893. Zero Process Alerts posted; 1 unflagged."
 }
