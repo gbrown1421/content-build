@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-10T17:10:15Z",
-  "reportFile": "2026-10-10-1308.md",
-  "note": "Window 2026-10-10T01:12:32Z-2026-10-10T17:10:15Z. 0 PASS / 8 FAIL. 0 new claims; Glenn's five turns were status questions. All 8 carried, none closed: send.mjs line 28 still defaults TUBE_CAP to 8 (session told Glenn the cap is gone); Meta delivery read by session (, 988 impressions, Active) but not recorded in META-AD.md; no TUBE scheduled task (openers now 10, ed70e15); carrying on at CONTENT-BUILD-UGH.md:1068; THE AISLE; draft-tool-copy.md 5.99; link expiry; Vibe. Also: tube/outreach-log.csv has 11 uncommitted lines. Zero Process Alerts, zero unflagged."
+  "lastReview": "2026-10-10T21:02:00Z",
+  "reportFile": "2026-10-10-1708.md",
+  "note": "Window 2026-10-10T17:10:15Z-2026-10-10T21:02:00Z (the moment the transcripts were read, so nothing after it is skipped). 2 PASS / 9 FAIL. Closed: TUBE cap (send.mjs default 0, 2d0e28e). New FAILs: tube/.send.lock tracked in git; Reddit ad published per Glenn but REDDIT-AD.md predates launch. Carried: Meta record, TUBE scheduled task, carrying on at CONTENT-BUILD-UGH.md:1068, THE AISLE, draft-tool-copy.md 5.99, link expiry, Vibe. Contradictions: build file says EP 009 does not exist (it does; Sunday rows have no copy); session 2fdb915c said it would fix slate memory that is already correct; memory says test charge refunded, unconfirmed. Committed memory 061bf60. Zero Process Alerts, three unflagged. EP 009 YouTube copy was in flight at 20:55Z."
 }
