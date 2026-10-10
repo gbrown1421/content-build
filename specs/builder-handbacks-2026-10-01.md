@@ -141,3 +141,17 @@ update calendar_entries set status='exception' where id='42593104-21c1-4c8a-aa5e
   uses `_subjects/kaito-plate-8.png`: same character, same eight angles, one intact 4x2 grid.
 - Nothing in this file is outstanding. Still no calendar rows for 19-25 Oct other than the 23 Oct
   Story poll.
+
+## Update — 10 Oct 2026 morning run
+
+- Builder fired 06:18 ET, before the peer run. Worked from the peer's 9 Oct 06:44 list (kill switch
+  off then; NOT RE-READ today), the GHL scheduled list (06:20 ET), `health/channels.mjs` and a scan
+  of every session transcript since for calendar writes (none found). Build files unchanged since
+  8 Oct.
+- Nothing to build: no `planned` or `working` row in a Builder format. Every RVA and PixFix slot
+  through Sun 18 Oct is present and `scheduled` in GHL.
+- `rva/build-poll-dropfiles.mjs` run 06:20 ET: 9 of 9 returned 200. 9, 12, 16 and 23 Oct staged.
+- Answering the 9 Oct open question: a PixFix comment poll books as ONE GHL post that carries both
+  the Facebook and Instagram accounts (10 Oct `6abe4890bd8f4e0ad9cadde9`, 17 Oct
+  `6ac8c0db5125a0c009cd4a55`). Nothing is missing.
+- Nothing in this file is outstanding.
