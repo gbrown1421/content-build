@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-10T01:12:32Z",
-  "reportFile": "2026-10-09-2109.md",
-  "note": "Window 2026-10-09T21:13:05Z-2026-10-10T01:12:32Z. 0 PASS / 8 FAIL. New FAIL: 8/day TUBE cap removed from roster (b4c981e) but tube/send.mjs line 28 still defaults TUBE_CAP to 8. Meta campaign now published and funded per session 2fdb915c read-back, not checkable from a scheduled run so still FAIL. Carried: TUBE schedule (openers.json still 6, untouched since 2:53pm); carrying on at CONTENT-BUILD-UGH.md:1068; THE AISLE; draft-tool-copy.md 5.99; link expiry; Vibe. Contradictions: roster vs send.mjs cap; META-AD.md 21-54/nine interests vs published 21-65+/five; 7:54pm sweep says UGH Friday reel Facebook half dead while 7:41pm charter review says it published 6:09pm (misfire log reposted:false is stale); producer-sweep SKILL.md lines 20/36 vs charter 2c. Memory written: 34a3893. Zero Process Alerts posted; 1 unflagged."
+  "lastReview": "2026-10-10T17:10:15Z",
+  "reportFile": "2026-10-10-1308.md",
+  "note": "Window 2026-10-10T01:12:32Z-2026-10-10T17:10:15Z. 0 PASS / 8 FAIL. 0 new claims; Glenn's five turns were status questions. All 8 carried, none closed: send.mjs line 28 still defaults TUBE_CAP to 8 (session told Glenn the cap is gone); Meta delivery read by session (, 988 impressions, Active) but not recorded in META-AD.md; no TUBE scheduled task (openers now 10, ed70e15); carrying on at CONTENT-BUILD-UGH.md:1068; THE AISLE; draft-tool-copy.md 5.99; link expiry; Vibe. Also: tube/outreach-log.csv has 11 uncommitted lines. Zero Process Alerts, zero unflagged."
 }
