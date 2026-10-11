@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-10T21:02:00Z",
-  "reportFile": "2026-10-10-1708.md",
-  "note": "Window 2026-10-10T17:10:15Z-2026-10-10T21:02:00Z (the moment the transcripts were read, so nothing after it is skipped). 2 PASS / 9 FAIL. Closed: TUBE cap (send.mjs default 0, 2d0e28e). New FAILs: tube/.send.lock tracked in git; Reddit ad published per Glenn but REDDIT-AD.md predates launch. Carried: Meta record, TUBE scheduled task, carrying on at CONTENT-BUILD-UGH.md:1068, THE AISLE, draft-tool-copy.md 5.99, link expiry, Vibe. Contradictions: build file says EP 009 does not exist (it does; Sunday rows have no copy); session 2fdb915c said it would fix slate memory that is already correct; memory says test charge refunded, unconfirmed. Committed memory 061bf60. Zero Process Alerts, three unflagged. EP 009 YouTube copy was in flight at 20:55Z."
+  "lastReview": "2026-10-11T01:09:00Z",
+  "reportFile": "2026-10-10-2109.md",
+  "note": "Window 2026-10-10T21:02:00Z-2026-10-11T01:09:00Z (the moment the transcripts were read). 4 PASS / 11 FAIL. New FAILs: SFX rule rewritten in memory reel-production from one episode (Glenn has not ruled; file contradicts itself and CONTENT-BUILD-UGH 803/924); slate memory wrongly annotated off-by-one (corrected by review, d4501fa). Send lock half closed (untracked in 11ab16f, not gitignored). Carried: Reddit record, Meta record, TUBE scheduled task, carrying on at CONTENT-BUILD-UGH.md:1068, THE AISLE, draft-tool-copy.md 5.99, link expiry, Vibe. Contradictions: build file still says EP 009 does not exist (Sunday rows have no copy, 9am slot); ep010 story says LAUGH, manifest GROW; refund unconfirmed. PASS: Ep010 build c62ac1b, Ep011 build 437a0ae, hiccup cues fe6afab, EP010 story 1f81778. Zero Process Alerts, two unflagged."
 }
