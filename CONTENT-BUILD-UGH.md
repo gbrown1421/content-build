@@ -1030,28 +1030,51 @@ UGH happens. We still show up.
 ---
 
 ## SUN 11 OCT · 09:00 · UGH TAILS EP 009 — POSTER
-★ **NOT READY — EP 009 DOES NOT EXIST.** Only `Downloads/UGH TAILS_Ep009 Build Plan.docx` is on
-disk. There is no `UGH-Tails-Ep009-THE-LEASH-NARRATED.mp4` and no poster plate; built episodes stop
-at EP 008. **Do not build or book this row** — set `assigned_to = 'glenn'` and hand it over.
-
-Copy is deliberately withheld rather than drafted: a poster announcing "five o'clock today" for an
-episode that will not land is precisely the promise this file forbids. **To clear this, EP 009 must
-be built and rendered by Fri 9 Oct** to hold the Sunday slot.
-
-**Held for release once the episode exists:** title THE LEASH, tagline
-*"The walk had not started. The knot had."*
+★ **DEAD — the slot passed 3h before the episode copy existed.** Mark `exception`. Do not re-date
+it (Glenn, 2026-09-20: a slot more than two hours past is dead and gone). The episode still airs at
+five; the 12:00 and 17:00 rows carry it.
 
 ---
 
 ## SUN 11 OCT · 12:00 · UGH TAILS EP 009 — EPISODE ANNOUNCEMENT
-★ **NOT READY — depends on EP 009.** See 09:00 above. Do not build or book.
+★ **COPY WRITTEN 2026-10-11, NOT READY CLEARED.** EP 009 exists —
+`OneDrive/UGH Tails - Series 1/UGH Tails_EP 009/UGH-Tails-Ep009-THE-LEASH-NARRATED.mp4` — and is
+loaded on YouTube, private until 5pm today.
+
+Frame from the episode: three dogs standing still in the entry hall, three leashes crossing between
+them. Blue band (Grow Through It). No CTA burned.
+
+**HEADLINE:** THE LEASH<br>TODAY AT FIVE
+
+**CAPTION (Facebook)**
+```
+Episode 009 of UGH Tails lands at five o'clock today.
+
+THE LEASH. The walk had not started. The knot had.
+
+Three dogs, three leashes, and one tangle that got worse every time somebody helped.
+```
+**IG last line:** `Episode 009 — THE LEASH. Today at five.`
 
 ---
 
 ## SUN 11 OCT · 17:00 · UGH TAILS EP 009 — REEL
-★ **NOT READY — depends on EP 009.** See 09:00 above. Do not build or book.
-When it is built, the end card names EP 010 = THE STICK, *"Tank found the perfect stick. It had
-infrastructure."*
+**The episode.** `UGH-Tails-Ep009-THE-LEASH-NARRATED.mp4` in
+`OneDrive/UGH Tails - Series 1/UGH Tails_EP 009/`. No overlay, no CTA burned — the episode carries
+its own end cards. **No SFX.**
+★ End card names EP 010 = THE STICK, *"Tank found the perfect stick. It had infrastructure."*
+
+**CAPTION (Facebook)**
+```
+UGH Tails — Episode 009. THE LEASH.
+
+The walk had not started. The knot had.
+
+Three leashes, three dogs, and a tangle that got worse every time somebody tried to help. Pip stops moving long enough to figure out that the fix is everyone else standing still too.
+
+New episode every Sunday at five.
+```
+**IG last line:** `New episode every Sunday at five.`
 
 ---
 
