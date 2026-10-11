@@ -28,8 +28,14 @@ If that refuses for a missing token, Glenn runs this **once** and picks **UGH** 
 chooser:
 
 ```bash
-YT_TOKEN_OUT=C:/Users/gbrow/.secrets/yt-token-ugh.json node C:/Users/gbrow/Downloads/Draft-Tool-Groups/own/yt-auth.mjs
+node C:/Users/gbrow/Downloads/Draft-Tool-Groups/own/yt-auth.mjs --out C:/Users/gbrow/.secrets/yt-token-ugh.json --channel UGH
 ```
+
+★ **Use `--out`, never the env var.** Each terminal tab starts a fresh shell, so a variable
+set in one tab does not reach node in the next — and the script's default path is
+`yt-token.json`, the draft-tool token TUBE's live comment threads run on. It also prints a
+loud "STOP, that is the UGH channel" afterwards: that guard is for the comment bot, it is
+wrong here, and the token is correct. Do not revoke on the strength of it.
 
 ★ **Do not use `yt/meta.mjs` or `yt/_client.mjs`.** They read `content-kit/.env`, whose OAuth
 client (`362662212350-l2cvbeijqv95lns…`) is still in **Testing** — a Testing app's refresh token
@@ -95,8 +101,33 @@ the read-back, not the HTTP 200.** A 200 says the request was accepted, not that
   would wipe fields off a live video.
 - **Dry run unless `--go`.**
 
+## Step 5 — the playlist, ONLY once the episode is public
+
+```bash
+node yt/ugh-playlist.mjs          # dry run
+node yt/ugh-playlist.mjs --go
+```
+
+Adds the episode to the UGH Tails playlist in season order. **It skips anything still
+private on purpose** — a private video in a public playlist shows viewers a grey "Private
+video" row, so a queued episode would park one there for weeks. Run it after the video
+flips public, not when it is uploaded. Idempotent; it writes nothing when nothing changed.
+
 ## Status
 
-⚠ **UNPROVEN as of 2026-10-11.** `ugh-meta.mjs` has never completed a real write, because the UGH
-token does not exist yet. The files for **009, 010 and 011 are written and committed** (`7dd3ef0`)
-and are waiting on the one-time consent in Step 1. Say so plainly until a read-back proves it.
+✅ **PROVEN 2026-10-11** (commit `308468a`). All three applied and read back off the channel:
+
+```
+XBOt5wt6w9A  UGH Tails EP 009 — The Leash
+-m5fw-zjdoA  UGH Tails EP 010 — The Stick
+jHwG7gRy1ow  UGH Tails EP 011 — The Hiccups
+```
+
+★ **The read-back lies for a few seconds.** `videos.list` is stale right after a write — the
+first run reported the OLD title and 0 tags on all three while every write had in fact
+landed. `ugh-meta.mjs` now polls for ~15s and prints `✓ confirmed on the channel`. If you see
+that line, it is real. If you see `✗ STILL NOT REFLECTED`, check by hand before re-running.
+
+★ **Keep this to the ask.** On the run that proved this, the metadata took five minutes and
+then the session went and rebuilt the playlist unasked. Glenn: *"you are just fucking creating
+issues out of thin air."* Set the metadata, report it, stop.
