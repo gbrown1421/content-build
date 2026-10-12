@@ -168,3 +168,21 @@ update calendar_entries set status='exception' where id='42593104-21c1-4c8a-aa5e
   staged; the five older slots answered `alreadyClosed`.
 - Still open, not the Builder's: 9 Oct Story poll THE CARRY-ON reads `booked`; UGH Tails EP 009
   (11 Oct, three rows) still `planned` on glenn; UGH Friday reel 9 Oct partial (Facebook failed).
+
+## Update — 12 Oct 2026 morning run
+
+- Builder fired 06:18 ET, before the peer run. Worked from the peer's 11 Oct 06:41 list (kill switch
+  off then; NOT RE-READ today), the GHL scheduled list (06:19 ET), `health/channels.mjs` and a scan
+  of every session transcript since for calendar writes (two found, both UGH Tails EP 009 rows, not
+  Builder formats). RVA and PixFix build files unchanged since 4 and 8 Oct.
+- Nothing to build: no `planned` or `working` row in a Builder format. Every RVA and PixFix slot
+  through Sun 18 Oct is present and `scheduled` in GHL.
+- `rva/build-poll-dropfiles.mjs` run 06:20 ET: 9 of 9 returned 200, 0 failed. 9, 12, 16 and 23 Oct
+  staged; the five older slots answered `alreadyClosed`. Today's 07:30 background (THE EARLY ONE)
+  inspected: RVA navy and orange, title and line match the entry, middle clear for the sticker.
+- Still no calendar rows found for 19-25 Oct other than the 23 Oct Story poll. The copy for that
+  week is in both build files (RVA line 1100 on, PixFix line 1056 on); with no rows there is
+  nothing to book against, so the Builder queue ends Sun 18 Oct.
+- Still open, not the Builder's: 9 Oct Story poll THE CARRY-ON reads `booked`; UGH Tails EP 009
+  poster (11 Oct 09:00) `planned` and 21 h past; EP 009 reel and the 9 Oct Friday reel partial
+  (Facebook failed); UGH comment poll 14 Oct 12:00 still `planned`.
