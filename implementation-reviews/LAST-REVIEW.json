@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-12T17:11:44Z",
-  "reportFile": "2026-10-12-1309.md",
-  "note": "Window 2026-10-12T01:08:00Z-2026-10-12T17:11:44Z. 0 PASS / 14 FAIL. 2 new claims, both UNFLAGGED, no Process Alert: (1) Glenn asked for the UGH Facebook page to be reconnected before the next reel; not done, session judged it connected on the evidence of a static while both failures are reels; ddb0421 unpushed. (2) <BR> burned into UGH graphics; spec f6e07af pushed, producer not changed, CONTENT-BUILD-UGH.md lines 1108/1155/1198/1221/1267 still carry <br>. Carried: content-kit ahead 3 (308468a, e4c5f28, ddb0421); EP 009 now public but not in playlist; SFX rule unruled; send lock; Reddit; Meta; Planner pin; 5.99; link expiry; Vibe. Dropped after this report: EP 009 poster (closed as exception) and 'carrying on' line 1091 (post published then deleted by Glenn). yt-auth.mjs closed (in 4dd9997). TUBE zero on ten fires in a row."
+  "lastReview": "2026-10-12T21:11:17Z",
+  "reportFile": "2026-10-12-1709.md",
+  "note": "Window 2026-10-12T17:11:44Z-2026-10-12T21:11:17Z. 1 PASS / 11 FAIL. 1 new claim, FLAGGED: Process Alert 'the producer can no longer burn markup into an image' PASS (c23002b + 796840f on origin, 9 tests pass, proof PNG fetched signed-out Last-Modified 18:17:31Z, spec deleted c6b5e19). No unflagged claims. Carried FAILs: UGH Facebook reels refused (undiagnosed, next reel Fri 16 Oct 5pm); content-kit ahead 3 (308468a, e4c5f28, ddb0421); EP 009 not in playlist; SFX rule unruled; send lock; Reddit; Meta; Planner pin; 5.99; link expiry; Vibe. Build-file <br> lines no longer a defect (producer converts the tag). TUBE zero on fourteen fires in a row."
 }
