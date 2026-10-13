@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-13T01:10:47Z",
-  "reportFile": "2026-10-12-2109.md",
-  "note": "Window 2026-10-12T21:11:17Z-2026-10-13T01:10:47Z. 0 PASS / 11 FAIL. 0 new claims: no Glenn turns, no Process Alerts. All 11 FAILs carried from 17:09 and re-checked. New evidence on the UGH Facebook reels: publish_results error is 'Facebook ran into a temporary issue' on both (5:54pm sweep); RVA reel 6pm 12 Oct shows no failed platform. content-kit still ahead 3 (308468a, e4c5f28, ddb0421); EP 009 not in playlist; SFX rule unruled; send lock; Reddit; Meta; Planner pin; 5.99; link expiry; Vibe. TUBE zero on eighteen fires in a row."
+  "lastReview": "2026-10-13T17:13:11Z",
+  "reportFile": "2026-10-13-1309.md",
+  "note": "Window 2026-10-13T01:10:47Z-2026-10-13T17:13:11Z. 3 PASS / 11 FAIL. PASS: markup first strike (hub 7be54da, 8688194; charter line written d8805bc6), TUBE 7-day guard (c169b5b, ab6df40; task file committed 1164250), Glenn's AI/art-control ruling (unflagged; charter d8805bc6, memory c6c07cf). 11 FAILs carried unchanged: UGH Facebook reels; content-kit ahead 3; EP 009 playlist; SFX rule; send lock; Reddit; Meta; Planner pin; 5.99; link expiry; Vibe. Kalshi Pulse empty since 11:03Z, kalshi.com reset from this machine, fixes offered not approved. TUBE list exhausted (20 of 21 contacted)."
 }
