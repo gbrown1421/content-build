@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-13T21:04:05Z",
-  "reportFile": "2026-10-13-1702.md",
-  "note": "Window 2026-10-13T17:13:11Z-2026-10-13T21:04:05Z. 0 new claims: no Glenn turns, no Process Alerts, scheduled runs only. 0 PASS / 11 FAIL, all 11 carried unchanged from 12 Oct 9:09pm. Three scheduled fires skipped 2:33-4:10pm ET (kalshi 3:16, tube-send 3:33, sweep 3:45), cause not established. Kalshi Pulse reachable again at 4:10pm. TUBE still 0 sent."
+  "lastReview": "2026-10-14T01:10:21Z",
+  "reportFile": "2026-10-13-2109.md",
+  "note": "Window 2026-10-13T21:04:05Z-2026-10-14T01:10:21Z. 0 new claims: no Glenn turns, no Process Alerts, 13 scheduled runs only. 1 PASS / 10 FAIL. Carried #2 (EP 009-012 metadata) closed: content-kit pushed to origin and backup at ddb0421 by the 7:40pm charter review. 10 carried unchanged from 12 Oct 9:09pm. No skipped fires. TUBE still 0 sent."
 }
