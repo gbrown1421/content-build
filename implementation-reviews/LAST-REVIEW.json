@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-14T01:10:21Z",
-  "reportFile": "2026-10-13-2109.md",
-  "note": "Window 2026-10-13T21:04:05Z-2026-10-14T01:10:21Z. 0 new claims: no Glenn turns, no Process Alerts, 13 scheduled runs only. 1 PASS / 10 FAIL. Carried #2 (EP 009-012 metadata) closed: content-kit pushed to origin and backup at ddb0421 by the 7:40pm charter review. 10 carried unchanged from 12 Oct 9:09pm. No skipped fires. TUBE still 0 sent."
+  "lastReview": "2026-10-14T17:10:28Z",
+  "reportFile": "2026-10-14-1309.md",
+  "note": "Window 2026-10-14T01:10:21Z-2026-10-14T17:10:28Z. 0 new claims: no Glenn turns, no Process Alerts, 38 scheduled-run transcripts only. 0 PASS / 10 FAIL, all carried. No skipped fires. Peer run booked noon UGH poll 6acf5cf97e92c59446f96eb6 with two noted departures from the entry."
 }
