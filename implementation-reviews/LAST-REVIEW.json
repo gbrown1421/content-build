@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-15T01:10:15Z",
-  "reportFile": "2026-10-14-2109.md",
-  "note": "Window 2026-10-14T21:10:34Z-2026-10-15T01:10:15Z. 0 new claims: no Glenn turns, no Process Alerts, 13 scheduled-run transcripts only. 0 PASS / 10 FAIL, all carried. No skipped fires. TUBE sent 0 all evening; OWN filter misses Yahoo! Sports."
+  "lastReview": "2026-10-15T17:10:15Z",
+  "reportFile": "2026-10-15-1308.md",
+  "note": "Window 2026-10-15T01:10:15Z-now. 0 new claims: no Glenn turns, no Process Alerts, 37 scheduled-run transcripts. 0 PASS / 10 FAIL, all carried. Horizon 3 days (19-25 Oct rows missing). Kalshi ~10:16Z fire skipped, morning runs 55/33 min late. project-board bab0535 unpushed to onedrive."
 }
