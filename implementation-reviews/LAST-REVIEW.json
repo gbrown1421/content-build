@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-16T17:10:17Z",
-  "reportFile": "2026-10-16-1309.md",
-  "note": "Window 2026-10-16T01:09:58Z-now. 0 new claims: no Glenn turns, no Process Alerts, all scheduled runs. 0 PASS / 10 FAIL, all carried. New: charter review and sweep disagree on whether a UGH reel is booked for 5pm today; peer run reports no driver_v2_runs row for 15 or 16 Oct; EP 010 render deadline is today."
+  "lastReview": "2026-10-16T21:12:58Z",
+  "reportFile": "2026-10-16-1709.md",
+  "note": "Window 2026-10-16T17:10:17Z-now. 0 new claims: no Glenn turns, no Process Alerts, all scheduled runs. 0 PASS / 10 FAIL, all carried. 5pm UGH reel contradiction still open (5:45pm sweep should settle it); UGH 52h, next slot Sat 11:00 still planned; EP 010 not rendered by its Fri deadline."
 }
