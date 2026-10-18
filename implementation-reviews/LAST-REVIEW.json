@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-18T01:10:06Z",
-  "reportFile": "2026-10-17-2109.md",
-  "note": "Window 2026-10-17T21:10:16Z-2026-10-18T01:10:06Z. 0 new claims: no Glenn turns, no Process Alerts, all scheduled runs, no commits. 10 FAIL carried. EP010 Sun 18 Oct copy still missing (line 1171 unchanged, last commit 3cdc862)."
+  "lastReview": "2026-10-18T17:10:30Z",
+  "reportFile": "2026-10-18-1309.md",
+  "note": "Window 2026-10-18T01:10:06Z-2026-10-18T17:10:30Z. 0 new claims: no Glenn turns, no Process Alerts, all scheduled runs, no commits besides prior review. 10 FAIL carried. EP010 Sun 18 Oct copy still missing (lines 1171-1187 unchanged); 09:00 slot past 2-hour rule."
 }
