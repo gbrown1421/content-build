@@ -1,0 +1,295 @@
+{
+  "total": 254,
+  "range": [
+    "2026-08-17",
+    "2026-10-19"
+  ],
+  "summary": [
+    {
+      "code": "CHS",
+      "name": "Charleston",
+      "n": 11,
+      "min": 98,
+      "median": 118,
+      "bestGrade": 10,
+      "avgGrade": 9,
+      "tens": 8,
+      "normalLow": 185
+    },
+    {
+      "code": "MCO",
+      "name": "Orlando",
+      "n": 11,
+      "min": 52,
+      "median": 124,
+      "bestGrade": 10,
+      "avgGrade": 9.1,
+      "tens": 5,
+      "normalLow": 90
+    },
+    {
+      "code": "LAS",
+      "name": "Las Vegas",
+      "n": 12,
+      "min": 208,
+      "median": 251,
+      "bestGrade": 10,
+      "avgGrade": 8.2,
+      "tens": 3,
+      "normalLow": 273
+    },
+    {
+      "code": "TPA",
+      "name": "Tampa",
+      "n": 8,
+      "min": 103,
+      "median": 143,
+      "bestGrade": 10,
+      "avgGrade": 8.1,
+      "tens": 2,
+      "normalLow": 125
+    },
+    {
+      "code": "BNA",
+      "name": "Nashville",
+      "n": 9,
+      "min": 127,
+      "median": 167,
+      "bestGrade": 10,
+      "avgGrade": 7.9,
+      "tens": 2,
+      "normalLow": 190
+    },
+    {
+      "code": "RSW",
+      "name": "Fort Myers",
+      "n": 8,
+      "min": 128,
+      "median": 176,
+      "bestGrade": 10,
+      "avgGrade": 7.7,
+      "tens": 2,
+      "normalLow": 235
+    },
+    {
+      "code": "AUA",
+      "name": "Aruba",
+      "n": 9,
+      "min": 304,
+      "median": 376,
+      "bestGrade": 10,
+      "avgGrade": 8,
+      "tens": 1,
+      "normalLow": 320
+    },
+    {
+      "code": "FLL",
+      "name": "Fort Lauderdale",
+      "n": 11,
+      "min": 157,
+      "median": 201,
+      "bestGrade": 6,
+      "avgGrade": 4.4,
+      "tens": 0,
+      "normalLow": 100
+    },
+    {
+      "code": "EWR",
+      "name": "Newark",
+      "n": 10,
+      "min": 200,
+      "median": 250,
+      "bestGrade": 7,
+      "avgGrade": 5,
+      "tens": 0,
+      "normalLow": 175
+    },
+    {
+      "code": "ORD",
+      "name": "Chicago",
+      "n": 8,
+      "min": 221,
+      "median": 265,
+      "bestGrade": 6,
+      "avgGrade": 4.3,
+      "tens": 0,
+      "normalLow": 185
+    },
+    {
+      "code": "MDW",
+      "name": "MDW",
+      "n": 13,
+      "min": 237,
+      "median": 277,
+      "bestGrade": 4.2,
+      "avgGrade": 4.1,
+      "tens": 0,
+      "normalLow": 270
+    },
+    {
+      "code": "DEN",
+      "name": "Denver",
+      "n": 10,
+      "min": 238,
+      "median": 290,
+      "bestGrade": 7,
+      "avgGrade": 5.4,
+      "tens": 0,
+      "normalLow": 235
+    },
+    {
+      "code": "MIA",
+      "name": "Miami",
+      "n": 11,
+      "min": 247,
+      "median": 303,
+      "bestGrade": 6,
+      "avgGrade": 4.1,
+      "tens": 0,
+      "normalLow": 155
+    },
+    {
+      "code": "LGA",
+      "name": "LGA",
+      "n": 10,
+      "min": 249,
+      "median": 279,
+      "bestGrade": 4.2,
+      "avgGrade": 4.1,
+      "tens": 0,
+      "normalLow": 175
+    },
+    {
+      "code": "JFK",
+      "name": "New York",
+      "n": 10,
+      "min": 249,
+      "median": 289,
+      "bestGrade": 4.2,
+      "avgGrade": 4.2,
+      "tens": 0,
+      "normalLow": 208
+    },
+    {
+      "code": "BOS",
+      "name": "Boston",
+      "n": 12,
+      "min": 256,
+      "median": 286,
+      "bestGrade": 6.2,
+      "avgGrade": 5.2,
+      "tens": 0,
+      "normalLow": 143
+    },
+    {
+      "code": "CUN",
+      "name": "Cancun",
+      "n": 9,
+      "min": 334,
+      "median": 373,
+      "bestGrade": 7,
+      "avgGrade": 6.1,
+      "tens": 0,
+      "normalLow": 295
+    },
+    {
+      "code": "MBJ",
+      "name": "Montego Bay",
+      "n": 9,
+      "min": 353,
+      "median": 414,
+      "bestGrade": 7,
+      "avgGrade": 5.5,
+      "tens": 0,
+      "normalLow": 315
+    },
+    {
+      "code": "PUJ",
+      "name": "Punta Cana",
+      "n": 8,
+      "min": 403,
+      "median": 460,
+      "bestGrade": 9,
+      "avgGrade": 8.1,
+      "tens": 0,
+      "normalLow": 305
+    },
+    {
+      "code": "PLS",
+      "name": "Providenciales",
+      "n": 9,
+      "min": 503,
+      "median": 566,
+      "bestGrade": 7,
+      "avgGrade": 6.3,
+      "tens": 0,
+      "normalLow": 380
+    },
+    {
+      "code": "DUB",
+      "name": "Dublin",
+      "n": 9,
+      "min": 548,
+      "median": 699,
+      "bestGrade": 7.8,
+      "avgGrade": 6.4,
+      "tens": 0,
+      "normalLow": 490
+    },
+    {
+      "code": "FCO",
+      "name": "Rome",
+      "n": 9,
+      "min": 575,
+      "median": 725,
+      "bestGrade": 7.8,
+      "avgGrade": 5.9,
+      "tens": 0,
+      "normalLow": 600
+    },
+    {
+      "code": "LIS",
+      "name": "Lisbon",
+      "n": 9,
+      "min": 577,
+      "median": 718,
+      "bestGrade": 7,
+      "avgGrade": 5.7,
+      "tens": 0,
+      "normalLow": 550
+    },
+    {
+      "code": "CDG",
+      "name": "Paris",
+      "n": 9,
+      "min": 640,
+      "median": 780,
+      "bestGrade": 6.8,
+      "avgGrade": 5.7,
+      "tens": 0,
+      "normalLow": 550
+    },
+    {
+      "code": "LGW",
+      "name": "LGW",
+      "n": 10,
+      "min": 712,
+      "median": 869,
+      "bestGrade": 5.8,
+      "avgGrade": 4.4,
+      "tens": 0,
+      "normalLow": 655
+    },
+    {
+      "code": "LHR",
+      "name": "London",
+      "n": 10,
+      "min": 746,
+      "median": 860,
+      "bestGrade": 6,
+      "avgGrade": 4.3,
+      "tens": 0,
+      "normalLow": 620
+    }
+  ]
+}

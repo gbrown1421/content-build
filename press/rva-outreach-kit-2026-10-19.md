@@ -13,10 +13,10 @@ Every number below was pulled live from the `deals` table or the outlet's own si
 
 | Fact | Value |
 |---|---|
-| Fares logged and graded | **259**, Aug 17 → Oct 19 (about four a day) |
-| Destinations tracked | **23** domestic and international |
+| Fares logged and graded | **254**, Aug 17 → Oct 19, 2026 (64 days, about four a day) |
+| Destinations covered in the data | **26** airports |
 | Cheapest found | **Orlando, $52 round trip** (Oct 7) |
-| Most repeated bargain | **Charleston, $98 — five separate times** since September |
+| Most repeated bargain | **Charleston, $98 — four separate times**: Sep 8, Sep 15, Sep 25, Oct 9 |
 | Other grade-10 fares | Orlando $96 / $104 / $109, Tampa $103, Charleston $108 / $118 / $123 |
 | What is NOT a deal right now | Paris $787, Lisbon $731, Rome $723, Dublin $721, Boston $283 |
 | RIC traffic 2025 | **4,922,994 passengers — third straight record year** |
@@ -71,7 +71,7 @@ arrangement, held back until after they say yes once. Do not merge it into the f
 - **Audience:** Richmond professionals and transplants who read one local email each morning.
 - **Why we fit:** Axios Local runs short, data-backed, immediately useful consumer items. We have a
   Richmond-specific dataset no one else holds and a counterintuitive finding inside it.
-- **Best value we offer:** Exclusive first look at the full 259-fare dataset, the route-by-route
+- **Best value we offer:** Exclusive first look at the full 254-fare dataset, the route-by-route
   breakdown, and a named local source who can explain it on the record.
 - **Primary desired action:** Get her to accept the dataset. The story follows that; the standing
   source relationship follows the story. One small yes at a time.
@@ -81,10 +81,15 @@ arrangement, held back until after they say yes once. Do not merge it into the f
 - **How we beat it:** We lead with what is *not* a deal. A promoter never volunteers that Paris is
   overpriced right now.
 
+⚠ **CORRECTED 2026-10-19 against the exported dataset.** Two numbers in the earlier draft did not
+survive the check: it said **259 fares** (the real graded count is **254**) and **Charleston $98
+five separate times** (it is **four** — Sep 8, Sep 15, Sep 25, Oct 9). Both are now right below.
+A count is a promise, and these were going to a reporter who can check them.
+
 **SUBJECT LINES**
-1. **259 RIC fares later: where Richmond is actually cheaper** ← Glenn's pick, send this one
+1. **254 RIC fares later: where Richmond is actually cheaper** ← Glenn's pick, send this one
 2. Richmond travelers are probably wrong about which trips need a DC drive
-3. We logged 259 RIC fares since August — the pattern surprised me
+3. We logged 254 RIC fares since August — the pattern surprised me
 4. Where RIC is actually cheaper than Dulles, and where it never is
 5. A Richmond airfare dataset you can have first
 
@@ -92,17 +97,18 @@ arrangement, held back until after they say yes once. Do not merge it into the f
 
 > Hi Karri,
 >
-> I've been tracking fares out of Richmond since mid-August and have now logged 259 deals, each
-> graded against what that specific route normally costs rather than against a generic definition
-> of "cheap."
+> I've been tracking fares out of Richmond since mid-August and have now logged 254 graded deals,
+> each scored against what that specific route normally costs rather than against a generic
+> definition of "cheap."
 >
 > The interesting part is the pattern.
 >
 > Richmond travelers often assume saving money means driving to Dulles or BWI. The data says that
-> depends heavily on where you're going.
+> depends heavily on where you're going — and not in the way most people would guess.
 >
-> Orlando hit $52 round trip on October 7. Charleston has reached $98 five separate times since
-> September. Meanwhile, fares to destinations like Paris and Rome currently aren't bargains at all.
+> Orlando hit $52 round trip on October 7. Charleston reached $98 four separate times since
+> September. But Miami and Fort Lauderdale averaged roughly twice their normal floor out of RIC,
+> and so did Boston. Same state, opposite answer.
 >
 > With RIC coming off another record passenger year, I think there's a useful Richmond story here:
 > When is flying from RIC actually the better deal, and when isn't it?
@@ -167,7 +173,7 @@ record passenger number supplies the news peg she needs to justify running it no
 
 **SUBJECT LINES**
 1. Which business routes out of RIC are actually priced competitively
-2. 259 Richmond fares, graded: what it says about local travel budgets
+2. 254 Richmond fares, graded: what it says about local travel budgets
 3. Richmond business travel data you can't get from a single fare search
 4. The RIC routes where companies are overpaying — and the ones where they're not
 5. Local airfare dataset, built in Midlothian, built for Richmond routes
@@ -180,11 +186,11 @@ record passenger number supplies the news peg she needs to justify running it no
 > rather than numbers. I've spent two months building the numbers.
 >
 > RVA Cheap Flights continuously tracks fares out of RIC and grades each one against what that
-> specific route normally costs — 259 fares logged since mid-August. That lets you separate an
+> specific route normally costs — 254 fares logged since mid-August. That lets you separate an
 > ordinary ticket from a genuinely unusual one, which a single search on a travel site can't do.
 >
 > There's a business-travel story in it. On the leisure routes, RIC is beating its reputation
-> badly — Orlando at $52 round trip, Charleston at $98 five separate times. On the long-haul routes
+> badly — Orlando at $52 round trip, Charleston at $98 four separate times. On the long-haul routes
 > that matter more to your readers, it's a different picture, and I can break that out by route.
 >
 > RIC just hit its third straight record year at 4.9 million passengers, so this is a growing line
@@ -261,7 +267,7 @@ outlet on this list.
 >
 > RVA Cheap Flights tracks fares out of RIC and grades each one against what that route normally
 > costs, so readers can tell a genuinely unusual fare from an ordinary one. Since mid-August we've
-> logged 259 of them — Orlando at $52 round trip, Charleston at $98 on five separate occasions.
+> logged 254 of them — Orlando at $52 round trip, Charleston at $98 on four separate occasions.
 >
 > **Here's the offer:** a weekly "Cheapest Flights Out of Richmond" item, written and formatted,
 > delivered to you ready to publish. Current fares, real travel dates, direct booking links. Your
@@ -280,7 +286,7 @@ outlet on this list.
 
 > Your readers spend a lot of energy finding cheap things to do in Richmond. Some of the best
 > bargains I'm seeing right now are cheap ways to leave it for a weekend — Charleston has been
-> under $100 round trip five separate times since September.
+> under $100 round trip four separate times since September.
 
 **VALUE EXCHANGE** — A free weekly ready-to-publish section, written and formatted, plus optional
 shareable graphics. We ask for a credit line and a link in the section.
@@ -326,7 +332,7 @@ decision to almost nothing. A recurring slot compounds in a way a single article
 > for exactly that reader.
 >
 > RVA Cheap Flights tracks fares out of RIC and grades each against what that route normally costs.
-> 259 fares logged since mid-August. Orlando hit $52 round trip. Charleston has come in at $98 five
+> 254 fares logged since mid-August. Orlando hit $52 round trip. Charleston has come in at $98 four
 > separate times. Just as usefully, I can tell your readers what *isn't* a deal — Paris and Rome are
 > both over $700 right now and not worth the excitement.
 >
@@ -344,8 +350,8 @@ decision to almost nothing. A recurring slot compounds in a way a single article
 **ALTERNATE OPENING**
 
 > Richmond travelers assume a cheap flight means driving to Dulles. Two months of fare data says
-> that's true for Europe and clearly false for Florida and the Carolinas, and I think your readers
-> would want to know which is which.
+> that's true for Boston, Miami and Fort Lauderdale — and clearly false for Charleston and Orlando.
+> Same state, opposite answer. I think your readers would want to know which is which.
 
 **VALUE EXCHANGE** — Weekly ready-to-run section, optional Richmond-newsletter exclusivity, and the
 underlying data if they ever want to report on it. We ask for credit and a link.
@@ -389,9 +395,10 @@ attaching its name. The GMRVA reference shows we understand their audience witho
 > one with real data under it.
 >
 > RVA Cheap Flights grades every fare out of RIC against what that specific route normally costs.
-> Since mid-August we've logged 259, and clear patterns have emerged: the Florida and Carolina
-> routes out of Richmond are reliably, repeatedly cheap — Orlando at $52, Charleston at $98 five
-> separate times — while the European routes almost never are. Paris is $787 right now. Rome $723.
+> Since mid-August we've logged 254, and the pattern is sharper than anyone would guess. Charleston
+> and Orlando are reliably, repeatedly cheap — $98 four separate times and $52 respectively — while
+> Miami and Fort Lauderdale run about twice their normal floor out of RIC. Same state, opposite
+> answer. Boston is double its normal floor too.
 >
 > That's a feature: **which trips are genuinely worth taking from RIC this winter, and which ones
 > are worth the drive to Dulles.** It's useful, it's specific, and it's the kind of thing a reader
@@ -461,8 +468,8 @@ publication pre-empts the one real objection a monthly has about deal content.
 > in 2025 — a lot of Richmond families are about to book flights without knowing what a good price
 > actually looks like.
 >
-> I track every notable fare out of RIC and grade it against what that route normally costs. 259
-> logged since mid-August. Orlando hit $52 round trip. Charleston has been $98 five separate times.
+> I track every notable fare out of RIC and grade it against what that route normally costs. 254
+> logged since mid-August. Orlando hit $52 round trip. Charleston has been $98 four separate times.
 > Just as useful for viewers: Paris and Rome are both over $700 right now, and I'll say so on
 > camera.
 >
@@ -550,7 +557,7 @@ compensation.
 > every fare out of Richmond International and grades it against what that route normally costs — so
 > people can tell a genuinely unusual fare from an ordinary one.
 >
-> Since mid-August we've logged 259. Orlando hit $52 round trip. Charleston has been $98 five
+> Since mid-August we've logged 254. Orlando hit $52 round trip. Charleston has been $98 four
 > separate times. These are real, bookable, and the kind of thing that makes a follower screenshot
 > a post.
 >
