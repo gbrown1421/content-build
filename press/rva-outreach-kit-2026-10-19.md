@@ -84,11 +84,14 @@ be expected to say.
 > RIC just posted its third consecutive record year at 4.9 million passengers, so a lot more
 > Richmonders are making this decision than used to.
 >
-> I'll give you the full dataset — every fare, date found, route baseline — plus charts, and I'm
-> happy to be the local source on the record. All I ask is that the piece names
-> rvacheapflights.com so readers can use it.
+> Two things I'd like to set up. **The story:** you get the full dataset — every fare, the date
+> found, the route baseline — plus charts built however you want them, and me on the record.
+> **The standing arrangement:** I'd like to be Axios Richmond's source on local airfare. First look
+> at the data every month before anyone else gets it, including the findings that cut against us.
 >
-> Want me to send it over?
+> The terms are simple — pieces built on the data name rvacheapflights.com and link it.
+>
+> Can I send you the dataset this week?
 >
 > Glenn Brown
 > ph: 804-210-9657 · Midlothian
@@ -159,10 +162,14 @@ record passenger number supplies the news peg she needs to justify running it no
 > RIC just hit its third straight record year at 4.9 million passengers, so this is a growing line
 > item for a lot of local companies.
 >
-> I'll pull a business-routes analysis specifically for BizSense and sit for an interview on how
-> the grading works. In exchange I'd ask the piece name and link rvacheapflights.com.
+> **The story:** I'll build a business-routes analysis exclusively for BizSense and sit for an
+> interview on how the grading works. **Worth more to you than one story:** a quarterly Richmond
+> business-travel cost update — same analysis, refreshed, exclusive to you. Your readers get a
+> number nobody else in this market is tracking, on a schedule.
 >
-> Should I put that analysis together?
+> Terms either way: the piece names and links rvacheapflights.com.
+>
+> Should I build the first analysis this week?
 >
 > Glenn Brown
 > ph: 804-210-9657 · Midlothian
@@ -357,11 +364,14 @@ attaching its name. The GMRVA reference shows we understand their audience witho
 > are worth the drive to Dulles.** It's useful, it's specific, and it's the kind of thing a reader
 > clips.
 >
-> I'll write it or hand your writer the full research, including route-level price history and
-> dated bookable fares close to publication so nothing goes stale. I'd ask for a credit and a link
-> to rvacheapflights.com.
+> I'll write it, or hand your writer the full research — route-level price history plus fresh dated
+> fares timed to publication so nothing goes stale. And if it lands, I'd like to make it seasonal:
+> four pieces a year, one per travel season, each with new data. That's a recurring slot filled
+> with no research burden on your staff.
 >
-> Want me to put a one-page outline together?
+> Terms: the piece carries a credit and a link to rvacheapflights.com.
+>
+> Want the one-page outline?
 >
 > Glenn Brown
 > ph: 804-210-9657 · Midlothian
@@ -423,7 +433,11 @@ publication pre-empts the one real objection a monthly has about deal content.
 > now, how to recognize a real deal versus an ordinary fare, and when to book. I can be available on
 > short notice, bring current fares the morning of the shoot, and the list looks good on screen.
 >
-> I'd ask that rvacheapflights.com be shown so viewers can find the fares afterward.
+> And if it works once, it works every month. I'd like to be your go-to for travel-cost segments —
+> current Richmond fares whenever you need a consumer money-saver, on short notice, no research on
+> your end. Holidays, spring break, summer, hurricane-season rebooking.
+>
+> Terms: rvacheapflights.com on screen so viewers can find the fares afterward.
 >
 > Who's the right person to coordinate with?
 >
