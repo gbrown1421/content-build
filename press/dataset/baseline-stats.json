@@ -1,0 +1,262 @@
+[
+  {
+    "code": "MCO",
+    "n": 11,
+    "avgFare": 118,
+    "pct": 41,
+    "min": 52,
+    "bestPct": 74,
+    "base": 200,
+    "tens": 5
+  },
+  {
+    "code": "CHS",
+    "n": 11,
+    "avgFare": 133,
+    "pct": 37,
+    "min": 98,
+    "bestPct": 53,
+    "base": 210,
+    "tens": 8
+  },
+  {
+    "code": "LAS",
+    "n": 12,
+    "avgFare": 250,
+    "pct": 30,
+    "min": 208,
+    "bestPct": 41,
+    "base": 355,
+    "tens": 3
+  },
+  {
+    "code": "PUJ",
+    "n": 8,
+    "avgFare": 454,
+    "pct": 30,
+    "min": 403,
+    "bestPct": 38,
+    "base": 650,
+    "tens": 0
+  },
+  {
+    "code": "TPA",
+    "n": 8,
+    "avgFare": 136,
+    "pct": 29,
+    "min": 103,
+    "bestPct": 46,
+    "base": 190,
+    "tens": 2
+  },
+  {
+    "code": "AUA",
+    "n": 9,
+    "avgFare": 367,
+    "pct": 29,
+    "min": 304,
+    "bestPct": 42,
+    "base": 520,
+    "tens": 1
+  },
+  {
+    "code": "BNA",
+    "n": 9,
+    "avgFare": 170,
+    "pct": 26,
+    "min": 127,
+    "bestPct": 45,
+    "base": 230,
+    "tens": 2
+  },
+  {
+    "code": "RSW",
+    "n": 8,
+    "avgFare": 178,
+    "pct": 21,
+    "min": 128,
+    "bestPct": 43,
+    "base": 225,
+    "tens": 2
+  },
+  {
+    "code": "PLS",
+    "n": 9,
+    "avgFare": 565,
+    "pct": 13,
+    "min": 503,
+    "bestPct": 23,
+    "base": 650,
+    "tens": 0
+  },
+  {
+    "code": "DUB",
+    "n": 9,
+    "avgFare": 657,
+    "pct": 12,
+    "min": 548,
+    "bestPct": 27,
+    "base": 750,
+    "tens": 0
+  },
+  {
+    "code": "FCO",
+    "n": 9,
+    "avgFare": 721,
+    "pct": 10,
+    "min": 575,
+    "bestPct": 28,
+    "base": 800,
+    "tens": 0
+  },
+  {
+    "code": "CUN",
+    "n": 9,
+    "avgFare": 372,
+    "pct": 7,
+    "min": 334,
+    "bestPct": 17,
+    "base": 400,
+    "tens": 0
+  },
+  {
+    "code": "CDG",
+    "n": 9,
+    "avgFare": 762,
+    "pct": 5,
+    "min": 640,
+    "bestPct": 20,
+    "base": 800,
+    "tens": 0
+  },
+  {
+    "code": "LIS",
+    "n": 9,
+    "avgFare": 719,
+    "pct": 4,
+    "min": 577,
+    "bestPct": 23,
+    "base": 750,
+    "tens": 0
+  },
+  {
+    "code": "MBJ",
+    "n": 10,
+    "avgFare": 408,
+    "pct": 3,
+    "min": 353,
+    "bestPct": 16,
+    "base": 420,
+    "tens": 0
+  },
+  {
+    "code": "DEN",
+    "n": 10,
+    "avgFare": 291,
+    "pct": 3,
+    "min": 238,
+    "bestPct": 21,
+    "base": 300,
+    "tens": 0
+  },
+  {
+    "code": "BOS",
+    "n": 12,
+    "avgFare": 288,
+    "pct": 1,
+    "min": 256,
+    "bestPct": 12,
+    "base": 290,
+    "tens": 0
+  },
+  {
+    "code": "EWR",
+    "n": 10,
+    "avgFare": 255,
+    "pct": -2,
+    "min": 200,
+    "bestPct": 20,
+    "base": 250,
+    "tens": 0
+  },
+  {
+    "code": "LGW",
+    "n": 10,
+    "avgFare": 832,
+    "pct": -4,
+    "min": 712,
+    "bestPct": 11,
+    "base": 800,
+    "tens": 0
+  },
+  {
+    "code": "LHR",
+    "n": 10,
+    "avgFare": 837,
+    "pct": -5,
+    "min": 746,
+    "bestPct": 7,
+    "base": 800,
+    "tens": 0
+  },
+  {
+    "code": "ORD",
+    "n": 8,
+    "avgFare": 268,
+    "pct": -14,
+    "min": 221,
+    "bestPct": 6,
+    "base": 235,
+    "tens": 0
+  },
+  {
+    "code": "FLL",
+    "n": 11,
+    "avgFare": 207,
+    "pct": -15,
+    "min": 157,
+    "bestPct": 13,
+    "base": 180,
+    "tens": 0
+  },
+  {
+    "code": "LGA",
+    "n": 10,
+    "avgFare": 279,
+    "pct": -16,
+    "min": 249,
+    "bestPct": -4,
+    "base": 240,
+    "tens": 0
+  },
+  {
+    "code": "MIA",
+    "n": 11,
+    "avgFare": 296,
+    "pct": -18,
+    "min": 247,
+    "bestPct": 1,
+    "base": 250,
+    "tens": 0
+  },
+  {
+    "code": "MDW",
+    "n": 13,
+    "avgFare": 281,
+    "pct": -20,
+    "min": 237,
+    "bestPct": -1,
+    "base": 235,
+    "tens": 0
+  },
+  {
+    "code": "JFK",
+    "n": 10,
+    "avgFare": 289,
+    "pct": -26,
+    "min": 249,
+    "bestPct": -8,
+    "base": 230,
+    "tens": 0
+  }
+]
