@@ -51,14 +51,10 @@ sell a subscription feels handled. A reporter you told up front has no reason to
 - Anything about how the grading works beyond "graded against that route's own baseline." The
   method stays private.
 
-### ⚠ Fix before any pitch goes out
-Your **Facebook page description** currently reads *"Richmond's #1 source for cheap flights from
-RIC Airport. Weekly…"* A reporter checks the Facebook page within 60 seconds of reading your
-email. With 20 followers, "#1 source" reads as a lie and kills the story.
-
-Replace with:
-> Hand-graded flight deals out of Richmond International. Every fare checked against its own route
-> baseline before it is posted. Richmond, VA.
+### ✅ Facebook page — CLEARED 2026-10-19
+Glenn fixed it. Verified live the same day: the page description now reads *"Hand-graded flight
+deals out of Richmond International. Every…"* — no "#1 source", no "Weekly". **Nothing is blocking
+the sends.**
 
 ---
 
@@ -240,14 +236,13 @@ to 2M subscribers.*
 
 ## 4. Order of operations
 
-1. **Fix the Facebook page description.** Nothing goes out before this.
-2. Send Axios. Wait 5 business days.
-3. Send BizSense — biggest borrowed audience (25k) and the one place small is the story.
-4. RVAHub and The Richmonder — lowest-risk asks, and both can become *recurring* items, which
+1. **Send Axios.** Nothing is blocking it. Wait 5 business days.
+2. Send BizSense — biggest borrowed audience (25k) and the one place small is the story.
+3. RVAHub and The Richmonder — lowest-risk asks, and both can become *recurring* items, which
    beats a single story.
-5. r/rva once you have comment history.
-6. TV closer to Thanksgiving — they'll want current fares.
-7. Richmond Magazine any time; long-lead feature.
+4. r/rva once you have comment history.
+5. TV closer to Thanksgiving — they'll want current fares.
+6. Richmond Magazine any time; long-lead feature.
 
 **One follow-up per outlet, five business days later, two sentences. Then stop.** Six outlets is
 the entire local market — burning one with a third email costs more than the story was worth.
