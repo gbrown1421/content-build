@@ -110,8 +110,10 @@ const html = `<!doctype html>
   * { box-sizing: border-box; }
   body { margin:0; font-family: Arial, Helvetica, sans-serif; color:${INK}; background:#fff; }
   .sheet { width: 8.5in; min-height: 11in; margin: 0 auto; }
-  header { background:${NAVY}; color:#fff; padding: 26px 40px 22px; }
-  header img { height: 34px; display:block; margin-bottom: 14px; }
+  header { background:${NAVY}; color:#fff; padding: 24px 40px 22px; }
+  /* Logo at 5x and centered (Glenn, 2026-10-19). Intrinsic art is 2172x724 (3:1),
+     so 170px tall renders 510px wide - inside the 736px content width with room. */
+  header img { height: 170px; display:block; margin: 0 auto 16px; }
   h1 { font-size: 25px; margin: 0 0 6px; line-height:1.18; }
   .sub { font-size: 12.5px; opacity:.85; margin:0; }
   .stats { display:flex; gap:0; border-bottom:1px solid ${GRID}; }
