@@ -1,7 +1,30 @@
 # RVA Cheap Flights — press kit
 
-Built 2026-10-19. Every number here was pulled live from the deals database or the outlet's own
-site on that date. **Do not add a claim that is not on the fact sheet below.**
+Built 2026-10-19, pitches rewritten same day after Glenn's note: *"I have no idea what the goal is?
+There is no mention of a newsletter or nothing asked at all?"* He was right — v1 led with the data
+and never asked for anything. Every pitch below now carries an explicit ask.
+
+Every number here was pulled live from the deals database or the outlet's own site on 2026-10-19.
+**Do not add a claim that is not on the fact sheet.**
+
+---
+
+## THE GOAL — one sentence
+
+**A published story that names rvacheapflights.com so Richmonders can find the list.**
+
+Not coverage of the business. Not a profile of Glenn. A story about cheap fares out of RIC that
+tells readers where to get them. Everything in these emails serves that and nothing else.
+
+The structure, every time:
+1. **Hook** — the $52.
+2. **Why now** — record RIC traffic, holiday booking season.
+3. **What they get** — the dataset, free, no strings.
+4. **The ask, stated outright** — will you cover this, and will you point readers to the list.
+5. **One honest line about what it is** — so the reporter isn't surprised later.
+
+That fifth point is what makes the rest credible. A reporter who finds out on their own that you
+sell a subscription feels handled. A reporter you told up front has no reason to care.
 
 ---
 
@@ -15,6 +38,7 @@ site on that date. **Do not add a claim that is not on the fact sheet below.**
 | Second cheapest | RIC → Orlando, $96 | 2026-10-06 |
 | Most repeated bargain | **RIC → Charleston, $98** | found 5 separate times Sep–Oct |
 | Others at 10.0 | Tampa $103, Orlando $104/$109, Charleston $118/$123 | `deals` table |
+| What is NOT cheap | Paris ~$787, Rome ~$723, Lisbon ~$731 | live /deals, 2026-10-19 |
 | RIC passengers 2025 | **4,922,994** — third straight record year | flyrichmond.com |
 | RIC March 2026 | **417,648**, a monthly record | flyrichmond.com |
 | Price | $72/year | live on /deals |
@@ -40,147 +64,154 @@ Replace with:
 
 ## 2. The pitches
 
-**Rules:** send from your own email, one outlet at a time, your real name and phone in the signature.
-Subject lines are written to survive a crowded inbox — don't soften them. One follow-up only, 5
-business days later, two sentences. Then stop.
+**Rules:** send from your own email, one outlet at a time, real name and phone in the signature.
+One follow-up only, 5 business days later, two sentences. Then stop.
 
 ---
 
 ### A. Axios Richmond — send first
 
 **To:** richmond@axios.com · cc karri.peifer@axios.com
-**Subject:** $52 round trip RIC→Orlando — I've been logging RIC fares since August
+**Subject:** $52 round trip RIC→Orlando — I have data on 259 RIC fares since August
 
 > Hi Karri,
 >
-> I've been tracking every cheap fare out of RIC since mid-August and grading them against each
-> route's own price history — 259 so far, about four a day.
+> Since mid-August I've tracked every cheap fare out of RIC and graded each one against that
+> route's own price history — 259 so far, about four a day. A few that came through: **Orlando for
+> $52** on Oct 7, Charleston for $98 (five separate times), Tampa for $103. Real round trips, not
+> error fares.
 >
-> A few that have come through: **Orlando for $52** on Oct 7, Charleston for $98 (that one's shown
-> up five separate times), Tampa for $103. These are real round trips, not error fares.
+> **What I'm asking:** would Axios Richmond cover where Richmonders can actually fly cheap this
+> winter? I'll hand over the whole dataset — every fare, the date found, the route baseline — free
+> and with no conditions. The one thing I'd ask is that the piece points readers to the list so
+> they can use it.
 >
-> RIC just set its third straight passenger record — 4.9 million in 2025 — and I think most
-> Richmonders have no idea fares like this exist out of their own airport. Happy to send you the
-> running list, or walk you through what I'm seeing on specific routes if that's more useful.
+> RIC just set its third straight passenger record, 4.9 million in 2025, and I don't think most
+> people here know fares like this exist out of their own airport.
+>
+> So you're not surprised later: I run this at rvacheapflights.com. Current fares are free on the
+> site and I sell a $72/year list that gets the top-graded ones first. It's brand new and very
+> small — I'm not asking you to write about my business, I'm offering you the data.
 >
 > Glenn Brown
+> ph: 804-210-9657
 > Midlothian · rvacheapflights.com/deals
-
-*Why this one first: Axios Richmond is smart-brevity and consumer-useful. The $52 number does the
-work. Karri Peifer and Sabrina Moreno are the two writers.*
 
 ---
 
 ### B. Richmond BizSense
 
 **To:** michael@richmondbizsense.com · cc aaron@richmondbizsense.com
-
-**Subject:** Midlothian: built a system that grades every RIC fare, 259 so far
+**Subject:** Midlothian one-man shop grading every RIC fare — 259 since August
 
 > Michael,
 >
-> I built an automated system that watches fares out of Richmond International, scores each one
-> against that route's own baseline, and publishes the genuinely good ones. It's found 259 deals
-> since August 17 — including a $52 round trip to Orlando and a $98 Charleston that has recurred
-> five times.
+> I built a system that watches fares out of Richmond International, scores each against that
+> route's own baseline, and publishes the good ones. 259 since August 17 — including a $52 round
+> trip to Orlando and a $98 Charleston that has recurred five times. I sell it as a $72/year
+> subscription out of Midlothian.
 >
-> I'm running it as a subscription business ($72/year) out of Midlothian. It's early — I'm not
-> going to pretend otherwise — but the engine works and RIC is at record traffic three years
-> running.
+> **What I'm asking:** is there a BizSense story in a one-person operation building this? I'll
+> show you the whole thing — the scoring, the economics, the subscriber numbers, including the
+> parts that aren't working. It's early and I won't pretend otherwise.
 >
-> If there's a story in how a one-person operation builds something like this, I'm happy to show
-> you the whole thing, including what it gets wrong.
+> If it runs, all I'd want is the site named so readers can find it.
 >
-> Glenn Brown
+> Glenn Brown · ph: 804-210-9657
 
-*Why: BizSense runs 4–6 original business stories a weekday, and their Daily NewsFeed goes to
-**25,000+ Richmond business subscribers** — the single biggest borrowed audience on this list.
-Michael Schwartz is the editor; Aaron Kremer founded it.*
+*Why BizSense matters most: their free Daily NewsFeed reaches **25,000+ Richmond business
+subscribers** — the largest borrowed audience on this list by an order of magnitude. This is also
+the one outlet where being small IS the story, so lead with it instead of hiding it.*
 
 ---
 
 ### C. RVAHub
 
 **Contact:** rvahub.com/contact (form — no public email)
-
-**Subject:** Cheap fares out of RIC — happy to give RVAHub readers the list free
+**Subject:** Free for RVAHub readers: the cheap fares out of RIC right now
 
 > I track cheap flights out of RIC and grade them against each route's price history. Since August
-> I've logged 259, including Orlando at $52 and Charleston at $98.
+> I've logged 259 — Orlando at $52, Charleston at $98 five separate times, Tampa at $103.
 >
-> RVAHub readers are exactly who this is for. I'm glad to just hand over the current list for you
-> to run, no strings — or do a regular "cheapest fares out of RIC this week" item if that's useful
-> to you.
+> **What I'm asking:** can I give RVAHub readers this list? No strings, nothing owed. Run it once,
+> or let me send you a short "cheapest fares out of RIC this week" item on a regular basis — your
+> call, and you can stop any time.
 >
-> Glenn Brown · rvacheapflights.com/deals
+> I do sell a $72/year version with the top fares, so if you'd rather name the site or not name
+> it, either is fine by me. The list is useful to your readers either way.
+>
+> Glenn Brown · ph: 804-210-9657 · rvacheapflights.com/deals
 
-*Why: RVAHub is small, independent and explicitly asks readers for support. Leading with "free,
-no strings" fits them better than a pitch about your business.*
+*Why: RVAHub is small, independent and asks readers for support. Giving them something free with
+an explicit "you don't owe me" is the right register — and offering a recurring item is the real
+prize, because it's repeated exposure instead of one story.*
 
 ---
 
 ### D. The Richmonder
 
-**Contact:** verify current address at therichmonder.com before sending
-
+**Contact:** verify the current address at therichmonder.com before sending
 **Subject:** A running list of genuinely cheap RIC fares — free for your readers
 
-> I've been logging and grading every cheap fare out of Richmond International since August — 259
-> of them, about four a day. Orlando for $52, Charleston for $98 five different times.
+> Since August I've logged and graded 259 cheap fares out of Richmond International, about four a
+> day. Orlando for $52, Charleston for $98 five different times.
 >
-> You picked up a lot of the readers Good Morning RVA left behind, and this is the kind of
-> practical local thing that audience used. The list is yours to use if it's helpful.
+> **What I'm asking:** would you run this for your readers, as a one-off or as a regular item? I'll
+> send the data free. If it's useful, naming the site so people can keep up with it is all I'd ask.
 >
-> Glenn Brown
-
-*Why: newer Richmond outlet that inherited part of the GMRVA audience — the people you actually
-wanted from that list, reachable legitimately.*
+> You picked up a lot of the readers Good Morning RVA left behind, and this is exactly the kind of
+> practical local thing that audience used.
+>
+> Glenn Brown · ph: 804-210-9657 · rvacheapflights.com/deals
 
 ---
 
 ### E. Richmond Magazine
 
 **Contact:** richmondmagazine.com/about — verify the current editorial address
+**Subject:** Pitch: where Richmonders can actually fly cheap this winter
 
-**Subject:** Where Richmonders can actually fly cheap this winter
-
-> Richmond readers planning winter travel: there are real bargains out of RIC right now and almost
-> nobody knows. I grade every fare against its route's own baseline — Orlando has hit $52,
-> Charleston $98 repeatedly, Tampa $103.
+> There are real bargains out of RIC right now and almost nobody knows. I grade every fare against
+> its route's own baseline — Orlando has hit $52, Charleston $98 repeatedly, Tampa $103. Equally
+> useful: the European routes are NOT cheap right now, around $720–790 to Paris and Rome.
 >
-> I'd be glad to put together a seasonal "cheapest places to fly from RIC this winter" with dated,
-> bookable fares for your readers.
+> **What I'm asking:** can I write you a seasonal "cheapest places to fly from RIC this winter"
+> with dated, bookable fares? I'll do the work and you can edit it however you want. I'd ask for a
+> line pointing readers to the list.
 >
-> Glenn Brown
+> Glenn Brown · ph: 804-210-9657 · rvacheapflights.com/deals
 
-*Why: lifestyle angle, longer lead time. Offer them a finished piece rather than a news hook.*
+*Why: long-lead lifestyle outlet. Offering a finished piece is a bigger yes than offering data,
+and telling them what ISN'T cheap is what makes you a source instead of a promoter.*
 
 ---
 
 ### F. Local TV — WTVR CBS6 / WRIC 8News / NBC12
 
 **Send to each station's news tip form, one at a time.**
-
 **Subject:** $52 to Orlando from RIC — Midlothian man tracks the deals
 
 > I'm a Midlothian resident who built a system that tracks and grades every cheap fare out of
-> Richmond International. Since August it's found 259 — including a $52 round trip to Orlando.
+> Richmond International. 259 since August, including a $52 round trip to Orlando.
 >
-> With RIC at record passenger numbers and holiday travel coming, this is a straightforward
-> money-saver segment: how to find these fares, which routes are actually cheap right now, and
-> when to book. I can show the system on camera and have current examples ready any day.
+> **What I'm asking:** would this work as a holiday money-saver segment? I can show the system on
+> camera, give you current fares the morning you shoot, and explain which RIC routes are genuinely
+> cheap and when to book. I'd ask that you put the site on screen so viewers can find the list.
 >
-> Glenn Brown · phone: [ADD YOUR NUMBER]
+> Available any day, short notice is fine.
+>
+> Glenn Brown · ph: 804-210-9657 · rvacheapflights.com/deals
 
-*Why: TV wants consumer money-savers before the holidays, and a screen full of fares is visual.
-**Add your phone number** — TV books by phone, not email.*
+*Why: TV wants consumer money-savers before the holidays and a screen full of fares is visual.
+They book by phone — the number has to be there.*
 
 ---
 
 ## 3. The r/rva post
 
 Post this yourself, from your own account, **after** you have comment history there. A brand-new
-account dropping a link gets removed as spam.
+account dropping a link gets removed as spam. **No ask in this one** — Reddit punishes asks. The
+goal here is the comments, not the click.
 
 **Title:** I've been logging every cheap fare out of RIC since August — here's what I've found
 
@@ -201,7 +232,7 @@ account dropping a link gets removed as spam.
 > rvacheapflights.com/deals — mods, remove if that link isn't allowed and I'll just post the
 > fares directly.
 
-*Why this works: it leads with findings, admits what ISN'T a deal, and offers to drop the link.
+*Why it works: it leads with findings, admits what ISN'T a deal, and pre-offers to drop the link.
 That last line is what keeps it from reading as an ad. Scott Keyes did four Reddit AMAs on the way
 to 2M subscribers.*
 
@@ -209,14 +240,14 @@ to 2M subscribers.*
 
 ## 4. Order of operations
 
-1. **Fix the Facebook page description** (above). Nothing goes out before this.
-2. Add your phone number to the TV pitch.
-3. Send Axios. Wait 5 business days.
-4. Send BizSense — biggest borrowed audience (25k) and the warmest fit for a founder story.
-5. RVAHub and The Richmonder — both are "here, take it free" pitches, lowest risk.
-6. r/rva once you have comment history.
-7. TV last — they'll want current fares, so pitch them closer to Thanksgiving.
-8. Richmond Magazine any time; it's a long-lead feature.
+1. **Fix the Facebook page description.** Nothing goes out before this.
+2. Send Axios. Wait 5 business days.
+3. Send BizSense — biggest borrowed audience (25k) and the one place small is the story.
+4. RVAHub and The Richmonder — lowest-risk asks, and both can become *recurring* items, which
+   beats a single story.
+5. r/rva once you have comment history.
+6. TV closer to Thanksgiving — they'll want current fares.
+7. Richmond Magazine any time; long-lead feature.
 
 **One follow-up per outlet, five business days later, two sentences. Then stop.** Six outlets is
 the entire local market — burning one with a third email costs more than the story was worth.
