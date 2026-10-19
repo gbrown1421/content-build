@@ -16,15 +16,25 @@ Every number here was pulled live from the deals database or the outlet's own si
 Not coverage of the business. Not a profile of Glenn. A story about cheap fares out of RIC that
 tells readers where to get them. Everything in these emails serves that and nothing else.
 
-The structure, every time:
-1. **Hook** — the $52.
-2. **Why now** — record RIC traffic, holiday booking season.
-3. **What they get** — the dataset, free, no strings.
-4. **The ask, stated outright** — will you cover this, and will you point readers to the list.
-5. **One honest line about what it is** — so the reporter isn't surprised later.
+**A reporter is not buying data and will not write about a newsletter launch.** They are writing
+about a person who found something their readers can use. Keep those three things fused:
 
-That fifth point is what makes the rest credible. A reporter who finds out on their own that you
-sell a subscription feels handled. A reporter you told up front has no reason to care.
+> **You are the story. The data is the proof. The list is where readers go next.**
+
+Split them and the email falls apart — which is exactly what v2 did, and Glenn caught it:
+*"why would they want the data and not the newsletter?"* If the data is free and the story is just
+about fares, nothing explains why anyone would subscribe.
+
+The structure, every time:
+1. **Who you are and why you started** — one sentence, human.
+2. **What two months of daily tracking shows that a one-time search cannot.** This is the real
+   asset. Anyone can check Google Flights today; nobody else can say Charleston hit $98 five
+   separate times since September.
+3. **Something that is NOT a deal** — Europe at $720–790. This is what makes you a source rather
+   than a promoter, and it is the most persuasive line in the email.
+4. **The ask, stated outright**, with a suggested angle so they can picture the piece.
+5. **What it is, in one honest line** — free page, $72 list, brand new. A reporter who discovers
+   the subscription on their own feels handled; one you told up front has no reason to care.
 
 ---
 
@@ -68,30 +78,39 @@ One follow-up only, 5 business days later, two sentences. Then stop.
 ### A. Axios Richmond — send first
 
 **To:** richmond@axios.com · cc karri.peifer@axios.com
-**Subject:** $52 round trip RIC→Orlando — I have data on 259 RIC fares since August
+**Subject:** Two months logging RIC fares: Orlando hit $52, Charleston $98 five times
 
 > Hi Karri,
 >
-> Since mid-August I've tracked every cheap fare out of RIC and graded each one against that
-> route's own price history — 259 so far, about four a day. A few that came through: **Orlando for
-> $52** on Oct 7, Charleston for $98 (five separate times), Tampa for $103. Real round trips, not
-> error fares.
+> I'm a Midlothian guy who got tired of assuming RIC is always pricier than driving to DC. In
+> mid-August I started logging every fare out of Richmond and grading each one against that
+> route's own price history. 259 so far, about four a day.
 >
-> **What I'm asking:** would Axios Richmond cover where Richmonders can actually fly cheap this
-> winter? I'll hand over the whole dataset — every fare, the date found, the route baseline — free
-> and with no conditions. The one thing I'd ask is that the piece points readers to the list so
-> they can use it.
+> Here's what two months of daily tracking shows that a one-time search can't:
 >
-> RIC just set its third straight passenger record, 4.9 million in 2025, and I don't think most
-> people here know fares like this exist out of their own airport.
+> - Orlando hit **$52** round trip on Oct 7
+> - Charleston has hit **$98** on five separate occasions since September
+> - Tampa $103; Orlando again at $96 and $104
+> - And the reverse — Europe is **not** cheap right now. Paris and Rome are sitting at $720–790.
 >
-> So you're not surprised later: I run this at rvacheapflights.com. Current fares are free on the
-> site and I sell a $72/year list that gets the top-graded ones first. It's brand new and very
-> small — I'm not asking you to write about my business, I'm offering you the data.
+> **The ask:** would Axios Richmond do a piece on this? Something along the lines of "RIC is
+> cheaper than you think, and here are two months of receipts." I'll hand over the full dataset,
+> walk you through how the grading works, and go on the record. RIC just set its third straight
+> passenger record — 4.9 million in 2025 — so the timing is there.
+>
+> I publish current fares free at rvacheapflights.com/deals and sell a $72/year list that gets the
+> top-graded ones first. It's brand new. If the piece points readers to the free page, that's more
+> than enough.
 >
 > Glenn Brown
 > ph: 804-210-9657
-> Midlothian · rvacheapflights.com/deals
+> Midlothian
+
+*Why this shape: the reporter is not buying data and is not writing about a newsletter. They are
+writing about a person who found something readers can use. The two months of history is the one
+thing they cannot reproduce in ten minutes on Google Flights — lead with that, not with the
+prices. The "Europe is not cheap" line is what makes you a source instead of a promoter, and it is
+the single most persuasive sentence in the email.*
 
 ---
 
