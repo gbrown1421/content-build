@@ -36,9 +36,31 @@ be expected to say.
 - Any invented count, reach, saving or audience figure.
 
 ### Always
-- Ask for the attribution and the link. Useful free content is the exchange; the credit is the price.
 - Lead with what their audience gets.
-- Name the specific next step.
+- Name the specific next step, and make it the smallest possible yes.
+
+### ★ THE JOURNALIST / PARTNER SPLIT (Glenn, 2026-10-19)
+
+The outreach divides in two and the rules are **opposite**:
+
+| | Story pitch to a reporter<br>(A Axios · B BizSense · E Richmond Mag · F TV) | Content partnership<br>(C RVAHub · D The Richmonder · G Creators) |
+|---|---|---|
+| Attribution, links, exclusivity, recurring access | **Never raised in the first email** unless they ask about terms | **Stated plainly** — it is the exchange |
+| First ask | "Can I send you the data?" | "Can I send a sample section?" |
+| The relationship | Second conversation, after the first yes | On the table immediately |
+
+> **"For journalists, never negotiate promotion, links, attribution, recurring access, or
+> exclusivity in the initial pitch unless the reporter specifically asks about terms. First sell
+> the usefulness and credibility of the source. The relationship comes after the first yes."**
+
+Attaching terms to data access makes a pitch read as commercial rather than editorial. The reporter
+should think *"useful source,"* not *"vendor negotiating placement."*
+
+**The URL rides in the signature, never in an ask:**
+`Glenn Brown / RVA Cheap Flights / rvacheapflights.com / 804-210-9657`
+
+Every reporter pitch below therefore carries a **THE SECOND CONVERSATION** block — the recurring
+arrangement, held back until after they say yes once. Do not merge it into the first email.
 
 ---
 
@@ -51,7 +73,8 @@ be expected to say.
   Richmond-specific dataset no one else holds and a counterintuitive finding inside it.
 - **Best value we offer:** Exclusive first look at the full 259-fare dataset, the route-by-route
   breakdown, and a named local source who can explain it on the record.
-- **Primary desired action:** Run a Richmond airfare story that names and links rvacheapflights.com.
+- **Primary desired action:** Get her to accept the dataset. The story follows that; the standing
+  source relationship follows the story. One small yes at a time.
 - **Persuasion angle:** Their readers believe they must drive to Dulles or BWI. Our data says that
   is true for Europe and false for Florida. That is a correction readers can act on this week.
 - **Likely objection:** "This is a business pitch wearing a data costume."
@@ -59,42 +82,47 @@ be expected to say.
   overpriced right now.
 
 **SUBJECT LINES**
-1. Two months of RIC fare data: Orlando hit $52, Charleston $98 five times
+1. **259 RIC fares later: where Richmond is actually cheaper** ← Glenn's pick, send this one
 2. Richmond travelers are probably wrong about which trips need a DC drive
 3. We logged 259 RIC fares since August — the pattern surprised me
 4. Where RIC is actually cheaper than Dulles, and where it never is
 5. A Richmond airfare dataset you can have first
 
-**PRIMARY EMAIL**
+**PRIMARY EMAIL** — *Glenn's wording, 2026-10-19. Send as written.*
 
 > Hi Karri,
 >
-> Axios Richmond does the thing most local coverage doesn't — it tells people something they can
-> act on before lunch. I have a dataset that might fit.
+> I've been tracking fares out of Richmond since mid-August and have now logged 259 deals, each
+> graded against what that specific route normally costs rather than against a generic definition
+> of "cheap."
 >
-> Since mid-August I've logged and graded every notable fare out of RIC: 259 of them, about four a
-> day, each one scored against what that specific route normally costs rather than against some
-> generic idea of "cheap."
+> The interesting part is the pattern.
 >
-> The pattern is the interesting part. Richmonders assume cheap flying means driving to Dulles or
-> BWI. For Europe, they're right — Paris is sitting at $787 and Rome at $723, and neither is a
-> bargain. For Florida and the Carolinas they're wrong, and not by a little. Orlando hit **$52
-> round trip** on October 7. Charleston has hit **$98 on five separate occasions** since September.
+> Richmond travelers often assume saving money means driving to Dulles or BWI. The data says that
+> depends heavily on where you're going.
 >
-> RIC just posted its third consecutive record year at 4.9 million passengers, so a lot more
-> Richmonders are making this decision than used to.
+> Orlando hit $52 round trip on October 7. Charleston has reached $98 five separate times since
+> September. Meanwhile, fares to destinations like Paris and Rome currently aren't bargains at all.
 >
-> Two things I'd like to set up. **The story:** you get the full dataset — every fare, the date
-> found, the route baseline — plus charts built however you want them, and me on the record.
-> **The standing arrangement:** I'd like to be Axios Richmond's source on local airfare. First look
-> at the data every month before anyone else gets it, including the findings that cut against us.
+> With RIC coming off another record passenger year, I think there's a useful Richmond story here:
+> When is flying from RIC actually the better deal, and when isn't it?
 >
-> The terms are simple — pieces built on the data name rvacheapflights.com and link it.
+> I can give you the full dataset — fare, route, date found, normal pricing baseline and deal grade
+> — along with charts or any breakdowns that would make the reporting easier. I'm also happy to
+> walk you through the methodology and go on the record.
 >
-> Can I send you the dataset this week?
+> Would it be useful if I sent you the dataset and a one-page summary of the strongest findings
+> this week?
 >
 > Glenn Brown
-> ph: 804-210-9657 · Midlothian
+> RVA Cheap Flights
+> rvacheapflights.com
+> 804-210-9657
+
+**THE SECOND CONVERSATION — only after she says yes to the data**
+
+> If this data proves useful, I'd also be happy to give Axios an early look at the monthly RIC
+> trends before I distribute them more broadly.
 
 **ALTERNATE OPENING**
 
@@ -102,9 +130,9 @@ be expected to say.
 > to Dulles for a cheap flight. I've spent two months testing that against actual fares, and it
 > turns out to be half true in a way that's genuinely useful to your readers.
 
-**VALUE EXCHANGE** — Exclusive first access to the 259-fare dataset and route baselines, custom
-charts on request, and Glenn on the record as the local airfare source. We ask for the name and the
-link in the piece.
+**VALUE EXCHANGE** — The full dataset, route baselines, charts on request, a methodology
+walkthrough and Glenn on the record. **Nothing is asked for in return in email one.** The URL sits
+in the signature; crediting a source is normal practice and does not need negotiating.
 
 **FOLLOW-UP (5 business days)**
 
@@ -162,17 +190,21 @@ record passenger number supplies the news peg she needs to justify running it no
 > RIC just hit its third straight record year at 4.9 million passengers, so this is a growing line
 > item for a lot of local companies.
 >
-> **The story:** I'll build a business-routes analysis exclusively for BizSense and sit for an
-> interview on how the grading works. **Worth more to you than one story:** a quarterly Richmond
-> business-travel cost update — same analysis, refreshed, exclusive to you. Your readers get a
-> number nobody else in this market is tracking, on a schedule.
+> I can build a business-routes breakdown specifically for BizSense — which RIC routes are priced
+> competitively against their own history and which aren't — and walk you through how the grading
+> works, on the record.
 >
-> Terms either way: the piece names and links rvacheapflights.com.
->
-> Should I build the first analysis this week?
+> Would it be useful if I put that analysis together this week?
 >
 > Glenn Brown
-> ph: 804-210-9657 · Midlothian
+> RVA Cheap Flights
+> rvacheapflights.com
+> 804-210-9657
+
+**THE SECOND CONVERSATION — only after he takes the analysis**
+
+> If this is useful to your readers, I can refresh it quarterly and give BizSense the numbers
+> before they go anywhere else.
 
 **ALTERNATE OPENING**
 
@@ -182,7 +214,8 @@ record passenger number supplies the news peg she needs to justify running it no
 > to fly.
 
 **VALUE EXCHANGE** — A custom business-routes analysis built for BizSense, the underlying dataset,
-and an on-record interview. We ask for the name and link.
+and an on-record interview. **No terms raised in email one.** Quarterly exclusivity is the second
+conversation.
 
 **FOLLOW-UP (5 business days)**
 
@@ -365,16 +398,19 @@ attaching its name. The GMRVA reference shows we understand their audience witho
 > clips.
 >
 > I'll write it, or hand your writer the full research — route-level price history plus fresh dated
-> fares timed to publication so nothing goes stale. And if it lands, I'd like to make it seasonal:
-> four pieces a year, one per travel season, each with new data. That's a recurring slot filled
-> with no research burden on your staff.
+> fares timed to publication so nothing goes stale.
 >
-> Terms: the piece carries a credit and a link to rvacheapflights.com.
->
-> Want the one-page outline?
+> Would a one-page outline be useful?
 >
 > Glenn Brown
-> ph: 804-210-9657 · Midlothian
+> RVA Cheap Flights
+> rvacheapflights.com
+> 804-210-9657
+
+**THE SECOND CONVERSATION — only after they take the piece**
+
+> If this works for your readers, I'd be glad to make it seasonal — four a year, new data each
+> time, with the research done on my end.
 
 **ALTERNATE OPENING**
 
@@ -383,7 +419,8 @@ attaching its name. The GMRVA reference shows we understand their audience witho
 > and the answer isn't what most people here assume.
 
 **VALUE EXCHANGE** — A written feature or full research package, route-level price history, and
-fresh dated fares timed to publication. We ask for credit and a link.
+fresh dated fares timed to publication. **No terms raised in email one.** The seasonal series is
+the second conversation.
 
 **FOLLOW-UP (6 business days)**
 
@@ -433,16 +470,20 @@ publication pre-empts the one real objection a monthly has about deal content.
 > now, how to recognize a real deal versus an ordinary fare, and when to book. I can be available on
 > short notice, bring current fares the morning of the shoot, and the list looks good on screen.
 >
-> And if it works once, it works every month. I'd like to be your go-to for travel-cost segments —
-> current Richmond fares whenever you need a consumer money-saver, on short notice, no research on
-> your end. Holidays, spring break, summer, hurricane-season rebooking.
+> I can be available on short notice, bring current fares the morning of the shoot, and the list
+> looks good on screen.
 >
-> Terms: rvacheapflights.com on screen so viewers can find the fares afterward.
->
-> Who's the right person to coordinate with?
+> Who's the right person to talk to about it?
 >
 > Glenn Brown
-> ph: 804-210-9657 · Midlothian
+> RVA Cheap Flights
+> rvacheapflights.com
+> 804-210-9657
+
+**THE SECOND CONVERSATION — only after a segment runs**
+
+> Happy to be your go-to whenever you need a travel-cost segment — holidays, spring break, summer.
+> I'll always have current Richmond fares ready.
 
 **ALTERNATE OPENING**
 
@@ -451,7 +492,8 @@ publication pre-empts the one real objection a monthly has about deal content.
 > badly wrong for others — and the gap is worth hundreds of dollars to a family of four.
 
 **VALUE EXCHANGE** — On-camera local expertise, fares refreshed the morning of the shoot, and a
-screen-ready graphic. We ask for the URL on screen.
+screen-ready graphic. **No terms raised in email one** — a consumer segment names its source as a
+matter of course.
 
 **FOLLOW-UP (4 business days — TV moves fast)**
 

@@ -93,6 +93,39 @@ Before writing anything, classify the recipient into one of these categories:
 
 ### 1. JOURNALIST / REPORTER / NEWS OUTLET
 
+★ **ADDED BY GLENN, 2026-10-19 — THE JOURNALIST EXCEPTION. This overrides §8 for reporters.**
+
+> **For journalists, never negotiate promotion, links, attribution, recurring access, or
+> exclusivity in the initial pitch unless the reporter specifically asks about terms. First sell
+> the usefulness and credibility of the source. The relationship comes after the first yes.**
+
+Why: attaching terms to data access makes a pitch read as commercial rather than editorial. You
+want the reporter thinking *"useful source,"* not *"vendor negotiating placement."* Even a
+perfectly reasonable request for a link does this.
+
+This does **not** soften §8 anywhere else. Keep selling aggressively to influencers and commercial
+partners, where stating the exchange is exactly right. The exception is scoped to **story pitches
+to reporters**. A content-partnership offer to a newsletter or community site (category 3) is
+syndication, not a story pitch, and there the exchange is still stated plainly.
+
+**Sequencing.** Make the first commitment as small as possible. "Can I send you the data?" is far
+easier to say yes to than a story, a source relationship, attribution terms and future exclusivity
+all at once. The standing arrangement is a **second-conversation** move, after value is
+demonstrated:
+
+> "If this data proves useful, I'd also be happy to give Axios an early look at the monthly RIC
+> trends before I distribute them more broadly."
+
+**Put the URL in the signature, not in an ask.** Signing off as
+`Glenn Brown / RVA Cheap Flights / rvacheapflights.com / 804-210-9657` puts the link in front of
+the reporter without negotiating for it.
+
+**Do not say "findings that cut against us."** We are not advocating for an airfare outcome, so
+there is no "us" for a finding to cut against. The credible framing is that we report good fares
+and bad fares honestly — that is what makes the source trustworthy.
+
+---
+
 This is an earned-media pitch, not a sponsorship pitch.
 
 Do not offer payment, commissions, gifts, or anything that could compromise editorial independence.
