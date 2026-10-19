@@ -1,3 +1,8 @@
+> ⚠ **SUPERSEDED 2026-10-19** by `rva-outreach-kit-2026-10-19.md`, written against
+> `standards/rva-outreach-copywriting-standard.md` (Glenn, 2026-10-19). This version asked for
+> nothing, diminished the business, and twice released the recipient from linking to us.
+> **Do not pitch from any copy in this file.**
+
 # RVA Cheap Flights — press kit
 
 Built 2026-10-19, pitches rewritten same day after Glenn's note: *"I have no idea what the goal is?
