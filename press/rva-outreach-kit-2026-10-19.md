@@ -82,19 +82,19 @@ arrangement, held back until after they say yes once. Do not merge it into the f
 - **How we beat it:** We lead with what is *not* a deal. A promoter never volunteers that Paris is
   overpriced right now.
 
-⚠ **CORRECTED 2026-10-19 against the exported dataset.** Two numbers in the earlier draft did not
-survive the check: it said **259 fares** (the real graded count is **254**) and **Charleston $98
-five separate times** (it is **four** — Sep 8, Sep 15, Sep 25, Oct 9). Both are now right below.
-A count is a promise, and these were going to a reporter who can check them.
+## ✅ SENT — Tuesday, October 20, 2026
 
-**SUBJECT LINES**
-1. **255 RIC fares later: where Richmond is actually cheaper** ← Glenn's pick, send this one
-2. Richmond travelers are probably wrong about which trips need a DC drive
-3. We logged 255 RIC fares since August — the pattern surprised me
-4. Where RIC is actually cheaper than Dulles, and where it never is
-5. A Richmond airfare dataset you can have first
+**Subject used:** `255 RIC fares later: where Richmond is actually cheaper`
+**To:** richmond@axios.com · cc karri.peifer@axios.com
+**Attached:** `dataset/RIC-airfare-findings.pdf` — the one-page summary. The CSV was deliberately
+**not** attached; the email offers it on request instead.
 
-**PRIMARY EMAIL** — *Glenn's wording, 2026-10-19. Send as written.*
+**→ FOLLOW UP TUESDAY, OCTOBER 27** if there's no reply. Two sentences, once. Then stop.
+Draft is in the FOLLOW-UP block below.
+
+---
+
+**SENT COPY — this is the version that actually went out. Do not edit it; it is the record.**
 
 > Hi Karri,
 >
@@ -105,31 +105,56 @@ A count is a promise, and these were going to a reporter who can check them.
 > The interesting part is the pattern.
 >
 > Richmond travelers often assume saving money means driving to Dulles or BWI. The data says that
-> depends heavily on where you're going — and not in the way most people would guess.
+> depends heavily on where you're going — and not always in the way you'd expect.
 >
-> Orlando hit $52 round trip on October 7, and across every Orlando fare I logged it averages 41%
+> Orlando hit $52 round trip on October 7, and across every Orlando fare I logged it averaged 41%
 > below normal. Charleston reached $98 four separate times since September.
 >
-> Meanwhile the short hops people assume are cheap aren't. JFK, LaGuardia, Chicago and Miami all
-> came in above normal, and JFK is the worst value in the whole set. Orlando and Tampa are two of
-> the strongest routes out of Richmond; Miami and Fort Lauderdale two of the weakest. Same state,
-> opposite answer.
+> Meanwhile, several routes travelers might expect to be easy bargains aren't. JFK, LaGuardia,
+> Chicago and Miami all averaged above normal, with JFK the weakest value in the set. Orlando and
+> Tampa are two of the strongest routes out of Richmond; Miami and Fort Lauderdale two of the
+> weakest. Same state, opposite answer.
 >
-> With RIC coming off another record passenger year, I think there's a useful Richmond story here:
-> When is flying from RIC actually the better deal, and when isn't it?
+> RIC carried a record 4.92 million passengers in 2025 — its third consecutive record year — so
+> more Richmond travelers than ever are making these choices.
 >
-> I can give you the full dataset — fare, route, date found, deal grade, and Google's own typical
-> price range for each route as an independent check — along with charts or any breakdowns that
-> would make the reporting easier. I'm also happy to walk you through the methodology and go on
-> the record.
+> I think there's a useful Richmond story here: When is flying from RIC actually the better deal,
+> and when isn't it?
 >
-> Would it be useful if I sent you the dataset and a one-page summary of the strongest findings
-> this week?
+> I've attached a one-page summary of the findings. I can also provide the full fare-level dataset
+> — fare, route, date found, deal grade and Google's typical-price range for each route — along
+> with any charts or breakdowns that would make the reporting easier. I'm happy to walk you
+> through the methodology and go on the record.
+>
+> Would it be useful if I sent you the full dataset this week?
 >
 > Glenn Brown
 > RVA Cheap Flights
 > rvacheapflights.com
 > 804-210-9657
+
+**What Glenn changed from the draft, and why each is better:**
+- *"not always in the way you'd expect"* — softer and more confident than "not in the way most
+  people would guess," which slightly talks down to the reader.
+- *"several routes travelers might expect to be easy bargains aren't"* replaced "the short hops
+  people assume are cheap aren't." More accurate: Miami is ~800 miles, not a short hop. This
+  wording was then carried back into the PDF.
+- *"RIC carried a record 4.92 million passengers in 2025 — its third consecutive record year"* —
+  the specific number instead of "another record passenger year."
+- *"I've attached a one-page summary"* — states the attachment rather than offering it, which
+  makes the remaining ask smaller.
+- *"the full fare-level dataset"* — the precise thing, so what arrives matches what was promised.
+
+**IF SHE SAYS YES, send:** `dataset/ric-fares-FULL-aug-oct-2026.csv` (255 rows, fare-level).
+⚠ **Not** `ric-fares-aug-oct-2026.csv` — that path was overwritten by an Excel pivot save on
+2026-10-20 and now holds 26 rows of per-airport counts.
+
+**SUBJECT LINES — for the other outlets, or a future Axios pitch**
+1. **255 RIC fares later: where Richmond is actually cheaper** ← used
+2. Richmond travelers are probably wrong about which trips need a DC drive
+3. We logged 255 RIC fares since August — the pattern surprised me
+4. Where RIC is actually cheaper than Dulles, and where it never is
+5. A Richmond airfare dataset you can have first
 
 **THE SECOND CONVERSATION — only after she says yes to the data**
 
@@ -146,17 +171,23 @@ A count is a promise, and these were going to a reporter who can check them.
 walkthrough and Glenn on the record. **Nothing is asked for in return in email one.** The URL sits
 in the signature; crediting a source is normal practice and does not need negotiating.
 
-**FOLLOW-UP (5 business days)**
+**FOLLOW-UP — send Tuesday, October 27 if no reply. Two sentences, once, then stop.**
 
-> Hi Karri — following up on the RIC fare dataset. One update worth a line: Charleston came in
-> under $100 again, which makes six times since September. The offer stands if you want the full
-> set. — Glenn
+> Hi Karri — following up on the RIC fare data I sent last week. The offer stands if the full
+> dataset would be useful, and I'm glad to pull any cut that makes it easier to write. — Glenn
+
+⚠ **Do not invent a fresh data point for the follow-up.** An earlier draft of this block said
+"Charleston came in under $100 again, which makes six times since September" — a number that had
+not happened. If something genuinely new has landed by the 27th, check it in the `deals` table
+first and then say it. If nothing has, the two sentences above are enough.
 
 **WHY THIS SHOULD WORK** — It hands a reporter a finished, verifiable story rather than asking her
-to invent one. The counterintuitive framing ("you're right about Europe, wrong about Florida")
-gives her a headline that is useful rather than promotional. Volunteering that Paris is a bad deal
-establishes we are a source, not an advertiser — that single move is what gets the reply. And the
-record passenger number supplies the news peg she needs to justify running it now.
+to invent one. The spine is an editorial question she can put in a headline — *when is flying from
+RIC actually the better deal, and when isn't it?* — rather than a pitch about a newsletter. Naming
+the routes that are a bad deal out of Richmond is what marks the sender as a source rather than an
+advertiser, and it is the hardest thing for a competitor to fake. The record passenger number
+supplies the news peg that justifies running it now, and the ask is reduced to "can I send you the
+data?", which costs her nothing to say yes to.
 
 ---
 
@@ -608,14 +639,25 @@ free, which is far easier than a yes to a partnership.
 
 ---
 
-## ORDER OF OPERATIONS
+## RUNNING ORDER — status
 
-1. **Axios Richmond** — strongest story fit, fastest turnaround.
-2. **Richmond BizSense** — largest audience by an order of magnitude (25,000+ NewsFeed).
-3. **RVAHub and The Richmonder** — recurring sections. Highest long-term value, lowest risk.
-4. **Local TV** — time to land before Thanksgiving.
-5. **Richmond Magazine** — long lead, send any time.
-6. **Creators** — blocked until Glenn rules on partnership terms.
+| # | Outlet | Status | Next action |
+|---|---|---|---|
+| 1 | **Axios Richmond** | ✅ **SENT Tue Oct 20** | Follow up **Tue Oct 27** if no reply |
+| 2 | **Richmond BizSense** | ready | Send next — 25,000+ NewsFeed, and the corrected data gave it the sharpest angle of any pitch |
+| 3 | **RVAHub** | ready | Recurring weekly section |
+| 4 | **The Richmonder** | ready | Recurring weekly section, exclusivity on offer |
+| 5 | **Local TV** | ready | Land before Thanksgiving |
+| 6 | **Richmond Magazine** | ready | Long lead, any time |
+| 7 | **Creators** | ⛔ blocked | Needs Glenn's ruling on partnership terms |
 
-One follow-up per outlet at the interval noted in each section. Then stop. Six outlets is the entire
+**Don't send them all at once.** If Axios runs something, the others become a far easier yes — and
+a piece already in print is a better thing to reference than a dataset nobody has used yet.
+
+One follow-up per outlet, at the interval in its section. Then stop. These six are the entire
 Richmond market; a third email costs more than the story is worth.
+
+### If Karri says yes
+Send `dataset/ric-fares-FULL-aug-oct-2026.csv` — 255 rows, fare-level.
+**Not** `ric-fares-aug-oct-2026.csv`, which an Excel pivot save overwrote on 2026-10-20 and which
+now holds 26 rows of per-airport counts.
