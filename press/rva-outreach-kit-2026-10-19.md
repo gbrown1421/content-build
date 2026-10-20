@@ -306,11 +306,28 @@ outlet on this list.
 
 # C. RVAHUB — community website / newsletter partnership
 
+**CONTACT — checked rvahub.com 2026-10-20. ⚠ THEY PUBLISH NO EMAIL ADDRESS.**
+- Contact page: donate link and advertise link only, no address, no editorial form.
+- Advertise page says *"...or email:"* and **the address that followed has been removed** from the
+  page. Only a Contact Form 7 form remains.
+- **Editor and Co-Founder: Trevor Dickerson** (verified, rvahub.com/author/trevor/). Publishing
+  daily — most recent post Oct 20.
+- Publisher: **Boulevard Creative, LLC.**
+- **Route: use the form at rvahub.com/advertise/.** `trevor@rvahub.com` is a **GUESS** — pattern
+  not confirmed, do not treat it as verified.
+
+⚠ **THEIR OWN PAGE SAYS:** *"We do NOT accept paid SEO-building/spam articles, linkbacks, etc.
+NO exceptions. This is strictly a news website."* Our offer is free content for a credit and a
+link, which is **not** what they're refusing — but it is adjacent enough to get filed there by a
+tired editor. The email below names that difference explicitly before they can.
+
 **STRATEGY**
 - **Type:** Newsletter / community website.
-- **Audience:** Richmond locals reading community news, food, events.
-- **Why we fit:** They are small, independent, and need steady useful content. We can supply a
-  recurring section at zero production cost to them.
+- **Audience:** Their own advertise page, read 2026-10-20: readers *"largely in the 25-44 age
+  range"*, *"hip to Richmond, who enjoy going out in the community."* Signature features include
+  **Weekend Radar**, hand-picked weekend recommendations — the closest existing slot to ours.
+- **Why we fit:** Their own contact page calls them *"a small, independent publication"* that
+  depends on reader donations. We supply a recurring section at zero production cost.
 - **Best value we offer:** A ready-to-publish weekly "Cheapest Flights Out of Richmond" item —
   fares, dates, grades and copy written, nothing for their team to produce.
 - **Primary desired action:** A recurring weekly feature carrying our name and link. Recurring beats
@@ -330,8 +347,8 @@ outlet on this list.
 
 **PRIMARY EMAIL**
 
-> RVAHub covers what Richmonders actually do on a weekend, and you do it with a small team. I'd
-> like to take one section off your plate permanently.
+> RVAHub covers what Richmonders actually do on a weekend. I'd like to hand you one section,
+> written and finished, every week.
 >
 > RVA Cheap Flights tracks fares out of RIC and grades each one against what that route normally
 > costs, so readers can tell a genuinely unusual fare from an ordinary one. 255 graded since
@@ -340,10 +357,13 @@ outlet on this list.
 >
 > **Here's the offer:** a weekly "Cheapest Flights Out of Richmond" item, written and formatted,
 > delivered ready to publish. Current fares, real travel dates, direct booking links. Your team
-> runs it as-is or edits it however you want. It costs you nothing to produce and gives your
-> readers something they'll actually use.
+> runs it as-is or edits it however you want. It costs you nothing to produce, and each fare goes
+> out with the date it was found and a link to book it.
 >
-> In exchange, the section carries a credit and a link to rvacheapflights.com.
+> In exchange, the section carries a credit and a link to rvacheapflights.com. To be clear about
+> what this isn't: I'm not asking you to run a paid placement or a sponsored post, and there's no
+> money moving either direction. It's a local service I built, offered to a local publication,
+> with my name on it.
 >
 > I can have the first one in your inbox this week. Want me to send a sample so you can see the
 > format before committing to anything?
@@ -355,9 +375,9 @@ outlet on this list.
 
 **ALTERNATE OPENING**
 
-> Your readers spend a lot of energy finding cheap things to do in Richmond. Some of the best
-> bargains I'm seeing right now are cheap ways to leave it for a weekend — Charleston has been
-> under $100 round trip four separate times since September.
+> RVAHub is built around cheap things to do in Richmond. Some of the best bargains I'm tracking
+> right now are cheap ways to leave it for a weekend — Charleston has come in at $98 round trip
+> four separate times since September 8.
 
 **VALUE EXCHANGE** — A free weekly ready-to-publish section, written and formatted, plus optional
 shareable graphics. We ask for a credit line and a link in the section.
@@ -376,41 +396,50 @@ decision to almost nothing. A recurring slot compounds in a way a single article
 
 # D. THE RICHMONDER — newsletter partnership
 
+**CONTACT — `news@richmonder.org`**, published on their own homepage, checked 2026-10-20.
+Site is `www.richmonder.org` (the bare `richmonder.org/about/` 404s).
+
 **STRATEGY**
 - **Type:** Newsletter / local news.
-- **Audience:** Richmond readers, including a good share of the audience Good Morning RVA left when
-  it paused in April 2024.
-- **Why we fit:** That audience was built on practical daily local usefulness. Flight deals are
-  exactly that.
-- **Best value we offer:** Same recurring ready-to-run section, plus first claim on it in Richmond.
+- **Audience:** Richmond readers. ⚠ **Do NOT claim they inherited Good Morning RVA's list** —
+  checked richmonder.org 2026-10-20, no connection stated anywhere on the site and Ross Catrow is
+  not among their ~80 bylines. That was my inference, not a fact.
+- **What they actually are, verified 2026-10-20:** a substantial local news organization —
+  roughly **80 contributors** listed, tagline *"Elevating the conversation"*, sections for
+  Chesterfield, education, housing, events, public notices. General inbox **news@richmonder.org**
+  published on their own homepage. Not a scrappy startup newsletter; pitch them as a news desk.
+- **Why we fit:** Service journalism. A graded fare dataset is reportable material, and the weekly
+  section is a standing consumer item their desk doesn't have to staff.
+- **Best value we offer:** A recurring ready-to-run section at no production cost to them.
 - **Primary desired action:** Recurring feature with name and link.
 - **Persuasion angle:** Useful recurring content, free, with no production burden.
 - **Likely objection:** "We're a news outlet, not a deals site."
-- **How we beat it:** Frame it as service journalism with real data behind it, and offer exclusivity
-  so it becomes something their readers can only get from them.
+- **How we beat it:** Frame it as service journalism with real data behind it.
+
+⛔ **NO EXCLUSIVITY — stripped 2026-10-20 on Glenn's instruction.** It was never his idea; I
+invented it, and it directly contradicted the weekly section offered to RVAHub. Two promises that
+cannot both be kept is worse than no leverage at all. **Both outlets can run the section.**
 
 **SUBJECT LINES**
 1. A weekly Richmond flight-deal section, written and ready to run
-2. Exclusive: cheapest RIC fares, formatted for The Richmonder
-3. Orlando $52 from RIC — want this weekly for your readers?
-4. Service journalism your readers will forward
-5. Free recurring travel content, exclusive to The Richmonder
+2. Orlando $52 from RIC — want this weekly for your readers?
+3. Service journalism your readers can use the same morning
+4. Free recurring travel content, no work for your team
+5. 255 graded RIC fares — the weekly version, written for you
 
 **PRIMARY EMAIL**
 
-> The Richmonder has picked up a lot of the readers who used to start their day with Good Morning
-> RVA — people who want practical Richmond information, not press releases. I have something built
-> for exactly that reader.
+> You cover Richmond for people who want to understand it, and a fair amount of that is practical
+> — what things cost here and whether they're worth it. I've spent two months building that for
+> one thing in particular: airfare out of RIC.
 >
 > RVA Cheap Flights tracks fares out of RIC and grades each against what that route normally costs.
 > 255 graded since mid-August. Orlando averages 41% below normal and produced a $52 round trip.
 > Charleston hit $98 four separate times. Just as usefully, I can tell your readers what *isn't*
-> a deal — JFK, LaGuardia and Chicago all came in above normal, which is the opposite of what most
-> people assume about a short hop.
+> a deal — JFK, LaGuardia and Chicago all averaged above their own normal pricing over the period.
 >
 > **The offer:** a weekly Richmond flight-deal section, written and formatted, delivered ready to
-> publish. No work for your team. I'll make it exclusive to The Richmonder among Richmond
-> newsletters if you want it that way.
+> publish. No work for your team. Run it as-is or edit it however you like.
 >
 > The section carries a credit and a link to rvacheapflights.com.
 >
@@ -423,20 +452,21 @@ decision to almost nothing. A recurring slot compounds in a way a single article
 
 **ALTERNATE OPENING**
 
-> Richmond travelers assume a cheap flight means driving to Dulles. Two months of fare data says
-> that's true for Boston, Miami and Fort Lauderdale — and clearly false for Charleston and Orlando.
-> Same state, opposite answer. I think your readers would want to know which is which.
+> Your readers make a lot of decisions about Richmond by instinct, and airfare is one of the
+> expensive ones. I've spent two months grading every notable fare out of RIC against what that
+> specific route normally costs. Orlando averaged 41% below its normal price over that stretch;
+> JFK averaged 26% above. I think your readers would want to know which is which.
 
-**VALUE EXCHANGE** — Weekly ready-to-run section, optional Richmond-newsletter exclusivity, and the
-underlying data if they ever want to report on it. We ask for credit and a link.
+**VALUE EXCHANGE** — Weekly ready-to-run section, plus the underlying data if they ever want to
+report on it. We ask for credit and a link.
 
 **FOLLOW-UP (5 business days)**
 
-> Following up — sample attached. The exclusivity offer stands if it's useful for differentiating
-> from the other Richmond newsletters. — Glenn
+> Following up — sample attached, written and formatted so it can run as-is. Happy to adjust the
+> length or format to fit however you'd want it to sit in the newsletter. — Glenn
 
-**WHY THIS SHOULD WORK** — Exclusivity turns a free content offer into a competitive advantage,
-which matters to a newer outlet building an identity. Naming what *isn't* a deal signals editorial
+**WHY THIS SHOULD WORK** — A newer outlet building an identity needs recurring material that
+doesn't cost staff time, and this arrives finished. Naming what *isn't* a deal signals editorial
 judgment rather than promotion, which is the thing a news outlet most needs to believe before
 attaching its name. The GMRVA reference shows we understand their audience without flattering them.
 
@@ -732,7 +762,7 @@ free, which is far easier than a yes to a partnership.
 | 1 | **Axios Richmond** | ✅ **SENT Tue Oct 20** | Follow up **Tue Oct 27** if no reply |
 | 2 | **Richmond BizSense** | ✅ **SENT Tue Oct 20** | Follow up **Tue Oct 27** if no reply |
 | 3 | **RVAHub** | ready | Recurring weekly section |
-| 4 | **The Richmonder** | ready | Recurring weekly section, exclusivity on offer |
+| 4 | **The Richmonder** | ready | Recurring weekly section. **No exclusivity** — stripped 10/20 |
 | 5 | **Local TV** | ready | Land before Thanksgiving |
 | 6 | **Richmond Magazine** | ready | Long lead, any time |
 | 7 | **Creators** | ✅ **Paige Poprocky SENT Tue Oct 20** | Follow up **Tue Oct 27**. Kelsey Heintz is the fallback — do NOT email both. |
