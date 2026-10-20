@@ -321,6 +321,46 @@ NO exceptions. This is strictly a news website."* Our offer is free content for 
 link, which is **not** what they're refusing — but it is adjacent enough to get filed there by a
 tired editor. The email below names that difference explicitly before they can.
 
+---
+
+## 🛑 THE CANNIBALIZATION RULE — READ BEFORE WRITING ANY PARTNER SECTION
+
+**Glenn, 2026-10-20:** *"so if we provide a section each week to their readers for no cost, why
+would they then subscribe to our newsletter?"*
+
+He was right, and the first version of both C and D failed this. They offered a weekly section
+built on **Orlando $52** and **Charleston $98** — both **grade 10.0**, verified against the
+fare-level dataset. The paid threshold is **7**.
+
+**The line already existed and I ignored it.** `src/mastra/publicBand.ts`, set by Glenn
+2026-08-29, exists because every public surface leaked this once:
+
+> *"7-10 becomes what a subscriber pays $72 for and 5-6.9 becomes the free tier."*
+> *"THE RULE: a public surface shows the FREE tier, whatever the free tier currently is."*
+
+**A partner's newsletter is a public surface the band code cannot police.** It is enforced in the
+app for `/deals` and the fare strip; in a partner section it has to be enforced by whoever writes
+the section.
+
+### What a partner section may and may not carry
+
+| | |
+|---|---|
+| ✅ **Bookable fares, grade 5 – 6.9** | 74 of the 255 over 64 days ≈ **8 a week.** Supply is not the constraint. |
+| ✅ **Expired top fares, named with the date found** | Already gone, so it is proof, not delivery. "Orlando $52, found Oct 7" is the FOMO engine (memory `rva-fomo-flywheel`), not a giveaway. |
+| ✅ **What is NOT a deal** | JFK 26% above, Midway 20%, Miami 18%. Strongest editorial piece in the section and it costs us nothing, because it is not a product. |
+| ⛔ **A live, bookable grade 7+ fare** | That is the $72 product. Never. |
+
+**Why this converts instead of substituting:** a reader who sees a $52 Orlando fare they *cannot
+book*, next to the date it was found and the note that subscribers had it that morning, learns
+the service works and that they missed it. A reader handed a live grade-10 fare learns they never
+need to pay.
+
+**Do not describe the free band as leftovers in the pitch** — "never diminish the business" (§3).
+The honest, better framing is that standout fares go to subscribers first and the section carries
+the week's full picture. Editors are suspicious of unexplained free; a stated business reason
+makes the offer more credible, not less.
+
 **STRATEGY**
 - **Type:** Newsletter / community website.
 - **Audience:** Their own advertise page, read 2026-10-20: readers *"largely in the 25-44 age
@@ -329,7 +369,8 @@ tired editor. The email below names that difference explicitly before they can.
 - **Why we fit:** Their own contact page calls them *"a small, independent publication"* that
   depends on reader donations. We supply a recurring section at zero production cost.
 - **Best value we offer:** A ready-to-publish weekly "Cheapest Flights Out of Richmond" item —
-  fares, dates, grades and copy written, nothing for their team to produce.
+  bookable fares from the open band, the week's standouts named with the date found, and what is
+  running above normal. Copy written, nothing for their team to produce. **No live grade-7+ fare.**
 - **Primary desired action:** A recurring weekly feature carrying our name and link. Recurring beats
   a one-off story by a wide margin.
 - **Persuasion angle:** Free recurring content that their readers will actually use, with no staff
@@ -351,14 +392,24 @@ tired editor. The email below names that difference explicitly before they can.
 > written and finished, every week.
 >
 > RVA Cheap Flights tracks fares out of RIC and grades each one against what that route normally
-> costs, so readers can tell a genuinely unusual fare from an ordinary one. 255 graded since
-> mid-August. Orlando has come in 41% below normal on average, with one fare at $52 round trip.
-> Charleston hit $98 four separate times.
+> costs, so a genuinely unusual fare stands out instead of every low-looking price being called a
+> deal. 255 graded since mid-August. Orlando has come in 41% below normal on average, with one
+> fare at $52 round trip. Charleston hit $98 four separate times.
 >
 > **Here's the offer:** a weekly "Cheapest Flights Out of Richmond" item, written and formatted,
-> delivered ready to publish. Current fares, real travel dates, direct booking links. Your team
-> runs it as-is or edits it however you want. It costs you nothing to produce, and each fare goes
-> out with the date it was found and a link to book it.
+> delivered ready to publish. Three parts, every week:
+>
+> - **Fares your readers can book that day**, with real travel dates and a link to each one.
+> - **The week's standouts**, named with the date each was found — the $52 Orlando and the $98
+>   Charleston are the kind that show up here. Those go out to our paying subscribers the morning
+>   we find them, so by the time the section runs they're a track record rather than a live fare.
+>   That's the part that makes the whole thing honest: I'm not pretending a week-old bargain is
+>   still sitting there.
+> - **What isn't a deal right now.** Over the last two months JFK has averaged 26% *above* its
+>   normal price, Chicago Midway 20%, Miami 18%. Nobody tells people that, and it's the part your
+>   readers will forward.
+>
+> Your team runs it as-is or edits it however you want. It costs you nothing to produce.
 >
 > In exchange, the section carries a credit and a link to rvacheapflights.com. To be clear about
 > what this isn't: I'm not asking you to run a paid placement or a sponsored post, and there's no
@@ -436,10 +487,19 @@ cannot both be kept is worse than no leverage at all. **Both outlets can run the
 > RVA Cheap Flights tracks fares out of RIC and grades each against what that route normally costs.
 > 255 graded since mid-August. Orlando averages 41% below normal and produced a $52 round trip.
 > Charleston hit $98 four separate times. Just as usefully, I can tell your readers what *isn't*
-> a deal — JFK, LaGuardia and Chicago all averaged above their own normal pricing over the period.
+> a deal — JFK has averaged 26% above its own normal price, Chicago Midway 20%, Miami 18%. The
+> assumption that a short hop to New York is cheap is simply wrong out of Richmond, and nobody
+> is reporting that.
 >
-> **The offer:** a weekly Richmond flight-deal section, written and formatted, delivered ready to
-> publish. No work for your team. Run it as-is or edit it however you like.
+> **The offer:** a weekly Richmond airfare section, written and formatted, delivered ready to
+> publish. What the week's fares did, the ones readers can still book with dates and links, the
+> standouts named with the date each was found, and what's overpriced. No work for your team —
+> run it as-is or edit it however you like.
+>
+> One thing I'd rather say up front than have you discover: the strongest fares go to our paying
+> subscribers the morning we find them. By the time the section runs they're a track record, not
+> a live fare. I'd rather hand you something accurate than something that looks better and sends
+> your readers to a price that's gone.
 >
 > The section carries a credit and a link to rvacheapflights.com.
 >
