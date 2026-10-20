@@ -1,0 +1,256 @@
+date_found,origin,destination_code,destination,fare_usd,deal_grade,stops,airline,travel_dates,google_typical_low_usd,google_typical_high_usd
+2026-08-17,RIC,LGA,New York (LaGuardia),249,4.2,0,American,"Thu, Sep 17 – Sun, Sep 20",185,270
+2026-08-17,RIC,FLL,Fort Lauderdale,197,4.2,0,JetBlue,"Sat, Sep 12 – Mon, Sep 14",120,270
+2026-08-17,RIC,MDW,Chicago (Midway),237,4.2,0,Southwest,"Thu, Oct 22 – Mon, Oct 26",280,530
+2026-08-17,RIC,LHR,London (Heathrow),867,4.0,1,United,"Sun, Oct 11 – Tue, Oct 20",580,930
+2026-08-17,RIC,MBJ,Montego Bay,414,6.0,1,American,"Mon, Nov 2 – Tue, Nov 10",315,420
+2026-08-17,RIC,LGW,London (Gatwick),862,3.8,2,British Airways,"Mon, Sep 21 – Tue, Sep 29",550,1050
+2026-08-17,RIC,JFK,New York (JFK),249,4.2,0,Delta,"Thu, Nov 5 – Sun, Nov 8",200,380
+2026-08-17,RIC,LAS,Las Vegas,218,9.2,0,Breeze,"Sun, Jan 24 – Tue, Feb 2",220,390
+2026-08-18,RIC,BOS,Boston,269,6.2,0,Delta,"Thu, Oct 1 – Mon, Oct 5",145,315
+2026-08-18,RIC,LIS,Lisbon,776,4.0,1,Delta,"Mon, Sep 28 – Tue, Oct 6",890,1300
+2026-08-19,RIC,BNA,Nashville,137,10.0,0,Allegiant,"Thu, Nov 19 – Sun, Nov 22",175,370
+2026-08-20,RIC,CUN,Cancun,390,6.0,1,American,"Mon, Oct 5 – Wed, Oct 14",285,410
+2026-08-20,RIC,MIA,Miami,267,4.2,0,American,"Sat, Dec 5 – Sat, Dec 12",150,530
+2026-08-20,RIC,EWR,Newark,249,6.2,0,United,"Thu, Dec 3 – Mon, Dec 7",175,270
+2026-08-22,RIC,FCO,Rome,852,3.8,2,Condor,"Fri, Sep 11 – Thu, Sep 17",770,1150
+2026-08-22,RIC,CDG,Paris,839,4.0,1,United,"Mon, Sep 21 – Tue, Sep 29",780,1150
+2026-08-22,RIC,MDW,Chicago (Midway),248,4.2,0,Southwest,"Sat, Sep 19 – Mon, Sep 21",275,510
+2026-08-22,RIC,DUB,Dublin,732,5.8,2,British Airways,"Sun, Sep 27 – Tue, Oct 6",700,950
+2026-08-23,RIC,JFK,New York (JFK),249,4.2,0,Delta,"Thu, Sep 24 – Sun, Sep 27",235,345
+2026-08-23,RIC,LGW,London (Gatwick),863,3.8,2,British Airways,"Sun, Nov 15 – Tue, Nov 24",660,1050
+2026-08-24,RIC,LHR,London (Heathrow),839,3.8,2,British Airways,"Sat, Nov 7 – Fri, Nov 13",620,1050
+2026-08-24,RIC,MBJ,Montego Bay,414,6.0,1,Delta,"Sun, Sep 27 – Tue, Oct 6",340,520
+2026-08-24,RIC,FLL,Fort Lauderdale,219,4.0,1,Breeze,"Thu, Nov 5 – Mon, Nov 9",85,365
+2026-08-24,RIC,LGA,New York (LaGuardia),249,4.2,0,American,"Thu, Oct 1 – Sun, Oct 4",175,250
+2026-08-25,RIC,BOS,Boston,284,6.0,1,Frontier,"Sat, Sep 19 – Mon, Sep 21",205,340
+2026-08-25,RIC,LAS,Las Vegas,257,8.0,1,Frontier,"Fri, Sep 25 – Thu, Oct 1",280,420
+2026-08-25,RIC,CHS,Charleston,108,10.0,0,Breeze,"Fri, Feb 5 – Mon, Feb 8",185,415
+2026-08-25,RIC,LIS,Lisbon,715,6.0,1,United,"Mon, Oct 26 – Wed, Nov 4",680,1150
+2026-08-26,RIC,BNA,Nashville,127,10.0,0,Allegiant,"Thu, Oct 29 – Sun, Nov 1",195,380
+2026-08-26,RIC,MCO,Orlando,138,8.2,0,Frontier,"Mon, Dec 7 – Wed, Dec 16",75,280
+2026-08-27,RIC,RSW,Fort Myers,128,10.0,0,Breeze,"Thu, Jan 21 – Thu, Jan 28",180,365
+2026-08-27,RIC,CUN,Cancun,390,6.0,1,American,"Sun, Sep 27 – Tue, Oct 6",315,475
+2026-08-27,RIC,DEN,Denver,238,7.0,1,Frontier,"Mon, Nov 2 – Mon, Nov 9",210,485
+2026-08-27,RIC,MIA,Miami,323,3.8,2,American,"Sat, Jan 9 – Sat, Jan 16",90,270
+2026-08-28,RIC,FCO,Rome,778,5.8,2,United,"Fri, Oct 30 – Fri, Nov 6",700,1150
+2026-08-28,RIC,EWR,Newark,200,7.0,1,Frontier,"Thu, Sep 17 – Sun, Sep 20",205,285
+2026-08-28,RIC,CHS,Charleston,206,6.2,0,Breeze,"Sat, Oct 17 – Mon, Oct 19",200,400
+2026-08-29,RIC,PLS,Providenciales,589,5.8,2,Southwest,"Fri, Sep 25 – Thu, Oct 1",590,710
+2026-08-29,RIC,MDW,Chicago (Midway),327,4.0,1,Frontier,"Sat, Nov 21 – Mon, Nov 23",270,550
+2026-08-29,RIC,CDG,Paris,823,4.0,1,JetBlue,"Fri, Oct 30 – Thu, Nov 5",680,1050
+2026-08-29,RIC,TPA,Tampa,148,7.2,0,Breeze,"Thu, Nov 12 – Wed, Nov 18",125,320
+2026-08-29,RIC,PUJ,Punta Cana,474,8.0,1,JetBlue,"Fri, Oct 30 – Thu, Nov 5",300,500
+2026-08-29,RIC,DUB,Dublin,703,6.0,1,Delta,"Mon, Nov 2 – Tue, Nov 10",485,930
+2026-08-30,RIC,CHS,Charleston,201,6.2,0,Breeze,"Sat, Nov 14 – Mon, Nov 16",175,405
+2026-08-30,RIC,JFK,New York (JFK),269,4.2,0,Delta,"Thu, Oct 1 – Sun, Oct 4",215,270
+2026-08-30,RIC,LGW,London (Gatwick),876,3.8,2,United,"Mon, Sep 28 – Mon, Oct 5",650,1100
+2026-08-31,RIC,MBJ,Montego Bay,414,6.0,1,American,"Mon, Oct 12 – Wed, Oct 21",310,445
+2026-08-31,RIC,LHR,London (Heathrow),880,4.0,1,Virgin Atlantic,"Thu, Sep 24 – Thu, Oct 1",710,1100
+2026-08-31,RIC,LGA,New York (LaGuardia),269,4.2,0,American,"Thu, Nov 5 – Sun, Nov 8",175,365
+2026-09-01,RIC,BOS,Boston,312,4.0,1,Southwest,"Thu, Nov 5 – Mon, Nov 9",145,365
+2026-09-01,RIC,CHS,Charleston,188,6.2,0,Breeze,"Sat, Dec 5 – Mon, Dec 7",185,425
+2026-09-01,RIC,LAS,Las Vegas,284,7.0,1,Breeze,"Sun, Oct 18 – Tue, Oct 27",250,400
+2026-09-01,RIC,ORD,Chicago (O'Hare),262,4.0,1,Frontier,"Thu, Oct 1 – Mon, Oct 5",180,340
+2026-09-01,RIC,MDW,Chicago (Midway),321,4.2,0,Southwest,"Thu, Jan 7 – Mon, Jan 11",245,500
+2026-09-01,RIC,FLL,Fort Lauderdale,179,6.0,1,Breeze,"Thu, Oct 15 – Mon, Oct 19",95,265
+2026-09-01,RIC,LIS,Lisbon,714,6.0,1,United,"Mon, Nov 2 – Tue, Nov 10",550,970
+2026-09-02,RIC,AUA,Aruba,385,7.0,1,American,"Thu, Jan 7 – Wed, Jan 13",260,370
+2026-09-02,RIC,BNA,Nashville,174,7.2,0,Allegiant,"Thu, Dec 10 – Sun, Dec 13",175,380
+2026-09-02,RIC,MCO,Orlando,98,10.0,0,Frontier,"Mon, Dec 7 – Wed, Dec 16",75,280
+2026-09-03,RIC,RSW,Fort Myers,218,6.2,0,Breeze,"Sun, Mar 14 – Sat, Mar 20",305,580
+2026-09-03,RIC,TPA,Tampa,133,8.2,0,Breeze,"Sat, Nov 7 – Sat, Nov 14",125,320
+2026-09-03,RIC,BOS,Boston,256,6.0,1,Frontier,"Thu, Nov 5 – Mon, Nov 9",145,365
+2026-09-03,RIC,CUN,Cancun,398,6.0,1,JetBlue,"Mon, Nov 16 – Tue, Nov 24",290,570
+2026-09-03,RIC,BNA,Nashville,261,4.0,1,JetBlue,"Thu, Jan 21 – Mon, Jan 25",200,345
+2026-09-03,RIC,MDW,Chicago (Midway),272,4.0,1,Frontier,"Thu, Nov 19 – Sun, Nov 22",270,550
+2026-09-03,RIC,MIA,Miami,323,3.8,2,American,"Sat, Oct 10 – Sat, Oct 17",155,370
+2026-09-04,RIC,FCO,Rome,725,5.8,2,British Airways,"Mon, Nov 16 – Wed, Nov 25",550,1200
+2026-09-04,RIC,DEN,Denver,282,6.0,1,Frontier,"Sat, Dec 5 – Sat, Dec 12",240,580
+2026-09-04,RIC,EWR,Newark,230,6.0,1,Frontier,"Fri, Oct 2 – Mon, Oct 5",175,270
+2026-09-05,RIC,PLS,Providenciales,566,5.8,2,Southwest,"Sat, Oct 24 – Sat, Oct 31",475,690
+2026-09-05,RIC,DUB,Dublin,698,5.8,2,British Airways,"Mon, Oct 26 – Tue, Nov 3",560,870
+2026-09-05,RIC,CDG,Paris,776,5.8,2,Delta,"Mon, Nov 30 – Tue, Dec 8",550,1050
+2026-09-05,RIC,PUJ,Punta Cana,440,8.0,1,American,"Sat, Dec 12 – Fri, Dec 18",305,930
+2026-09-06,RIC,PLS,Providenciales,503,6.8,2,Southwest,"Sat, Oct 24 – Sat, Oct 31",475,690
+2026-09-06,RIC,LAS,Las Vegas,324,6.0,1,Breeze,"Mon, Mar 1 – Tue, Mar 9",275,520
+2026-09-06,RIC,JFK,New York (JFK),289,4.2,0,Delta,"Thu, Nov 5 – Sun, Nov 8",200,380
+2026-09-07,RIC,LGW,London (Gatwick),875,3.8,2,United,"Mon, Oct 19 – Mon, Oct 26",600,1050
+2026-09-07,RIC,MBJ,Montego Bay,402,6.0,1,American,"Sat, Nov 7 – Fri, Nov 13",315,420
+2026-09-07,RIC,LHR,London (Heathrow),867,4.0,1,United,"Sun, Oct 11 – Tue, Oct 20",610,980
+2026-09-07,RIC,LGA,New York (LaGuardia),269,4.2,0,American,"Thu, Dec 3 – Sun, Dec 6",175,340
+2026-09-08,RIC,FLL,Fort Lauderdale,197,4.0,1,Breeze,"Sat, Dec 5 – Mon, Dec 7",85,265
+2026-09-08,RIC,ORD,Chicago (O'Hare),321,4.2,0,American,"Thu, Jan 7 – Mon, Jan 11",165,375
+2026-09-08,RIC,CHS,Charleston,98,10.0,0,Breeze,"Fri, Jan 15 – Fri, Jan 22",160,300
+2026-09-08,RIC,LIS,Lisbon,714,6.0,1,United,"Sun, Dec 6 – Tue, Dec 15",540,1750
+2026-09-08,RIC,LHR,London (Heathrow),755,6.0,1,American,"Mon, Mar 15 – Tue, Mar 23",650,1100
+2026-09-08,RIC,FCO,Rome,580,7.8,2,British Airways,"Sun, Mar 7 – Tue, Mar 16",680,1350
+2026-09-08,RIC,LGW,London (Gatwick),712,5.8,2,British Airways,"Mon, Oct 12 – Tue, Oct 20",620,1050
+2026-09-08,RIC,CDG,Paris,644,6.8,2,British Airways,"Mon, Feb 1 – Tue, Feb 9",550,820
+2026-09-09,RIC,AUA,Aruba,398,7.0,1,Delta,"Mon, Feb 22 – Mon, Mar 1",285,415
+2026-09-09,RIC,DUB,Dublin,548,7.8,2,British Airways,"Mon, Oct 26 – Tue, Nov 3",560,870
+2026-09-09,RIC,LHR,London (Heathrow),746,6.0,1,American,"Sun, Oct 11 – Tue, Oct 20",610,980
+2026-09-10,RIC,RSW,Fort Myers,163,8.2,0,Breeze,"Sun, Feb 7 – Sat, Feb 13",210,435
+2026-09-10,RIC,TPA,Tampa,148,7.0,1,Southwest,"Sat, Oct 24 – Sun, Nov 1",120,230
+2026-09-10,RIC,BOS,Boston,315,4.0,1,Frontier,"Sat, Oct 3 – Mon, Oct 5",170,355
+2026-09-10,RIC,CUN,Cancun,392,6.0,1,United,"Mon, Oct 5 – Wed, Oct 14",290,430
+2026-09-10,RIC,LIS,Lisbon,577,7.0,1,Delta,"Mon, Oct 26 – Tue, Nov 3",700,1150
+2026-09-10,RIC,CDG,Paris,640,6.8,2,British Airways,"Mon, Nov 2 – Tue, Nov 10",550,1050
+2026-09-10,RIC,PLS,Providenciales,505,7.0,1,Southwest,"Mon, Mar 1 – Sun, Mar 7",380,780
+2026-09-10,RIC,FCO,Rome,575,7.8,2,British Airways,"Sun, Nov 8 – Tue, Nov 17",550,1200
+2026-09-10,RIC,MIA,Miami,317,4.2,0,American,"Sat, Nov 7 – Sat, Nov 14",170,395
+2026-09-10,RIC,MDW,Chicago (Midway),321,4.2,0,Southwest,"Thu, Oct 1 – Mon, Oct 5",285,520
+2026-09-10,RIC,BNA,Nashville,156,8.2,0,Allegiant,"Thu, Nov 19 – Sun, Nov 22",175,370
+2026-09-11,RIC,DEN,Denver,282,6.0,1,Frontier,"Thu, Oct 22 – Wed, Oct 28",250,470
+2026-09-11,RIC,EWR,Newark,269,4.2,0,United,"Thu, Nov 5 – Sun, Nov 8",175,300
+2026-09-13,RIC,PUJ,Punta Cana,460,8.0,1,American,"Sat, Nov 14 – Fri, Nov 20",305,580
+2026-09-14,RIC,MCO,Orlando,183,6.0,1,Southwest,"Sat, Feb 6 – Sat, Feb 13",90,195
+2026-09-14,RIC,MDW,Chicago (Midway),298,4.2,0,Southwest,"Sat, Feb 6 – Mon, Feb 8",245,445
+2026-09-14,RIC,BOS,Boston,295,4.0,1,Southwest,"Thu, Feb 4 – Sun, Feb 7",130,320
+2026-09-14,RIC,MIA,Miami,291,4.0,1,Southwest,"Sat, Oct 24 – Sat, Oct 31",165,400
+2026-09-14,RIC,DEN,Denver,320,4.0,1,Southwest,"Thu, Jan 7 – Wed, Jan 13",225,450
+2026-09-14,RIC,LAS,Las Vegas,208,10.0,0,Breeze,"Sun, Jan 24 – Tue, Feb 2",220,390
+2026-09-14,RIC,JFK,New York (JFK),289,4.2,0,Delta,"Thu, Dec 3 – Sun, Dec 6",200,410
+2026-09-14,RIC,MBJ,Montego Bay,354,7.0,1,American,"Mon, Oct 26 – Tue, Nov 3",310,470
+2026-09-14,RIC,CUN,Cancun,350,6.0,1,American,"Mon, Nov 30 – Tue, Dec 8",295,580
+2026-09-14,RIC,FLL,Fort Lauderdale,201,4.0,1,American,"Thu, Feb 4 – Sun, Feb 7",100,265
+2026-09-14,RIC,ORD,Chicago (O'Hare),279,4.2,0,American,"Sat, Feb 6 – Mon, Feb 8",200,355
+2026-09-15,RIC,LGA,New York (LaGuardia),289,4.2,0,American,"Thu, Oct 15 – Mon, Oct 19",175,270
+2026-09-15,RIC,CHS,Charleston,98,10.0,0,Breeze,"Mon, Feb 1 – Mon, Feb 8",170,320
+2026-09-15,RIC,MIA,Miami,247,6.0,1,Southwest,"Sat, Oct 3 – Sat, Oct 10",170,420
+2026-09-15,RIC,MCO,Orlando,145,8.0,1,Southwest,"Sat, Feb 20 – Sat, Feb 27",90,195
+2026-09-15,RIC,MDW,Chicago (Midway),278,4.2,0,Southwest,"Sat, Jan 23 – Mon, Jan 25",245,500
+2026-09-16,RIC,DEN,Denver,254,7.0,1,Frontier,"Sat, Oct 24 – Sat, Oct 31",265,475
+2026-09-16,RIC,AUA,Aruba,407,7.0,1,JetBlue,"Sun, Oct 25 – Tue, Nov 3",360,520
+2026-09-16,RIC,LGW,London (Gatwick),712,5.8,2,British Airways,"Mon, Dec 7 – Tue, Dec 15",730,1700
+2026-09-17,RIC,DUB,Dublin,556,7.0,1,Delta,"Sun, Dec 6 – Tue, Dec 15",480,1450
+2026-09-20,RIC,EWR,Newark,245,6.0,1,Frontier,"Fri, Dec 4 – Sun, Dec 6",175,270
+2026-09-20,RIC,PUJ,Punta Cana,460,8.0,1,American,"Sat, Oct 31 – Fri, Nov 6",305,560
+2026-09-21,RIC,LAS,Las Vegas,258,8.0,1,Breeze,"Thu, Nov 26 – Thu, Dec 3",260,450
+2026-09-21,RIC,MCO,Orlando,124,9.2,0,Frontier,"Mon, Nov 23 – Wed, Dec 2",100,250
+2026-09-21,RIC,JFK,New York (JFK),289,4.2,0,Delta,"Thu, Oct 22 – Sun, Oct 25",215,340
+2026-09-21,RIC,BOS,Boston,287,6.0,1,Frontier,"Thu, Dec 3 – Mon, Dec 7",135,310
+2026-09-21,RIC,MDW,Chicago (Midway),277,4.0,1,Frontier,"Fri, Jan 8 – Mon, Jan 11",245,500
+2026-09-21,RIC,FLL,Fort Lauderdale,244,4.0,1,Breeze,"Sat, Oct 17 – Mon, Oct 19",135,320
+2026-09-22,RIC,LGA,New York (LaGuardia),289,4.2,0,American,"Thu, Nov 5 – Sun, Nov 8",175,365
+2026-09-22,RIC,MBJ,Montego Bay,422,4.0,1,American,"Sat, Dec 12 – Fri, Dec 18",315,620
+2026-09-22,RIC,CUN,Cancun,373,6.0,1,Delta,"Thu, Dec 31 – Fri, Jan 8",305,800
+2026-09-22,RIC,CHS,Charleston,123,10.0,0,Breeze,"Mon, Mar 1 – Mon, Mar 8",235,510
+2026-09-22,RIC,ORD,Chicago (O'Hare),284,4.0,1,Frontier,"Thu, Oct 22 – Mon, Oct 26",225,390
+2026-09-23,RIC,MIA,Miami,307,4.0,1,Southwest,"Mon, Mar 1 – Tue, Mar 9",220,510
+2026-09-23,RIC,AUA,Aruba,376,8.0,1,JetBlue,"Mon, Nov 9 – Wed, Nov 18",340,680
+2026-09-24,RIC,DUB,Dublin,554,7.8,2,British Airways,"Mon, Jan 11 – Tue, Jan 19",470,690
+2026-09-24,RIC,LGW,London (Gatwick),719,5.8,2,British Airways,"Sun, Jan 10 – Tue, Jan 19",610,1050
+2026-09-24,RIC,BNA,Nashville,187,7.2,0,Allegiant,"Thu, Oct 29 – Sun, Nov 1",215,400
+2026-09-24,RIC,TPA,Tampa,138,8.2,0,Breeze,"Sat, Nov 7 – Sat, Nov 14",130,320
+2026-09-24,RIC,CDG,Paris,780,6.0,1,United,"Sun, Jan 10 – Tue, Jan 19",550,850
+2026-09-25,RIC,PLS,Providenciales,569,5.8,2,Southwest,"Mon, Dec 14 – Sun, Dec 20",360,890
+2026-09-25,RIC,LHR,London (Heathrow),804,3.8,2,British Airways,"Sun, Jan 17 – Sat, Jan 23",620,870
+2026-09-25,RIC,CHS,Charleston,98,10.0,0,Breeze,"Sat, Dec 5 – Sat, Dec 12",180,390
+2026-09-25,RIC,FCO,Rome,729,6.0,1,United,"Mon, Jan 18 – Tue, Jan 26",500,960
+2026-09-25,RIC,TPA,Tampa,103,10.0,0,Breeze,"Sun, Dec 6 – Tue, Dec 15",125,420
+2026-09-25,RIC,AUA,Aruba,355,8.0,1,American,"Mon, Oct 26 – Tue, Nov 3",385,550
+2026-09-25,RIC,LIS,Lisbon,718,6.0,1,United,"Sun, Jan 10 – Tue, Jan 19",490,720
+2026-09-25,RIC,DEN,Denver,298,6.0,1,Frontier,"Thu, Nov 5 – Wed, Nov 11",230,490
+2026-09-25,RIC,MCO,Orlando,124,9.2,0,Frontier,"Sat, Jan 2 – Fri, Jan 8",75,145
+2026-09-26,RIC,RSW,Fort Myers,208,6.2,0,Breeze,"Sun, Mar 14 – Sat, Mar 20",305,580
+2026-09-26,RIC,FLL,Fort Lauderdale,212,4.0,1,Breeze,"Sat, Oct 17 – Mon, Oct 19",135,325
+2026-09-26,RIC,EWR,Newark,289,4.2,0,United,"Sat, Oct 17 – Sun, Oct 18",195,300
+2026-09-27,RIC,PUJ,Punta Cana,460,8.0,1,American,"Sat, Dec 5 – Fri, Dec 11",305,930
+2026-09-28,RIC,JFK,New York (JFK),309,4.2,0,Delta,"Thu, Nov 5 – Sun, Nov 8",215,380
+2026-09-28,RIC,BOS,Boston,301,4.0,1,Frontier,"Thu, Nov 5 – Mon, Nov 9",145,390
+2026-09-28,RIC,LAS,Las Vegas,245,8.0,1,Breeze,"Sun, Oct 18 – Tue, Oct 27",295,435
+2026-09-28,RIC,MDW,Chicago (Midway),297,4.2,0,Southwest,"Thu, Nov 12 – Mon, Nov 16",280,550
+2026-09-29,RIC,LGA,New York (LaGuardia),309,4.2,0,American,"Thu, Dec 3 – Sun, Dec 6",175,340
+2026-09-29,RIC,MCO,Orlando,128,9.2,0,Frontier,"Mon, Oct 5 – Sun, Oct 11",140,250
+2026-09-29,RIC,CUN,Cancun,334,7.0,1,Breeze,"Mon, Jan 25 – Mon, Feb 1",290,415
+2026-09-29,RIC,AUA,Aruba,329,9.0,1,American,"Mon, Jan 11 – Wed, Jan 20",260,370
+2026-09-29,RIC,MBJ,Montego Bay,428,3.8,2,American,"Sat, Jan 30 – Fri, Feb 5",300,325
+2026-09-30,RIC,ORD,Chicago (O'Hare),249,4.0,1,Frontier,"Sat, Nov 21 – Mon, Nov 23",190,390
+2026-09-30,RIC,MIA,Miami,303,3.8,2,American,"Sat, Dec 5 – Sat, Dec 12",150,530
+2026-09-30,RIC,AUA,Aruba,329,9.0,1,American,"Mon, Nov 16 – Tue, Nov 24",345,700
+2026-09-30,RIC,BNA,Nashville,167,8.2,0,Allegiant,"Thu, Oct 29 – Sun, Nov 1",225,405
+2026-10-01,RIC,DEN,Denver,267,6.0,1,Frontier,"Thu, Nov 5 – Wed, Nov 11",235,495
+2026-10-01,RIC,LGW,London (Gatwick),921,3.8,2,United,"Thu, Oct 29 – Wed, Nov 4",800,1100
+2026-10-01,RIC,DUB,Dublin,699,5.8,2,British Airways,"Mon, Oct 26 – Tue, Nov 3",580,850
+2026-10-01,RIC,CDG,Paris,774,6.0,1,United,"Mon, Nov 9 – Tue, Nov 17",550,1100
+2026-10-02,RIC,FCO,Rome,724,5.8,2,British Airways,"Mon, Nov 9 – Tue, Nov 17",550,1200
+2026-10-02,RIC,PLS,Providenciales,636,6.0,1,American,"Fri, Jan 1 – Thu, Jan 7",360,680
+2026-10-02,RIC,LHR,London (Heathrow),859,3.8,2,British Airways,"Sun, Nov 22 – Tue, Dec 1",640,1050
+2026-10-02,RIC,TPA,Tampa,108,10.0,0,Breeze,"Sat, Jan 16 – Fri, Jan 22",95,210
+2026-10-02,RIC,CHS,Charleston,118,10.0,0,Breeze,"Fri, Apr 23 – Fri, Apr 30",265,495
+2026-10-02,RIC,LIS,Lisbon,805,4.0,1,United,"Sun, Nov 29 – Tue, Dec 8",550,1050
+2026-10-03,RIC,MCO,Orlando,104,10.0,0,Frontier,"Thu, Nov 19 – Wed, Nov 25",105,265
+2026-10-03,RIC,FLL,Fort Lauderdale,264,4.0,1,Breeze,"Thu, Nov 5 – Mon, Nov 9",100,380
+2026-10-03,RIC,RSW,Fort Myers,188,7.2,0,Breeze,"Sat, Apr 24 – Sat, May 1",260,500
+2026-10-03,RIC,LAS,Las Vegas,268,7.2,0,Breeze,"Sun, Dec 13 – Tue, Dec 22",275,520
+2026-10-03,RIC,EWR,Newark,289,4.2,0,United,"Thu, Nov 5 – Sun, Nov 8",175,335
+2026-10-04,RIC,PUJ,Punta Cana,460,8.0,1,American,"Sat, Nov 14 – Fri, Nov 20",305,680
+2026-10-05,RIC,JFK,New York (JFK),309,4.2,0,Delta,"Thu, Dec 3 – Sun, Dec 6",200,410
+2026-10-05,RIC,BOS,Boston,276,6.0,1,Southwest,"Fri, Jan 1 – Sun, Jan 3",140,290
+2026-10-05,RIC,DEN,Denver,320,4.0,1,Southwest,"Mon, Feb 1 – Mon, Feb 8",235,425
+2026-10-05,RIC,MIA,Miami,270,4.0,1,Southwest,"Sat, Feb 6 – Sat, Feb 13",120,345
+2026-10-05,RIC,MBJ,Montego Bay,353,7.0,1,American,"Mon, Dec 7 – Tue, Dec 15",315,620
+2026-10-05,RIC,LAS,Las Vegas,288,7.0,1,Delta,"Mon, Mar 1 – Tue, Mar 9",275,520
+2026-10-05,RIC,ORD,Chicago (O'Hare),261,4.2,0,American,"Thu, Dec 3 – Mon, Dec 7",160,405
+2026-10-05,RIC,MDW,Chicago (Midway),268,4.2,0,Southwest,"Sat, Jan 9 – Mon, Jan 11",245,500
+2026-10-06,RIC,AUA,Aruba,304,10.0,1,American,"Mon, Dec 7 – Tue, Dec 15",310,1050
+2026-10-06,RIC,MCO,Orlando,96,10.0,0,Frontier,"Mon, Jan 11 – Wed, Jan 20",75,145
+2026-10-06,RIC,CUN,Cancun,350,6.0,1,United,"Mon, Nov 2 – Tue, Nov 10",305,630
+2026-10-06,RIC,LGA,New York (LaGuardia),290,4.0,1,Frontier,"Fri, Dec 11 – Mon, Dec 14",175,340
+2026-10-07,RIC,LAS,Las Vegas,212,10.0,1,JetBlue,"Thu, Nov 26 – Thu, Dec 3",270,460
+2026-10-07,RIC,FLL,Fort Lauderdale,191,3.8,2,Southwest,"Thu, Nov 5 – Mon, Nov 9",100,385
+2026-10-07,RIC,ORD,Chicago (O'Hare),221,6.0,1,Frontier,"Fri, Dec 4 – Mon, Dec 7",160,405
+2026-10-07,RIC,MCO,Orlando,52,10.0,0,Frontier,"Thu, Nov 12 – Thu, Nov 19",110,265
+2026-10-07,RIC,BNA,Nashville,141,9.2,0,Allegiant,"Thu, Nov 19 – Sun, Nov 22",190,375
+2026-10-08,RIC,RSW,Fort Myers,143,9.2,0,Breeze,"Thu, Feb 25 – Thu, Mar 4",210,435
+2026-10-08,RIC,PUJ,Punta Cana,403,9.0,1,JetBlue,"Fri, Nov 13 – Sun, Nov 22",305,700
+2026-10-08,RIC,DUB,Dublin,701,5.8,2,British Airways,"Thu, Nov 5 – Wed, Nov 11",490,950
+2026-10-08,RIC,LGW,London (Gatwick),890,3.8,2,United,"Sun, Nov 8 – Mon, Nov 16",660,1100
+2026-10-08,RIC,EWR,Newark,250,4.0,1,Frontier,"Thu, Nov 5 – Sun, Nov 8",175,350
+2026-10-08,RIC,CDG,Paris,797,6.0,1,United,"Mon, Dec 7 – Tue, Dec 15",560,1850
+2026-10-09,RIC,TPA,Tampa,153,7.0,1,Southwest,"Mon, Feb 1 – Tue, Feb 9",125,235
+2026-10-09,RIC,FCO,Rome,802,4.0,1,United,"Thu, Apr 15 – Wed, Apr 21",870,1150
+2026-10-09,RIC,PLS,Providenciales,545,6.8,2,Southwest,"Mon, Nov 16 – Wed, Nov 25",480,850
+2026-10-09,RIC,CHS,Charleston,98,10.0,0,Breeze,"Mon, Jan 11 – Mon, Jan 18",160,300
+2026-10-09,RIC,LHR,London (Heathrow),891,3.8,2,British Airways,"Sun, Dec 6 – Tue, Dec 15",660,1500
+2026-10-09,RIC,LIS,Lisbon,722,6.0,1,American,"Sun, Dec 6 – Tue, Dec 15",540,1750
+2026-10-10,RIC,MDW,Chicago (Midway),259,4.0,1,Frontier,"Thu, Nov 19 – Sun, Nov 22",285,550
+2026-10-10,RIC,EWR,Newark,250,4.0,1,Frontier,"Fri, Jan 22 – Sun, Jan 24",165,265
+2026-10-12,RIC,BOS,Boston,310,4.0,1,United,"Thu, Dec 3 – Mon, Dec 7",135,310
+2026-10-12,RIC,DEN,Denver,313,4.0,1,Frontier,"Thu, Dec 3 – Wed, Dec 9",240,580
+2026-10-12,RIC,JFK,New York (JFK),309,4.2,0,Delta,"Thu, Jan 7 – Sun, Jan 10",160,320
+2026-10-12,RIC,MBJ,Montego Bay,429,4.0,1,JetBlue,"Mon, Nov 2 – Tue, Nov 10",315,495
+2026-10-13,RIC,FLL,Fort Lauderdale,219,4.0,1,Breeze,"Thu, Dec 3 – Sun, Dec 6",85,270
+2026-10-13,RIC,MIA,Miami,340,3.8,2,American,"Mon, Nov 23 – Tue, Dec 1",200,460
+2026-10-13,RIC,CUN,Cancun,367,6.0,1,Delta,"Sun, Dec 13 – Tue, Dec 22",305,800
+2026-10-13,RIC,BOS,Boston,272,6.0,1,Frontier,"Thu, Dec 3 – Mon, Dec 7",135,315
+2026-10-13,RIC,LGA,New York (LaGuardia),309,4.2,0,American,"Thu, Nov 12 – Sun, Nov 15",190,375
+2026-10-14,RIC,FLL,Fort Lauderdale,157,6.0,1,Breeze,"Thu, Dec 3 – Sun, Dec 6",85,270
+2026-10-14,RIC,AUA,Aruba,423,7.0,1,American,"Mon, Mar 1 – Mon, Mar 8",320,610
+2026-10-14,RIC,LAS,Las Vegas,208,10.0,0,Breeze,"Sun, Jan 24 – Tue, Feb 2",220,390
+2026-10-15,RIC,PUJ,Punta Cana,474,8.0,1,Southwest,"Sun, Jan 24 – Tue, Feb 2",295,340
+2026-10-15,RIC,ORD,Chicago (O'Hare),268,4.0,1,Frontier,"Thu, Feb 4 – Mon, Feb 8",200,355
+2026-10-15,RIC,LGW,London (Gatwick),890,3.8,2,United,"Mon, Dec 7 – Wed, Dec 16",740,1700
+2026-10-15,RIC,RSW,Fort Myers,128,10.0,0,Breeze,"Sun, Jan 17 – Sat, Jan 23",180,365
+2026-10-15,RIC,DUB,Dublin,721,5.8,2,British Airways,"Mon, Dec 7 – Tue, Dec 15",480,1450
+2026-10-15,RIC,BNA,Nashville,176,7.2,0,Allegiant,"Thu, Dec 10 – Sun, Dec 13",180,380
+2026-10-15,RIC,MCO,Orlando,109,10.0,0,Frontier,"Mon, Dec 7 – Wed, Dec 16",75,280
+2026-10-16,RIC,CDG,Paris,787,6.0,1,Delta,"Mon, Jan 18 – Tue, Jan 26",550,850
+2026-10-16,RIC,PLS,Providenciales,628,5.8,2,Southwest,"Mon, Dec 14 – Tue, Dec 22",360,890
+2026-10-16,RIC,TPA,Tampa,153,7.2,0,Breeze,"Thu, Nov 12 – Wed, Nov 18",150,325
+2026-10-16,RIC,FCO,Rome,723,6.0,1,United,"Sun, Dec 6 – Tue, Dec 15",600,1900
+2026-10-16,RIC,CHS,Charleston,123,10.0,0,Breeze,"Mon, Mar 1 – Mon, Mar 8",235,510
+2026-10-16,RIC,LHR,London (Heathrow),860,3.8,2,British Airways,"Sun, Jan 17 – Sat, Jan 23",620,870
+2026-10-16,RIC,LIS,Lisbon,731,6.0,1,American,"Sun, Jan 17 – Tue, Jan 26",490,720
+2026-10-17,RIC,EWR,Newark,275,4.0,1,Frontier,"Fri, Dec 4 – Sun, Dec 6",175,290
+2026-10-17,RIC,MDW,Chicago (Midway),250,4.0,1,Frontier,"Thu, Dec 3 – Sun, Dec 6",260,510
+2026-10-19,RIC,BOS,Boston,283,6.0,1,Frontier,"Thu, Feb 4 – Mon, Feb 8",130,320
+2026-10-19,RIC,MIA,Miami,264,4.0,1,Southwest,"Sat, Jan 9 – Sat, Jan 16",90,270
+2026-10-19,RIC,RSW,Fort Myers,246,4.2,0,Breeze,"Thu, Nov 12 – Wed, Nov 18",265,520
+2026-10-19,RIC,PLS,Providenciales,540,6.8,2,Southwest,"Mon, Dec 14 – Tue, Dec 22",360,890
+2026-10-19,RIC,DEN,Denver,332,4.0,1,Southwest,"Mon, Jan 4 – Mon, Jan 11",225,450
+2026-10-19,RIC,JFK,New York (JFK),329,4.2,0,Delta,"Thu, Nov 19 – Sun, Nov 22",225,420
+2026-10-19,RIC,LGA,New York (LaGuardia),268,3.8,2,American,"Sat, Jan 9 – Sun, Jan 10",165,275
+2026-10-19,RIC,LAS,Las Vegas,228,8.0,1,Delta,"Thu, Dec 31 – Thu, Jan 7",275,520
+2026-10-19,RIC,MBJ,Montego Bay,448,3.8,2,American,"Sat, Jan 23 – Fri, Jan 29",300,325

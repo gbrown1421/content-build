@@ -41,8 +41,10 @@ const topGrade = routes.reduce((a, r) => a + r.tens, 0);
 
 // ---- diverging bar chart ----
 const NAVY = '#153556', ORANGE = '#F37727', INK = '#1b2733', MUTED = '#6b7a88', GRID = '#e3e7ea';
-const W = 920, ROW = 25, PAD_T = 44, LABEL_W = 196, AXIS_W = 540, GAP = 2;
-const H = PAD_T + routes.length * ROW + 32;
+// Row height is tuned so the whole sheet lands on ONE letter page - the email promises a
+// one-page summary. Verified by counting /Type /Page in the rendered PDF, not by eye.
+const W = 920, ROW = 17, PAD_T = 32, LABEL_W = 196, AXIS_W = 540, GAP = 2;
+const H = PAD_T + routes.length * ROW + 26;
 const maxAbs = Math.max(...routes.map(r => Math.abs(r.pct)));
 const scale = v => (v / maxAbs) * (AXIS_W / 2 - 40);
 const ZERO = LABEL_W + AXIS_W / 2;
@@ -56,9 +58,9 @@ routes.forEach((r, i) => {
   const fill = cheaper ? ORANGE : NAVY;
   const labX = cheaper ? x + w + 8 : x - 8;
   bars += `
-    <text x="${LABEL_W - 14}" y="${y + 13}" text-anchor="end" font-size="12.5" fill="${INK}">${r.name}</text>
-    <rect x="${x}" y="${y + 4}" width="${Math.max(w, 1)}" height="14" rx="4" fill="${fill}"/>
-    <text x="${labX}" y="${y + 15}" text-anchor="${cheaper ? 'start' : 'end'}" font-size="11.5" font-weight="700" fill="${fill}">${Math.abs(r.pct)}%</text>`;
+    <text x="${LABEL_W - 14}" y="${y + 12}" text-anchor="end" font-size="11" fill="${INK}">${r.name}</text>
+    <rect x="${x}" y="${y + 3}" width="${Math.max(w, 1)}" height="11" rx="3.5" fill="${fill}"/>
+    <text x="${labX}" y="${y + 12}" text-anchor="${cheaper ? 'start' : 'end'}" font-size="10.5" font-weight="700" fill="${fill}">${Math.abs(r.pct)}%</text>`;
 });
 
 const chart = `<svg viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="Average Richmond fare against what each route normally costs" font-family="Arial, Helvetica, sans-serif">
@@ -79,21 +81,25 @@ const html = `<!doctype html>
   @page { size: letter portrait; margin: 0; }
   * { box-sizing: border-box; }
   body { margin:0; font-family: Arial, Helvetica, sans-serif; color:${INK}; background:#fff; }
-  .sheet { width: 8.5in; min-height: 11in; margin: 0 auto; }
-  header { background:${NAVY}; color:#fff; padding: 24px 40px 22px; text-align:center; }
-  header img { height: 170px; display:block; margin: 0 auto 16px; }
+  /* No min-height: it forced a blank second page whenever content ran even slightly over.
+     The zoom is what guarantees ONE page - content measures just over 11in, and zoom (unlike
+     transform) affects layout flow, so Chrome paginates against the scaled height. Verified by
+     counting /Type /Page in the rendered PDF. */
+  .sheet { width: 8.5in; margin: 0 auto; zoom: 0.93; }
+  header { background:${NAVY}; color:#fff; padding: 18px 40px 16px; text-align:center; }
+  header img { height: 170px; display:block; margin: 0 auto 10px; }
   h1 { font-size: 24px; margin: 0 0 6px; line-height:1.2; }
   .sub { font-size: 12.5px; opacity:.85; margin:0; }
   .stats { display:flex; border-bottom:1px solid ${GRID}; }
-  .stat { flex:1; padding:16px 10px; text-align:center; border-right:1px solid ${GRID}; }
+  .stat { flex:1; padding:11px 10px; text-align:center; border-right:1px solid ${GRID}; }
   .stat:last-child{border-right:0}
   .stat b { display:block; font-size:25px; color:${NAVY}; line-height:1.1; }
   .stat span { font-size:10.5px; color:${MUTED}; text-transform:uppercase; letter-spacing:.055em; }
-  section { padding: 20px 40px 0; }
+  section { padding: 13px 40px 0; }
   h2 { font-size:15.5px; margin:0 0 3px; color:${NAVY}; }
-  .note { font-size:11.5px; color:${MUTED}; margin:0 0 12px; line-height:1.45; }
+  .note { font-size:11px; color:${MUTED}; margin:0 0 8px; line-height:1.4; }
   .pills { display:flex; gap:8px; }
-  .pill { background:${ORANGE}; color:#fff; border-radius:7px; padding:7px 15px; text-align:center; }
+  .pill { background:${ORANGE}; color:#fff; border-radius:7px; padding:5px 13px; text-align:center; }
   .pill-date { font-size:10.5px; opacity:.92; }
   .pill-price { font-size:16px; font-weight:700; }
   .split { display:flex; gap:26px; }
@@ -102,7 +108,7 @@ const html = `<!doctype html>
   .win h3 { color:${ORANGE}; } .lose h3 { color:${NAVY}; }
   .row { display:flex; justify-content:space-between; font-size:12px; padding:4px 0; border-bottom:1px solid ${GRID}; }
   .row b { font-variant-numeric: tabular-nums; }
-  footer { margin-top:18px; padding:14px 40px 24px; border-top:2px solid ${NAVY}; font-size:10.5px; color:${MUTED}; line-height:1.55; }
+  footer { margin-top:12px; padding:11px 40px 16px; border-top:2px solid ${NAVY}; font-size:9.5px; color:${MUTED}; line-height:1.55; }
   footer b { color:${NAVY}; }
 </style></head><body><div class="sheet">
 <header>
@@ -128,19 +134,6 @@ const html = `<!doctype html>
   <h2>Charleston at $98, four separate times</h2>
   <p class="note">A fare that recurs is a different kind of fact from a one-off &mdash; it means a traveler who waits will very likely get another chance.</p>
   <div class="pills">${strip}</div>
-</section>
-
-<section>
-  <h2>Where Richmond wins, and where it doesn't</h2>
-  <p class="note">Same state, opposite answer: Orlando and Tampa are two of the strongest routes out of RIC, while Miami and Fort Lauderdale are among the weakest.</p>
-  <div class="split">
-    <div class="col win"><h3>Furthest below normal</h3>
-      ${below.slice(0, 5).map(r => `<div class="row"><span>${r.name}</span><b>${r.pct}% below &middot; from $${r.min}</b></div>`).join('')}
-    </div>
-    <div class="col lose"><h3>Above normal</h3>
-      ${above.slice(-5).reverse().map(r => `<div class="row"><span>${r.name}</span><b>${Math.abs(r.pct)}% above</b></div>`).join('')}
-    </div>
-  </div>
 </section>
 
 <footer>
