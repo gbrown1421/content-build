@@ -575,16 +575,22 @@ audiences, and podcast hosts.
 - **Likely objection:** "What's in it for me, and is this worth a post?"
 - **How we beat it:** State the offer explicitly instead of making them ask.
 
-⚠ **OPEN — NEEDS GLENN.** The partnership terms below are **proposals, not approved offers.** Do not
-put any of them in an email until Glenn rules on which are available. A session may not invent
-compensation.
+**TERMS — what can go out today, and what can't**
 
-- **Option 1 — Gift only.** Complimentary annual access ($72 value), no payment. Lowest cost, works
-  for smaller creators.
-- **Option 2 — Audience offer.** Complimentary access plus an exclusive discount or extended trial
-  for their followers through a unique link.
-- **Option 3 — Referral.** The above plus a per-subscriber referral payment. **Amount undefined —
-  Glenn must set it, and it must clear the $72/yr unit economics before it is offered to anyone.**
+✅ **SENDABLE NOW. Neither of these costs Glenn money; both are access to a product he owns.**
+- **Gift** — complimentary annual access ($72 value) for the creator. No payment, no obligation.
+- **Audience offer** — the gift plus something for their followers through their own link.
+  ⚠ The specific follower offer (a discount, an extended trial, a giveaway) still needs Glenn to
+  pick one, since RVA has no free tier. **Until he picks, write the email with the gift only** and
+  leave the follower offer for the reply.
+
+⛔ **NEEDS GLENN — the only genuinely blocked item.**
+- **Referral** — a per-subscriber payment. **Amount undefined.** This is recurring cost against a
+  $72/yr product, so it is a real gate. Do not put a number in front of a creator until Glenn
+  sets one.
+
+*An earlier version of this block marked all three pending, which held the whole creator track for
+no reason. Only the money needs a ruling.*
 
 **SUBJECT LINES**
 1. Something your Richmond followers would actually use
@@ -593,24 +599,24 @@ compensation.
 4. Richmond travel content, free, built for your audience
 5. Partnership idea: cheap RIC flights for your followers
 
-**PRIMARY EMAIL** *(bracketed terms require Glenn's ruling before sending)*
+**PRIMARY EMAIL — sendable today. The only thing to fill in is the first line.**
 
-> [Specific, genuine reference to their recent Richmond or travel content — one sentence, concrete.]
+> [One concrete sentence about their recent Richmond or travel content. Name the actual post.]
 >
-> Your audience is already thinking about where to go next. I run RVA Cheap Flights, which tracks
-> every fare out of Richmond International and grades it against what that route normally costs — so
-> people can tell a genuinely unusual fare from an ordinary one.
+> Your audience is already thinking about where they're going next, and most Richmond travelers
+> decide on airfare by instinct. I run RVA Cheap Flights — we track every fare out of RIC and
+> grade it against what that specific route normally costs, so you can tell a genuinely unusual
+> fare from an ordinary one.
 >
-> 255 graded since mid-August. Orlando averages 41% below normal and produced a $52 round trip.
-> Charleston came in at $98 four separate times. These are real, bookable, and the kind of thing
-> that makes a follower screenshot a post.
+> 258 graded since mid-August. Orlando averages 41% below normal and produced a $52 round trip.
+> Charleston came in at $98 four separate times. Real, bookable, and the kind of thing a follower
+> screenshots.
 >
-> **What I'd like to set up:** [complimentary annual access for you, plus an exclusive offer your
-> followers can't get anywhere else]. You share a current deal when one lands that fits your
-> audience, with your link. If it performs, we make it recurring.
+> **Here's what I'd like to do:** set you up with a complimentary annual membership, no strings.
+> Use it yourself. If a deal lands that fits your audience, share it. If it performs for you,
+> we'll build something bigger around your followers specifically.
 >
-> I can send you this week's strongest Richmond fares so you can see the quality before deciding
-> anything. Want me to?
+> Want me to send this week's strongest Richmond fares so you can see the quality first?
 >
 > Glenn Brown
 > RVA Cheap Flights
@@ -649,7 +655,7 @@ free, which is far easier than a yes to a partnership.
 | 4 | **The Richmonder** | ready | Recurring weekly section, exclusivity on offer |
 | 5 | **Local TV** | ready | Land before Thanksgiving |
 | 6 | **Richmond Magazine** | ready | Long lead, any time |
-| 7 | **Creators** | ⛔ blocked | Needs Glenn's ruling on partnership terms |
+| 7 | **Creators** | ready | Gift-only version is sendable today. Only a paid referral rate needs Glenn. |
 
 **Don't send them all at once.** If Axios runs something, the others become a far easier yes — and
 a piece already in print is a better thing to reference than a dataset nobody has used yet.
