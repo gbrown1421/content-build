@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-20T01:13:02Z",
-  "reportFile": "2026-10-19-2109.md",
-  "note": "Window 2026-10-19T21:12:41Z-2026-10-20T01:13:02Z. 4 claims, all UNFLAGGED, 0 Process Alerts. 3 PASS (infographic 0ab539e, logo 5x e7c7ca0, rebuild on routes.baseline_price 81c959a - closes 5pm Florida FAIL). 1 FAIL: method protection - press/dataset/baseline-stats.json carries 26 route baselines in PUBLIC repo content-build; kit:141 still offers 'route baselines'. Report commit 7fc9520."
+  "lastReview": "2026-10-20T17:15:46Z",
+  "reportFile": "2026-10-20-1309.md",
+  "note": "Window 2026-10-20T01:13:02Z-2026-10-20T17:15:46Z. 10 claims (2 Process Alerts, 8 unflagged). 8 PASS / 2 FAIL. FAIL: master prompt 'supersedes' 10-19 standard unattributed + charter :512 vs :558 contradiction (verbatim fixed 8ea7104); creator ad swap kit adds 'permanent'+'category-exclusive' Glenn did not set. Charter a07b7dfd. Report commit cf8d226."
 }
