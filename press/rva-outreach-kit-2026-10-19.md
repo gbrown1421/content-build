@@ -584,13 +584,27 @@ audiences, and podcast hosts.
   pick one, since RVA has no free tier. **Until he picks, write the email with the gift only** and
   leave the follower offer for the reply.
 
-⛔ **NEEDS GLENN — the only genuinely blocked item.**
-- **Referral** — a per-subscriber payment. **Amount undefined.** This is recurring cost against a
-  $72/yr product, so it is a real gate. Do not put a number in front of a creator until Glenn
-  sets one.
+⛔ **RULED OUT — do not offer, do not negotiate toward it.**
+- **Per-subscriber referral payment.** ★ **Glenn, 2026-10-20: "I do not want to pay per
+  subscriber."** Settled. Do not put a rate in front of a creator, and do not treat a creator's
+  counter-offer as reopening it.
 
-*An earlier version of this block marked all three pending, which held the whole creator track for
-no reason. Only the money needs a ruling.*
+✅ **APPROVED INSTEAD — the ad swap.** ★ **Glenn, 2026-10-20: "we could entertain a small ad
+location in the newsletter promoting them in exchange for ongoing promotion of the newsletter."**
+
+A reciprocal placement, no cash either direction:
+- **They get:** a small permanent slot in the RVA Cheap Flights newsletter promoting them, their
+  channel, their business or whatever they're pushing.
+- **We get:** ongoing promotion of the newsletter to their audience — not a one-off post.
+
+⚠ **Be honest about reach if asked, and do not imply audience we do not have.** Lead on the slot
+being *permanent and exclusive in their category*, never on how many people see it. If a creator
+asks for subscriber numbers, answer plainly and move the conversation to the trajectory and the
+product. **Never state or imply a subscriber count we cannot support.**
+
+**Sequencing.** The gift opens, the swap closes. Offering a permanent slot in email one to someone
+who has never seen the product is a weaker ask than "try it free." Raise the swap once they are
+using it or have responded warmly.
 
 **SUBJECT LINES**
 1. Something your Richmond followers would actually use
@@ -629,8 +643,34 @@ no reason. Only the money needs a ruling.*
 > this month was a $52 round trip to Orlando out of RIC — and your followers would have wanted to
 > know about it.
 
-**VALUE EXCHANGE** — Pending Glenn's ruling above. At minimum: complimentary access, an
-audience-exclusive offer, and custom deal content tailored to their followers.
+**VALUE EXCHANGE** — Complimentary annual membership up front, no strings. Then, once they are
+actually using it, the ad swap: a permanent slot in the newsletter promoting them, traded for
+ongoing promotion of the newsletter to their audience. **No cash in either direction, ever.**
+
+---
+
+**THE SWAP — second conversation, after they've used the product**
+
+Send this once they've replied warmly, taken the membership, or shared a deal unprompted. Not in
+email one.
+
+> Glad it's been useful.
+>
+> Here's what I'd like to propose, and there's no money involved in either direction.
+>
+> I'll give you a permanent spot in the RVA Cheap Flights newsletter — your channel, your work,
+> whatever you're promoting that month. Yours to keep, and I won't run another travel creator in
+> that slot.
+>
+> In exchange, you keep the newsletter in front of your audience. Not a one-off post — an ongoing
+> mention when a deal lands that fits them.
+>
+> You're getting in while it's uncomplicated. Want me to put together what that would look like?
+
+**IF THEY ASK HOW MANY SUBSCRIBERS WE HAVE** — answer honestly, briefly, and move to the product.
+Do not inflate it, do not apologize for it, do not volunteer it unprompted. The slot's value is
+that it is permanent and category-exclusive, which is a real thing we can deliver today.
+**Never imply a reach we cannot support** (master prompt §26).
 
 **FOLLOW-UP (5 business days)**
 
@@ -655,7 +695,7 @@ free, which is far easier than a yes to a partnership.
 | 4 | **The Richmonder** | ready | Recurring weekly section, exclusivity on offer |
 | 5 | **Local TV** | ready | Land before Thanksgiving |
 | 6 | **Richmond Magazine** | ready | Long lead, any time |
-| 7 | **Creators** | ready | Gift-only version is sendable today. Only a paid referral rate needs Glenn. |
+| 7 | **Creators** | ready | Gift opens, ad swap closes. No cash either direction (Glenn, 10/20). |
 
 **Don't send them all at once.** If Axios runs something, the others become a far easier yes — and
 a piece already in print is a better thing to reference than a dataset nobody has used yet.
