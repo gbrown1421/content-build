@@ -87,39 +87,39 @@ const html = `<!doctype html>
 </style></head><body><div class="sheet">
 <header>
   <img src="https://rvacheapflights.com/media/rva/brand/rva-logo-white.png" alt="RVA Cheap Flights">
-  <h1>Seven of the ten routes Richmond companies fly most<br>come in above what those routes normally cost</h1>
-  <p class="sub">Prepared for Richmond BizSense &middot; ${totalFares} graded fares out of RIC &middot; August 17 &ndash; October 20, 2026</p>
+  <h1>Seven of 10 business-relevant routes came in above<br>what those routes normally cost</h1>
+  <p class="sub">Prepared for Richmond BizSense &middot; ${totalFares} graded fares out of RIC &middot; August 17 &ndash; October 19, 2026</p>
 </header>
 
 <div class="stats">
   <div class="stat"><b>${totalFares}</b><span>Fares graded</span></div>
   <div class="stat"><b>64</b><span>Days tracked</span></div>
-  <div class="stat"><b>${biz.length}</b><span>Business routes</span></div>
+  <div class="stat"><b>${biz.length}</b><span>Business-relevant</span></div>
   <div class="stat"><b>${above.length}</b><span>Above normal</span></div>
 </div>
 
 <section>
-  <h2>Business routes out of RIC, against their own normal price</h2>
-  <p class="note">Every fare is compared with what that specific route normally costs, so a $289 New York ticket and an $837 London ticket can be judged on the same scale. Navy means Richmond travelers paid a premium.</p>
+  <h2>Business-relevant routes out of RIC, against their own normal price</h2>
+  <p class="note">Every fare is compared with what that specific route normally costs, so a $289 New York ticket and an $837 London ticket can be judged on the same scale. Navy means the observed fares averaged above that route's normal price.</p>
   ${chart}
 </section>
 
 <section>
-  <h2>The uncomfortable comparison</h2>
-  <p class="note">The routes that come in cheapest out of Richmond are the ones companies rarely book.</p>
+  <h2>The contrast with leisure-oriented routes</h2>
+  <p class="note">Several leisure-oriented routes produced stronger values than the business-relevant routes in this analysis.</p>
   <div class="split">
-    <div class="col lose"><h3>Business routes &mdash; above normal</h3>
+    <div class="col lose"><h3>Business-relevant &mdash; above normal</h3>
       ${above.slice(0, 5).map(r => `<div class="row"><span>${r.name}</span><b>${Math.abs(r.pct)}% above</b></div>`).join('')}
     </div>
-    <div class="col win"><h3>Leisure routes &mdash; below normal</h3>
+    <div class="col win"><h3>Leisure-oriented &mdash; below normal</h3>
       ${leisure.slice(0, 5).map(r => `<div class="row"><span>${r.name}</span><b>${r.pct}% below &middot; from $${r.min}</b></div>`).join('')}
     </div>
   </div>
 </section>
 
 <footer>
-  <b>Method.</b> Each fare is graded against what that specific route normally costs, not a flat dollar threshold. Figures above are averages across every fare observed on each route between August 17 and October 20, 2026. Fare-level data available on request, including the normal price for each route so any figure here can be checked.<br>
-  <b>Caveats.</b> These are fares observed over 64 days, not every fare that existed. Prices are accurate as of the date each was found. 64 days is a real sample but not a seasonal one, and business routes may price differently around holidays.<br><br>
+  <b>Method.</b> Each fare is graded against what that specific route normally costs, not a flat dollar threshold. Figures above are averages across every fare observed on each route between August 17 and October 19, 2026. The 10 routes shown were selected as business-relevant for this analysis; the dataset does not identify which routes any company books. Fare-level data available on request, including the normal price for each route so any figure here can be checked.<br>
+  <b>Caveats.</b> These are fares observed over 64 days, not every fare that existed. Prices are accurate as of the date each was found. 64 days is a real sample but not a seasonal one, and these routes may price differently around holidays.<br><br>
   <b>Glenn Brown &middot; RVA Cheap Flights &middot; rvacheapflights.com &middot; 804-210-9657</b>
 </footer>
 </div></body></html>`;

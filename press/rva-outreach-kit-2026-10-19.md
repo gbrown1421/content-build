@@ -208,48 +208,54 @@ data?", which costs her nothing to say yes to.
 - **How we beat it:** We don't pitch the company. We pitch a cost finding their readers can use,
   and let the company be the byline on the data.
 
-**SUBJECT LINES**
-1. **Richmond companies are overpaying on the exact routes they fly most** ← strongest
-2. 255 graded RIC fares: the business routes are the weak ones
-3. JFK, LaGuardia, Chicago — the worst value out of Richmond
-4. What two months of RIC fare data says about local travel budgets
-5. Richmond airfare data you can't get from a single fare search
+⚠ **THIS PITCH FAILED QA ON 2026-10-20 AND WAS REWRITTEN BY GLENN.** The version below is his.
+My draft made six inference-to-fact claims the dataset does not support — see
+`content-build/standards/QA-FAILURE-bizsense-2026-10-20.md`. Do not restore any of it.
 
-**PRIMARY EMAIL**
+**SUBJECT LINES** — *#1 is Glenn's and is the one to send.*
+1. **255 RIC fares: New York and Chicago have been among the weakest values** ← send this
+2. What two months of RIC fare data says about business-relevant routes
+3. Richmond airfare patterns you can't get from a single fare search
+4. 255 graded RIC fares, compared route by route against their own normal pricing
+5. Which RIC routes are consistently good value, and which need timing
+
+**PRIMARY EMAIL** — *Glenn's wording, 2026-10-20. Send as written.*
 
 > Michael,
 >
-> BizSense readers expense a lot of airfare, and most are picking an airport on instinct rather
-> than numbers. I've spent two months building the numbers — 258 fares out of RIC since
-> mid-August, each graded against what that specific route normally costs.
+> I've spent the last two months tracking fares out of RIC — 255 graded fares since mid-August,
+> each compared with what that specific route normally costs rather than with a generic definition
+> of "cheap."
 >
-> The finding is awkward for Richmond business travel.
+> One pattern may be particularly relevant to BizSense readers.
 >
-> The routes that come in cheapest out of RIC are leisure routes — Orlando, Charleston, Tampa.
-> The routes that come in worst are the corridor routes companies actually fly. JFK averaged 26%
-> above normal, LaGuardia 16%, Chicago 14% into O'Hare and 20% into Midway. Newark and Boston
-> were no better than a wash.
+> Several routes important to business travel have been among the weaker values out of Richmond.
+> JFK averaged 26% above its normal price, Chicago Midway 20% above, LaGuardia 16% above and
+> O'Hare 14% above. Newark was essentially flat, while Boston was roughly a wash.
 >
-> In other words, a Richmond company flying its people to New York or Chicago is very likely
-> paying a premium to depart locally — and nobody is measuring that, because a single fare search
-> can't tell you whether $289 to JFK is a good price or a bad one.
+> At the same time, several leisure-oriented routes have been unusually strong: Orlando averaged
+> 41% below normal, Charleston 37% below and Tampa 29% below.
 >
-> With RIC coming off a third straight record year at 4.9 million passengers, this is a growing
-> line item for a lot of local employers.
+> That raises what I think is a useful business-travel question: Which routes out of RIC are
+> consistently good values, and which ones require more careful timing before a company books?
 >
-> I've attached the business-routes breakdown — the ten routes Richmond companies actually fly,
-> ranked against their own normal pricing. Seven came in above. The one real bargain is Las Vegas,
-> which prices like a leisure route because it mostly is one.
+> I've attached a one-page analysis of 10 business-relevant routes. I can provide the underlying
+> fare-level data, methodology and additional breakdowns, and I'm happy to walk you through the
+> findings on the record.
 >
-> I'm happy to walk you through the methodology and go on the record, and I can cut the underlying
-> data any way that's useful.
->
-> Would a conversation this week be worth your time?
+> Would this be worth a conversation this week?
 >
 > Glenn Brown
 > RVA Cheap Flights
 > rvacheapflights.com
 > 804-210-9657
+
+**VERIFICATION NOTES** *(for Glenn, not part of the email — master prompt §35)*
+- 255 graded fares, Aug 17 – Oct 19 2026 — `deals` table, baseline-stats.json cut at Oct 19
+- JFK 26% above / Midway 20% / LaGuardia 16% / O'Hare 14% — route averages vs `routes.baseline_price`
+- Newark 2% above ("essentially flat"), Boston 1% below ("roughly a wash") — same source
+- Orlando 41% below / Charleston 37% / Tampa 29% — same source
+- "10 business-relevant routes" — **our selection**, stated as our selection. No booking data exists.
 
 **ATTACH:** `dataset/RIC-business-travel-bizsense.pdf` — the business-routes cut, one page, built
 for BizSense specifically. Not the Axios sheet; different slice, different headline.
