@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-20T17:15:46Z",
-  "reportFile": "2026-10-20-1309.md",
-  "note": "Window 2026-10-20T01:13:02Z-2026-10-20T17:15:46Z. 10 claims (2 Process Alerts, 8 unflagged). 8 PASS / 2 FAIL. FAIL: master prompt 'supersedes' 10-19 standard unattributed + charter :512 vs :558 contradiction (verbatim fixed 8ea7104); creator ad swap kit adds 'permanent'+'category-exclusive' Glenn did not set. Charter a07b7dfd. Report commit cf8d226."
+  "lastReview": "2026-10-20T21:13:00Z",
+  "reportFile": "2026-10-20-1709.md",
+  "note": "Window 2026-10-20T17:15:46Z-2026-10-20T21:13:00Z. 4 claims (0 Process Alerts, 4 unflagged). 3 PASS / 1 FAIL. FAIL: kit :710-713 creator section still tells creators to share the grade-10 $52 Orlando fare 'because /deals is already public' (false; contradicts charter 66486c9f), plus 'right now' at :430. Carry-overs open: charter :513 vs :586; creator ad swap 'permanent'/'category-exclusive'. New: charter :559 holds a session proposal against s41. Report commit e59a1d8."
 }
