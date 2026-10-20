@@ -126,7 +126,7 @@ const html = `<!doctype html>
 
 <section>
   <h2>Average Richmond fare against what each route normally costs</h2>
-  <p class="note">Orange routes came in <b>below</b> the normal price for that route. Navy routes came in <b>above</b> it. Short-haul routes travelers assume are cheap &mdash; the New York airports, Chicago, Miami &mdash; are the weakest value out of Richmond.</p>
+  <p class="note">Orange routes came in <b>below</b> the normal price for that route. Navy routes came in <b>above</b> it. Several routes travelers might expect to be easy bargains aren't &mdash; JFK, LaGuardia, Chicago and Miami all averaged above normal, with JFK the weakest value in the set.</p>
   ${chart}
 </section>
 
