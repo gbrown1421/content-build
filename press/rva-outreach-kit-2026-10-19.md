@@ -86,7 +86,7 @@ arrangement, held back until after they say yes once. Do not merge it into the f
 
 **Subject used:** `255 RIC fares later: where Richmond is actually cheaper`
 **To:** richmond@axios.com · cc karri.peifer@axios.com
-**Attached:** `dataset/RIC-airfare-findings.pdf` — the one-page summary. The CSV was deliberately
+**Attached:** `dataset/RIC-airfare-findings.pdf` — the one-page summary. The CSV was
 **not** attached; the email offers it on request instead.
 
 **→ FOLLOW UP TUESDAY, OCTOBER 27** if there's no reply. Two sentences, once. Then stop.
@@ -658,6 +658,6 @@ One follow-up per outlet, at the interval in its section. Then stop. These six a
 Richmond market; a third email costs more than the story is worth.
 
 ### If Karri says yes
-Send `dataset/ric-fares-FULL-aug-oct-2026.csv` — 255 rows, fare-level.
+Send `dataset/ric-fares-FULL-aug-oct-2026.csv` — fare-level, **including the route baseline and the percent below it**, so she can check the math on any row herself.
 **Not** `ric-fares-aug-oct-2026.csv`, which an Excel pivot save overwrote on 2026-10-20 and which
 now holds 26 rows of per-airport counts.

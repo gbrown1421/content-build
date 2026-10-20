@@ -6,7 +6,7 @@
 
 Every fare below is a real round-trip fare observed on the date shown. Fare-level data is in
 `ric-fares-aug-oct-2026.csv`, which also carries Google's own typical price range for each route
-so the figures can be checked against an independent source.
+so every figure can be checked two ways: against our own baseline and against Google's.
 
 ---
 
@@ -80,13 +80,15 @@ sit at or above normal, and JFK is the single worst value in the dataset.
 
 ## What's in the CSV
 
-`ric-fares-aug-oct-2026.csv` — 255 rows, one per graded fare:
+`ric-fares-FULL-aug-oct-2026.csv` — one row per graded fare, 258 as of Oct 20 (255 through Oct 19):
 
 | Column | Meaning |
 |---|---|
 | `date_found` | Date the fare was observed |
 | `origin` / `destination_code` / `destination` | Always RIC → the destination |
 | `fare_usd` | Round-trip fare observed |
+| `route_baseline_usd` | What that route normally costs — the figure the grade is computed from |
+| `pct_below_baseline` | How far under that figure this fare landed |
 | `deal_grade` | Our 1–10 grade for that fare |
 | `stops`, `airline`, `travel_dates` | Trip details |
 | `google_typical_low_usd` / `google_typical_high_usd` | Google's own typical range for that route, included as an independent reference |
