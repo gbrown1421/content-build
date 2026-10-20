@@ -517,7 +517,7 @@ publication pre-empts the one real objection a monthly has about deal content.
 **SUBJECT LINES**
 1. Holiday travel segment: $52 flights out of RIC, and how to spot them
 2. Richmond airfare data for a consumer money-saver segment
-3. RIC hit a record year — here's what locals are overpaying for
+3. RIC hit a record year — here's which routes are actually good value
 4. On-camera local source: which RIC flights are actually cheap
 5. Visual consumer segment, fresh Richmond fares any shoot day
 
@@ -646,7 +646,7 @@ using it or have responded warmly.
 > grade it against what that specific route normally costs, so you can tell a genuinely unusual
 > fare from an ordinary one.
 >
-> 258 graded since mid-August. Orlando averages 41% below normal and produced a $52 round trip.
+> 255 graded since mid-August. Orlando averages 41% below normal and produced a $52 round trip.
 > Charleston came in at $98 four separate times. Real, bookable, and the kind of thing a follower
 > screenshots.
 >
