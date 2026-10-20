@@ -652,24 +652,25 @@ using it or have responded warmly.
 4. Richmond travel content, free, built for your audience
 5. Partnership idea: cheap RIC flights for your followers
 
-**PRIMARY EMAIL — sendable today. The only thing to fill in is the first line.**
+**PRIMARY EMAIL — sendable today.** Fill in the first line, attach `dataset/RVA-what-we-find-creators.pdf`.
 
 > [One concrete sentence about their recent Richmond or travel content. Name the actual post.]
 >
-> Your audience is already thinking about where they're going next, and most Richmond travelers
-> decide on airfare by instinct. I run RVA Cheap Flights — we track every fare out of RIC and
-> grade it against what that specific route normally costs, so you can tell a genuinely unusual
-> fare from an ordinary one.
+> I run RVA Cheap Flights. We track fares out of Richmond International and grade each one against
+> what that specific route normally costs, so an unusually good fare is obvious and an ordinary
+> one doesn't get dressed up as a deal.
 >
-> 255 graded since mid-August. Orlando averages 41% below normal and produced a $52 round trip.
-> Charleston came in at $98 four separate times. Real, bookable, and the kind of thing a follower
-> screenshots.
+> 255 graded since mid-August. Orlando hit $52 round trip, 74% below its normal price. Charleston
+> came in at $98 four separate times. All real, all bookable on the day we found them.
 >
 > **Here's what I'd like to do:** set you up with a complimentary annual membership, no strings.
-> Use it yourself. If a deal lands that fits your audience, share it. If it performs for you,
-> we'll build something bigger around your followers specifically.
+> Use it yourself. If a fare lands that fits what you cover, share it. If it works for you, we'll
+> build something bigger from there.
 >
-> Want me to send this week's strongest Richmond fares so you can see the quality first?
+> I've attached a one-page look at the strongest fares we logged over the past two months, so you
+> can judge the quality before deciding anything.
+>
+> Worth a conversation?
 >
 > Glenn Brown
 > RVA Cheap Flights
