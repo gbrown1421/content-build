@@ -106,18 +106,21 @@ A count is a promise, and these were going to a reporter who can check them.
 > Richmond travelers often assume saving money means driving to Dulles or BWI. The data says that
 > depends heavily on where you're going — and not in the way most people would guess.
 >
-> Orlando hit $52 round trip on October 7 and averages 41 percent below what that route normally
-> costs. Charleston reached $98 four separate times since September. But the New York airports,
-> Chicago and Miami all came in ABOVE normal — JFK is the worst value in the whole dataset. Same
-> state, opposite answer: Orlando and Tampa are two of the strongest routes out of RIC, Miami and
-> Fort Lauderdale two of the weakest.
+> Orlando hit $52 round trip on October 7, and across every Orlando fare I logged it averages 41%
+> below normal. Charleston reached $98 four separate times since September.
+>
+> Meanwhile the short hops people assume are cheap aren't. JFK, LaGuardia, Chicago and Miami all
+> came in above normal, and JFK is the worst value in the whole set. Orlando and Tampa are two of
+> the strongest routes out of Richmond; Miami and Fort Lauderdale two of the weakest. Same state,
+> opposite answer.
 >
 > With RIC coming off another record passenger year, I think there's a useful Richmond story here:
 > When is flying from RIC actually the better deal, and when isn't it?
 >
-> I can give you the full dataset — fare, route, date found, deal grade, and Google's own typical price range for each route
-> — along with charts or any breakdowns that would make the reporting easier. I'm also happy to
-> walk you through the methodology and go on the record.
+> I can give you the full dataset — fare, route, date found, deal grade, and Google's own typical
+> price range for each route as an independent check — along with charts or any breakdowns that
+> would make the reporting easier. I'm also happy to walk you through the methodology and go on
+> the record.
 >
 > Would it be useful if I sent you the dataset and a one-page summary of the strongest findings
 > this week?
