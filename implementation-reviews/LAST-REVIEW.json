@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-19T21:12:41Z",
-  "reportFile": "2026-10-19-1709.md",
-  "note": "Window 2026-10-19T17:12:26Z-2026-10-19T21:12:41Z. 5 claims, all UNFLAGGED, 0 Process Alerts. 4 PASS (outreach standard bdc3d7e/59835505, journalist exception e3e49bf/c079c70b, ongoing-arrangement kit 7bdb3d7, memory index 96 lines 0 orphans). 1 FAIL: kit lines 27/79/150 still say Florida is cheap, contradicting dataset FINDINGS:66 (20e5cc8). Memory committed in run a665abb, da8d233."
+  "lastReview": "2026-10-20T01:13:02Z",
+  "reportFile": "2026-10-19-2109.md",
+  "note": "Window 2026-10-19T21:12:41Z-2026-10-20T01:13:02Z. 4 claims, all UNFLAGGED, 0 Process Alerts. 3 PASS (infographic 0ab539e, logo 5x e7c7ca0, rebuild on routes.baseline_price 81c959a - closes 5pm Florida FAIL). 1 FAIL: method protection - press/dataset/baseline-stats.json carries 26 route baselines in PUBLIC repo content-build; kit:141 still offers 'route baselines'. Report commit 7fc9520."
 }
