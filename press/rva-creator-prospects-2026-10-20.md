@@ -5,9 +5,9 @@ on that date**, not taken from an influencer directory — those were checked fi
 unreliable (one listed a top Richmond "travel" account that is a comedian; another listed a
 handle with 18 followers and zero posts as a media outlet).
 
-Terms for all of these are fixed and non-negotiable (Glenn, 2026-10-20):
-**complimentary annual membership, no cash either direction, no follower discount.** The ad swap
-is a second-conversation move. See the kit's section G.
+Terms are fixed (Glenn, 2026-10-20): **complimentary annual membership, no posting obligation,
+no cash either direction.** The larger audience partnership is proposed in the same email as a
+next step, not as a condition.
 
 ---
 
@@ -21,71 +21,87 @@ is a second-conversation move. See the kit's section G.
 - Runs her own creator brand **@sipsandtripswithpaige**, bio reads **"Paige | Wine + Travel"**,
   **11K followers**, 1,233 posts.
 - Blog **sipsandtripswithpaige.com**, tagline *"tasting VA wine one sip and trip at a time."*
-  Posts include a two-part **Finger Lakes guide** (her third visit, staying at Glen Hollow), the
-  **Virginia Peninsula Wine Trail**, an **Ultimate Richmond Wine Guide**, and **"How I Passed
-  WSET 3"** — she holds WSET Level 3.
+  Posts include a two-part **Finger Lakes guide** (her third visit), the **Virginia Peninsula
+  Wine Trail**, an **Ultimate Richmond Wine Guide**, and **"How I Passed WSET 3"** — she holds
+  WSET Level 3.
 - RVAx runs a **paid membership with weekly newsletters**, a podcast (*The Chatter*), and a
   **Biz Partner** program.
 
 **Why she is the best target:** she is the rare overlap of a Richmond audience and genuine travel
-content, and her own niche — wine travel — maps onto specific routes in our data. She also
-already operates a paid local newsletter, so she understands the model without being sold on it.
+content. She also already operates a paid local newsletter, so she understands the model without
+being sold on it.
+
+⚠ **Do not call these "wine-country routes."** Glenn, 2026-10-20: *"Dublin is not a wine-country
+route, and Paris isn't itself a wine region. That's exactly the kind of persuasive leap we've been
+trying to eliminate."* They are **European routes** that overlap naturally with her travel
+content. Nothing in the dataset connects a route to wine.
 
 **Do not lead with RVAx or its 160K.** This is an email to Paige about Paige's work. The RVAx
 conversation is hers to raise.
 
 **Subject lines**
-1. **Rome, Lisbon and Dublin have all been under their normal price out of RIC** ← send this
-2. Wine-country fares out of Richmond, tracked for two months
-3. For Sips & Trips: what we found flying out of RIC
-4. 255 Richmond fares later — the wine routes are quietly good
-5. A Richmond flight-deal thing built for people who actually travel
+1. **Dublin $548, Rome $575 — both out of RIC** ← Glenn's pick, send this
+2. European fares out of Richmond, tracked and graded for two months
+3. For Sips & Trips: what two months of RIC fare data turned up
+4. 255 Richmond fares later — four of six European routes beat their normal price
+5. A Richmond flight-deal service built for people who actually travel
 
-**PRIMARY EMAIL**
+**PRIMARY EMAIL** — *Glenn's wording, 2026-10-20. Send as written.*
 
 Hi Paige,
 
-Between Sips & Trips and The Richmond Experience you've built an audience that both lives here and
-actually goes places — which is a rarer combination in Richmond than it sounds.
+Between Sips & Trips and The Richmond Experience, you have a pretty unique audience overlap — Richmonders who actually like to travel.
 
-I run RVA Cheap Flights. We track fares out of RIC and grade each one against what that specific
-route normally costs, so an unusually good fare is obvious and an ordinary one doesn't get dressed
-up as a deal. 255 graded since mid-August.
+I run RVA Cheap Flights. We track fares out of RIC and grade each one against what that specific route normally costs, so a genuinely unusual fare stands out instead of every low-looking price being called a "deal." We've graded 255 fares since mid-August.
 
-The part I thought might interest you specifically: the wine-country routes have been quietly
-strong. Dublin averaged 12% below its normal price over the period, Rome 10% below, Paris 5% and
-Lisbon 4%. The cheapest we logged were Dublin at $548 and Rome at $575 round trip.
+A few of the European routes made me think of your travel content specifically. Over the period we tracked, Dublin averaged 12% below its normal price, Rome 10% below, Paris 5% and Lisbon 4%. We logged Dublin as low as $548 round trip and Rome at $575.
 
-What I'd like to do is set you up with a complimentary annual membership, no strings. Use it for
-your own trips. If a fare turns up that fits what you cover, share it — and if it works for you,
-we'll build something bigger from there.
+I'd like to give you a complimentary annual membership so you can actually use the service yourself — no posting obligation. If you find it genuinely useful, I'd love to explore something bigger for your audience, whether that's an exclusive offer, a giveaway, or a recurring Richmond-flight feature.
 
-I've attached a one-page look at the strongest fares we've logged, so you can judge the quality
-before deciding anything.
+I've attached a quick look at the kinds of fares we've been finding out of RIC.
 
-Worth a conversation?
+Would you be open to trying it?
 
 Glenn Brown
 RVA Cheap Flights
 rvacheapflights.com
 804-210-9657
 
-**ATTACH:** `dataset/RVA-what-we-find-creators.pdf`
+**ATTACH:** `dataset/RVA-europe-fares.pdf` — built for this pitch specifically: the six European
+routes out of RIC, four of which beat their normal price, with London shown as the exception.
+**Not** the general creator sheet, which leads with Orlando and Charleston and would undercut a
+European hook.
 
-**ALTERNATE OPENING** *(if the wine angle feels too narrow)*
+**ALTERNATE OPENING** *(if the European angle feels too narrow)*
 
 Hi Paige — your blog is called Sips and Trips, and I've spent two months building a dataset about
 the trips half. We track and grade every notable fare out of RIC against what that route normally
-costs, and some of what it turned up runs against what Richmonders assume about flying from here.
+costs, and some of it runs against what Richmonders assume about flying from here.
+
+**WHY THIS VERSION WORKS** *(Glenn's reasoning, 2026-10-20)*
+- *"Would you be open to trying it?"* is an easy first yes. She is not being asked to endorse
+  something she has not used.
+- The membership carries **no posting obligation**, which removes the contradiction in my earlier
+  draft — "no strings" immediately followed by "share it."
+- The commercial next step is **named** (exclusive offer, giveaway, recurring feature), so she
+  understands this is not a free subscription handed over in the hope she remembers it later.
+
+⚠ **IF SHE SAYS YES, GLENN HAS ONE THING TO DECIDE.** The email offers "an exclusive offer, a
+giveaway, or a recurring Richmond-flight feature" as possible next steps. The giveaway and the
+recurring feature cost nothing. An **exclusive offer** for her followers would mean a discount
+against the $72/yr, which Glenn ruled out on 2026-10-20 in a different context. He wrote this
+version himself afterward, so the option stands — but if she picks that one, he needs to decide
+what it is. **Do not invent it.**
 
 **VERIFICATION NOTES** *(for Glenn, not part of the email)*
 - Dublin 12% / Rome 10% / Paris 5% / Lisbon 4% below — route averages vs `routes.baseline_price`,
   Oct 19 snapshot, 9 observed fares each
 - Dublin cheapest $548, Rome cheapest $575 — fare-level dataset
 - 255 graded fares, Aug 17 – Oct 19 — fare-level dataset
-- "Sips & Trips" + wine/travel focus + both audiences — her own blog and profiles, read 2026-10-20
-- **Not claimed:** anything about what her audience does, how many of them travel, or how a post
-  would perform
+- "Sips & Trips", the wine/travel focus, and both audiences — her own blog and profiles, read
+  2026-10-20
+- **Not claimed:** anything about what her audience does, how many of them travel, how a post
+  would perform, or any link between a route and wine
 
 **FOLLOW-UP (5 business days)**
 
@@ -113,11 +129,11 @@ personal share.
 Four VCU students covering Richmond restaurants, large and small.
 
 **Why secondary:** the audience is right — young Richmonders — but the content is food, not
-travel, so a flight deal is a tonal jump for them. Worth an approach only after a travel-adjacent
-creator has said yes and there's something to point at.
+travel, so a flight deal is a tonal jump. Worth an approach only after a travel-adjacent creator
+has said yes and there is something to point at.
 
-**No email found.** Contact would be via Instagram DM, which is a weaker channel. Check their
-bio for a business address before approaching.
+**No email found.** Contact would be via Instagram DM, a weaker channel. Check their bio for a
+business address before approaching.
 
 ---
 
