@@ -141,7 +141,7 @@ A count is a promise, and these were going to a reporter who can check them.
 > to Dulles for a cheap flight. I've spent two months testing that against actual fares, and it
 > turns out to be half true in a way that's genuinely useful to your readers.
 
-**VALUE EXCHANGE** — The full dataset, route baselines, charts on request, a methodology
+**VALUE EXCHANGE** — The full dataset, charts on request, a methodology
 walkthrough and Glenn on the record. **Nothing is asked for in return in email one.** The URL sits
 in the signature; crediting a source is normal practice and does not need negotiating.
 
