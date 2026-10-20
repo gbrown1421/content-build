@@ -735,7 +735,7 @@ free, which is far easier than a yes to a partnership.
 | 4 | **The Richmonder** | ready | Recurring weekly section, exclusivity on offer |
 | 5 | **Local TV** | ready | Land before Thanksgiving |
 | 6 | **Richmond Magazine** | ready | Long lead, any time |
-| 7 | **Creators** | ready | Gift opens, ad swap closes. No cash either direction (Glenn, 10/20). |
+| 7 | **Creators** | ✅ **Paige Poprocky SENT Tue Oct 20** | Follow up **Tue Oct 27**. Kelsey Heintz is the fallback — do NOT email both. |
 
 **Don't send them all at once.** If Axios runs something, the others become a far easier yes — and
 a piece already in print is a better thing to reference than a dataset nobody has used yet.

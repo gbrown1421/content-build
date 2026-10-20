@@ -11,7 +11,16 @@ next step, not as a condition.
 
 ---
 
-# 1. PAIGE POPROCKY — the strongest fit on this list
+# 1. PAIGE POPROCKY — ✅ SENT Tuesday, October 20, 2026
+
+**Subject used:** `Dublin $548, Rome $575 — both out of RIC`
+**To:** paige@therichmondexperience.com
+**Attached:** `dataset/RVA-europe-fares.pdf`
+
+**→ FOLLOW UP TUESDAY, OCTOBER 27** if no reply. Draft is in the FOLLOW-UP block below.
+
+⚠ **If she asks about the "exclusive offer" option, the number is Glenn's to set.** A giveaway
+and a recurring feature cost nothing. A follower discount cuts into the $72/yr. Do not invent one.
 
 **Email:** paige@therichmondexperience.com *(published on their own About page)*
 
