@@ -193,20 +193,35 @@ data?", which costs her nothing to say yes to.
 
 # B. RICHMOND BIZSENSE — reporter, business desk
 
+## ✅ SENT — Tuesday, October 20, 2026
+
+**Subject used:** `255 RIC fares: New York and Chicago have been among the weakest values`
+**To:** michael@richmondbizsense.com · cc aaron@richmondbizsense.com
+**Attached:** `dataset/RIC-business-travel-bizsense.pdf`
+
+**→ FOLLOW UP TUESDAY, OCTOBER 27** if no reply. Same day as the Axios follow-up.
+
 **STRATEGY**
 - **Type:** Reporter (business journal). Michael Schwartz, editor; Aaron Kremer, founder.
 - **Audience:** Their free Daily NewsFeed reaches **25,000+ Richmond business readers** — by far the
   largest relevant audience on this list.
-- **Why we fit:** Business travelers fly the routes we track (Boston, Newark, JFK, Chicago, London)
-  and expense the difference. BizSense covers local business costs and local operators.
-- **Best value we offer:** A business-travel cut of the dataset — which corporate routes out of RIC
-  are competitively priced and which are not — plus the operator interview.
-- **Primary desired action:** A BizSense story naming and linking rvacheapflights.com.
-- **Persuasion angle:** Richmond companies are making travel-budget decisions on assumption rather
-  than data. We have the data, segmented to the routes they actually fly.
+- **Why we fit:** BizSense covers local business costs. Several routes commonly associated with
+  business travel were among the weakest values in the dataset, which is a cost angle their
+  readers can act on.
+- **Best value we offer:** A business-relevant cut of the dataset, the fare-level data behind it,
+  and an on-record interview on methodology.
+- **Primary desired action:** Get him to engage with the analysis. A story follows that.
+- **Persuasion angle:** A single fare search cannot tell you whether $289 to JFK is a good price
+  or a bad one. Two months of route-level observation can.
 - **Likely objection:** "Small local startup, not newsworthy."
-- **How we beat it:** We don't pitch the company. We pitch a cost finding their readers can use,
-  and let the company be the byline on the data.
+- **How we beat it:** We don't pitch the company. We pitch a finding, and let the data carry it.
+
+⚠ **THE STRATEGY ABOVE WAS REWRITTEN 2026-10-20 TOO.** Its original version asserted that
+"business travelers fly the routes we track", that "Richmond companies are making travel-budget
+decisions on assumption rather than data", and that our data was "segmented to the routes they
+actually fly" — none of which the dataset establishes. **That block is where the bad email came
+from.** A strategy note written as fact becomes an email written as fact. See
+`standards/QA-FAILURE-bizsense-2026-10-20.md`.
 
 ⚠ **THIS PITCH FAILED QA ON 2026-10-20 AND WAS REWRITTEN BY GLENN.** The version below is his.
 My draft made six inference-to-fact claims the dataset does not support — see
@@ -714,7 +729,7 @@ free, which is far easier than a yes to a partnership.
 | # | Outlet | Status | Next action |
 |---|---|---|---|
 | 1 | **Axios Richmond** | ✅ **SENT Tue Oct 20** | Follow up **Tue Oct 27** if no reply |
-| 2 | **Richmond BizSense** | ready | Send next — 25,000+ NewsFeed, and the corrected data gave it the sharpest angle of any pitch |
+| 2 | **Richmond BizSense** | ✅ **SENT Tue Oct 20** | Follow up **Tue Oct 27** if no reply |
 | 3 | **RVAHub** | ready | Recurring weekly section |
 | 4 | **The Richmonder** | ready | Recurring weekly section, exclusivity on offer |
 | 5 | **Local TV** | ready | Land before Thanksgiving |
