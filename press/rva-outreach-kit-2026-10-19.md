@@ -237,17 +237,24 @@ data?", which costs her nothing to say yes to.
 > With RIC coming off a third straight record year at 4.9 million passengers, this is a growing
 > line item for a lot of local employers.
 >
-> I can build a business-routes breakdown specifically for BizSense, and I'm happy to walk you
-> through the methodology and go on the record.
+> I've attached the business-routes breakdown — the ten routes Richmond companies actually fly,
+> ranked against their own normal pricing. Seven came in above. The one real bargain is Las Vegas,
+> which prices like a leisure route because it mostly is one.
 >
-> Would it be useful if I put that analysis together this week?
+> I'm happy to walk you through the methodology and go on the record, and I can cut the underlying
+> data any way that's useful.
+>
+> Would a conversation this week be worth your time?
 >
 > Glenn Brown
 > RVA Cheap Flights
 > rvacheapflights.com
 > 804-210-9657
 
-**THE SECOND CONVERSATION — only after he takes the analysis**
+**ATTACH:** `dataset/RIC-business-travel-bizsense.pdf` — the business-routes cut, one page, built
+for BizSense specifically. Not the Axios sheet; different slice, different headline.
+
+**THE SECOND CONVERSATION — only after he engages**
 
 > If this is useful to your readers, I can refresh it quarterly and give BizSense the numbers
 > before they go anywhere else.

@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Richmond Business Travel — RIC Fare Analysis</title>
+<style>
+  @page { size: letter portrait; margin: 0; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: Arial, Helvetica, sans-serif; color:#1b2733; background:#fff; }
+  .sheet { width: 8.5in; margin: 0 auto; zoom: 0.95; }
+  header { background:#153556; color:#fff; padding: 18px 40px 16px; text-align:center; }
+  header img { height: 150px; display:block; margin: 0 auto 10px; }
+  h1 { font-size: 23px; margin: 0 0 6px; line-height:1.22; }
+  .sub { font-size: 12.5px; opacity:.85; margin:0; }
+  .stats { display:flex; border-bottom:1px solid #e3e7ea; }
+  .stat { flex:1; padding:12px 8px; text-align:center; border-right:1px solid #e3e7ea; }
+  .stat:last-child{border-right:0}
+  .stat b { display:block; font-size:24px; color:#153556; line-height:1.1; }
+  .stat span { font-size:10px; color:#6b7a88; text-transform:uppercase; letter-spacing:.05em; }
+  section { padding: 14px 40px 0; }
+  h2 { font-size:15.5px; margin:0 0 3px; color:#153556; }
+  .note { font-size:11.5px; color:#6b7a88; margin:0 0 9px; line-height:1.45; }
+  .split { display:flex; gap:24px; }
+  .col { flex:1; }
+  .col h3 { font-size:10.5px; letter-spacing:.05em; text-transform:uppercase; margin:0 0 6px; }
+  .win h3 { color:#F37727; } .lose h3 { color:#153556; }
+  .row { display:flex; justify-content:space-between; font-size:12px; padding:3.5px 0; border-bottom:1px solid #e3e7ea; }
+  .row b { font-variant-numeric: tabular-nums; }
+  footer { margin-top:12px; padding:11px 40px 16px; border-top:2px solid #153556; font-size:9.5px; color:#6b7a88; line-height:1.55; }
+  footer b { color:#153556; }
+</style></head><body><div class="sheet">
+<header>
+  <img src="https://rvacheapflights.com/media/rva/brand/rva-logo-white.png" alt="RVA Cheap Flights">
+  <h1>Seven of the ten routes Richmond companies fly most<br>come in above what those routes normally cost</h1>
+  <p class="sub">Prepared for Richmond BizSense &middot; 255 graded fares out of RIC &middot; August 17 &ndash; October 20, 2026</p>
+</header>
+
+<div class="stats">
+  <div class="stat"><b>255</b><span>Fares graded</span></div>
+  <div class="stat"><b>64</b><span>Days tracked</span></div>
+  <div class="stat"><b>10</b><span>Business routes</span></div>
+  <div class="stat"><b>7</b><span>Above normal</span></div>
+</div>
+
+<section>
+  <h2>Business routes out of RIC, against their own normal price</h2>
+  <p class="note">Every fare is compared with what that specific route normally costs, so a $289 New York ticket and an $837 London ticket can be judged on the same scale. Navy means Richmond travelers paid a premium.</p>
+  <svg viewBox="0 0 920 364" width="100%" role="img" aria-label="Richmond business routes against what each route normally costs" font-family="Arial, Helvetica, sans-serif">
+  <text x="478" y="20" text-anchor="end" font-size="11.5" font-weight="700" fill="#153556">PAYING ABOVE NORMAL &#8592;</text>
+  <text x="502" y="20" text-anchor="start" font-size="11.5" font-weight="700" fill="#F37727">&#8594; BELOW NORMAL</text>
+  <line x1="490" y1="28" x2="490" y2="342" stroke="#6b7a88" stroke-width="1.5"/>
+  <text x="490" y="358" text-anchor="middle" font-size="10.5" fill="#6b7a88">what the route normally costs</text>
+  
+    <text x="214" y="52" text-anchor="end" font-size="13" fill="#1b2733">Las Vegas</text>
+    <rect x="492" y="41" width="216" height="16" rx="4" fill="#F37727"/>
+    <text x="717" y="54" text-anchor="start" font-size="12.5" font-weight="700" fill="#F37727">30%</text>
+    <text x="214" y="82" text-anchor="end" font-size="13" fill="#1b2733">Denver</text>
+    <rect x="492" y="71" width="21.6" height="16" rx="4" fill="#F37727"/>
+    <text x="522.6" y="84" text-anchor="start" font-size="12.5" font-weight="700" fill="#F37727">3%</text>
+    <text x="214" y="112" text-anchor="end" font-size="13" fill="#1b2733">Boston</text>
+    <rect x="492" y="101" width="7.2" height="16" rx="4" fill="#F37727"/>
+    <text x="508.2" y="114" text-anchor="start" font-size="12.5" font-weight="700" fill="#F37727">1%</text>
+    <text x="214" y="142" text-anchor="end" font-size="13" fill="#1b2733">Newark</text>
+    <rect x="473.6" y="131" width="14.4" height="16" rx="4" fill="#153556"/>
+    <text x="464.6" y="144" text-anchor="end" font-size="12.5" font-weight="700" fill="#153556">2%</text>
+    <text x="214" y="172" text-anchor="end" font-size="13" fill="#1b2733">London (Gatwick)</text>
+    <rect x="459.2" y="161" width="28.8" height="16" rx="4" fill="#153556"/>
+    <text x="450.2" y="174" text-anchor="end" font-size="12.5" font-weight="700" fill="#153556">4%</text>
+    <text x="214" y="202" text-anchor="end" font-size="13" fill="#1b2733">London (Heathrow)</text>
+    <rect x="452" y="191" width="36" height="16" rx="4" fill="#153556"/>
+    <text x="443" y="204" text-anchor="end" font-size="12.5" font-weight="700" fill="#153556">5%</text>
+    <text x="214" y="232" text-anchor="end" font-size="13" fill="#1b2733">Chicago (O'Hare)</text>
+    <rect x="387.2" y="221" width="100.8" height="16" rx="4" fill="#153556"/>
+    <text x="378.2" y="234" text-anchor="end" font-size="12.5" font-weight="700" fill="#153556">14%</text>
+    <text x="214" y="262" text-anchor="end" font-size="13" fill="#1b2733">New York (LaGuardia)</text>
+    <rect x="372.8" y="251" width="115.2" height="16" rx="4" fill="#153556"/>
+    <text x="363.8" y="264" text-anchor="end" font-size="12.5" font-weight="700" fill="#153556">16%</text>
+    <text x="214" y="292" text-anchor="end" font-size="13" fill="#1b2733">Chicago (Midway)</text>
+    <rect x="344" y="281" width="144" height="16" rx="4" fill="#153556"/>
+    <text x="335" y="294" text-anchor="end" font-size="12.5" font-weight="700" fill="#153556">20%</text>
+    <text x="214" y="322" text-anchor="end" font-size="13" fill="#1b2733">New York (JFK)</text>
+    <rect x="300.79999999999995" y="311" width="187.20000000000002" height="16" rx="4" fill="#153556"/>
+    <text x="291.79999999999995" y="324" text-anchor="end" font-size="12.5" font-weight="700" fill="#153556">26%</text>
+</svg>
+</section>
+
+<section>
+  <h2>The uncomfortable comparison</h2>
+  <p class="note">The routes that come in cheapest out of Richmond are the ones companies rarely book.</p>
+  <div class="split">
+    <div class="col lose"><h3>Business routes &mdash; above normal</h3>
+      <div class="row"><span>New York (JFK)</span><b>26% above</b></div><div class="row"><span>Chicago (Midway)</span><b>20% above</b></div><div class="row"><span>New York (LaGuardia)</span><b>16% above</b></div><div class="row"><span>Chicago (O'Hare)</span><b>14% above</b></div><div class="row"><span>London (Heathrow)</span><b>5% above</b></div>
+    </div>
+    <div class="col win"><h3>Leisure routes &mdash; below normal</h3>
+      <div class="row"><span>Orlando</span><b>41% below &middot; from $52</b></div><div class="row"><span>Charleston</span><b>37% below &middot; from $98</b></div><div class="row"><span>Tampa</span><b>29% below &middot; from $103</b></div><div class="row"><span>Nashville</span><b>26% below &middot; from $127</b></div><div class="row"><span>Fort Myers</span><b>21% below &middot; from $128</b></div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <b>Method.</b> Each fare is graded against what that specific route normally costs, not a flat dollar threshold. Figures above are averages across every fare observed on each route between August 17 and October 20, 2026. Fare-level data available on request, including the normal price for each route so any figure here can be checked.<br>
+  <b>Caveats.</b> These are fares observed over 64 days, not every fare that existed. Prices are accurate as of the date each was found. 64 days is a real sample but not a seasonal one, and business routes may price differently around holidays.<br><br>
+  <b>Glenn Brown &middot; RVA Cheap Flights &middot; rvacheapflights.com &middot; 804-210-9657</b>
+</footer>
+</div></body></html>
