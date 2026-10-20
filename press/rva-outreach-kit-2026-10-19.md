@@ -567,8 +567,7 @@ audiences, and podcast hosts.
 - **Type:** Creator / influencer.
 - **Audience:** Varies — must be Richmond-area or Virginia travel-relevant to be worth the outreach.
 - **Why we fit:** Their followers already want to travel and already trust their recommendations.
-- **Best value we offer:** Content their audience genuinely benefits from, plus an exclusive offer
-  only their followers get.
+- **Best value we offer:** A free membership for them, and real bookable fares their audience can use today. No discount - the deal itself is the audience offer.
 - **Primary desired action:** A post or story featuring a current deal with our link, ideally
   recurring.
 - **Persuasion angle:** This saves their followers real money, which makes the creator look good.
@@ -577,12 +576,23 @@ audiences, and podcast hosts.
 
 **TERMS — what can go out today, and what can't**
 
-✅ **SENDABLE NOW. Neither of these costs Glenn money; both are access to a product he owns.**
-- **Gift** — complimentary annual access ($72 value) for the creator. No payment, no obligation.
-- **Audience offer** — the gift plus something for their followers through their own link.
-  ⚠ The specific follower offer (a discount, an extended trial, a giveaway) still needs Glenn to
-  pick one, since RVA has no free tier. **Until he picks, write the email with the gift only** and
-  leave the follower offer for the reply.
+✅ **SENDABLE NOW. Costs Glenn nothing; it is access to a product he owns.**
+- **Gift** — complimentary annual membership ($72 value) for the creator. No payment, no
+  obligation.
+
+⛔ **NO FOLLOWER DISCOUNT.** ★ **Glenn, 2026-10-20: "why do we need a special offer to their
+viewers?"** We don't, and offering one would be a mistake:
+- There is no free tier. A discount cuts straight into the $72/yr, which is the entire revenue
+  model.
+- It anchors the price down before RVA has ever sold at full price.
+- Three giveaways for one promotion — membership, ad slot AND a discount — is a subsidy, not a
+  partnership.
+
+**The deal IS the audience offer.** A $52 round trip to Orlando is worth more to a follower than
+money off a subscription, and it costs nothing because `/deals` is already public. The creator
+shares a real fare, their audience gets something immediately useful, and the people who want the
+top-graded ones first convert at full price. Do not invent a discount, trial or giveaway — that
+idea came from generic influencer-marketing convention, not from this business's economics.
 
 ⛔ **RULED OUT — do not offer, do not negotiate toward it.**
 - **Per-subscriber referral payment.** ★ **Glenn, 2026-10-20: "I do not want to pay per
@@ -609,7 +619,7 @@ using it or have responded warmly.
 **SUBJECT LINES**
 1. Something your Richmond followers would actually use
 2. Orlando for $52 out of RIC — want this for your audience?
-3. An exclusive flight-deal offer for your followers
+3. $52 to Orlando out of RIC — the kind of thing your followers screenshot
 4. Richmond travel content, free, built for your audience
 5. Partnership idea: cheap RIC flights for your followers
 
