@@ -220,14 +220,15 @@ data?", which costs her nothing to say yes to.
 > Michael,
 >
 > BizSense readers expense a lot of airfare, and most are picking an airport on instinct rather
-> than numbers. I've spent two months building the numbers — 255 fares out of RIC since
+> than numbers. I've spent two months building the numbers — 258 fares out of RIC since
 > mid-August, each graded against what that specific route normally costs.
 >
 > The finding is awkward for Richmond business travel.
 >
 > The routes that come in cheapest out of RIC are leisure routes — Orlando, Charleston, Tampa.
 > The routes that come in worst are the corridor routes companies actually fly. JFK averaged 26%
-> above normal, Chicago 20%, LaGuardia 16%. Newark and Boston were no better than a wash.
+> above normal, LaGuardia 16%, Chicago 14% into O'Hare and 20% into Midway. Newark and Boston
+> were no better than a wash.
 >
 > In other words, a Richmond company flying its people to New York or Chicago is very likely
 > paying a premium to depart locally — and nobody is measuring that, because a single fare search
