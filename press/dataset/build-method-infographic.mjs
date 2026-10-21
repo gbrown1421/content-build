@@ -1,16 +1,26 @@
-// One-page method explainer for Glenn's BizSense conversation (Mike Platania, RIC beat).
-//   node build-method-infographic.mjs   -> RVA-how-we-qualify-deals.html
+// One-page METHODOLOGY BRIEF for Glenn's BizSense conversation (Mike Platania, RIC beat).
+//   node build-method-infographic.mjs   -> RVA-airfare-methodology-brief.html
 //
-// Glenn, 2026-10-21: "I want the detail shown in the attached screenshots included so i can
-// easily explain the process we use to qualify deals, rational for those decisions and what a
-// subscriber can expect from a newsletter."
+// ★ RETARGETED 2026-10-21 BY GLENN. The first version carried a "WHAT A SUBSCRIBER CAN EXPECT"
+// panel - cadence, editions a week, longest gap. He cut it for DATASET COVERAGE, and he was
+// right:
+//
+//   "my goal with Mike is: 'I am a useful local source with a defensible airfare dataset.'
+//    Not: 'Here is why subscribers should join my newsletter.' That distinction matters."
+//
+// That is his own 2026-10-19 rule - sell the usefulness and credibility of the SOURCE first,
+// the relationship comes after the first yes - and the subscriber panel broke it. Cadence stats
+// answer "why should I subscribe", which is not what a reporter is asking. Nothing that reads
+// as a pitch belongs on this sheet.
 //
 // EVERY FIGURE IS COMPUTED FROM THE DATASET BELOW, not typed in. Re-running after the dataset
 // grows updates the sheet. The scoring here mirrors src/mastra/index.ts after commit a5431b9.
 //
 // WHAT IS DELIBERATELY NOT ON THIS SHEET:
-//  - The exact value-point weighting. Glenn, 2026-10-20: the protected part is "the formula",
-//    not the numbers. The sheet explains the approach fully and omits the coefficient.
+//  - Subscriber cadence, edition sizes, anything resembling an offer. See above.
+//  - The exact value-point weighting. Glenn said on 2026-10-21 that proprietary detail is not a
+//    concern here, but he then said "Do not change the info graphic", so the coefficient stays
+//    off until he asks for it. Not a rule - a pending choice.
 //  - The old "New York and Chicago are the weakest values" line. Under the corrected comparator
 //    Chicago Midway is 21% BELOW normal. That claim is dead and must not reappear.
 //  - Any claim about who flies which route, any RIC-vs-Dulles comparison, any trend claim.
@@ -87,6 +97,9 @@ const board = Object.entries(byR).map(([d, v]) => ({ d, p: mean(v) })).sort((a, 
 const strongest = board.slice(0, 6);
 const weakest = board.slice(-6).reverse();
 const airports = new Set(rows.map(r => r.destination_code)).size;
+// Chicago, New York and London each have two airports, so airports > cities. Saying "26
+// destinations" invites a reporter to count the route board and find a different number.
+const cities = new Set(rows.map(r => r.destination.replace(/\s*\([^)]*\)\s*$/, '').trim())).size;
 const fmtD = iso => { const M = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']; return `${M[+iso.slice(5,7)-1]} ${+iso.slice(8)}`; };
 
 const NAVY = '#153556', ORANGE = '#F37727', INK = '#1b2733', MUTED = '#6b7a88', GRID = '#e3e7ea', WASH = '#f6f8f9';
@@ -95,7 +108,7 @@ const steps = [
   ['1', 'Watch', `Fares out of Richmond arrive continuously and are graded five times a day, at 4am, 8am, noon, 4pm and 8pm Eastern. ${rows.length} fares graded across ${airports} airports in ${span} days.`],
   ['2', 'Compare', 'Each fare is measured against Google&rsquo;s own published typical price range for that exact trip &mdash; same route, same travel dates, captured at the same moment the fare is found. Not a flat dollar threshold.'],
   ['3', 'Grade', 'How far the fare sits below that range sets a 1&ndash;10 grade. A nonstop earns a small bonus, two or more stops a small penalty.'],
-  ['4', 'Publish', 'Grade 7 and above goes to subscribers, highest first, up to three per edition. Anything left over waits for the next edition rather than being dropped.'],
+  ['4', 'Publish', 'A fare grading 7.0 or above is published; below that it is not. The threshold is fixed and applied the same way to every route, so no fare is promoted by hand.'],
 ];
 
 const why = [
@@ -137,6 +150,9 @@ const html = `<!doctype html>
   tbody tr:nth-child(even) { background:${WASH}; }
   .pos { color:${ORANGE}; font-weight:bold; text-align:right; }
   .neg { color:${NAVY}; font-weight:bold; text-align:right; }
+  .access { margin-top:9px; background:#fdf1e7; border-left:4px solid ${ORANGE}; border-radius:5px; padding:8px 11px; font-size:10px; line-height:1.5; color:${INK}; }
+  .access b { color:${ORANGE}; letter-spacing:.05em; font-size:9px; }
+  .limits { font-size:10px; line-height:1.55; color:${INK}; margin:0; }
   .cols { display:flex; gap:22px; }
   .cols > div { flex:1; }
   footer { margin-top:12px; padding:10px 38px 14px; border-top:2px solid ${NAVY}; font-size:9.5px; color:${MUTED}; line-height:1.5; }
@@ -145,8 +161,8 @@ const html = `<!doctype html>
 
 <header>
   <img src="https://rvacheapflights.com/media/rva/brand/rva-logo-white.png" alt="RVA Cheap Flights">
-  <h1>How a Richmond fare becomes a deal</h1>
-  <p class="sub">The method, the reasoning, and what a subscriber actually receives &middot; ${rows.length} graded fares, ${fmtD(dates[0])} &ndash; ${fmtD(dates.at(-1))}, 2026</p>
+  <h1>Richmond airfare: how fares are graded</h1>
+  <p class="sub">Methodology brief &middot; ${rows.length} graded fares out of RIC, ${fmtD(dates[0])} &ndash; ${fmtD(dates.at(-1))}, 2026</p>
 </header>
 
 <section>
@@ -165,15 +181,16 @@ const html = `<!doctype html>
 </section>
 
 <section>
-  <h2>What a subscriber can expect</h2>
-  <p class="note">Measured over the ${span} days above. ${sendDays.size} of those days produced at least one fare that cleared the bar &mdash; and on ${anyDays.size} days a fare of any kind was logged, so ${anyDays.size} is the realistic ceiling.</p>
+  <h2>Dataset coverage</h2>
+  <p class="note">What is available for a reporter to inspect or audit from the current ${span}-day sample.</p>
   <div class="expect">
-    <div class="kpi"><div class="v">${sendDays.size}<span style="font-size:14px;color:${MUTED}">/${span}</span></div><div class="l">days carried a qualifying fare<br>(${(sendDays.size / span * 100).toFixed(0)}%)</div></div>
-    <div class="kpi"><div class="v">${Math.min(...wkCounts)}&ndash;${Math.max(...wkCounts)}</div><div class="l">editions a week<br>no week below ${Math.min(...wkCounts)}</div></div>
-    <div class="kpi"><div class="v">${gaps[0]} days</div><div class="l">longest gap between<br>editions, all period</div></div>
-    <div class="kpi"><div class="v">up to 3</div><div class="l">fares per edition<br>${ed[1] || 0} &times;1 &middot; ${ed[2] || 0} &times;2 &middot; ${ed[3] || 0} &times;3</div></div>
-    <div class="kpi"><div class="v">${q7.length}</div><div class="l">qualifying fares, all<br>${q7.length} delivered</div></div>
+    <div class="kpi"><div class="v">${rows.length}</div><div class="l">fare<br>observations</div></div>
+    <div class="kpi"><div class="v">${span}</div><div class="l">days<br>tracked</div></div>
+    <div class="kpi"><div class="v">${airports}</div><div class="l">airports<br>across ${cities} cities</div></div>
+    <div class="kpi"><div class="v">5&times;</div><div class="l">checks per day<br>4a 8a 12p 4p 8p ET</div></div>
+    <div class="kpi"><div class="v">${q7.length}</div><div class="l">qualifying<br>fares</div></div>
   </div>
+  <div class="access"><b>REPORTER ACCESS</b> &nbsp;Fare-level data is available on request &mdash; the exact fare, observed date, route, travel dates, airline, stops, grade, and the Google typical-price range captured with it. Every grade on the sheet can be recomputed from those columns.</div>
 </section>
 
 <section>
@@ -193,13 +210,17 @@ const html = `<!doctype html>
   </div>
 </section>
 
+<section>
+  <h2>How to read it</h2>
+  <p class="limits">These figures describe fares <b>observed</b> during a ${span}-day window. They do not prove year-round route behavior, company booking patterns, or whether another departure airport would have been cheaper &mdash; no comparison with Dulles, BWI or any other airport is made or implied. Fares reach us through fare alerts, which surface notably low prices, so the set is weighted toward the cheaper end of the market rather than being a representative sample of everything sold out of RIC. It describes prices <b>offered</b>, not tickets sold. Airfare moves constantly, so each price is accurate as of the date observed. Useful for identifying patterns worth investigating; not for claiming a permanent rule from a short sample.</p>
+</section>
+
 <footer>
-  <b>About these numbers.</b> ${rows.length} fares out of RIC observed and graded between ${fmtD(dates[0])} and ${fmtD(dates.at(-1))}, 2026, across ${airports} airports. Each fare is real and was seen on the date recorded; airfare moves constantly, so a price is accurate as of that date rather than today. ${span} days is a genuine sample but not a seasonal one, and these figures should not be read as a year-round pattern. Percentages are each route&rsquo;s average distance from the typical price range published for that trip at the time it was found. Fare-level data available on request.<br><br>
-  <b>Glenn Brown &middot; RVA Cheap Flights &middot; rvacheapflights.com &middot; 804-210-9657</b>
+  <b>Glenn Brown &middot; RVA Cheap Flights &middot; rvacheapflights.com &middot; 804-210-9657 &middot; fare-level data available on request</b>
 </footer>
 </div></body></html>`;
 
-fs.writeFileSync(path.join(DIR, 'RVA-how-we-qualify-deals.html'), html, 'utf-8');
+fs.writeFileSync(path.join(DIR, 'RVA-airfare-methodology-brief.html'), html, 'utf-8');
 console.log(`fares ${rows.length} | airports ${airports} | span ${span}d`);
 console.log(`qualifying 7+ ${q7.length} | sending days ${sendDays.size}/${span} | ceiling ${anyDays.size}`);
 console.log(`editions 1/2/3-deal: ${ed[1] || 0}/${ed[2] || 0}/${ed[3] || 0} | weekly ${Math.min(...wkCounts)}-${Math.max(...wkCounts)} | longest gap ${gaps[0]}d`);
@@ -208,4 +229,4 @@ console.log(`weakest:   ${weakest.map(r => r.d + ' ' + Math.abs(r.p).toFixed(0) 
 // guards: the dead claim and the protected coefficient must never reach the sheet
 console.log('contains the retired NY/Chicago claim:', /weakest values|New York and Chicago/i.test(html));
 console.log('prints the value-point coefficient:', /0\.375|0\.75|\* *\.75/.test(html));
-console.log('wrote RVA-how-we-qualify-deals.html');
+console.log('wrote RVA-airfare-methodology-brief.html');

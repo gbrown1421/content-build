@@ -31,6 +31,9 @@
   tbody tr:nth-child(even) { background:#f6f8f9; }
   .pos { color:#F37727; font-weight:bold; text-align:right; }
   .neg { color:#153556; font-weight:bold; text-align:right; }
+  .access { margin-top:9px; background:#fdf1e7; border-left:4px solid #F37727; border-radius:5px; padding:8px 11px; font-size:10px; line-height:1.5; color:#1b2733; }
+  .access b { color:#F37727; letter-spacing:.05em; font-size:9px; }
+  .limits { font-size:10px; line-height:1.55; color:#1b2733; margin:0; }
   .cols { display:flex; gap:22px; }
   .cols > div { flex:1; }
   footer { margin-top:12px; padding:10px 38px 14px; border-top:2px solid #153556; font-size:9.5px; color:#6b7a88; line-height:1.5; }
@@ -39,15 +42,15 @@
 
 <header>
   <img src="https://rvacheapflights.com/media/rva/brand/rva-logo-white.png" alt="RVA Cheap Flights">
-  <h1>How a Richmond fare becomes a deal</h1>
-  <p class="sub">The method, the reasoning, and what a subscriber actually receives &middot; 255 graded fares, Aug 17 &ndash; Oct 19, 2026</p>
+  <h1>Richmond airfare: how fares are graded</h1>
+  <p class="sub">Methodology brief &middot; 255 graded fares out of RIC, Aug 17 &ndash; Oct 19, 2026</p>
 </header>
 
 <section>
   <h2>The process</h2>
   <p class="note">Every fare out of RIC goes through the same four steps. Nothing is hand-picked.</p>
   <div class="steps">
-    <div class="step"><div class="num">STEP 1</div><div class="stitle">Watch</div><p>Fares out of Richmond arrive continuously and are graded five times a day, at 4am, 8am, noon, 4pm and 8pm Eastern. 255 fares graded across 26 airports in 64 days.</p></div><div class="step"><div class="num">STEP 2</div><div class="stitle">Compare</div><p>Each fare is measured against Google&rsquo;s own published typical price range for that exact trip &mdash; same route, same travel dates, captured at the same moment the fare is found. Not a flat dollar threshold.</p></div><div class="step"><div class="num">STEP 3</div><div class="stitle">Grade</div><p>How far the fare sits below that range sets a 1&ndash;10 grade. A nonstop earns a small bonus, two or more stops a small penalty.</p></div><div class="step"><div class="num">STEP 4</div><div class="stitle">Publish</div><p>Grade 7 and above goes to subscribers, highest first, up to three per edition. Anything left over waits for the next edition rather than being dropped.</p></div>
+    <div class="step"><div class="num">STEP 1</div><div class="stitle">Watch</div><p>Fares out of Richmond arrive continuously and are graded five times a day, at 4am, 8am, noon, 4pm and 8pm Eastern. 255 fares graded across 26 airports in 64 days.</p></div><div class="step"><div class="num">STEP 2</div><div class="stitle">Compare</div><p>Each fare is measured against Google&rsquo;s own published typical price range for that exact trip &mdash; same route, same travel dates, captured at the same moment the fare is found. Not a flat dollar threshold.</p></div><div class="step"><div class="num">STEP 3</div><div class="stitle">Grade</div><p>How far the fare sits below that range sets a 1&ndash;10 grade. A nonstop earns a small bonus, two or more stops a small penalty.</p></div><div class="step"><div class="num">STEP 4</div><div class="stitle">Publish</div><p>A fare grading 7.0 or above is published; below that it is not. The threshold is fixed and applied the same way to every route, so no fare is promoted by hand.</p></div>
   </div>
 </section>
 
@@ -59,15 +62,16 @@
 </section>
 
 <section>
-  <h2>What a subscriber can expect</h2>
-  <p class="note">Measured over the 64 days above. 46 of those days produced at least one fare that cleared the bar &mdash; and on 58 days a fare of any kind was logged, so 58 is the realistic ceiling.</p>
+  <h2>Dataset coverage</h2>
+  <p class="note">What is available for a reporter to inspect or audit from the current 64-day sample.</p>
   <div class="expect">
-    <div class="kpi"><div class="v">46<span style="font-size:14px;color:#6b7a88">/64</span></div><div class="l">days carried a qualifying fare<br>(72%)</div></div>
-    <div class="kpi"><div class="v">3&ndash;6</div><div class="l">editions a week<br>no week below 3</div></div>
-    <div class="kpi"><div class="v">3 days</div><div class="l">longest gap between<br>editions, all period</div></div>
-    <div class="kpi"><div class="v">up to 3</div><div class="l">fares per edition<br>20 &times;1 &middot; 14 &times;2 &middot; 12 &times;3</div></div>
-    <div class="kpi"><div class="v">84</div><div class="l">qualifying fares, all<br>84 delivered</div></div>
+    <div class="kpi"><div class="v">255</div><div class="l">fare<br>observations</div></div>
+    <div class="kpi"><div class="v">64</div><div class="l">days<br>tracked</div></div>
+    <div class="kpi"><div class="v">26</div><div class="l">airports<br>across 23 cities</div></div>
+    <div class="kpi"><div class="v">5&times;</div><div class="l">checks per day<br>4a 8a 12p 4p 8p ET</div></div>
+    <div class="kpi"><div class="v">84</div><div class="l">qualifying<br>fares</div></div>
   </div>
+  <div class="access"><b>REPORTER ACCESS</b> &nbsp;Fare-level data is available on request &mdash; the exact fare, observed date, route, travel dates, airline, stops, grade, and the Google typical-price range captured with it. Every grade on the sheet can be recomputed from those columns.</div>
 </section>
 
 <section>
@@ -87,8 +91,12 @@
   </div>
 </section>
 
+<section>
+  <h2>How to read it</h2>
+  <p class="limits">These figures describe fares <b>observed</b> during a 64-day window. They do not prove year-round route behavior, company booking patterns, or whether another departure airport would have been cheaper &mdash; no comparison with Dulles, BWI or any other airport is made or implied. Fares reach us through fare alerts, which surface notably low prices, so the set is weighted toward the cheaper end of the market rather than being a representative sample of everything sold out of RIC. It describes prices <b>offered</b>, not tickets sold. Airfare moves constantly, so each price is accurate as of the date observed. Useful for identifying patterns worth investigating; not for claiming a permanent rule from a short sample.</p>
+</section>
+
 <footer>
-  <b>About these numbers.</b> 255 fares out of RIC observed and graded between Aug 17 and Oct 19, 2026, across 26 airports. Each fare is real and was seen on the date recorded; airfare moves constantly, so a price is accurate as of that date rather than today. 64 days is a genuine sample but not a seasonal one, and these figures should not be read as a year-round pattern. Percentages are each route&rsquo;s average distance from the typical price range published for that trip at the time it was found. Fare-level data available on request.<br><br>
-  <b>Glenn Brown &middot; RVA Cheap Flights &middot; rvacheapflights.com &middot; 804-210-9657</b>
+  <b>Glenn Brown &middot; RVA Cheap Flights &middot; rvacheapflights.com &middot; 804-210-9657 &middot; fare-level data available on request</b>
 </footer>
 </div></body></html>
