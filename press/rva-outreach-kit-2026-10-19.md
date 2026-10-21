@@ -193,13 +193,106 @@ data?", which costs her nothing to say yes to.
 
 # B. RICHMOND BIZSENSE — reporter, business desk
 
-## ✅ SENT — Tuesday, October 20, 2026
+## ✅ SENT Tue Oct 20 → 🎉 **REPLIED Wed Oct 21.** FIRST REPLY FROM ANY OUTREACH.
 
 **Subject used:** `255 RIC fares: New York and Chicago have been among the weakest values`
 **To:** michael@richmondbizsense.com · cc aaron@richmondbizsense.com
 **Attached:** `dataset/RIC-business-travel-bizsense.pdf`
 
-**→ FOLLOW UP TUESDAY, OCTOBER 27** if no reply. Same day as the Axios follow-up.
+**~~FOLLOW UP OCT 27~~ — not needed. He replied in a day.**
+
+### THE REPLY, 2026-10-21
+
+**From: Mike Platania, Reporter, Richmond BizSense · (804) 554-6872**
+
+> I'm Mike Platania, reporter at Richmond BizSense. My editor forwarded me a message you'd sent
+> about some flight prices you'd been tracking at RIC. **I cover the airport for BizSense** and am
+> curious to hear more about what you've been looking at. **Not working on a story or anything**,
+> but it sounds like you keep a close eye at everything at RIC so I'd be glad to get acquainted.
+> If you're free to talk sometime please let me know.
+
+**What this actually is:** the pitch went to the editor and the founder; the editor judged it worth
+routing to the **beat reporter who covers RIC**. That is a better result than a direct hit — it
+means it cleared an editorial filter before reaching him.
+
+### ⛔ NO TERMS IN THE REPLY. THIS IS NOT THE SECOND CONVERSATION.
+
+The "THE SECOND CONVERSATION" block below offers a quarterly refresh and BizSense getting the
+numbers first. **Do not use it yet.** Glenn's rule, 2026-10-19: *"never negotiate promotion,
+links, attribution, recurring access, or exclusivity in the initial pitch unless the reporter
+specifically asks about terms. First sell the usefulness and credibility of the source. The
+relationship comes after the first yes."*
+
+"Glad to get acquainted, not working on a story" is the **weakest possible yes** — a relationship
+opening, not engagement with the findings. He has not asked about terms. Attaching any to a
+get-acquainted call is the exact error Glenn corrected on 2026-10-19.
+
+### ✅ REPLY SENT — Wednesday, October 21, 2026
+
+**Subject:** `Re: 255 RIC fares: New York and Chicago have been among the weakest values`
+**To:** Mike Platania
+
+> Mike,
+>
+> Good to hear from you, and glad it found its way to the right desk.
+>
+> Happy to talk, and no story needed. You cover RIC day to day, so you'll know the traffic and
+> carrier side better than I will. What I've built is narrower: I track fares out of RIC and grade
+> each one against what that specific route has historically cost, which ends up saying something
+> different than a raw price does.
+>
+> The part that surprised me most is that the New York and Chicago routes have been among the
+> weakest values out of Richmond rather than the best. Through October 19, JFK averaged 26% above
+> its own normal price, Chicago Midway 20% above and LaGuardia 16% above. Over the same stretch
+> Orlando averaged 41% below, and Charleston came in at $98 round trip four separate times. 255
+> graded fares across 26 airports, and the tracking runs continuously.
+>
+> You're welcome to the whole fare-level dataset whenever it's useful — every fare with its date,
+> route, price and the comparison behind it. It does more good with someone who covers the airport
+> than it does sitting on my drive.
+>
+> Name a time that works for you and I'll make it work. My cell is below, or I'm happy to meet in
+> person if that's easier.
+>
+> Glenn Brown
+> RVA Cheap Flights
+> rvacheapflights.com
+> 804-210-9657
+
+**VERIFICATION — every figure in the reply, checked 2026-10-21**
+- JFK 26% above · Midway 20% · LaGuardia 16% · Orlando 41% below — route averages vs
+  `routes.baseline_price`, Oct 19 snapshot. Same numbers Glenn already sent, so the two emails
+  agree.
+- Charleston $98 — four rows: Sep 8, Sep 15, Sep 25, Oct 9. **Four, not five.** This miscount
+  shipped once already.
+- 255 graded fares, 26 airports, Aug 17 – Oct 19.
+- *"the tracking runs continuously"* — `/health` read 2026-10-21: `deal-scoring-workflow`
+  `lastRunAt` 2026-10-21T16:00:00Z, 7 runs, 0 failures.
+- **Deliberately absent:** any claim about who flies which route or why, any subscription mention,
+  any terms, any ask.
+
+### ☎ CALL PREP — the three things that must not be said
+
+All three were in my failed BizSense draft and Glenn cut them. **None is supported by the data,
+and he will be talking to the person who covers this beat for a living.**
+
+| Do NOT say | Why it is wrong |
+|---|---|
+| "the routes companies actually fly" / "routes they fly most" | **No booking or passenger data exists.** The 10 business routes were *our selection* and must be described that way. |
+| "Richmond companies are picking an airport on instinct" / "paying a premium to depart locally" | Nothing measures behavior, and **nothing compares RIC against Dulles or BWI.** Every figure is a route against *its own* history. |
+| "a growing line item" / any trend claim | 64 days is a sample, **not a trend and not seasonal.** |
+
+**Safe and strong, all verified:** route-level percentages against each route's own normal price ·
+the specific fares with their dates · 255 fares / 26 airports / Aug 17–Oct 19 · the method in plain
+terms (each fare compared to what that route normally costs) · that 64 days is not yet seasonal.
+
+**If he asks how the grading works:** explain the approach freely — each fare is measured against
+that route's own normal price. The **private part is the math**, not the concept: the averaging
+window and the formula. Glenn, 2026-10-20: *"nothing you have shown above states that we can not
+post a baseline number. It talks about the formula."*
+
+**If he asks for the data: send it.** No conditions, no embargo, no exclusivity. That is the whole
+play — be the useful source. Terms, if ever, are a later conversation and only if he raises them.
 
 **STRATEGY**
 - **Type:** Reporter (business journal). Michael Schwartz, editor; Aaron Kremer, founder.
@@ -820,7 +913,7 @@ free, which is far easier than a yes to a partnership.
 | # | Outlet | Status | Next action |
 |---|---|---|---|
 | 1 | **Axios Richmond** | ✅ **SENT Tue Oct 20** | Follow up **Tue Oct 27** if no reply |
-| 2 | **Richmond BizSense** | ✅ **SENT Tue Oct 20** | Follow up **Tue Oct 27** if no reply |
+| 2 | **Richmond BizSense** | 🎉 **REPLIED Oct 21** — Mike Platania, RIC beat | **Reply sent Oct 21. Waiting on a time from him.** No terms until he raises them. |
 | 3 | **RVAHub** | ready | Recurring weekly section |
 | 4 | **The Richmonder** | ready | Recurring weekly section. **No exclusivity** — stripped 10/20 |
 | 5 | **Local TV** | ready | Land before Thanksgiving |
