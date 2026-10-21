@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-20T21:13:00Z",
-  "reportFile": "2026-10-20-1709.md",
-  "note": "Window 2026-10-20T17:15:46Z-2026-10-20T21:13:00Z. 4 claims (0 Process Alerts, 4 unflagged). 3 PASS / 1 FAIL. FAIL: kit :710-713 creator section still tells creators to share the grade-10 $52 Orlando fare 'because /deals is already public' (false; contradicts charter 66486c9f), plus 'right now' at :430. Carry-overs open: charter :513 vs :586; creator ad swap 'permanent'/'category-exclusive'. New: charter :559 holds a session proposal against s41. Report commit e59a1d8."
+  "lastReview": "2026-10-21T01:10:20Z",
+  "reportFile": "2026-10-20-2109.md",
+  "note": "Window 2026-10-20T21:13:00Z-2026-10-21T01:10:20Z. 0 claims; scheduled runs only, no commits or edits. Carry-overs from 5pm review still open: kit :710-713/:430 grade-10 fares; charter :513 vs :586; charter :559 session proposal."
 }
