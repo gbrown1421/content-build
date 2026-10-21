@@ -391,3 +391,9 @@ error is now established, not inferred.
 3. Backfill a re-score of all 255 against the stored range before any number goes to print.
 
 **NOT DONE:** nothing here is built. The scorer still ignores `googleRange`.
+
+> **Status update, implementation review 2026-10-21 21:10Z:** item 2 is now BUILT, NOT DEPLOYED —
+> the Value Point scorer (Glenn: *"(Mid-Low)*.75+Low"*) is commit `a5431b9` in
+> `rva-flight-src/RVAFlight-Web-1`, pushed to origin/main. Railway refused the deploy at 18:36Z
+> ("Deploys have been paused temporarily"). Live scoring still uses `baseline_price`. Item 3
+> (re-score backfill) is not done.
