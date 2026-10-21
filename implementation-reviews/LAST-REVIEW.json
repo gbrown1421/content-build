@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-21T01:10:20Z",
-  "reportFile": "2026-10-20-2109.md",
-  "note": "Window 2026-10-20T21:13:00Z-2026-10-21T01:10:20Z. 0 claims; scheduled runs only, no commits or edits. Carry-overs from 5pm review still open: kit :710-713/:430 grade-10 fares; charter :513 vs :586; charter :559 session proposal."
+  "lastReview": "2026-10-21T17:12:15Z",
+  "reportFile": "2026-10-21-1309.md",
+  "note": "Window 2026-10-21T01:10:20Z-2026-10-21T17:12:15Z. 0 PASS / 1 FAIL: baseline doc 454cd08 contradicts Glenn 08-16 seasonal_adjustment ruling and itself (:175). Carry-overs open: kit :803 grade-10 fare; charter :513 vs :586; charter :559."
 }
