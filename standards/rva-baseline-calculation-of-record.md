@@ -303,3 +303,91 @@ in §2 would need restating.
 
 **NOT DONE, stated plainly:** nothing in §8 is built. No baseline recomputed, no API account, no
 sampling job written, and `seasonal_adjustment` is still unread by the scorer.
+
+---
+
+# 9. 🛑 THE COMPARATOR WAS IN THE DATABASE ALL ALONG — AND IT CONTRADICTS OUR HEADLINE CLAIM
+
+**Glenn, 2026-10-21: "how can you not trace data inputed into a table?"** He was right to push.
+I had checked only the build scripts and stopped. The full trace took four commands.
+
+## The trace
+
+- `git log --follow` on the CSV → columns first appear in **`d3094b7`, Tue Oct 20 02:30**.
+- Session transcript → the generator reads **`raw_json.googleRange`**, not a hand-entered map.
+- `flightParserTool.ts:104` parses `googleRange {low, high}` **out of the Google alert email**.
+- `dealScoringWorkflow.ts:112` writes it into `raw_json` on **every deal**.
+- Variance test: **all 26 routes show different ranges across their own rows** → captured per
+  fare, at observation time, not a per-route lookup.
+
+**So it is the best-provenance figure in the dataset** — contemporaneous, per fare, date-matched
+and lead-time-matched by construction, straight from Google. My earlier "unknown provenance, not
+verified" was wrong and is withdrawn.
+
+## 🛑 `googleRange` IS CAPTURED AND THEN THROWN AWAY
+
+`grep googleRange src/` returns 8 hits: the parser, the type, and the insert. **Zero in any
+scoring path.** We have been storing Google's own verdict on every fare since August and scoring
+against a hand-typed number instead.
+
+## What Google said about the same fares, on the same days
+
+| | |
+|---|---|
+| **53** of 255 | below Google's typical range |
+| **195** | within it |
+| **7** | above it |
+
+**76% of what we graded were ordinary prices.**
+
+### The "weakest values" claims are contradicted — and they are the ones we sent
+
+| route | our published claim | Google, captured with each fare |
+|---|---|---|
+| **New York JFK** | **26% ABOVE normal** | **0 above, 10 within** — never once expensive |
+| **Chicago Midway** | **20% ABOVE** | **4 BELOW typical**, 9 within, **0 above** |
+| **Chicago O'Hare** | 14% ABOVE | 0 above, 8 within |
+| **Fort Lauderdale** | 15% ABOVE | 0 above, 11 within |
+| Miami | 18% ABOVE | 1 above, 10 within |
+| LaGuardia | 16% ABOVE | 1 above, 9 within |
+
+The BizSense subject line Glenn **sent on Oct 20** was *"255 RIC fares: New York and Chicago have
+been among the weakest values."* Google called Midway fares **cheap** four times and JFK fares
+**typical** ten times out of ten. The Oct 21 reply to Mike Platania repeats the JFK line.
+
+### Four "below normal" claims are also unsupported
+
+Punta Cana (30% below), Cancun (7%), Paris (5%) and Montego Bay (3%) each show **zero** fares
+below Google's range — Montego Bay has two *above* it.
+
+### The strong claims DO hold, and they are the ones worth keeping
+
+| route | our claim | Google |
+|---|---|---|
+| Fort Myers | 21% below | **8 of 8 below typical** |
+| Las Vegas | 30% below | 9 of 12 below |
+| Nashville | 26% below | 8 of 9 below |
+| Charleston | 37% below | 8 of 11 below |
+| Orlando | 41% below | 3 below, incl. the $52 |
+
+## Root cause
+
+The seeded baselines for the short-haul routes are **too low** — JFK $230, Midway $235, FLL $180,
+MIA $250 — so in Aug–Oct every observed fare lands "above normal" by construction. They were
+hand-researched in August and never checked against the Google ranges arriving in the same rows.
+
+**This also reinstates what §8 withdrew.** §8 pulled the "JFK baseline is too low" claim because
+the evidence there was a Thanksgiving-week band. This evidence is different and far better: 10
+per-fare, date-matched Google ranges, none of which call a JFK fare expensive. The direction of
+error is now established, not inferred.
+
+## What to do
+
+1. **Do not repeat the New York / Chicago "weakest values" line to Mike Platania.** The observed
+   fares remain solid; that interpretation does not.
+2. **Score against `googleRange` — we already have it on every row.** No scraper, no API, no
+   recurring cost. The §8 recommendation stands and is now cheaper than it looked: the band is
+   already in `raw_json`, it just needs reading.
+3. Backfill a re-score of all 255 against the stored range before any number goes to print.
+
+**NOT DONE:** nothing here is built. The scorer still ignores `googleRange`.
