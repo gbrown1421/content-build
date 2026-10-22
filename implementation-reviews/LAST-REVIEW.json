@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-21T21:11:00Z",
-  "reportFile": "2026-10-21-1709.md",
-  "note": "Window 2026-10-21T17:12:15Z-2026-10-21T21:11:00Z. 1 PASS / 1 FAIL: Value Point scorer a5431b9 pushed but Railway deploy refused 18:36Z, CLI login invalid. Carry-overs from 1pm not re-checked."
+  "lastReview": "2026-10-22T01:10:08Z",
+  "reportFile": "2026-10-21-2109.md",
+  "note": "Window 2026-10-21T21:11:00Z-2026-10-22T01:10:08Z. 2 PASS / 0 FAIL: reporter CSV ede54e4, methodology brief c277e4d. Carry-over: a5431b9 deploy unverified, railway CLI unauthorized."
 }
