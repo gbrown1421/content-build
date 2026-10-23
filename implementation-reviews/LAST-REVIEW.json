@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-23T17:10:08Z",
-  "reportFile": "2026-10-23-1309.md",
-  "note": "Window 2026-10-23T01:09:33Z-2026-10-23T17:10:08Z. 0 claims; scheduled runs only, no commits. Carry-over: a5431b9 deploy unverified."
+  "lastReview": "2026-10-23T21:13:05Z",
+  "reportFile": "2026-10-23-1709.md",
+  "note": "Window 2026-10-23T17:10:08Z-2026-10-23T21:13:05Z. 1 PASS / 2 FAIL. Open: content-kit sweep.mjs uncommitted + ahead 1; role-location question for Glenn; a5431b9 deploy unverified."
 }
