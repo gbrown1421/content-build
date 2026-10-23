@@ -109,7 +109,7 @@ named, and nothing that has to be checked on the day.
 
 ## Paris
 - **Fall:** Paris turns cool and golden in the fall. The tourists thin out and the café heaters come on.
-- **Winter:** Paris is grey, quiet and cozy in winter. Shorter museum lines, and holiday lights into January.
+- **Winter:** Paris is gray, quiet and cozy in winter. Shorter museum lines, and holiday lights into January.
 - **Spring:** Paris is what the postcards promise in spring. Chestnut trees in bloom, cafés spilling outside.
 
 ## Punta Cana

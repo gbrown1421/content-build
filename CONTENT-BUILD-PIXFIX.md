@@ -1164,7 +1164,8 @@ From $129. Order: https://pixfixstudio.com/order.html
 ---
 
 ## FRI 23 OCT · 17:00 · STATIC · Turnaround of the week — the profile
-**PixFix styling.** Library assets only. Left profile plate, full bleed.
+**PixFix styling.** Library assets only. Left profile plate, full bleed:
+`studio-canon/bea-mercer/left-profile-993b1476.png` (Bea Mercer — left profile).
 
 **HEADLINE:** STILL THE<br>SAME JAW.
 
@@ -1185,8 +1186,9 @@ From $129. Order: https://pixfixstudio.com/order.html
 ## SAT 24 OCT · 12:00 · COMMENT POLL · Which angle do you actually need?
 **FB comment poll.** PixFix styling, A/B split card on white.
 
-**Card:** left half — a clean front-facing plate. Right half — a rear three-quarter plate. Letter
-**A** over the front, letter **B** over the rear three-quarter.
+**Card:** left half — `studio-canon/kitt/front-e8a142b9.png` (KITT — front). Right half —
+`studio-canon/kitt/rear-three-quarter-left-c1834e52.png` (KITT — rear three quarter left). Same
+character both sides. Letter **A** over the front, letter **B** over the rear three-quarter.
 
 **Poll options:** `A — The front` · `B — The one behind them`
 
@@ -1204,7 +1206,8 @@ Comment A or B, and tell us what you are making.
 ---
 
 ## SUN 25 OCT · 17:00 · STATIC · Turnaround of the week — the rear three-quarter
-**PixFix styling.** Library assets only. Rear three-quarter plate, full bleed.
+**PixFix styling.** Library assets only. Rear three-quarter plate, full bleed:
+`studio-canon/max/rear-three-quarter-right-aa397940.png` (MAX — rear three quarter right).
 
 **HEADLINE:** THE ONE<br>NOBODY ASKS FOR.
 
@@ -1215,6 +1218,300 @@ Nobody orders a character turnaround thinking about the view from behind and to 
 Then the scene needs them walking away, or looking back over a shoulder, and it turns out that is the only angle that will do.
 
 It is in the set because the set is not finished without it.
+
+Nine files. No watermark. From $129.
+
+Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+★ **SUNDAY REVIEW 2026-10-23 — entries 26 Oct to 6 Nov.** Every picture below is a named file in
+`media_assets` (PixFix, `studio-canon/…`). Facts used, all read off the live order page
+(pixfixstudio.com/order.html, fetched 23 Oct): 8 angles = front, both three-quarters, both
+profiles and three rear views; flat style; transparent PNGs; Standard / Priority / Rush; the master
+must be a transparent PNG at least 768 px each side with a margin, checked before payment.
+**No style-range or non-humanoid claims** — the order page sells a flat finish and the intake gate
+is humanoid. The UGH Tails dogs (Pip, Tank, Mabel) are kept off PixFix for the same reason.
+
+## MON 26 OCT · 12:00 · CAROUSEL 5 slides · One picture in, eight angles out
+**PixFix styling.** Library assets only, no generation. One character the whole way: Kaito Mochi.
+
+| Slide | Picture | Text |
+|---|---|---|
+| 1 | `studio-canon/kaito-mochi/master-reference-ee23f6f1.png` | ONE PICTURE IN. EIGHT ANGLES OUT. |
+| 2 | `studio-canon/kaito-mochi/front-054ade1b.png` + `studio-canon/kaito-mochi/three-quarter-left-c1a9795a.png` | The front and the three-quarters come first. They set the face every other angle has to match. |
+| 3 | `studio-canon/kaito-mochi/left-profile-fcde1d47.png` + `studio-canon/kaito-mochi/right-profile-beaa4d49.png` | Then both profiles. Same jaw, same ear, same hairline, seen from the side. |
+| 4 | `studio-canon/kaito-mochi/rear-5faa733c.png` + `studio-canon/kaito-mochi/rear-three-quarter-left-ccdcb02c.png` | Then the back. Nobody ever drew it, so it gets settled on the character card before anything is rendered. |
+| 5 | All eight Kaito angle files as one sheet: the six `studio-canon/kaito-mochi/` files above plus `three-quarter-right-1450efc6.png` and `rear-three-quarter-right-d1d12218.png` | Eight angles, one character. Nine files, no watermark, from $129. |
+
+**CAPTION (Facebook)**
+```
+This is the whole job, start to finish, on one character.
+
+You send one picture. Anything it leaves out — the back, the ear, where the hairline sits — gets settled on the character card before a single angle is rendered.
+
+Then all eight come back, and every one of them is the same character.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## TUE 27 OCT · 17:00 · STATIC · You pick the deadline
+**PixFix styling.** Library assets only. `studio-canon/saucer/three-quarter-right-8407dcee.png`
+(SAucer — three quarter right), full bleed.
+
+**HEADLINE:** YOU PICK<br>THE DEADLINE.
+
+**CAPTION (Facebook)**
+```
+Standard, Priority or Rush. You pick the deadline when you order, and the price is set right there: $129, $159 or $199 for a single character.
+
+No quote to wait on and no back-and-forth to find out what it costs. The number on the order page is the number.
+
+Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## WED 28 OCT · 18:00 · REEL · Turn around
+**PixFix styling.** Library assets only, no generation. **This reel SPEAKS** — narrator picked at
+random by `content-kit/pixfix/say.mjs` (Glenn, 2026-10-08). One character the whole way: BREE.
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–4s | `studio-canon/bree/master-reference-864f8458.png` | ONE PICTURE | `Most characters start as one good picture.` |
+| 4–10s | `studio-canon/bree/front-b736f868.png` → `studio-canon/bree/three-quarter-right-7959d9f5.png` | *(nothing — the voice carries it)* | `The trouble starts the first time the story needs them to turn around.` |
+| 10–16s | `studio-canon/bree/right-profile-44e10697.png` → `studio-canon/bree/rear-three-quarter-right-26397dac.png` → `studio-canon/bree/rear-e0c463b2.png` | EVERY SIDE | `So every side gets worked out, and every side agrees with the others.` |
+| 16–20s | All eight `studio-canon/bree/` angle files as one sheet | 8 ANGLES · 9 FILES | `Eight angles, plus a ninth file, and no watermark.` |
+| 20–24s | PixFix brand card | FROM $129 · PIXFIXSTUDIO.COM | `From a hundred and twenty-nine dollars.` |
+
+**48 spoken words · 24s allows 55 at 2.3 w/s.** Beat by beat 7 / 13 / 13 / 9 / 6 against budgets
+of 9.2 / 13.8 / 13.8 / 9.2 / 9.2.
+
+**CAPTION (Facebook)**
+```
+Most characters start as one good picture. That works right up until the story needs them to turn around.
+
+A turnaround is every side of them, worked out once, so every page and every scene after this one shows the same character.
+
+Eight angles plus the full sheet. Nine files, no watermark.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## THU 29 OCT · 12:00 · CAROUSEL 5 slides · Three things to check before you order a turnaround
+**PixFix styling.** Library assets only. One character: SPEL. **Cover says three — slides 2, 3, 4.**
+
+| Slide | Picture | Text |
+|---|---|---|
+| 1 | `studio-canon/spel/master-reference-b55fd9fc.png` | THREE THINGS TO CHECK BEFORE YOU ORDER A TURNAROUND |
+| 2 | `studio-canon/spel/front-b5fb4cd4.png` | Do the angles agree? Ask to see a whole set side by side, not the best three. |
+| 3 | `studio-canon/spel/rear-99417231.png` | Is the back in it? A set without a rear view is a set you will be redrawing later. |
+| 4 | `studio-canon/spel/three-quarter-right-e4030bac.png` | Can you use the files? Transparent, no watermark, and yours. Otherwise it is a preview, not a delivery. |
+| 5 | `studio-canon/spel/right-profile-69905a91.png` | All three are in every PixFix set. Nine files, no watermark, from $129. |
+
+**CAPTION (Facebook)**
+```
+If you are paying someone for a character turnaround, three things are worth checking first.
+
+Do the angles agree with each other when you see them all at once? Is the back actually in the set? And can you use the files — transparent, no watermark, yours to put in your project?
+
+Every PixFix set is built to pass all three.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## FRI 30 OCT · 17:00 · STATIC · Turnaround of the week — what came in, what went out
+**PixFix styling.** Library assets only. Two plates side by side: left
+`studio-canon/ollie-quibble/master-reference-8c8f48e5.png` (the master we started from), right
+`studio-canon/ollie-quibble/front-06b44130.png` (the finished front).
+
+**HEADLINE:** WHAT CAME IN.<br>WHAT WENT OUT.
+
+**CAPTION (Facebook)**
+```
+Left: the picture we started from. Right: the front of the finished set.
+
+Same character, facing forward on a transparent background, ready to sit next to the other seven angles without looking like it came from a different artist.
+
+That is the front. The other seven are built to match it.
+
+Nine files. No watermark. From $129.
+
+Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## SAT 31 OCT · 12:00 · COMMENT POLL · Where did your character come from?
+**FB comment poll.** PixFix styling, A/B split card on white.
+
+**Card:** TYPE ONLY — PixFix white, split down the middle with the PixFix rule. Left half: letter
+**A** above **I DREW THEM**. Right half: letter **B** above **SOMEONE DREW THEM FOR ME**. Nothing
+else on the card.
+
+**Poll options:** `A — I drew them` · `B — Someone drew them for me`
+
+**CAPTION (Facebook)**
+```
+Every character starts somewhere. Curious where yours did.
+
+A — you drew them. Maybe roughly, maybe well, but they came out of your hands first.
+B — someone drew them for you. A commission, a friend who draws, a cover artist.
+
+Either one works as the starting picture for a turnaround. Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## SUN 1 NOV · 17:00 · STATIC · Turnaround of the week — the three-quarter right
+**PixFix styling.** Library assets only. `studio-canon/gertie-gumdrop/three-quarter-right-45e700a6.png`
+(Gertie Gumdrop — three quarter right), full bleed.
+
+**HEADLINE:** THE ANGLE<br>SCENES LIVE IN.
+
+**CAPTION (Facebook)**
+```
+Most scenes are not shot straight on. A character talking to someone, walking into a room, reacting to something off to the side — that is usually a three-quarter view.
+
+This is Gertie Gumdrop at three-quarter right. It is the angle a character spends most of the story in, so it has to be the one that holds up best.
+
+Nine files. No watermark. From $129.
+
+Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## MON 2 NOV · 12:00 · CAROUSEL 5 slides · Three people who will ask you for a turnaround
+**PixFix styling.** Library assets only. One character: Brenda Fftt. **Cover says three — slides
+2, 3, 4.** The three uses are the order page's own: animators, modelers, merch printers.
+
+| Slide | Picture | Text |
+|---|---|---|
+| 1 | `studio-canon/brenda-fftt/master-reference-62af97ba.png` | THREE PEOPLE WHO WILL ASK YOU FOR A TURNAROUND |
+| 2 | `studio-canon/brenda-fftt/three-quarter-left-16bb3868.png` | An animator. Every frame in between sits between two angles, and both of them have to be the same character. |
+| 3 | `studio-canon/brenda-fftt/front-0753b9b0.png` + `studio-canon/brenda-fftt/left-profile-911b3c8a.png` + `studio-canon/brenda-fftt/rear-6620c7cb.png` | A 3D modeler. Front, side and back are what a model gets built from. Leave one out and they guess. |
+| 4 | `studio-canon/brenda-fftt/rear-three-quarter-right-24baef75.png` | A merch printer. Clean edges on a transparent background, so the art goes on the shirt without a box around it. |
+| 5 | All eight `studio-canon/brenda-fftt/` angle files as one sheet | One set covers all three. Nine files, no watermark, from $129. |
+
+**CAPTION (Facebook)**
+```
+Make a character people like, and sooner or later somebody asks for a turnaround.
+
+An animator, because every frame in between has to be the same character. A 3D modeler, because a model gets built from the front, the side and the back. A merch printer, because the art has to come off a transparent background clean.
+
+One PixFix set covers all three.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## TUE 3 NOV · 17:00 · STATIC · Three views from behind
+**PixFix styling.** Library assets only. Three plates in a row:
+`studio-canon/bree/rear-three-quarter-left-6d481597.png`, `studio-canon/bree/rear-e0c463b2.png`,
+`studio-canon/bree/rear-three-quarter-right-26397dac.png`.
+
+**HEADLINE:** THREE VIEWS<br>FROM BEHIND.
+
+**CAPTION (Facebook)**
+```
+Three of the eight angles in every set are from behind: the rear, and a rear three-quarter on each side.
+
+That is not padding. A character spends a lot of a story walking away, turning back, or standing with their back to the camera, and those are the frames people get wrong.
+
+Nine files. No watermark. From $129.
+
+Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## WED 4 NOV · 18:00 · REEL · The test is the turn
+**PixFix styling.** Library assets only, no generation. **This reel SPEAKS** — narrator picked at
+random by `content-kit/pixfix/say.mjs`. One character the whole way: MAX.
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–4s | `studio-canon/max/front-d30d2e03.png` | FRONT | `Anyone can get a good front view.` |
+| 4–11s | `studio-canon/max/three-quarter-right-30eed718.png` → `studio-canon/max/right-profile-5415ed40.png` | *(nothing — the voice carries it)* | `The test is the turn. Does the face survive the three-quarter and the profile?` |
+| 11–16s | `studio-canon/max/rear-three-quarter-right-aa397940.png` → `studio-canon/max/rear-bc6c49f4.png` | ALL THE WAY AROUND | `Then all the way around to the back.` |
+| 16–20s | All eight `studio-canon/max/` angle files as one sheet | 8 ANGLES · 9 FILES | `Eight angles, one character, and no watermark.` |
+| 20–24s | PixFix brand card | FROM $129 · PIXFIXSTUDIO.COM | `From a hundred and twenty-nine dollars.` |
+
+**42 spoken words · 24s allows 55.** Beat by beat 7 / 14 / 8 / 7 / 6 against budgets of
+9.2 / 16.1 / 11.5 / 9.2 / 9.2.
+
+**CAPTION (Facebook)**
+```
+Anyone can get one good front view of a character.
+
+The test is the turn — whether the face survives the three-quarter and the profile, and whether the back still belongs to the same character.
+
+Eight angles, one character, all the way around. Nine files, no watermark.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## THU 5 NOV · 12:00 · CAROUSEL 5 slides · What to send us
+**PixFix styling.** Library assets only. One character: Bea Mercer. **Cover says three — slides 2,
+3, 4.** Every requirement is the order page's own intake check.
+
+| Slide | Picture | Text |
+|---|---|---|
+| 1 | `studio-canon/bea-mercer/master-reference-ad82bd25.png` | WHAT TO SEND US: THREE THINGS |
+| 2 | `studio-canon/bea-mercer/master-reference-ad82bd25.png` | Full body, head to feet. The angles are built from what is in the picture, so nothing should be cropped off. |
+| 3 | `studio-canon/bea-mercer/front-21aaaa5e.png` on a checkerboard | A transparent PNG. The background cut out, not white. |
+| 4 | `studio-canon/bea-mercer/three-quarter-left-608090c3.png` | A little room around the edges, and at least 768 pixels on each side. |
+| 5 | `studio-canon/bea-mercer/front-21aaaa5e.png` | The order page checks all three before you pay. Nine files back, no watermark, from $129. |
+
+**CAPTION (Facebook)**
+```
+Here is everything we need from you.
+
+One picture of your character, full body, head to feet. On a transparent background, not white. A little room around the edges, and at least 768 pixels on each side.
+
+The order page checks all of that before you pay, so there are no surprises after checkout.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## FRI 6 NOV · 17:00 · STATIC · Turnaround of the week — the other profile
+**PixFix styling.** Library assets only. `studio-canon/kitt/right-profile-260ba1fa.png`
+(KITT — right profile), full bleed.
+
+**HEADLINE:** NOT THE LEFT<br>ONE FLIPPED.
+
+**CAPTION (Facebook)**
+```
+Every set has two profiles, and they are not one picture flipped.
+
+Flip a profile and everything that sits on one side of the character jumps to the other — a part in the hair, a pocket, a strap, a mark. So the right profile gets built as the right profile.
+
+This is Kitt, facing right.
 
 Nine files. No watermark. From $129.
 

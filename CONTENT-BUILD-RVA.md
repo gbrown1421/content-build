@@ -1201,7 +1201,8 @@ We check Richmond fares every morning: https://rvacheapflights.com/deals
 ---
 
 ## FRI 23 OCT · 17:30 · LOCAL IDENTITY — The parking you can actually afford
-RIC parking lot at dusk, navy sky, orange terminal glow. No fares anywhere.
+**Navy type card, orange rule — no photograph.** The library holds no RIC photography (only the
+92 destination heroes), so the headline carries the card. No fares anywhere.
 
 **HEADLINE:** YOU CAN PARK<br>AND WALK IN.
 
@@ -1219,19 +1220,27 @@ We check Richmond fares every morning: https://rvacheapflights.com/deals
 
 ---
 
-## SAT 24 OCT · 10:00 · ROUTE CHECK — Denver before the snow
+★ **SUNDAY REVIEW 2026-10-23 — entries 24 Oct to 6 Nov.** Rewritten from here down. Every photo is a
+named file from the 92 destination heroes (`rva/heroes/…`), the only RVA photography in
+`media_assets`. Cards with no photo say **Navy type card** — a designed card, not a missing photo.
+Seasonal lines are verbatim from `DESTINATION-LINES.md`. No fares, no flight times, no nonstop
+claims: none of those were verified this run. The earlier 24 Oct (Denver) and 25 Oct (December)
+entries were replaced. They described photos the library does not hold, and they made fare-timing
+and nonstop claims nobody had checked.
+
+## SAT 24 OCT · 10:00 · ROUTE CHECK — Las Vegas, now that the heat broke
 ★ Route Check holds the Saturday 10:00 slot. No fare anywhere.
 
-**Picture:** DEN_FAL hero.
-**HEADLINE:** DENVER<br>BEFORE THE SNOW
+**Picture:** `rva/heroes/LAS_FAL_outdoor dining.jpg`
+**HEADLINE:** VEGAS<br>WITHOUT THE HEAT
 
 **CAPTION (Facebook)**
 ```
-Late October is the narrow window where Denver is still a hiking city and not yet a ski city.
+Vegas is the sweet spot in the fall. The desert heat breaks: warm days, cool nights.
 
-The mountains are open, the town is not full, and the prices have not done the thing they do the moment the first resort announces an opening date.
+That is the version of Las Vegas worth flying to — the one where you can walk the Strip in the afternoon and eat outside after dark without it feeling like an endurance event.
 
-It is a direct flight from Richmond, which makes a long weekend genuinely a long weekend rather than two travel days with a gap in the middle.
+We track 23 destinations out of Richmond, Vegas included, and every fare gets graded before it goes out.
 
 We check Richmond fares every morning: https://rvacheapflights.com/deals
 ```
@@ -1239,23 +1248,340 @@ We check Richmond fares every morning: https://rvacheapflights.com/deals
 
 ---
 
-## SUN 25 OCT · 19:00 · CAROUSEL 4 cards — December is quietly filling up
-Navy cards, orange rule. No fares anywhere. **No painted buttons.**
+## SUN 25 OCT · 19:00 · CAROUSEL 6 cards — Four places December is actually good
+Navy cards, orange rule. No fares anywhere. **No painted buttons.** **Cover says four — cards 2–5.**
 
 | Card | Picture | Text |
 |---|---|---|
-| 1 | RIC departures board, evening | DECEMBER IS CLOSER THAN IT LOOKS |
-| 2 | Calendar, December weeks marked | The two weeks before Christmas price like a holiday because they are one. |
-| 3 | Quiet terminal, early morning | The first week of December is the cheapest week of the month and nobody flies it. |
-| 4 | RVA brand card | We watch RIC every morning and send the ones worth taking. |
+| 1 | Navy type card | FOUR PLACES DECEMBER IS ACTUALLY GOOD |
+| 2 | `rva/heroes/JFK_WIN_christmas-tree.jpg` | New York is the holiday windows in December. Then a quiet, easier January. |
+| 3 | `rva/heroes/MIA_WIN_vizcaya-gardens.jpg` | Winter is why people go to Miami. Dry, sunny, mid-seventies, and Art Basel in early December. |
+| 4 | `rva/heroes/LHR_WIN_winter-wonderland.jpg` | London is short days and bright lights in winter. West End shows, and pubs with fires. |
+| 5 | `rva/heroes/CUN_WIN_mayan-riviera-sunset.jpg` | Winter is Cancún's best weather. Dry, sunny, low eighties, and the sea is calm and clear. |
+| 6 | RVA brand card | We track 23 destinations out of Richmond and check them every morning. |
 
 **CAPTION (Facebook)**
 ```
-December has two completely different prices depending on which half of it you are in.
+December travel has a reputation, and most of it comes from the week before Christmas.
 
-The week before Christmas is a holiday fare and will not improve. The first week of the month is quiet, cheap, and the only version of December travel that is relaxing.
+Outside that week, a few places are at their best: New York for the windows, Miami for the weather, London for the lights, Cancún for the water.
 
-If the trip is flexible at all, it is worth looking at now rather than in five weeks.
+If one of these has been on the list, now is a good time to start watching it.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## MON 26 OCT · 07:30 · STORY POLL — THE WINDOW SEAT *(Instagram only)*
+
+- **Question:** Window to lean on, or aisle to escape?
+- **A:** Window · **B:** Aisle
+- **Background:** title **THE WINDOW SEAT**, line **Lean, or escape?**
+
+★ Posted by hand. GHL cannot post an Instagram Story.
+
+---
+
+## MON 26 OCT · 18:00 · REEL 30s — Destination review: Lisbon
+**RVA styling.** Segoe UI Black, RVA logo, navy/orange. Never the UGH font. No fare anywhere.
+**59 spoken words · 30s allows 69.**
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–8s | `rva/heroes/LIS_FAL_alfama.jpg` | LISBON | `Lisbon stays warm into October. The summer crowds are gone, and the light is at its best.` |
+| 8–15s | `rva/heroes/LIS_FAL_alfama.jpg`, slow pan | THE OLD TOWN, ON FOOT | `The old town is all hills and staircases. You see it by walking up it.` |
+| 15–23s | `rva/heroes/LIS_WIN_praca-comercio.jpg` | INTO WINTER | `Lisbon is mild and quiet in winter. The trams and the viewpoints are all yours.` |
+| 23–30s | RVA brand card | WE CHECK RIC EVERY MORNING | `It is one of twenty-three places we watch from Richmond, every morning.` |
+
+**CAPTION (Facebook)**
+```
+Lisbon stays warm into October. The summer crowds are gone, and the light is at its best.
+
+It is a city you see on foot, mostly uphill, one staircase and one viewpoint at a time. Then it goes mild and quiet for the winter, and the trams and the viewpoints are all yours.
+
+It is one of 23 destinations we watch from Richmond.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## TUE 27 OCT · 12:00 · CAROUSEL 6 cards — Four European cities before the holidays
+Navy cards, orange rule. No fares anywhere. **No painted buttons.** **Cover says four — cards 2–5.**
+
+| Card | Picture | Text |
+|---|---|---|
+| 1 | Navy type card | FOUR EUROPEAN CITIES BEFORE THE HOLIDAYS |
+| 2 | `rva/heroes/CDG_FAL_montmartre-autumn.jpg` | Paris turns cool and golden in the fall. The tourists thin out and the café heaters come on. |
+| 3 | `rva/heroes/FCO_FAL_vatican-gardens-fall.jpg` | Rome stays warm into October. The summer crowds are gone, and lunches get longer. |
+| 4 | `rva/heroes/DUB_FAL_trinity-college-library.jpg` | Dublin is cool and changeable in the fall. The summer crowds are gone and the pubs do the rest. |
+| 5 | `rva/heroes/LHR_FAL_hyde-park-autumn.jpg` | London is cool and crisp in the fall. The theaters and museums are in full season. |
+| 6 | RVA brand card | We track 23 destinations out of Richmond, these four included. |
+
+**CAPTION (Facebook)**
+```
+Late fall is the quiet stretch in Europe. The summer crowds have gone home and the holiday crowds have not arrived yet.
+
+Paris for the cafés, Rome for the long lunches, Dublin for the pubs, London for the theaters. None of them need good weather to be worth it.
+
+We track 23 destinations out of Richmond, these four included.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## WED 28 OCT · 19:00 · QUESTION POST — The last place you flew
+**Navy type card, orange rule — no photograph.** No fares anywhere.
+
+**HEADLINE:** WHERE DID YOU<br>LAST FLY TO?
+
+**CAPTION (Facebook)**
+```
+Quick one, because we are curious who is out there.
+
+Where was the last place you flew to out of Richmond? Not the dream trip — the actual last one, even if it was a work trip to somewhere with a convention center.
+
+Tell us below, and whether you would go back.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## THU 29 OCT · 12:30 · REEL 20s — Twenty-three places from RIC
+**RVA styling.** Segoe UI Black, RVA logo, navy/orange. Never the UGH font. No fare anywhere.
+**34 spoken words · 20s allows 46.**
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–4s | Navy type card | 23 PLACES FROM RIC | `We watch twenty-three destinations out of Richmond.` |
+| 4–8s | `rva/heroes/PUJ_FAL_indigenous-eyes.jpg` | BEACHES | `Beaches, from Punta Cana to Fort Myers.` |
+| 8–12s | `rva/heroes/ORD_FAL_riverwalk.jpg` | CITIES | `Big cities, from Chicago to Boston.` |
+| 12–16s | `rva/heroes/DUB_FAL_trinity-college-library.jpg` | EUROPE | `And Europe, from Dublin to Rome.` |
+| 16–20s | RVA brand card | CHECKED EVERY MORNING | `We check every one of them, every morning.` |
+
+**CAPTION (Facebook)**
+```
+Twenty-three destinations out of Richmond, and we check every one of them every morning.
+
+Beaches, from Punta Cana to Fort Myers. Big cities, from Chicago to Boston. Europe, from Dublin to Rome.
+
+When one of them drops to a fare worth taking, that is when you hear from us.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## FRI 30 OCT · 08:00 · STORY POLL — THE ARRIVAL *(Instagram only)*
+
+- **Question:** Cut it close at the airport, or get there with time to spare?
+- **A:** Cut it close · **B:** Time to spare
+- **Background:** title **THE ARRIVAL**, line **Close, or early?**
+
+★ Posted by hand. GHL cannot post an Instagram Story.
+
+---
+
+## FRI 30 OCT · 17:30 · LOCAL IDENTITY — Nobody minds picking you up
+**Navy type card, orange rule — no photograph.** No fares anywhere.
+
+**HEADLINE:** NOBODY MINDS<br>PICKING YOU UP.
+
+**CAPTION (Facebook)**
+```
+Ask someone for a ride to a big-city airport and you are asking for an afternoon.
+
+Ask for a ride to RIC and it is an errand. They drop you at the curb, they are home before you have finished your coffee at the gate, and on the way back they get a text and pull right up.
+
+It is a small thing that makes the whole trip easier, every single time.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## SAT 31 OCT · 10:00 · ROUTE CHECK — Orlando after the summer
+★ Route Check holds the Saturday 10:00 slot. No fare anywhere.
+
+**Picture:** `rva/heroes/MCO_FAL_food-wine-festival.jpg`
+**HEADLINE:** ORLANDO<br>AFTER SUMMER
+
+**CAPTION (Facebook)**
+```
+Orlando is warm in the fall, with shorter lines once school is back. The parks run their Halloween and holiday events.
+
+It is the version of the trip for people who want the parks without the heat that comes with them in July.
+
+We track 23 destinations out of Richmond, Orlando included.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## SUN 1 NOV · 19:00 · CAROUSEL 5 cards — Three ways to make Thanksgiving travel easier
+Navy cards, orange rule. No fares anywhere. **No painted buttons.** **Cover says three — cards 2–4.**
+
+| Card | Picture | Text |
+|---|---|---|
+| 1 | Navy type card | THREE WAYS TO MAKE THANKSGIVING TRAVEL EASIER |
+| 2 | Navy type card | Leave a day earlier than you planned. The day before Thanksgiving is the one everyone picks. |
+| 3 | Navy type card | Take the first flight out. Delays stack up through the day, and the early one has the fewest ahead of it. |
+| 4 | Navy type card | Bring only a carry-on if you can. Nothing about the holiday gets better at a bag carousel. |
+| 5 | RVA brand card | We check Richmond fares every morning. |
+
+**CAPTION (Facebook)**
+```
+Thanksgiving travel is mostly about not making the same plan as everyone else.
+
+Leave a day earlier than you think you need to. Take the first flight out, because it has the fewest delays stacked up ahead of it. Bring only a carry-on if you possibly can.
+
+None of it is a secret. It just works.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## MON 2 NOV · 07:30 · STORY POLL — THE THANKSGIVING TRIP *(Instagram only)*
+
+- **Question:** Thanksgiving this year: fly it, or drive it?
+- **A:** Fly · **B:** Drive
+- **Background:** title **THE THANKSGIVING TRIP**, line **Fly it, or drive it?**
+
+★ Posted by hand. GHL cannot post an Instagram Story.
+
+---
+
+## MON 2 NOV · 18:00 · REEL 30s — Destination review: Tampa
+**RVA styling.** Segoe UI Black, RVA logo, navy/orange. Never the UGH font. No fare anywhere.
+**60 spoken words · 30s allows 69.**
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–8s | `rva/heroes/TPA_FAL_seafood-festival-fall.jpg` | TAMPA | `Tampa is still beach weather in the fall. The Gulf stays warm, and the humidity eases by November.` |
+| 8–15s | `rva/heroes/TPA_FAL_seafood-festival-fall.jpg`, slow pan | THE BAY AND THE GULF | `The bay on one side, the beaches across the water, and good seafood in between.` |
+| 15–23s | `rva/heroes/TPA_WIN_ybor-city-winter.jpg` | INTO WINTER | `Tampa is dry and sunny in winter. The Gulf beaches are quiet and wide open.` |
+| 23–30s | RVA brand card | WE CHECK RIC EVERY MORNING | `It is one of twenty-three places we watch from Richmond, every morning.` |
+
+**CAPTION (Facebook)**
+```
+Tampa is still beach weather in the fall. The Gulf stays warm, and the humidity eases by November.
+
+The bay on one side, the beaches across the water, good seafood in between. Then winter comes in dry and sunny, and the Gulf beaches are quiet and wide open.
+
+It is one of 23 destinations we watch from Richmond.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## TUE 3 NOV · 12:00 · CAROUSEL 6 cards — Four places to start 2027
+Navy cards, orange rule. No fares anywhere. **No painted buttons.** **Cover says four — cards 2–5.**
+
+| Card | Picture | Text |
+|---|---|---|
+| 1 | Navy type card | FOUR PLACES TO START 2027 |
+| 2 | `rva/heroes/BNA_WIN_opryland-lights.jpg` | Nashville is mild in winter by most standards. The music doesn't take the season off. |
+| 3 | `rva/heroes/LAS_WIN_sunny Strip promenade.jpg` | Vegas is cool and sunny in winter. The shows, the food and the lights don't care about the season. |
+| 4 | `rva/heroes/PUJ_WIN_punta-cana-golf.jpg` | Punta Cana is dry and breezy in winter. Low eighties, and the Caribbean at its best. |
+| 5 | `rva/heroes/CDG_WIN_cafe-de-flore.jpg` | Paris is gray, quiet and cozy in winter. Shorter museum lines, and holiday lights into January. |
+| 6 | RVA brand card | We track 23 destinations out of Richmond, these four included. |
+
+**CAPTION (Facebook)**
+```
+New Year's does not have to be a party you are tired of by ten o'clock.
+
+Nashville for the music, Vegas for the lights, Punta Cana for the warm water, Paris for a quiet, cozy start to the year.
+
+We track 23 destinations out of Richmond, these four included. If one of them is the plan, now is a good time to start watching it.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## WED 4 NOV · 19:00 · QUESTION POST — The airport ritual
+**Navy type card, orange rule — no photograph.** No fares anywhere.
+
+**HEADLINE:** WHAT IS YOUR<br>AIRPORT RITUAL?
+
+**CAPTION (Facebook)**
+```
+Everyone has one. The coffee from the same place. The bookstore you always walk through and never buy from. The same seat by the window at the gate.
+
+What is yours — the thing that makes it feel like a trip once you have done it?
+
+Tell us below.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## THU 5 NOV · 12:30 · REEL 20s — Where it is warm in January
+**RVA styling.** Segoe UI Black, RVA logo, navy/orange. Never the UGH font. No fare anywhere.
+**39 spoken words · 20s allows 46.** Lines are the winter entries in `DESTINATION-LINES.md`, cut down.
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–4s | Navy type card | WARM IN JANUARY | `Getting out in January? Here is where it is warm.` |
+| 4–8s | `rva/heroes/AUA_WIN_palm-beach.jpg` | ARUBA | `Aruba: dry, breezy, mid-eighties, and it barely rains.` |
+| 8–12s | `rva/heroes/MBJ_WIN_marine-park.jpg` | MONTEGO BAY | `Montego Bay has its best weather in winter.` |
+| 12–16s | `rva/heroes/FLL_WIN_boat-parade.jpg` | FORT LAUDERDALE | `Fort Lauderdale: mid-seventies, still warm enough to swim.` |
+| 16–20s | RVA brand card | CHECKED EVERY MORNING | `We check all three every morning.` |
+
+**CAPTION (Facebook)**
+```
+If January is the month you need to get out, here is where it is warm.
+
+Aruba is dry, breezy and in the mid-eighties, and it barely rains. Montego Bay has its best weather of the year. Fort Lauderdale sits in the mid-seventies, and the water is still warm enough to swim.
+
+All three are among the 23 destinations we watch from Richmond.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## FRI 6 NOV · 08:00 · STORY POLL — THE BOOKING *(Instagram only)*
+
+- **Question:** You found a fare you like. Book it now, or wait and see if it drops?
+- **A:** Book it now · **B:** Wait and watch
+- **Background:** title **THE BOOKING**, line **Now, or wait?**
+
+★ Posted by hand. GHL cannot post an Instagram Story.
+
+---
+
+## FRI 6 NOV · 17:30 · LOCAL IDENTITY — Somebody is flying in for this
+**Navy type card, orange rule — no photograph.** No fares anywhere.
+
+**HEADLINE:** SOMEBODY IS<br>FLYING IN FOR THIS.
+
+**CAPTION (Facebook)**
+```
+Early November in Richmond is the kind of fall other places put on postcards. The river, the trees along it, cool mornings and warm afternoons.
+
+So here is the strange part about running a page about leaving: some weekends, the best destination on the board is the one you already live in.
+
+Go outside this weekend. We will keep an eye on the fares.
 
 We check Richmond fares every morning: https://rvacheapflights.com/deals
 ```

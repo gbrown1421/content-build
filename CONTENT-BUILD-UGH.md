@@ -1260,19 +1260,21 @@ UGH happens. We still show up.
 
 ---
 
-## SAT 24 OCT · 11:00 · STATIC — The spot that was not a spot
-**Daily moment.** Real photographic person standing beside their car in a full lot, looking at a
-gap ahead of them that turns out to hold a small bollard. Orange band (Laugh Through It).
+## SAT 24 OCT · 11:00 · STATIC — The garage door that changed its mind
+**Daily moment.** Library asset, approved: `2026-09-17/b2cde0db-7047-42f5-88b3-fcc2002a26b6.png`
+("Garage Door Refuses to Close When You're Already Leaving"). Blue band (Grow Through It).
+*(Rewritten 2026-10-23 by the Sunday review: the earlier "pole in the parking spot" entry
+described a photograph the library does not hold.)*
 
-**HEADLINE:** THERE WAS<br>A POLE IN IT.
+**HEADLINE:** YOU WERE<br>ALREADY LATE.
 
 **CAPTION (Facebook)**
 ```
-You saw it from across the parking lot. You committed. You may have driven with some urgency to reach it.
+You were already running behind. You hit the button, backed out, and watched the door start down.
 
-There is a pole in it. There has always been a pole in it. From forty feet away, in the only angle available to you, the pole was invisible.
+Then it stopped halfway, thought about it, and went back up.
 
-You are now reversing out of a non-space in front of people. Saturday is going well.
+So now you are sitting in the driveway with the engine running, pressing a button on a schedule only the garage door understands.
 
 UGH happens. We still show up.
 ```
@@ -1280,27 +1282,282 @@ UGH happens. We still show up.
 
 ---
 
-## SUN 25 OCT · 09:00 · UGH TAILS EP 011 — POSTER
-★ **NOT READY — EP 011 DOES NOT EXIST, AND NEITHER DO 009 OR 010.** Built episodes stop at EP 008.
-**Do not build or book this row** — set `assigned_to = 'glenn'` and hand it over.
+★ **SUNDAY REVIEW 2026-10-23 — EPISODES 009–012 ALL EXIST.** The "NOT READY / does not exist"
+notes above are stale. Rendered on disk, checked 23 Oct:
+`OneDrive/UGH Tails - Series 1/UGH Tails_EP 0NN/UGH-Tails-Ep0NN-<TITLE>-NARRATED.mp4` for 009 THE
+LEASH, 010 THE STICK, 011 THE HICCUPS and 012 THE BUBBLES, with posters `UGH Tails_EP 0NN_POSTER_v1.png`
+in `UGH Tails_Poster Collection/`. EP 009 aired 11 Oct. **EP 010 never got its feed launch** (all
+three 18 Oct rows went `exception`), so the run is re-sequenced: **EP 010 on Sun 25 Oct, EP 011 on
+Sun 1 Nov, EP 012 (Series 1 finale) on Sun 8 Nov.** Episodes air in order because each end card
+names the next one.
 
-Copy is withheld rather than drafted, same as 009 and 010: a poster announcing an episode that will
-not land is the promise this file forbids. **This row cannot clear before 009 and 010 do.**
+## SUN 25 OCT · 09:00 · UGH TAILS EP 010 — POSTER
+**Collectible series poster.** Finalized plate:
+`OneDrive/UGH Tails - Series 1/UGH Tails_Poster Collection/UGH Tails_EP 010_POSTER_v1.png`.
+No CTA burned.
 
-**Held for release once the episode exists:** title THE HICCUPS, tagline
-*"Pip had a point to make. His diaphragm had notes."*
+**CAPTION (Facebook)**
+```
+UGH Tails — Episode 010. THE STICK.
+
+Tank found the perfect stick. It had infrastructure.
+
+Five o'clock today.
+```
+**IG last line:** `Episode 010 — THE STICK. Today at five.`
 
 ---
 
-## SUN 25 OCT · 12:00 · UGH TAILS EP 011 — EPISODE ANNOUNCEMENT
-★ **NOT READY — depends on EP 011.** See 09:00 above. Do not build or book.
+## SUN 25 OCT · 12:00 · UGH TAILS EP 010 — EPISODE ANNOUNCEMENT
+Frame from the episode: `OneDrive/UGH Tails - Series 1/UGH Tails_EP 010/02 — The Find.png`.
+Blue band (Grow Through It). No CTA burned.
+
+**HEADLINE:** THE STICK<br>TODAY AT FIVE
+
+**CAPTION (Facebook)**
+```
+Episode 010 of UGH Tails lands at five o'clock today.
+
+THE STICK. Tank found the perfect stick. It had infrastructure.
+
+The park was full of reasonable sticks. Tank did not want a reasonable stick.
+```
+**IG last line:** `Episode 010 — THE STICK. Today at five.`
 
 ---
 
-## SUN 25 OCT · 17:00 · UGH TAILS EP 011 — REEL
-★ **NOT READY — depends on EP 011.** See 09:00 above. Do not build or book.
-When it is built, the end card names EP 012 — the Series 1 finale. Per the slate, EP 012 is
-**Sun 1 Nov**, then one Sunday dark, then Series 2 opens **Sun 15 Nov**.
+## SUN 25 OCT · 17:00 · UGH TAILS EP 010 — REEL
+**The episode.** `UGH-Tails-Ep010-THE-STICK-NARRATED.mp4` in
+`OneDrive/UGH Tails - Series 1/UGH Tails_EP 010/`. No overlay, no CTA burned — the episode carries
+its own end cards. **No SFX.**
+★ End card names EP 011 = THE HICCUPS, *"Pip had a point to make. His diaphragm had notes."*
+
+**CAPTION (Facebook)**
+```
+UGH Tails — Episode 010. THE STICK.
+
+Tank found the perfect stick. It had infrastructure.
+
+It was four feet long, it hit every tree on the path, and Tank was not putting it down. Pip signs on as the second carrier. The park has opinions about the width.
+
+Next episode Sunday at five.
+```
+**IG last line:** `Next episode Sunday at five.`
+
+---
+
+## MON 26 OCT · 08:00 · STATIC — The chirp at three in the morning
+**Daily moment.** Library asset, approved: `2026-09-17/424c35d1-ba79-4265-924d-632adc3fadea.png`
+("Smoke Detector Chirping in the Middle of the Night"). Red band (Push Through It).
+
+**HEADLINE:** ONE CHIRP.<br>EVERY MINUTE.
+
+**CAPTION (Facebook)**
+```
+It is the middle of the night and the smoke detector has decided to tell you about its battery.
+
+Not an alarm. One chirp, then exactly enough silence for you to almost fall back asleep. Then another one.
+
+The battery is a nine-volt. Nobody owns a nine-volt. You are getting the step stool anyway.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## WED 28 OCT · 12:00 · ASK THE FEED — THE PUMP vs THE CARD
+**FB comment poll.** Photoreal A/B split card, orange divider. Library assets, approved:
+left `2026-09-17/d9b9d8ae-e734-498b-8bcc-a2041873bf2e.png` ("Gas Pump Is on the Wrong Side"),
+right `2026-09-17/f735e701-456a-44c3-8454-f4e9d24fe122.png` ("You Tried to Pay With the Wrong
+Card"). Letter **A** over the pump, letter **B** over the card.
+
+**HEADLINE:** WHICH ONE DID<br>YOU DO THIS WEEK?
+
+**Poll options:** `A — The wrong side` · `B — The wrong card`
+
+**CAPTION (Facebook)**
+```
+Be honest. Which one happened to you this week?
+
+A — you pulled up to the pump and the tank was on the other side. In your own car. Again.
+B — you paid with the wrong card and found out at the exact moment everyone was watching.
+
+Neither one is a big deal. Both of them feel like one for about a minute and a half.
+
+Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## FRI 30 OCT · 17:00 · REEL — Friday: the dog had other plans
+**Reactive UGH.** One library still, approved: `2026-09-17/5f63c902-34d1-4d4d-9b25-0f50b7fdf983.png`
+("Dog Got Loose at the Worst Time"), slow push and pan across the beats. Blue band (Grow Through It).
+No SFX. **REEL · Moment: 35 spoken words, 15.2s of voice at 2.3 w/s, inside the 40-word cap; 18s cut.**
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–4s | The still, slow push in | FIVE MINUTES TO LEAVE. | `You had five minutes to get out the door.` |
+| 4–13s | The still, slow pan | *nothing* | `Then the gate was open, and the dog was halfway down the street, having the best morning of its life.` |
+| 13–15s | The still, hold | THE DOG HAD OTHER PLANS. | *silence* |
+| 15–18s | UGH lockup | UGH. WE SHOW UP. | `UGH happens. We still show up.` |
+
+**CAPTION (Facebook)**
+```
+You had five minutes to get out the door. You were, against all odds, going to make it.
+
+Then the gate was open and the dog was halfway down the street, having the best morning of its life and absolutely not coming when called.
+
+You will be late. The dog will be fine. The dog is always fine.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SAT 31 OCT · 11:00 · STATIC — Everyone else got the memo
+**Daily moment.** Library asset, approved: `2026-09-15/afef0ada-81f3-4df0-9249-02a1999f87fa.png`
+("Forgot It Was Pajama Day"). Orange band (Laugh Through It).
+
+**HEADLINE:** EVERYONE ELSE<br>GOT THE MEMO.
+
+**CAPTION (Facebook)**
+```
+There was a theme. Everyone knew about the theme. It was in an email, or a flyer, or a group chat you muted in August.
+
+You are the one person dressed like it is a regular day, and there is no way to make that look intentional.
+
+Happy Halloween to everyone who found out at the door.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SUN 1 NOV · 09:00 · UGH TAILS EP 011 — POSTER
+**Collectible series poster.** Finalized plate:
+`OneDrive/UGH Tails - Series 1/UGH Tails_Poster Collection/UGH Tails_EP 011_POSTER_v1.png`.
+No CTA burned.
+
+**CAPTION (Facebook)**
+```
+UGH Tails — Episode 011. THE HICCUPS.
+
+Pip had a point to make. His diaphragm had notes.
+
+Five o'clock today.
+```
+**IG last line:** `Episode 011 — THE HICCUPS. Today at five.`
+
+---
+
+## SUN 1 NOV · 12:00 · UGH TAILS EP 011 — EPISODE ANNOUNCEMENT
+Frame from the episode: `OneDrive/UGH Tails - Series 1/UGH Tails_EP 011/02 — As I Was Saying.png`.
+Orange band (Laugh Through It). No CTA burned.
+
+**HEADLINE:** THE HICCUPS<br>TODAY AT FIVE
+
+**CAPTION (Facebook)**
+```
+Episode 011 of UGH Tails lands at five o'clock today.
+
+THE HICCUPS. Pip had a point to make. His diaphragm had notes.
+
+Pip was in the middle of explaining something important. Tank has appointed himself the expert.
+```
+**IG last line:** `Episode 011 — THE HICCUPS. Today at five.`
+
+---
+
+## SUN 1 NOV · 17:00 · UGH TAILS EP 011 — REEL
+**The episode.** `UGH-Tails-Ep011-THE-HICCUPS-NARRATED.mp4` in
+`OneDrive/UGH Tails - Series 1/UGH Tails_EP 011/`. No overlay, no CTA burned — the episode carries
+its own end cards. **No SFX.**
+★ End card names EP 012 = THE BUBBLES, *"Same bubbles. Three completely different plans."*
+
+**CAPTION (Facebook)**
+```
+UGH Tails — Episode 011. THE HICCUPS.
+
+Pip had a point to make. His diaphragm had notes.
+
+He was halfway through explaining a new system for his satchel when the hiccups arrived. Tank appointed himself the expert. Mabel recommended time. Tank did not consider time a technique.
+
+Next Sunday at five: THE BUBBLES, the Series 1 finale.
+```
+**IG last line:** `Next Sunday at five: THE BUBBLES, the Series 1 finale.`
+
+---
+
+## MON 2 NOV · 08:00 · STATIC — The badge is on the counter
+**Daily moment.** Library asset, approved: `2026-09-17/7db4b16a-a12e-45bb-8825-5494bb7b1a27.png`
+("Office Badge Left at Home"). Red band (Push Through It).
+
+**HEADLINE:** THE BADGE IS<br>ON THE COUNTER.
+
+**CAPTION (Facebook)**
+```
+The clocks changed this weekend, so your body thinks it is a different time and your brain is somewhere around Thursday.
+
+Which is how you made it all the way to the door before finding out the badge is on the kitchen counter. At home. Where you are not.
+
+Front desk, visitor sticker, a little photo of you taken just now. Good morning.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## WED 4 NOV · 12:00 · ASK THE FEED — THE SOCKS vs THE SLIPPERS
+**FB comment poll.** Photoreal A/B split card, orange divider. Library assets, approved:
+left `2026-09-15/20b9342d-21dd-4787-b71f-557f35a8c761.png` ("Locked Out in Socks"),
+right `2026-09-17/9922e98d-4c39-4b41-913b-252d351d51c1.png` ("Left the House in House Slippers").
+Letter **A** over the socks, letter **B** over the slippers.
+
+**HEADLINE:** WHICH ONE<br>IS WORSE?
+
+**Poll options:** `A — Locked out in socks` · `B — Out in your slippers`
+
+**CAPTION (Facebook)**
+```
+Two ways to end up outside with the wrong thing on your feet.
+
+A — the door clicked shut behind you, and you are on the porch in socks with no keys.
+B — you made it all the way to the store before noticing you are still in your house slippers.
+
+One of them gets you back inside faster. The other one gets you home with a little less dignity. Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## FRI 6 NOV · 17:00 · REEL — Friday: it said fragile
+**Reactive UGH.** One library still, approved: `2026-09-17/1ad9fa2a-104a-4c93-9a8e-e8b211239996.png`
+("Fragile Package Arrives Broken"), slow push and pan across the beats. Blue band (Grow Through It).
+No SFX. **REEL · Moment: 32 spoken words, 13.9s of voice at 2.3 w/s, inside the 40-word cap; 17s cut.**
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–4s | The still, slow push in | FRAGILE. | `It said fragile on every side of the box.` |
+| 4–12s | The still, slow pan | *nothing* | `You knew before you opened it. Every box has a sound, and this one sounded like pieces.` |
+| 12–14s | The still, hold | IT RATTLED. | *silence* |
+| 14–17s | UGH lockup | UGH. WE SHOW UP. | `UGH happens. We still show up.` |
+
+**CAPTION (Facebook)**
+```
+It said fragile on every side of the box. Somebody read that as a suggestion.
+
+You knew before you opened it. Every box has a sound, and this one sounded like pieces.
+
+Now it is a photo for the return, an email nobody will answer until Monday, and a week that ends exactly the way it started.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
 
 ---
 
