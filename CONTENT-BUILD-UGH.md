@@ -1561,6 +1561,88 @@ UGH happens. We still show up.
 
 ---
 
+★ **SUNDAY REVIEW 2026-10-25 — entries 7 and 8 Nov.** EP 012 files checked on disk 25 Oct:
+`UGH-Tails-Ep012-THE-BUBBLES-NARRATED.mp4` (31,081,531 bytes), `UGH Tails_EP 012_POSTER_v1.png`
+(2,297,537 bytes), and frame `11 — Different Plans.png`. EP 012 is the Series 1 finale; its end
+card is the locked YouTube CTA, not a next-episode card, so no caption promises an EP 013 or a date.
+
+## SAT 7 NOV · 11:00 · STATIC — The dishwasher nobody ran
+**Daily moment.** Library asset, approved: `2026-09-17/e61dadae-c2b8-47b6-9964-1e08d400214d.png`
+("Dishwasher Is Full of Dirty Dishes Right Before Guests Arrive"; pool slug
+`dishwasher-is-full-of-dirty-dishes-right-before-guests-arrive`). Viewed 25 Oct: host bent over the
+open dishwasher, hand to forehead, guests already talking in the dining room behind her. Red band
+(Push Through It).
+
+**HEADLINE:** THEY ARE<br>ALREADY HERE.
+
+**CAPTION (Facebook)**
+```
+The table is set. The flowers are out. The guests are already in the dining room with a drink.
+
+Then you open the dishwasher for the serving plates and find out nobody ever ran it.
+
+So now you are hand-washing four plates at the sink, smiling over your shoulder, and saying "two minutes" like you mean it.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SUN 8 NOV · 09:00 · UGH TAILS EP 012 — POSTER
+**Collectible series poster.** Finalized plate:
+`OneDrive/UGH Tails - Series 1/UGH Tails_Poster Collection/UGH Tails_EP 012_POSTER_v1.png`.
+No CTA burned.
+
+**CAPTION (Facebook)**
+```
+UGH Tails — Episode 012. THE BUBBLES. The Series 1 finale.
+
+Same bubbles. Three completely different plans.
+
+Five o'clock today.
+```
+**IG last line:** `Episode 012 — THE BUBBLES. Today at five.`
+
+---
+
+## SUN 8 NOV · 12:00 · UGH TAILS EP 012 — EPISODE ANNOUNCEMENT
+Frame from the episode: `OneDrive/UGH Tails - Series 1/UGH Tails_EP 012/11 — Different Plans.png`.
+Purple band (Express Yourself, the episode's primary Pathway). No CTA burned.
+
+**HEADLINE:** THE BUBBLES<br>TODAY AT FIVE
+
+**CAPTION (Facebook)**
+```
+The Series 1 finale of UGH Tails lands at five o'clock today.
+
+THE BUBBLES. Same bubbles. Three completely different plans.
+
+Pip found a bubble machine on the patio. Tank found a target. Mabel found a sunny spot and stayed in it.
+```
+**IG last line:** `Episode 012 — THE BUBBLES. Today at five.`
+
+---
+
+## SUN 8 NOV · 17:00 · UGH TAILS EP 012 — REEL
+**The episode.** `UGH-Tails-Ep012-THE-BUBBLES-NARRATED.mp4` in
+`OneDrive/UGH Tails - Series 1/UGH Tails_EP 012/`. No overlay, no CTA burned — the episode carries
+its own end cards (Pathway Vote, then the YouTube CTA). **No SFX.**
+
+**CAPTION (Facebook)**
+```
+UGH Tails — Episode 012. THE BUBBLES. The Series 1 finale.
+
+Same bubbles. Three completely different plans.
+
+Tank jumped at every one. Pip tried to predict where they would go. Mabel did nothing at all, and a bubble landed right on her nose.
+
+That is all twelve episodes of Series 1. Thank you for watching it with us.
+```
+**IG last line:** `That is all twelve episodes of Series 1. Thank you for watching it with us.`
+
+---
+
 ## Open — needs Glenn
 
 1. **OpenAI key for `fable`** — the only thing between Meet Pip and Friday 08:00.

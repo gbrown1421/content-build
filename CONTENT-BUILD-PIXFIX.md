@@ -1521,6 +1521,56 @@ Order: https://pixfixstudio.com/order.html
 
 ---
 
+★ **SUNDAY REVIEW 2026-10-25 — entries 7 and 8 Nov.** Same facts as the 23 Oct block above, and
+nothing new claimed. "A set is built from one picture" is the order page's single-master intake.
+
+## SAT 7 NOV · 12:00 · COMMENT POLL · One outfit or a whole closet?
+**FB comment poll.** PixFix styling, A/B split card on white.
+
+**Card:** TYPE ONLY. PixFix white, split down the middle with the PixFix rule. Left half: letter
+**A** above **ONE OUTFIT, ALWAYS**. Right half: letter **B** above **A WHOLE CLOSET**. Nothing
+else on the card.
+
+**Poll options:** `A — One outfit, always` · `B — A whole closet`
+
+**CAPTION (Facebook)**
+```
+Quick question about your character's wardrobe.
+
+A — they wear the same thing in every scene. It is part of who they are.
+B — they change. Different outfits for different chapters, seasons or moods.
+
+Either way, a turnaround is built from one picture, so it covers the outfit in that picture from every side. Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## SUN 8 NOV · 17:00 · STATIC · Turnaround of the week — the bow on the back
+**PixFix styling.** Library assets only.
+`studio-canon/gertie-gumdrop/rear-three-quarter-left-578d3863.png` (Gertie Gumdrop — rear three
+quarter left), full bleed. Checked 25 Oct against the content-kit copy of the same set: from the
+front, the apron bow is a corner showing at her hip; from behind, the red bow fills the back,
+with the tray in her left hand and the order pad in her right in both views.
+
+**HEADLINE:** THE BOW IS<br>ON THE BACK.
+
+**CAPTION (Facebook)**
+```
+From the front, the red bow on Gertie Gumdrop's apron is a corner peeking out at her hip. From behind, it is the whole picture.
+
+And the tray is still in her left hand, the order pad still in her right. Turn a character around and every one of those details has to land where it belongs.
+
+This is Gertie at rear three-quarter left.
+
+Nine files. No watermark. From $129.
+
+Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
 ## Open — needs Glenn
 
 1. **Delete the Wed "winner delivered" post** from PixFix FB and IG. It states a winner who does

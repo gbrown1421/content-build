@@ -1589,6 +1589,56 @@ We check Richmond fares every morning: https://rvacheapflights.com/deals
 
 ---
 
+★ **SUNDAY REVIEW 2026-10-25 — entries 7 and 8 Nov.** Every picture is a named file in
+`media_assets`, viewed 25 Oct. Lines are `DESTINATION-LINES.md`, verbatim or cut down. No fares
+anywhere. `DEN_WIN_union-station.jpg` was considered and left out: its sign renders as garbled
+lettering.
+
+## SAT 7 NOV · 10:00 · ROUTE CHECK — Fort Myers in November
+★ Route Check holds the Saturday 10:00 slot. No fare anywhere.
+
+**Picture:** `rva/heroes/RSW_FAL_coconut-point-park.jpg`
+**HEADLINE:** FORT MYERS<br>IN NOVEMBER
+
+**CAPTION (Facebook)**
+```
+Fort Myers is quiet in the fall. Warm Gulf water, empty beaches, and the humidity eases by November.
+
+It is the stretch between summer and the winter crowds, when the water is still warm and there is room on the beach.
+
+We track 23 destinations out of Richmond, Fort Myers included.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## SUN 8 NOV · 19:00 · CAROUSEL 5 cards — Three city weekends for the winter
+Navy cards, orange rule. No fares anywhere. **No painted buttons.** **Cover says three — cards 2–4.**
+
+| Card | Picture | Text |
+|---|---|---|
+| 1 | Navy type card | THREE CITY WEEKENDS FOR THE WINTER |
+| 2 | `rva/heroes/BOS_WIN_faneuil-hall.jpg` | Boston goes indoors in winter. Museums, oyster bars and North End kitchens carry the season. |
+| 3 | `rva/heroes/ORD_WIN_market-winter.jpg` | Chicago goes indoors in winter. Museums, jazz clubs and deep-dish carry the cold months. |
+| 4 | `rva/heroes/CHS_WIN_Festive Charleston promenade.jpg` | Charleston is mild and quiet in winter. High fifties, short lines, and peak oyster season. |
+| 5 | RVA brand card | We track 23 destinations out of Richmond, these three included. |
+
+**CAPTION (Facebook)**
+```
+Not every winter trip has to be a beach.
+
+Boston for the museums and the North End, Chicago for the jazz clubs and the deep-dish, Charleston for the mild weather and peak oyster season.
+
+We track 23 destinations out of Richmond, these three included. If one of them is the plan, now is a good time to start watching it.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
 ## Open — needs Glenn
 
 1. **The newsletter subscribe URL.** It appears in every destination review. Not inventing one — `rvacheapflights.com/deals` is the deals page, not a signup.
