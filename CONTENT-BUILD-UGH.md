@@ -1289,29 +1289,27 @@ LEASH, 010 THE STICK, 011 THE HICCUPS and 012 THE BUBBLES, with posters `UGH Tai
 in `UGH Tails_Poster Collection/`. EP 009 aired 11 Oct. **EP 010 never got its feed launch** (all
 three 18 Oct rows went `exception`).
 
-★ **OPEN — NEEDS GLENN. THE RE-SEQUENCE BELOW WAS NEVER AUTHORIZED. DO NOT ACT ON IT.**
+★ **SETTLED BY GLENN, 2026-10-25. THE SERIES IS BACK ON THE AUTHORIZED SUNDAY CADENCE.**
 
-Until 2026-10-25 these lines read: *"so the run is re-sequenced: EP 010 on Sun 25 Oct, EP 011
-on Sun 1 Nov, EP 012 (Series 1 finale) on Sun 8 Nov."* **A session wrote that. Glenn did not.**
-He said so on 2026-10-25: *"the schedule for UGH Tails did not slip a week... I did not
-authorize changing the schedule."*
+*"the post for EP 011 correctly scheduled for 11/01, reschedule it for right now. Then everything
+for next week will be EP 012."* So: **EP 011 airs Sun 25 Oct tonight, EP 012 (Series 1 finale)
+airs Sun 1 Nov.** Nothing runs on 8 Nov.
 
-It was written by the Sunday-review run of **Fri 23 Oct 15:15 ET** (`content-build` commit
-`5c190c2`), which also created the moved calendar rows at `2026-10-23 19:11:40Z`. The 25 Oct
-review then extended the horizon on top of it and created the EP 012 rows on 8 Nov.
+**What this corrects.** The Sunday-review run of Fri 23 Oct 15:15 ET (`content-build` commit
+`5c190c2`) re-sequenced Series 1 on its own authority — EP 010 onto 25 Oct, EP 011 to 1 Nov,
+EP 012 to 8 Nov — and wrote that here as settled fact. It also created the moved calendar rows at
+`2026-10-23 19:11:40Z`, and the 25 Oct review extended the horizon on top of it. Glenn did not
+authorize any of it: *"the schedule for UGH Tails did not slip a week... I did not authorize
+changing the schedule."*
 
-**Charter §2d already forbade it:** *"A SLOT MORE THAN 2 HOURS PAST IS DEAD AND GONE... Do not
+**Charter §2d already forbade it:** *"A SLOT MORE THAN 2 HOURS PAST IS DEAD AND GONE. Do not
 rebuild it, do not re-date it."* EP 010's three 18 Oct rows were dead. Re-dating EP 010 onto the
-25 Oct Sunday is the exact action that rule names, and it cost the slot that belonged to EP 011.
+25 Oct Sunday spent the slot that belonged to EP 011 — which is why 25 Oct aired EP 010.
 
 **The authorized cadence is SUNDAY, unbroken since EP 003 on 30 Aug** — 09:00 poster, 12:00
-announcement, 17:00 reel. By that cadence: 008 · 4 Oct · aired. 009 · 11 Oct · aired. 010 ·
-18 Oct · **missed, dead**. 011 · **25 Oct**. 012 · **1 Nov**, Series 1 finale.
-
-**What actually went out on 25 Oct was EP 010**, and EP 011 is booked in GHL for 1 Nov with
-EP 012 planned for 8 Nov. Nothing further moves until Glenn rules. The question he has to settle
-is which Sunday the finale lands on, because 25 Oct is spent and each end card names the next
-episode, so the order cannot be rearranged.
+announcement, 17:00 reel. 008 · 4 Oct · aired. 009 · 11 Oct · aired. 010 · 18 Oct · **missed,
+dead** — and it then took the 25 Oct slot it should not have. 011 · **25 Oct, tonight**. 012 ·
+**1 Nov**, Series 1 finale.
 
 ## SUN 25 OCT · 09:00 · UGH TAILS EP 010 — POSTER
 **Collectible series poster.** Finalized plate:
@@ -1366,6 +1364,40 @@ Next episode Sunday at five.
 ```
 **IG last line:** `Next episode Sunday at five.`
 
+## SUN 25 OCT · 19:55 · UGH TAILS EP 011 — REEL  *(rescheduled off 1 Nov by Glenn)*
+★ **GLENN, 2026-10-25:** *"the post for EP 011 correctly scheduled for 11/01, reschedule it for
+right now. Then everything for next week will be EP 012."* This puts Series 1 back on the
+authorized Sunday cadence: EP 011 tonight, **EP 012 (finale) on Sun 1 Nov**.
+
+**The episode.** `UGH-Tails-Ep011-THE-HICCUPS-NARRATED.mp4` in
+`OneDrive/UGH Tails - Series 1/UGH Tails_EP 011/`. No overlay, no CTA burned — the episode
+carries its own end cards. **No SFX** except the five hiccup cues already cut into the master.
+Already rendered and in the publish bucket as
+`booked/22464eb1-2028-4ea8-8b12-4af4d2c4206f/1792786336392-ugh-tails-ep011-reel.mp4`, so this is
+a RE-BOOK, not a rebuild.
+
+**CAPTION (Facebook)** — unchanged from the 1 Nov entry, and it is still true tonight: airing on
+Sun 25 Oct makes "next Sunday" 1 Nov, which is exactly where EP 012 now sits.
+```
+UGH Tails — Episode 011. THE HICCUPS.
+
+Pip had a point to make. His diaphragm had notes.
+
+He was halfway through explaining a new system for his satchel when the hiccups arrived. Tank appointed himself the expert. Mabel recommended time. Tank did not consider time a technique.
+
+Next Sunday at five: THE BUBBLES, the Series 1 finale.
+```
+**IG last line:** `Episode 011 — THE HICCUPS.`
+
+★ **THE POSTER AND THE ANNOUNCEMENT DO NOT RUN.** Both were written as teasers — "Five o'clock
+today" / "lands at five o'clock today" — and five o'clock today was spent on EP 010. A caption
+may only promise a thing that exists, so neither can go out tonight as written. **OPEN — NEEDS
+GLENN:** the EP 011 collectible poster is part of a set ([[collectible-poster-system]]) and
+dropping it leaves a hole in the collection. It could run on its own on Mon 26 Oct with the
+teaser line cut. Not done either way until Glenn says.
+
+---
+
 ---
 
 ## MON 26 OCT · 08:00 · STATIC — The chirp at three in the morning
@@ -1411,108 +1443,6 @@ Comment A or B.
 ```
 **IG last line:** `Comment A or B.`
 
----
-
-## FRI 30 OCT · 17:00 · REEL — Friday: the dog had other plans
-**Reactive UGH.** One library still, approved: `2026-09-17/5f63c902-34d1-4d4d-9b25-0f50b7fdf983.png`
-("Dog Got Loose at the Worst Time"), slow push and pan across the beats. Blue band (Grow Through It).
-No SFX. **REEL · Moment: 35 spoken words, 15.2s of voice at 2.3 w/s, inside the 40-word cap; 18s cut.**
-
-| Time | Picture | On screen | Say |
-|---|---|---|---|
-| 0–4s | The still, slow push in | FIVE MINUTES TO LEAVE. | `You had five minutes to get out the door.` |
-| 4–13s | The still, slow pan | *nothing* | `Then the gate was open, and the dog was halfway down the street, having the best morning of its life.` |
-| 13–15s | The still, hold | THE DOG HAD OTHER PLANS. | *silence* |
-| 15–18s | UGH lockup | UGH. WE SHOW UP. | `UGH happens. We still show up.` |
-
-**CAPTION (Facebook)**
-```
-You had five minutes to get out the door. You were, against all odds, going to make it.
-
-Then the gate was open and the dog was halfway down the street, having the best morning of its life and absolutely not coming when called.
-
-You will be late. The dog will be fine. The dog is always fine.
-
-UGH happens. We still show up.
-```
-**IG last line:** `UGH happens. We still show up.`
-
----
-
-## SAT 31 OCT · 11:00 · STATIC — Everyone else got the memo
-**Daily moment.** Library asset, approved: `2026-09-15/afef0ada-81f3-4df0-9249-02a1999f87fa.png`
-("Forgot It Was Pajama Day"). Orange band (Laugh Through It).
-
-**HEADLINE:** EVERYONE ELSE<br>GOT THE MEMO.
-
-**CAPTION (Facebook)**
-```
-There was a theme. Everyone knew about the theme. It was in an email, or a flyer, or a group chat you muted in August.
-
-You are the one person dressed like it is a regular day, and there is no way to make that look intentional.
-
-Happy Halloween to everyone who found out at the door.
-
-UGH happens. We still show up.
-```
-**IG last line:** `UGH happens. We still show up.`
-
----
-
-## SUN 1 NOV · 09:00 · UGH TAILS EP 011 — POSTER
-**Collectible series poster.** Finalized plate:
-`OneDrive/UGH Tails - Series 1/UGH Tails_Poster Collection/UGH Tails_EP 011_POSTER_v1.png`.
-No CTA burned.
-
-**CAPTION (Facebook)**
-```
-UGH Tails — Episode 011. THE HICCUPS.
-
-Pip had a point to make. His diaphragm had notes.
-
-Five o'clock today.
-```
-**IG last line:** `Episode 011 — THE HICCUPS. Today at five.`
-
----
-
-## SUN 1 NOV · 12:00 · UGH TAILS EP 011 — EPISODE ANNOUNCEMENT
-Frame from the episode: `OneDrive/UGH Tails - Series 1/UGH Tails_EP 011/02 — As I Was Saying.png`.
-Orange band (Laugh Through It). No CTA burned.
-
-**HEADLINE:** THE HICCUPS<br>TODAY AT FIVE
-
-**CAPTION (Facebook)**
-```
-Episode 011 of UGH Tails lands at five o'clock today.
-
-THE HICCUPS. Pip had a point to make. His diaphragm had notes.
-
-Pip was in the middle of explaining something important. Tank has appointed himself the expert.
-```
-**IG last line:** `Episode 011 — THE HICCUPS. Today at five.`
-
----
-
-## SUN 1 NOV · 17:00 · UGH TAILS EP 011 — REEL
-**The episode.** `UGH-Tails-Ep011-THE-HICCUPS-NARRATED.mp4` in
-`OneDrive/UGH Tails - Series 1/UGH Tails_EP 011/`. No overlay, no CTA burned — the episode carries
-its own end cards. **No SFX.**
-★ End card names EP 012 = THE BUBBLES, *"Same bubbles. Three completely different plans."*
-
-**CAPTION (Facebook)**
-```
-UGH Tails — Episode 011. THE HICCUPS.
-
-Pip had a point to make. His diaphragm had notes.
-
-He was halfway through explaining a new system for his satchel when the hiccups arrived. Tank appointed himself the expert. Mabel recommended time. Tank did not consider time a technique.
-
-Next Sunday at five: THE BUBBLES, the Series 1 finale.
-```
-**IG last line:** `Next Sunday at five: THE BUBBLES, the Series 1 finale.`
-
----
 
 ## MON 2 NOV · 08:00 · STATIC — The badge is on the counter
 **Daily moment.** Library asset, approved: `2026-09-17/7db4b16a-a12e-45bb-8825-5494bb7b1a27.png`
@@ -1611,7 +1541,7 @@ UGH happens. We still show up.
 
 ---
 
-## SUN 8 NOV · 09:00 · UGH TAILS EP 012 — POSTER
+## SUN 1 NOV · 09:00 · UGH TAILS EP 012 — POSTER
 **Collectible series poster.** Finalized plate:
 `OneDrive/UGH Tails - Series 1/UGH Tails_Poster Collection/UGH Tails_EP 012_POSTER_v1.png`.
 No CTA burned.
@@ -1628,7 +1558,7 @@ Five o'clock today.
 
 ---
 
-## SUN 8 NOV · 12:00 · UGH TAILS EP 012 — EPISODE ANNOUNCEMENT
+## SUN 1 NOV · 12:00 · UGH TAILS EP 012 — EPISODE ANNOUNCEMENT
 Frame from the episode: `OneDrive/UGH Tails - Series 1/UGH Tails_EP 012/11 — Different Plans.png`.
 Purple band (Express Yourself, the episode's primary Pathway). No CTA burned.
 
@@ -1646,7 +1576,7 @@ Pip found a bubble machine on the patio. Tank found a target. Mabel found a sunn
 
 ---
 
-## SUN 8 NOV · 17:00 · UGH TAILS EP 012 — REEL
+## SUN 1 NOV · 17:00 · UGH TAILS EP 012 — REEL
 **The episode.** `UGH-Tails-Ep012-THE-BUBBLES-NARRATED.mp4` in
 `OneDrive/UGH Tails - Series 1/UGH Tails_EP 012/`. No overlay, no CTA burned — the episode carries
 its own end cards (Pathway Vote, then the YouTube CTA). **No SFX.**
