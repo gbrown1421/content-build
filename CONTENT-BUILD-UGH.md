@@ -1287,9 +1287,31 @@ notes above are stale. Rendered on disk, checked 23 Oct:
 `OneDrive/UGH Tails - Series 1/UGH Tails_EP 0NN/UGH-Tails-Ep0NN-<TITLE>-NARRATED.mp4` for 009 THE
 LEASH, 010 THE STICK, 011 THE HICCUPS and 012 THE BUBBLES, with posters `UGH Tails_EP 0NN_POSTER_v1.png`
 in `UGH Tails_Poster Collection/`. EP 009 aired 11 Oct. **EP 010 never got its feed launch** (all
-three 18 Oct rows went `exception`), so the run is re-sequenced: **EP 010 on Sun 25 Oct, EP 011 on
-Sun 1 Nov, EP 012 (Series 1 finale) on Sun 8 Nov.** Episodes air in order because each end card
-names the next one.
+three 18 Oct rows went `exception`).
+
+★ **OPEN — NEEDS GLENN. THE RE-SEQUENCE BELOW WAS NEVER AUTHORIZED. DO NOT ACT ON IT.**
+
+Until 2026-10-25 these lines read: *"so the run is re-sequenced: EP 010 on Sun 25 Oct, EP 011
+on Sun 1 Nov, EP 012 (Series 1 finale) on Sun 8 Nov."* **A session wrote that. Glenn did not.**
+He said so on 2026-10-25: *"the schedule for UGH Tails did not slip a week... I did not
+authorize changing the schedule."*
+
+It was written by the Sunday-review run of **Fri 23 Oct 15:15 ET** (`content-build` commit
+`5c190c2`), which also created the moved calendar rows at `2026-10-23 19:11:40Z`. The 25 Oct
+review then extended the horizon on top of it and created the EP 012 rows on 8 Nov.
+
+**Charter §2d already forbade it:** *"A SLOT MORE THAN 2 HOURS PAST IS DEAD AND GONE... Do not
+rebuild it, do not re-date it."* EP 010's three 18 Oct rows were dead. Re-dating EP 010 onto the
+25 Oct Sunday is the exact action that rule names, and it cost the slot that belonged to EP 011.
+
+**The authorized cadence is SUNDAY, unbroken since EP 003 on 30 Aug** — 09:00 poster, 12:00
+announcement, 17:00 reel. By that cadence: 008 · 4 Oct · aired. 009 · 11 Oct · aired. 010 ·
+18 Oct · **missed, dead**. 011 · **25 Oct**. 012 · **1 Nov**, Series 1 finale.
+
+**What actually went out on 25 Oct was EP 010**, and EP 011 is booked in GHL for 1 Nov with
+EP 012 planned for 8 Nov. Nothing further moves until Glenn rules. The question he has to settle
+is which Sunday the finale lands on, because 25 Oct is spent and each end card names the next
+episode, so the order cannot be rearranged.
 
 ## SUN 25 OCT · 09:00 · UGH TAILS EP 010 — POSTER
 **Collectible series poster.** Finalized plate:
