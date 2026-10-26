@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-25T21:10:34Z",
-  "reportFile": "2026-10-25-1709.md",
-  "note": "0 claims. Quiet: scheduled runs only; no interactive messages in window."
+  "lastReview": "2026-10-26T01:14:02Z",
+  "reportFile": "2026-10-25-2109.md",
+  "note": "5 PASS / 3 FAIL. Charter 2c contradiction fixed 46b76200; builder/peer SKILL.md:36 still say copy is written by the interactive session."
 }
