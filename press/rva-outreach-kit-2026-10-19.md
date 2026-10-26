@@ -908,12 +908,39 @@ free, which is far easier than a yes to a partnership.
 
 ---
 
+## ★ WHAT THREE SENDS ACTUALLY RETURNED — read this before sending the rest
+
+Three went out on 20 Oct. All three are now resolved, and **all three gave the same answer**:
+
+| | outcome |
+|---|---|
+| Axios Richmond | silent six days |
+| Richmond BizSense | call held 22 Oct — *"keep me in mind and reach out if he had a need to"* |
+| Paige Poprocky | declined 26 Oct — *"not looking to pursue anything right now"* |
+
+**Nobody disputed the data.** Not one said the method was weak, the sample too short, or the
+numbers wrong. Every one said they have no current need. That is what "interesting but not useful
+to me today" sounds like, and it is a demand problem, not a credibility problem.
+
+★ **THE THREE THAT WENT OUT WERE ALL ONE-SHOT AWARENESS PLAYS. THE TWO STILL UNSENT ARE THE ONLY
+RECURRING DISTRIBUTION IN THIS KIT.** A reporter who keeps you in mind produces zero subscribers.
+A weekly section in RVAHub or The Richmonder carries a credit and a link every week, which is an
+actual channel. Those two have been written, approved and unsent since 20 Oct.
+
+**And Paige's reason points straight at them.** She already runs her own paid local newsletter, so
+she has no use for someone else's content. RVAHub and The Richmonder do not run one. Same offer,
+outlets that need it.
+
+⚠ **Three is not a sample.** Cold outreach converts in low single digits; three touches returning
+three polite passes says almost nothing about the pitch. Do not rewrite the kit on this evidence —
+send the rest of it.
+
 ## RUNNING ORDER — status
 
 | # | Outlet | Status | Next action |
 |---|---|---|---|
-| 1 | **Axios Richmond** | ✅ **SENT Tue Oct 20** | Follow up **Tue Oct 27** if no reply |
-| 2 | **Richmond BizSense** | 🎉 **REPLIED Oct 21** — Mike Platania, RIC beat | **Reply sent Oct 21. Waiting on a time from him.** No terms until he raises them. |
+| 1 | **Axios Richmond** | ⚪ **SENT Tue Oct 20 — silent 6 days** | Follow up **Tue Oct 27** if still nothing |
+| 2 | **Richmond BizSense** | ⚪ **CALL HELD Thu Oct 22 — no outcome** | Mike Platania will "keep me in mind and reach out if he had a need to". Source relationship open, nothing pending. |
 | 3 | **RVAHub** | ready | Recurring weekly section |
 | 4 | **The Richmonder** | ready | Recurring weekly section. **No exclusivity** — stripped 10/20 |
 | 5 | **Local TV** | ready | Land before Thanksgiving |
