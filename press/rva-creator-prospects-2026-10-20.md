@@ -11,13 +11,36 @@ next step, not as a condition.
 
 ---
 
-# 1. PAIGE POPROCKY — ✅ SENT Tuesday, October 20, 2026
+# 1. PAIGE POPROCKY — ❌ DECLINED Monday, October 26, 2026
 
 **Subject used:** `Dublin $548, Rome $575 — both out of RIC`
 **To:** paige@therichmondexperience.com
 **Attached:** `dataset/RVA-europe-fares.pdf`
 
-**→ FOLLOW UP TUESDAY, OCTOBER 27** if no reply. Draft is in the FOLLOW-UP block below.
+**CLOSED — she passed, warmly, on 26 Oct.** Sent Tue 20 Oct, replied Mon 26 Oct:
+
+> *"Thanks so much for reaching out and thinking of us! I appreciate you sharing more about RVA
+> Cheap Flights. I'll take a look and keep it in mind if we ever put together any articles or
+> content around flights out of RIC. I'm not looking to pursue anything right now, but I'll
+> certainly reach back out if that changes!"*
+
+Glenn's reply, same day, and it is the right shape — leaves the door open without diminishing the
+business or re-pitching:
+
+> *"Totally understand. I'll keep doing what I'm doing on this end, and if you ever need fare data,
+> historical pricing, or a quick read on what's happening out of RIC for something you're working
+> on, I'm happy to be a resource."*
+
+★ **KELSEY HEINTZ IS NO LONGER A FALLBACK. Paige CC'd her on the decline.** The plan below said to
+approach Kelsey if Paige did not reply. She has now seen both the pitch and the pass, so a separate
+email to her is the same ask through a second door at the same small company. Do not send it.
+
+**What was actually wrong with this pitch:** nothing identifiable. The research was real, the email
+was Glenn's own wording, the attachment matched the hook, and she replied inside four business days
+with a specific reason — not looking to pursue anything right now. That is a clean no, and the
+useful read is that a creator with her own paid local newsletter has no need for someone else's
+content. The RVAHub and Richmonder pitches offer the same thing to outlets that do not already run
+one, which is the better fit.
 
 ⚠ **If she asks about the "exclusive offer" option, the number is Glenn's to set.** A giveaway
 and a recurring feature cost nothing. A follower discount cuts into the $72/yr. Do not invent one.
