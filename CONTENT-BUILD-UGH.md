@@ -1541,6 +1541,52 @@ UGH happens. We still show up.
 
 ---
 
+## FRI 30 OCT · 17:00 · REEL — Friday: the dog had other plans
+**Reactive UGH.** One library still, approved: `2026-09-17/5f63c902-34d1-4d4d-9b25-0f50b7fdf983.png`
+("Dog Got Loose at the Worst Time"), slow push and pan across the beats. Blue band (Grow Through It).
+No SFX. **REEL · Moment: 35 spoken words, 15.2s of voice at 2.3 w/s, inside the 40-word cap; 18s cut.**
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–4s | The still, slow push in | FIVE MINUTES TO LEAVE. | `You had five minutes to get out the door.` |
+| 4–13s | The still, slow pan | *nothing* | `Then the gate was open, and the dog was halfway down the street, having the best morning of its life.` |
+| 13–15s | The still, hold | THE DOG HAD OTHER PLANS. | *silence* |
+| 15–18s | UGH lockup | UGH. WE SHOW UP. | `UGH happens. We still show up.` |
+
+**CAPTION (Facebook)**
+```
+You had five minutes to get out the door. You were, against all odds, going to make it.
+
+Then the gate was open and the dog was halfway down the street, having the best morning of its life and absolutely not coming when called.
+
+You will be late. The dog will be fine. The dog is always fine.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SAT 31 OCT · 11:00 · STATIC — Everyone else got the memo
+**Daily moment.** Library asset, approved: `2026-09-15/afef0ada-81f3-4df0-9249-02a1999f87fa.png`
+("Forgot It Was Pajama Day"). Orange band (Laugh Through It).
+
+**HEADLINE:** EVERYONE ELSE<br>GOT THE MEMO.
+
+**CAPTION (Facebook)**
+```
+There was a theme. Everyone knew about the theme. It was in an email, or a flyer, or a group chat you muted in August.
+
+You are the one person dressed like it is a regular day, and there is no way to make that look intentional.
+
+Happy Halloween to everyone who found out at the door.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
 ## SUN 1 NOV · 09:00 · UGH TAILS EP 012 — POSTER
 **Collectible series poster.** Finalized plate:
 `OneDrive/UGH Tails - Series 1/UGH Tails_Poster Collection/UGH Tails_EP 012_POSTER_v1.png`.
