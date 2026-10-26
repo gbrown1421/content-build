@@ -908,6 +908,29 @@ free, which is far easier than a yes to a partnership.
 
 ---
 
+⚠ **THE FIGURES IN SECTIONS C AND D WERE CORRECTED BEFORE SENDING, 2026-10-26.** The versions
+approved on 20 Oct were written against `routes.baseline_price` — 40 numbers typed by hand on
+2026-08-17 and never recomputed. Scoring now uses the Value Point taken from the Google
+typical-price range captured with each fare (Glenn, 2026-10-26), and three claims moved:
+
+| claim as approved 20 Oct | corrected |
+|---|---|
+| **Chicago Midway 20% ABOVE normal** | **21% BELOW** — it REVERSED, and both drafts named it as a weak route |
+| Orlando 41% below | 14% below |
+| New York JFK 26% above | 9% above |
+
+**The observations never moved** — Orlando at $52 on 7 Oct and Charleston at $98 on four dates are
+counts, not comparisons. Only the percentages came off the bad baseline.
+
+What was sent leads on **Charleston, 51% below and $98 four times** (it rose; Orlando fell), and
+names **Boston 34% above, Miami 25%, LaGuardia 22%** as the weak routes. The Richmonder's line
+became *"a short hop up the coast"* rather than *"to New York"*, because Boston is now the weakest
+route on the board.
+
+★ **A DRAFT APPROVED BEFORE A SCORING CHANGE IS NOT STILL APPROVED.** These sat six days between
+approval and sending, and the comparator changed underneath them. Re-check every number in a held
+draft against the live data before it goes out.
+
 ## ★ WHAT THREE SENDS ACTUALLY RETURNED — read this before sending the rest
 
 Three went out on 20 Oct. All three are now resolved, and **all three gave the same answer**:
@@ -941,8 +964,8 @@ send the rest of it.
 |---|---|---|---|
 | 1 | **Axios Richmond** | ⚪ **SENT Tue Oct 20 — silent 6 days** | Follow up **Tue Oct 27** if still nothing |
 | 2 | **Richmond BizSense** | ⚪ **CALL HELD Thu Oct 22 — no outcome** | Mike Platania will "keep me in mind and reach out if he had a need to". Source relationship open, nothing pending. |
-| 3 | **RVAHub** | ready | Recurring weekly section |
-| 4 | **The Richmonder** | ready | Recurring weekly section. **No exclusivity** — stripped 10/20 |
+| 3 | **RVAHub** | ✅ **SENT Mon Oct 26** — via the advertise form | Follow up **Mon Nov 2** if no reply. No attachment possible; the brief and data were offered in the body. |
+| 4 | **The Richmonder** | ✅ **SENT Mon Oct 26** — news@richmonder.org | Follow up **Mon Nov 2** if no reply. Methodology brief attached. No exclusivity offered. |
 | 5 | **Local TV** | ready | Land before Thanksgiving |
 | 6 | **Richmond Magazine** | ready | Long lead, any time |
 | 7 | **Creators** | ❌ **Paige Poprocky DECLINED Oct 26** | Closed, warmly. **Kelsey is NOT a fallback — Paige cc'd her on the decline.** |
