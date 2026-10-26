@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-26T01:14:02Z",
-  "reportFile": "2026-10-25-2109.md",
-  "note": "5 PASS / 3 FAIL. Charter 2c contradiction fixed 46b76200; builder/peer SKILL.md:36 still say copy is written by the interactive session."
+  "lastReview": "2026-10-26T17:12:33Z",
+  "reportFile": "2026-10-26-1309.md",
+  "note": "5 PASS / 1 FAIL. CLAUDE.md:427 still says Producer-writes-copy is OPEN, contradicting the 10-26 ruling at :36/:111; fix awaits Glenn copy approval. builder/peer SKILL.md:36 carried."
 }
