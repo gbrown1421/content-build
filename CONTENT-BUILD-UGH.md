@@ -1420,6 +1420,32 @@ UGH happens. We still show up.
 
 ---
 
+## TUE 27 OCT · 15:00 · STATIC — The card said no
+**Daily moment.** Library asset, approved: `2026-09-17/a714d6c8-6f64-4ed0-9f3d-35b8e50fa260.png`
+("Card Declined at Self-Checkout"). Orange band (Laugh Through It).
+
+★ **ADDED BY HAND 27 OCT, same day.** Glenn: *"slot today for 3pm"*. Tuesday was empty because the
+Sunday run's UGH template skipped Tue and Thu; that was corrected in `sunday-content-review`
+(`06986e9`) the same day, but the fix starts next Sunday, so this row was written by hand.
+⚠ **The 6 AM Automation has already run today — this needs the Producer to build and book it
+manually before 15:00.**
+
+**HEADLINE:** THE CARD SAID NO.<br>IN FRONT OF EVERYONE.
+
+**CAPTION (Facebook)**
+```
+It is never a quiet decline. There is a tone, and a flashing screen, and a light above your head telling the whole store that something went wrong at register four.
+
+The card is fine. You know the card is fine. That is not the part that matters with six people behind you and an attendant already walking over.
+
+You tap it again. It works. Nobody says a word, and you think about it twice more before bed.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
 ## WED 28 OCT · 12:00 · ASK THE FEED — THE PUMP vs THE CARD
 **FB comment poll.** Photoreal A/B split card, orange divider. Library assets, approved:
 left `2026-09-17/d9b9d8ae-e734-498b-8bcc-a2041873bf2e.png` ("Gas Pump Is on the Wrong Side"),
