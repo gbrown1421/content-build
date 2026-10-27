@@ -63,12 +63,12 @@ Run against Content Hub `f42abd5c`. Replace `NEWKEY` in all four, nothing else c
 -- jobid 15 ugh-library-cycle       0 9 * * 1
 update cron.job
    set command = replace(command,
-       'cpk_067d677f484c9b6441949aab85550a6aabdac5e22f8fc2d2', 'NEWKEY')
+       'OLDKEY', 'NEWKEY')
  where jobid in (2, 13, 14, 15);
 
 -- then confirm none still carries the old value:
 select jobid, jobname,
-       command like '%cpk_067d677f484c9b6441949aab85550a6aabdac5e22f8fc2d2%' as still_leaked
+       command like '%OLDKEY%' as still_leaked
 from cron.job order by jobid;
 ```
 
@@ -86,3 +86,16 @@ since 2026-08-31.
 the two UGH Friday reels (30 Oct "the dog had other plans", 6 Nov "it said fragile"). Both are
 staged: stills fetched, `spec.json` validated, `vo-script/` written. They build with one command
 each once a key exists. Memory `openai-key-dead-railway`.
+
+---
+
+## Correction, 2026-10-27
+
+The first version of this file pasted the **literal** `CONTENT_PIPELINE_KEY` into the SQL above and
+was committed and pushed — the same mistake this document exists to clean up. It is now `OLDKEY`,
+to be substituted at the terminal and never written into a tracked file. Caught by scanning all
+six repos for the literal value rather than the variable name; the variable name is harmless, the
+value is not.
+
+**Substitute both placeholders yourself when you run it. Do not paste either value back into any
+file in a repo.**
