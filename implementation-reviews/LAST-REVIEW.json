@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-27T01:10:43Z",
-  "reportFile": "2026-10-26-2109.md",
-  "note": "0 claims, quiet window (scheduled runs only). Carried: Railway STRIPE_SECRET_KEY still 3YTB; CLAUDE.md:427, SKILL.md:36; 194cdec rule unratified."
+  "lastReview": "2026-10-27T17:11:36Z",
+  "reportFile": "2026-10-27-1309.md",
+  "note": "3 PASS / 1 FAIL. RVA Stripe key+webhook rotated (UxJA, 9umN). FAIL: PixFix Lovable 88984cbc publish unproven on new key. Carried: CLAUDE.md:427, SKILL.md:36; 194cdec rule unratified."
 }
