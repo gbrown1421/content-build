@@ -1,5 +1,5 @@
 {
-  "lastReview": "2026-10-27T17:11:36Z",
-  "reportFile": "2026-10-27-1309.md",
-  "note": "3 PASS / 1 FAIL. RVA Stripe key+webhook rotated (UxJA, 9umN). FAIL: PixFix Lovable 88984cbc publish unproven on new key. Carried: CLAUDE.md:427, SKILL.md:36; 194cdec rule unratified."
+  "lastReview": "2026-10-28T01:49:48Z",
+  "reportFile": "2026-10-27-2149.md",
+  "note": "1 PASS / 0 FAIL. UGH cadence EVERY DAY (06986e9, pushed; unproven until sunday-content-review 2026-11-01). 5pm review missed (scheduler idle ~14:34-21:46 ET). Carried: CLAUDE.md:427, builder/peer SKILL.md:36; PixFix Stripe publish still unproven."
 }
