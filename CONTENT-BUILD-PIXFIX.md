@@ -1571,6 +1571,183 @@ Order: https://pixfixstudio.com/order.html
 
 ---
 
+★ **SUNDAY REVIEW 2026-11-01 — entries 9–15 Nov.** Every picture is a named file in `media_assets`
+(checked 1 Nov). "Nine files" = eight angles plus the full sheet, as in the 21 Oct and 28 Oct
+reels. Character art carries no cooldown (library rotation, Glenn 2026-08-23). Captions describe
+angles, not what a given character looks like — the canon plates were not viewed this run, so no
+line claims a color, a prop or an outfit.
+
+## MON 9 NOV · 12:00 · CAROUSEL 5 slides · Every one of the nine files
+**PixFix styling.** Library assets only. One character: Tank Bramble. **Cover says nine — slides
+2, 3, 4, 5 carry 3 + 2 + 3 + 1 = 9.** Slide 1's picture is the starting picture, not one of the
+nine, and its text says so.
+
+| Slide | Picture | Text |
+|---|---|---|
+| 1 | `studio-canon/tank-bramble/master-reference-22bda700.png` | ONE PICTURE IN. NINE FILES OUT. HERE IS EVERY ONE. |
+| 2 | `studio-canon/tank-bramble/front-4b02b513.png` + `studio-canon/tank-bramble/left-profile-7f3cffdd.png` + `studio-canon/tank-bramble/right-profile-4159ecb8.png` | 1–3. The front and both profiles. |
+| 3 | `studio-canon/tank-bramble/three-quarter-left-fcadd560.png` + `studio-canon/tank-bramble/three-quarter-right-3fc2a6d8.png` | 4–5. Both three-quarter views, the angles most scenes are drawn from. |
+| 4 | `studio-canon/tank-bramble/rear-eccdf4d1.png` + `studio-canon/tank-bramble/rear-three-quarter-left-3816b362.png` + `studio-canon/tank-bramble/rear-three-quarter-right-752b46dc.png` | 6–8. The back, and a rear three-quarter on each side. |
+| 5 | All eight `studio-canon/tank-bramble/` angle files as one sheet | 9. The full sheet, all eight on one page. No watermark, from $129. |
+
+**CAPTION (Facebook)**
+```
+What does "nine files" actually mean? Here is every one.
+
+The front and both profiles. Both three-quarter views. The back, and a rear three-quarter on each side. That is eight angles of the same character.
+
+The ninth is the full sheet, all eight on one page, so you can see the whole turnaround at once.
+
+No watermark. From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## TUE 10 NOV · 17:00 · STATIC · Turnaround of the week — the profile
+**PixFix styling.** Library assets only. `studio-canon/moxie-bell/left-profile-f6f78a73.png`
+(Moxie Bell — left profile), full bleed.
+
+**HEADLINE:** THE ANGLE THAT<br>SHOWS THE SHAPE.
+
+**CAPTION (Facebook)**
+```
+A front view can hide a lot. How far the nose comes forward. How the hair sits at the back of the head. Whether the character stands up straight or leans into the world.
+
+The profile shows all of it, which is why it is the angle that gives a weak turnaround away first.
+
+This is Moxie Bell, left profile.
+
+Nine files. No watermark. From $129.
+
+Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## WED 11 NOV · 18:00 · REEL · One picture in
+**PixFix styling.** Library assets only, no generation. **This reel SPEAKS** — narrator picked at
+random by `content-kit/pixfix/say.mjs`. One character the whole way: PIP WHITTAKER.
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–4s | `studio-canon/pip-whittaker/master-reference-e6d7bf23.png` | ONE PICTURE IN | `You send us one picture of your character.` |
+| 4–11s | `studio-canon/pip-whittaker/front-7a8f9daa.png` → `studio-canon/pip-whittaker/three-quarter-left-29fd1c75.png` → `studio-canon/pip-whittaker/left-profile-753bb20a.png` | *(nothing — the voice carries it)* | `We build the front, both three-quarter views and both profiles, all matched to it.` |
+| 11–16s | `studio-canon/pip-whittaker/rear-three-quarter-left-8db556b9.png` → `studio-canon/pip-whittaker/rear-e7f996f2.png` | AND THE BACK | `Then the back, and a rear three-quarter on each side.` |
+| 16–20s | All eight `studio-canon/pip-whittaker/` angle files as one sheet | 8 ANGLES · 9 FILES | `Eight angles, plus the full sheet. No watermark.` |
+| 20–24s | PixFix brand card | FROM $129 · PIXFIXSTUDIO.COM | `From a hundred and twenty-nine dollars.` |
+
+**46 spoken words · 24s allows 55.** Beat by beat 8 / 14 / 10 / 8 / 6 against budgets of
+9.2 / 16.1 / 11.5 / 9.2 / 9.2.
+
+**CAPTION (Facebook)**
+```
+You send us one picture of your character.
+
+We build the front, both three-quarter views and both profiles, all matched to it. Then the back, and a rear three-quarter on each side.
+
+Eight angles plus the full sheet. Nine files, no watermark.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## THU 12 NOV · 12:00 · CAROUSEL 5 slides · Three things that have to match on every angle
+**PixFix styling.** Library assets only. One character: Ollie Quibble. **Cover says three — slides
+2, 3, 4.**
+
+| Slide | Picture | Text |
+|---|---|---|
+| 1 | `studio-canon/ollie-quibble/master-reference-8c8f48e5.png` | THREE THINGS THAT HAVE TO MATCH ON EVERY ANGLE |
+| 2 | `studio-canon/ollie-quibble/front-06b44130.png` + `studio-canon/ollie-quibble/right-profile-f860105b.png` | Color. A shade on the front is the same shade from the side. |
+| 3 | `studio-canon/ollie-quibble/three-quarter-left-7c929a96.png` + `studio-canon/ollie-quibble/three-quarter-right-1a1a39b7.png` | Proportions. Head, body and limbs stay the same size as the character turns. |
+| 4 | `studio-canon/ollie-quibble/left-profile-b87a7ce1.png` + `studio-canon/ollie-quibble/right-profile-f860105b.png` | Sides. Whatever sits on the left stays on the left. Nothing gets flipped. |
+| 5 | `studio-canon/ollie-quibble/front-06b44130.png` | Every set is built to hold all three. Nine files, no watermark, from $129. |
+
+**CAPTION (Facebook)**
+```
+A turnaround only works if it is the same character all the way around. Three things give it away when it is not.
+
+Color: a shade on the front should be the same shade from the side. Proportions: the head, body and limbs stay the same size as the character turns. Sides: whatever sits on the left stays on the left. Nothing gets flipped.
+
+Every PixFix set is built to hold all three.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## FRI 13 NOV · 17:00 · STATIC · Turnaround of the week — one picture in, the front out
+**PixFix styling.** Library assets only. Side by side:
+`studio-canon/dottie-raines/master-reference-a3b46598.png` (left) +
+`studio-canon/dottie-raines/front-86288820.png` (right).
+
+**HEADLINE:** ONE PICTURE IN.<br>THE FRONT OUT.
+
+**CAPTION (Facebook)**
+```
+Left: the picture that came in. Right: the front of the finished set.
+
+Same character, facing forward, built to sit next to the other seven angles without looking like it came from a different artist.
+
+This is Dottie Raines.
+
+Nine files. No watermark. From $129.
+
+Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## SAT 14 NOV · 12:00 · COMMENT POLL · Does your character have a name yet?
+**FB comment poll.** PixFix styling, A/B split card on white.
+
+**Card:** TYPE ONLY. PixFix white, split down the middle with the PixFix rule. Left half: letter
+**A** above **NAMED, WITH A BACKSTORY**. Right half: letter **B** above **STILL WORKING ON IT**.
+Nothing else on the card.
+
+**Poll options:** `A — Named, with a backstory` · `B — Still working on it`
+
+**CAPTION (Facebook)**
+```
+Quick one for anyone building a character.
+
+A — they have a name, a history, and probably a few opinions about the plot.
+B — the look came first. The name and the story are still in progress.
+
+Both are fine places to start a turnaround. All we need is the picture. Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## SUN 15 NOV · 17:00 · STATIC · Turnaround of the week — the rear three-quarter right
+**PixFix styling.** Library assets only. `studio-canon/spel/rear-three-quarter-right-406c49e3.png`
+(Spel — rear three quarter right), full bleed.
+
+**HEADLINE:** THE ANGLE OF<br>WALKING AWAY.
+
+**CAPTION (Facebook)**
+```
+The rear three-quarter is the angle of a character walking away from the camera. A door closing behind them, the end of a scene, the last shot of a chapter.
+
+It is also the one people forget to ask for until a scene needs it.
+
+This is Spel, rear three-quarter right.
+
+Nine files. No watermark. From $129.
+
+Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
 ## Open — needs Glenn
 
 1. **Delete the Wed "winner delivered" post** from PixFix FB and IG. It states a winner who does

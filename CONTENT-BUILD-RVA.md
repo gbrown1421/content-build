@@ -1639,6 +1639,191 @@ We check Richmond fares every morning: https://rvacheapflights.com/deals
 
 ---
 
+★ **SUNDAY REVIEW 2026-11-01 — entries 9–15 Nov.** Every picture is a named file in
+`media_assets`, downloaded and viewed 1 Nov. Destination lines are `DESTINATION-LINES.md`,
+verbatim or cut down. No fares anywhere. Left out after viewing: `DEN_FAL_art-museum.jpg` (its sign
+renders as "DENMER ART MUSEUM"), `MBJ_FAL_rose-hall-house.jpg` (pumpkins around a Jamaican
+fountain), `CUN_FAL_cenote-ik-kil.jpg` (maple leaves over a Yucatán cenote).
+
+## MON 9 NOV · 07:30 · STORY POLL — THE GIFT *(Instagram only)*
+
+- **Question:** For the holidays: would you rather get a trip, or a thing?
+- **A:** A trip · **B:** A thing
+- **Background:** title **THE GIFT**, line **A trip, or a thing?**
+
+★ Posted by hand. GHL cannot post an Instagram Story.
+
+---
+
+## MON 9 NOV · 18:00 · REEL 30s — Destination review: New York
+**RVA styling.** Segoe UI Black, RVA logo, navy/orange. Never the UGH font. No fare anywhere.
+**56 spoken words · 30s allows 69.**
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–8s | `rva/heroes/JFK_FAL_central-park-fall.jpg` | NEW YORK | `New York is at its best in the fall. Cool and bright, with Central Park turning color.` |
+| 8–15s | `rva/heroes/JFK_FAL_central-park-fall.jpg`, slow pan | THE PARK, THEN THE CITY | `Walk the park in the morning, then a museum, a deli, and a show at night.` |
+| 15–23s | Navy type card | INTO DECEMBER | `New York is the holiday windows in December. Then a quiet, easier January.` |
+| 23–30s | RVA brand card | WE CHECK RIC EVERY MORNING | `It is one of twenty-three places we watch from Richmond, every morning.` |
+
+**CAPTION (Facebook)**
+```
+New York is at its best in the fall. Cool and bright, with Central Park turning color.
+
+Walk the park in the morning, then a museum, a deli, and a show at night. Then December brings the holiday windows, and January is quiet and easier.
+
+It is one of 23 destinations we watch from Richmond.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## TUE 10 NOV · 12:00 · CAROUSEL 5 cards — Three warm places for December
+Navy cards, orange rule. No fares anywhere. **No painted buttons.** **Cover says three — cards 2–4.**
+
+| Card | Picture | Text |
+|---|---|---|
+| 1 | Navy type card | THREE WARM PLACES FOR DECEMBER |
+| 2 | `rva/heroes/PLS_WIN_chalk-sound.jpg` | Turks and Caicos is dry and breezy in winter. Low eighties, and Grace Bay at its clearest. |
+| 3 | `rva/heroes/CUN_SPR_chichen-itza.jpg` | Winter is Cancún's best weather. Dry, sunny, low eighties, and the sea is calm and clear. |
+| 4 | `rva/heroes/MIA_FAL_little-havana.jpg` | Winter is why people go to Miami. Dry, sunny, mid-seventies, and Art Basel in early December. |
+| 5 | RVA brand card | We track 23 destinations out of Richmond, these three included. |
+
+**CAPTION (Facebook)**
+```
+If December is when the cold starts to get to you, here are three ways out.
+
+Turks and Caicos for the clearest water, Cancún for the calm sea and a day trip to the ruins, Miami for the sun and Art Basel in early December.
+
+We track 23 destinations out of Richmond, these three included. If one of them is the plan, now is a good time to start watching it.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## WED 11 NOV · 19:00 · QUESTION POST — Where would you be this weekend
+**Navy type card, orange rule — no photograph.** No fares anywhere.
+
+**HEADLINE:** WHERE WOULD YOU<br>BE THIS WEEKEND?
+
+**CAPTION (Facebook)**
+```
+No budget, no work, nobody to ask for the days off. Just this weekend, anywhere you want.
+
+Where are you going? A beach, a big city, somewhere you have never been, or the place you keep going back to?
+
+Tell us below.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## THU 12 NOV · 12:30 · REEL 20s — Still beach weather in November
+**RVA styling.** Segoe UI Black, RVA logo, navy/orange. Never the UGH font. No fare anywhere.
+**38 spoken words · 20s allows 46.** Lines are the fall entries in `DESTINATION-LINES.md`, cut down.
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–4s | Navy type card | STILL WARM IN NOVEMBER | `Not done with summer yet? Try these two.` |
+| 4–10s | `rva/heroes/AUA_FAL_arikok-park.jpg` | ARUBA | `Aruba sits below the hurricane belt. Fall there is dry, breezy and warm.` |
+| 10–16s | `rva/heroes/FLL_FAL_birch-state-park.jpg` | FORT LAUDERDALE | `Fort Lauderdale is still beach weather, and the humidity eases by November.` |
+| 16–20s | RVA brand card | CHECKED EVERY MORNING | `We check both every morning.` |
+
+**CAPTION (Facebook)**
+```
+Not done with summer yet? Two places still have it.
+
+Aruba sits below the hurricane belt. Fall there is dry, breezy and warm, and the beaches are quieter before winter. Fort Lauderdale is still beach weather in the fall, and the humidity eases by November, before the crowds arrive.
+
+Both are among the 23 destinations we watch from Richmond.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## FRI 13 NOV · 08:00 · STORY POLL — THE PACKING *(Instagram only)*
+
+- **Question:** Pack the night before, or the morning of?
+- **A:** The night before · **B:** The morning of
+- **Background:** title **THE PACKING**, line **Night before, or morning of?**
+
+★ Posted by hand. GHL cannot post an Instagram Story.
+
+---
+
+## FRI 13 NOV · 17:30 · LOCAL IDENTITY — You will end up explaining Richmond
+**Navy type card, orange rule — no photograph.** No fares anywhere.
+
+**HEADLINE:** YOU WILL END UP<br>EXPLAINING RICHMOND.
+
+**CAPTION (Facebook)**
+```
+Somewhere on every trip, somebody asks where you are from. You say Richmond, and they say, "Oh, near DC?"
+
+So you explain. A couple of hours to the beach, a couple of hours to the mountains. A river with rapids right through downtown. Better food than they would ever guess.
+
+By the end of it, they usually want to visit.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## SAT 14 NOV · 10:00 · ROUTE CHECK — Punta Cana in November
+★ Route Check holds the Saturday 10:00 slot. No fare anywhere.
+
+**Picture:** `rva/heroes/PUJ_SPR_bavaro-beach.jpg` (a beach scene, no seasonal cues — viewed 1 Nov)
+**HEADLINE:** PUNTA CANA<br>IN NOVEMBER
+
+**CAPTION (Facebook)**
+```
+Punta Cana is quiet in the fall. Warm water and calm resorts, before high season starts.
+
+It is the last stretch before the winter crowds, when the beach still has room and the Caribbean is still warm.
+
+We track 23 destinations out of Richmond, Punta Cana included.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## SUN 15 NOV · 19:00 · CAROUSEL 5 cards — Three questions before you book a winter trip
+Navy type cards, orange rule — no photographs. No fares anywhere. **No painted buttons.**
+**Cover says three — cards 2–4.**
+
+| Card | Picture | Text |
+|---|---|---|
+| 1 | Navy type card | THREE QUESTIONS BEFORE YOU BOOK A WINTER TRIP |
+| 2 | Navy type card | Is it actually nice there then? Some places are at their best in winter. Some are rainy or half closed for the season. |
+| 3 | Navy type card | Where is your passport? Aruba, Cancún, Punta Cana, Montego Bay and Turks and Caicos all need one. |
+| 4 | Navy type card | How many days do you really get? Count the travel days. A long weekend somewhere far is mostly airports. |
+| 5 | RVA brand card | We track 23 destinations out of Richmond, and check them every morning. |
+
+**CAPTION (Facebook)**
+```
+Three questions worth asking before you book a winter trip.
+
+Is it actually nice there then? Some places are at their best in winter, and some are rainy or half closed for the season. Where is your passport? Aruba, Cancún, Punta Cana, Montego Bay and Turks and Caicos all need one. And how many days do you really get, once you count the travel days?
+
+Answer those three, and the rest is just picking the place.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
 ## Open — needs Glenn
 
 1. **The newsletter subscribe URL.** It appears in every destination review. Not inventing one — `rvacheapflights.com/deals` is the deals page, not a signup.

@@ -1667,6 +1667,249 @@ That is all twelve episodes of Series 1. Thank you for watching it with us.
 
 ---
 
+★ **SUNDAY REVIEW 2026-11-01 — Tue 3, Thu 5, Fri 6, Sun 8 and 9–15 Nov.** UGH now has a row on
+every day through 15 Nov. Every still below is an approved `media_assets` row with an
+`ugh_moment_pool` slug, and none appears in this file or in any `calendar_entries` row from the last
+90 days (checked 1 Nov). Captions stay inside the pool's own setup / trigger / consequence for each
+picture. **No UGH reel is planned for Fri 13 Nov:** the reactive-reel narrator is blocked on the
+revoked OpenAI key (handoff on the 30 Oct and 6 Nov rows), so a reel row would hand back to Glenn
+and Friday would go dark. Fri 6 and Fri 13 each get an 11:00 static instead; the 6 Nov reel row is
+untouched.
+
+## TUE 3 NOV · 11:00 · STATIC — Everything is already bagged
+**Daily moment.** Library asset, approved: `2026-09-17/92803c69-0688-4e7b-8ac6-f537d2a89bb6.png`
+("Wallet at Home After Groceries Are Already Scanned"; pool slug
+`wallet-at-home-after-groceries-are-already-scanned`). Red band (Push Through It).
+
+**HEADLINE:** EVERYTHING IS<br>ALREADY BAGGED.
+
+**CAPTION (Facebook)**
+```
+Every item scanned. Every item bagged. The total is on the screen, and the cashier is waiting.
+
+That is when your hand finds an empty pocket. Then the other pocket. Then the bag you already checked twice.
+
+The wallet is at home, right where you put it so you would not forget it. You ask, very politely, if they can hold the cart.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## THU 5 NOV · 11:00 · STATIC — The cat found the papers
+**Daily moment.** Library asset, approved: `2026-09-17/c3b390c9-96b1-4635-b3f3-2fb77fdfe80f.png`
+("Cat Is Sitting on the Important Papers"; pool slug `cat-is-sitting-on-the-important-papers`).
+Orange band (Laugh Through It).
+
+**HEADLINE:** THE CAT FOUND<br>THE PAPERS.
+
+**CAPTION (Facebook)**
+```
+You spent twenty minutes getting everything into one pile. Forms, receipts, the one letter you actually need. All in order.
+
+You turned around to find a pen. The cat was already on it. Not near it. On it. Settled in, eyes half closed, like the whole pile was put there as a bed.
+
+Nobody is moving the cat. You will work around the edges.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## FRI 6 NOV · 11:00 · STATIC — It was fine ten seconds ago
+**Daily moment.** Library asset, approved: `2026-09-17/489a0beb-ea3e-4b52-9b38-f076e6de8d2c.png`
+("Zipper or Button Failure at the Worst Time"; pool slug
+`zipper-or-button-failure-at-the-worst-time`). Orange band (Laugh Through It). Added so Friday
+posts even if the 17:00 reel stays blocked on narration.
+
+**HEADLINE:** IT WAS FINE<br>TEN SECONDS AGO.
+
+**CAPTION (Facebook)**
+```
+Dressed, ready, and out of time. One last tug on the way out the door.
+
+That is when the zipper came off in your hand. Or the button let go and rolled under the couch. Either way, the outfit you planned is not leaving the house.
+
+Plan B is whatever is clean and on top of the pile. Nobody will know. You will know.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SUN 8 NOV · 11:00 · STATIC — One wheel down
+**Daily moment.** Library asset, approved: `2026-09-15/54deac73-f13e-4394-83b0-ad537eed615b.png`
+("Suitcase Wheel Gives Out Mid-Walk"; pool slug `suitcase-wheel-gives-out-mid-walk`). Blue band
+(Grow Through It).
+
+**HEADLINE:** ONE WHEEL<br>DOWN.
+
+**CAPTION (Facebook)**
+```
+You were making good time. Rolling along, boarding pass out, right on schedule.
+
+Then a crack, the suitcase lurched to one side, and a little wheel went skittering off across the floor without you.
+
+The rest of the walk is a drag, a lift, a drag, a lift. You will get there. Your arm will have opinions about it.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## MON 9 NOV · 08:00 · STATIC — You unmuted. So did the dog.
+**Daily moment.** Library asset, approved: `2026-09-17/dceb69b7-d418-4f76-bc3e-b0878028dad3.png`
+("Dog Starts Barking During an Important Video Call"; pool slug
+`dog-starts-barking-during-an-important-video-call`). Orange band (Laugh Through It).
+
+**HEADLINE:** YOU UNMUTED.<br>SO DID THE DOG.
+
+**CAPTION (Facebook)**
+```
+The meeting that matters. Camera on, good shirt, notes ready. Your turn to talk.
+
+You unmute, and that is the exact second the dog decides everyone on the call needs to hear about something outside.
+
+You smile, hold up one finger, and keep talking over it like that is a normal thing to do. These days, it sort of is.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## TUE 10 NOV · 11:00 · STATIC — Close is not the same size
+**Daily moment.** Library asset, approved: `2026-09-17/bdeb4d8c-7e6c-4f63-a7c6-07d5f4448583.png`
+("Replacement Part Is the Wrong Size"; pool slug `replacement-part-is-the-wrong-size`). Red band
+(Push Through It).
+
+**HEADLINE:** CLOSE IS NOT<br>THE SAME SIZE.
+
+**CAPTION (Facebook)**
+```
+The old part is out. The tools are everywhere. The thing you are fixing is in pieces, and you are almost done.
+
+Then you hold the new part up next to the old one. Close. Very close. Not the same.
+
+So it is back in the car, back to the store, and back to the floor, with the receipt this time.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## WED 11 NOV · 12:00 · ASK THE FEED — THE GYM SHOES vs THE RETURN
+**FB comment poll.** Photoreal A/B split card, orange divider. Library assets, approved:
+left `2026-09-17/3dbc510d-8fb4-4f20-8c6c-35dc88627144.png` ("Arrived at the Gym Without Gym
+Shoes"), right `2026-09-17/f9ac2cf2-2347-487d-b817-0137a8b4eeea.png` ("You Brought the Wrong Item
+Back for the Return"). Letter **A** over the gym, letter **B** over the return.
+
+**HEADLINE:** WHICH ONE SENDS<br>YOU BACK HOME?
+
+**Poll options:** `A — No gym shoes` · `B — The wrong return`
+
+**CAPTION (Facebook)**
+```
+Two ways to drive all the way there for nothing.
+
+A — you made it to the gym, ready to go, and you are still wearing the shoes you drove in.
+B — you waited in the returns line, got to the counter, and opened the bag to find the wrong thing inside.
+
+Both of them end with you back in the car. Which one have you done? Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## THU 12 NOV · 11:00 · STATIC — Of all the places to drip
+**Daily moment.** Library asset, approved: `2026-09-17/f7d358a3-911e-492c-95ab-89d1eb1525b5.png`
+("Ceiling Leak Over Something Important"; pool slug `ceiling-leak-over-something-important`).
+Red band (Push Through It).
+
+**HEADLINE:** OF ALL THE<br>PLACES TO DRIP.
+
+**CAPTION (Facebook)**
+```
+There is a whole ceiling. A whole floor. Plenty of places a drip could land where nobody would care.
+
+It picked the one spot right over the thing you care about most.
+
+Towel down. Bucket under. Move what you can, and call someone in the morning. Tonight you are listening for the next drop.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## FRI 13 NOV · 11:00 · STATIC — So close to the curb
+**Daily moment.** Library asset, approved: `2026-09-15/40b9dfaa-93d5-48e4-95b0-c685147868fa.png`
+("Trash Bag Splits at the Curb"; pool slug `trash-bag-splits-at-the-curb`). Blue band (Grow
+Through It). Holds Friday while the reel narrator is blocked.
+
+**HEADLINE:** SO CLOSE<br>TO THE CURB.
+
+**CAPTION (Facebook)**
+```
+It is Friday the 13th, so of course it happened on the way to the curb.
+
+A few more steps. That is all the bag needed to hold. Instead it split down the side, and the whole week came out at once.
+
+You go back in for a new bag and a pair of gloves. The truck is already on the next street over.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SAT 14 NOV · 11:00 · STATIC — The sheets were clean for a minute
+**Daily moment.** Library asset, approved: `2026-09-17/da8133a6-d746-43d6-ba40-e2be91ab68d9.png`
+("Wet Dog Jumps Onto the Clean Bed"; pool slug `wet-dog-jumps-onto-the-clean-bed`). Orange band
+(Laugh Through It).
+
+**HEADLINE:** THE SHEETS WERE<br>CLEAN FOR A MINUTE.
+
+**CAPTION (Facebook)**
+```
+Fresh sheets. Pillows fluffed. The one chore you actually finished this morning.
+
+Then the back door opened, and a dog who had just found every puddle in the yard ran right past you and onto the bed. Paws first. Very happy about it.
+
+The sheets go back in the wash. The dog moves on to the couch, which is also clean. For now.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SUN 15 NOV · 11:00 · STATIC — The last kid still waiting
+**Daily moment.** Library asset, approved: `2026-09-17/d4282fac-f534-4ed3-b21c-ac51600a49a9.png`
+("Parent Arrives Late for Pick-Up"; pool slug `parent-arrives-late-for-pick-up`). Blue band (Grow
+Through It).
+
+**HEADLINE:** THE LAST KID<br>STILL WAITING.
+
+**CAPTION (Facebook)**
+```
+You were not that late. Ten minutes, maybe fifteen. The traffic, the call that would not end, the light that stayed red.
+
+But every other car is gone, and there is your kid, waiting next to a teacher who has very clearly been there a while.
+
+You say sorry to both of them, and you mean it. On the way home you ask about their day, and you listen to the whole thing.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
 ## Open — needs Glenn
 
 1. **OpenAI key for `fable`** — the only thing between Meet Pip and Friday 08:00.
