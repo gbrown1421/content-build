@@ -27,27 +27,17 @@ due, and a slot that is really 1h late reads 2h late (the 2-hour dead-slot rule)
 
 ## Fix
 
-Replace both fixed offsets with a real America/New_York conversion. Deno supports Intl:
+The helper already exists and is correct: `supabase/functions/_shared/schedule.ts:18`
+`easternOffset(postDate)` returns `-04:00` or `-05:00` for that date via Intl. Health just never
+imported it.
 
-```ts
-// ET wall-clock → epoch ms, correct across DST.
-function etWallToMs(d: string, t: string): number {
-  const guess = Date.parse(`${d}T${t}Z`);
-  if (!Number.isFinite(guess)) return NaN;
-  const p = Object.fromEntries(new Intl.DateTimeFormat("en-US", {
-    timeZone: "America/New_York", hourCycle: "h23",
-    year: "numeric", month: "2-digit", day: "2-digit",
-    hour: "2-digit", minute: "2-digit", second: "2-digit",
-  }).formatToParts(new Date(guess)).map((x) => [x.type, x.value]));
-  const asEt = Date.UTC(+p.year, +p.month - 1, +p.day, +p.hour, +p.minute, +p.second);
-  return guess + (guess - asEt);
-}
-```
+- `import { easternOffset } from "../_shared/schedule.ts";`
+- line 163 → `Date.parse(\`${d0}T${t0}${easternOffset(d0)}\`)`
+- line 191 → `Date.parse(\`${d}T${t}${easternOffset(d)}\`)`, and drop the "-04:00 is Eastern Daylight"
+  comment.
 
-- line 163 → `const dueMs0 = d0 ? etWallToMs(d0, t0) : NaN;`
-- line 191 → `const dueMs = etWallToMs(d, t);` and drop the "-04:00 is Eastern Daylight" comment.
-
-Grep the other functions for the same literal before closing: `grep -rn "\-04:00" supabase/functions`.
+A grep of `supabase/functions` for `-04:00` (2026-11-01) finds only `health/index.ts` and the
+fallback string inside `easternOffset` itself, so the booking path is not affected.
 
 ## What it must prove (charter §4)
 
