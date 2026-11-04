@@ -50,3 +50,21 @@ fallback string inside `easternOffset` itself, so the booking path is not affect
    (the 2026-11-01 16:38Z reading above is that failure, already captured).
 
 Post a Process Alert with the Lovable deploy evidence.
+
+## Addendum 2026-11-04 (charter review, 16:40Z) — a second copy outside `supabase/functions`
+
+The grep above was scoped to `supabase/functions` and missed the app routes:
+
+- `ugh-content-hub/src/routes/api/public/hooks/daily-driver-v2.ts:234`
+  `const dueMs = Date.parse(\`${runDate}T${time}-04:00\`);`
+
+That is the Automation driver's 2-hour rescue check. Since 1 Nov it computes every slot as due an
+hour early, so a slot is marked MISSED once it is really **60 minutes** late, not 120 — the
+driver's rescue window is cut in half through March. It does not double-book (the line only
+decides MISSED vs attempt).
+
+Same fix, same deploy: import `easternOffset` (copy or share it into the app side if
+`supabase/functions/_shared` is not importable from `src/`) and use `${easternOffset(runDate)}`.
+This file is an app route, so it ships with the Lovable publish of `f42abd5c`, not the edge-function
+deploy — prove it with one driver pass on a slot between 60 and 120 minutes late (attempted, not
+MISSED). Ship both in one change and one Process Alert.
