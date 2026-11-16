@@ -1,1 +1,1 @@
-{"lastReview":"2026-11-06T02:28:50Z","reportFile":"2026-11-05-2127.md","note":"0 claims. Scheduled runs only; no Glenn turns; no commits or charter/SKILL/memory edits. Scheduler gap ~19:35Z-02:27Z."}
+{"lastReview":"2026-11-16T02:09:23Z","reportFile":"2026-11-15-2110.md","note":"0 PASS / 2 FAIL. Both unflagged Glenn directives in 2fdb915c await his go: horizon self-heal (SKILL copy drafted, not applied) and refresh-tables-workflow fix (diagnosed, not built)."}
