@@ -1910,6 +1910,281 @@ UGH happens. We still show up.
 
 ---
 
+
+★ **SUNDAY REVIEW 2026-11-15 — entries 16–29 Nov.** UGH has a row on every day, 16–29 Nov. Every still below is an approved `media_assets` row with an active `ugh_moment_pool` slug, and none appears in this file or in any `calendar_entries` row from the last 90 days (checked 15 Nov). That leaves **13** usable pool photos for **14** days, so both Wednesday comment polls are **type-only cards** and twelve photos go to the statics; the thirteenth (`sprinkler-soaks-the-delivered-package`) is held back as a summer picture. Fragile Package (24 Nov) and Dog Got Loose (21 Nov) were written into the 6 Nov and 30 Oct reels, which never posted, so neither has reached a stranger. Captions stay inside each pool row's own setup / trigger / consequence; the photos were not opened this run, so no line describes anything the pool row does not. **No UGH Friday reel:** the reactive-reel narrator is still the blocker named on the 30 Oct and 6 Nov rows.
+
+## MON 16 NOV 11:00 · STATIC — All eyes, no notes
+**Daily moment.** Library asset, approved: `2026-09-17/c53a9fae-f242-4182-9abb-88eaad50d93b.png` (pool slug `called-on-before-you-were-ready`). Express Yourself band (purple).
+
+**HEADLINE:** ALL EYES.<br>NO NOTES.
+
+**CAPTION (Facebook)**
+```
+Monday meeting. You were listening, mostly. Half a coffee in, still reading the last email.
+
+Then someone says your name, and every face at the table turns toward you at once.
+
+You do not have notes. You have a voice and about two seconds. You start talking, and somewhere around the third sentence it starts making sense.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## TUE 17 NOV 11:00 · STATIC — The walk was going so well
+**Daily moment.** Library asset, approved: `2026-09-17/f2f3bbee-dbeb-4933-aa6e-f4b72f8d0aff.png` (pool slug `dog-leash-tangled-around-everything`). Laugh Through It band (orange).
+
+**HEADLINE:** THE WALK WAS<br>GOING SO WELL.
+
+**CAPTION (Facebook)**
+```
+It was supposed to be a quick walk around the block.
+
+Then the dog went one way around a post, the other way around your legs, and back around something else entirely. Now the leash is wrapped around all of it, and so are you.
+
+You stand very still and start working backward, one loop at a time. The dog is thrilled with how this is going.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## WED 18 NOV 12:00 · COMMENT POLL — THE SLOWEST LINE vs THE BAD WHEEL
+**FB comment poll. TYPE ONLY** — the approved pool has 13 unused photos for 14 days, so both Wednesday polls are type cards and every photo goes to a static. UGH styling, orange divider.
+
+**Card:** letter **A** above **THE SLOWEST LINE**, letter **B** above **THE BAD WHEEL**. Nothing else on the card.
+
+**Poll options:** `A — The slowest line` · `B — The bad wheel`
+
+**HEADLINE:** WHICH ONE DO<br>YOU ALWAYS PICK?
+
+**CAPTION (Facebook)**
+```
+Two choices you make in about half a second at the store, and somehow get wrong every time.
+
+A — you pick the line that looks shortest, and it stops moving the moment you get in it.
+B — you pull out a cart, and one wheel has its own ideas about where you are going.
+
+Which one gets you every time? Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## THU 19 NOV 11:00 · STATIC — It was standing when we left
+**Daily moment.** Library asset, approved: `2026-09-17/a0555d50-ad3c-47bf-9116-9b50f1432c00.png` (pool slug `science-project-collapsed-in-transit`). Push Through It band (red).
+
+**HEADLINE:** IT WAS STANDING<br>WHEN WE LEFT.
+
+**CAPTION (Facebook)**
+```
+It took three nights, a glue gun, and one argument about the color of the sun. It was perfect when it went in the car.
+
+Then you opened the trunk at school. Something came loose on the first turn, and the rest gave up somewhere around the second.
+
+Five minutes before the bell, you are holding pieces together with whatever is in the car while your kid explains which part goes where.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## FRI 20 NOV 11:00 · STATIC — Of course they want to shake
+**Daily moment.** Library asset, approved: `2026-09-17/5810dfe3-f269-44ba-8fd9-c9204ac5a865.png` (pool slug `handshake-with-a-dirty-hand`). Laugh Through It band (orange).
+
+**HEADLINE:** OF COURSE THEY<br>WANT TO SHAKE.
+
+**CAPTION (Facebook)**
+```
+You were elbow-deep in it. The car, the garden, the sink, whatever needed fixing, and your hands show it.
+
+That is exactly when someone new walks over, smiling, with a hand already out.
+
+There is a half second where you both look at your hand. Then you hold up the elbow instead and act like that is how you always say hello.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SAT 21 NOV 11:00 · STATIC — The dog had other plans
+**Daily moment.** Library asset, approved: `2026-09-17/5f63c902-34d1-4d4d-9b25-0f50b7fdf983.png` (pool slug `dog-got-loose-at-the-worst-time`). Push Through It band (red).
+
+**HEADLINE:** THE DOG HAD<br>OTHER PLANS.
+
+**CAPTION (Facebook)**
+```
+Shoes on, keys in hand, five minutes to get out the door. For once, you were going to make it.
+
+Then the leash came back empty, and the dog was halfway down the street, having the best morning of its life and not coming when called.
+
+You will be late. The dog will be fine. The dog is always fine.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SUN 22 NOV 11:00 · STATIC — All the way here on the wrong feet
+**Daily moment.** Library asset, approved: `2026-09-17/62231559-b3cf-41e5-9391-097a3f1a9664.png` (pool slug `child-has-their-shoes-on-the-wrong-feet`). Grow Through It band (blue).
+
+**HEADLINE:** ALL THE WAY HERE<br>ON THE WRONG FEET.
+
+**CAPTION (Facebook)**
+```
+You got everyone fed, dressed, buckled in, and out the door on time. It was a small miracle.
+
+Then, halfway across the parking lot, you notice the way your kid is walking. Both shoes are on. Both shoes are on the wrong feet.
+
+You crouch down right there and switch them. They are proud they did it themselves, so you tell them it was a really good try.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## MON 23 NOV 11:00 · STATIC — And now it lives under there
+**Daily moment.** Library asset, approved: `2026-09-17/3057a70a-fed5-4b34-947f-f664cc868e44.png` (pool slug `cat-knocks-the-tiny-important-object-under-furniture`). Push Through It band (red).
+
+**HEADLINE:** AND NOW IT LIVES<br>UNDER THERE.
+
+**CAPTION (Facebook)**
+```
+It was the one small thing you needed. The earring back, the tiny screw, the little key to the thing. It was right there on the table.
+
+The cat looked at you. Then one paw, one tap, and it rolled off the edge and under the one piece of furniture nobody can move.
+
+You are on the floor with a flashlight and a coat hanger, and the cat is watching from above like it had nothing to do with it.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## TUE 24 NOV 11:00 · STATIC — It said fragile
+**Daily moment.** Library asset, approved: `2026-09-17/1ad9fa2a-104a-4c93-9a8e-e8b211239996.png` (pool slug `fragile-package-arrives-broken`). Grow Through It band (blue).
+
+**HEADLINE:** IT SAID<br>FRAGILE.
+
+**CAPTION (Facebook)**
+```
+It said fragile on every side of the box. Somebody read that as a suggestion.
+
+You knew before you opened it. Every box has a sound, and this one sounded like pieces.
+
+Now it is a photo for the return, an email to customer service, and a little more waiting for the thing you wanted in the first place.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## WED 25 NOV 12:00 · COMMENT POLL — THE FROZEN TURKEY vs THE FULL OVEN
+**FB comment poll. TYPE ONLY** — the approved pool has 13 unused photos for 14 days, so both Wednesday polls are type cards and every photo goes to a static. UGH styling, orange divider.
+
+**Card:** letter **A** above **THE FROZEN TURKEY**, letter **B** above **THE FULL OVEN**. Nothing else on the card.
+
+**Poll options:** `A — The frozen turkey` · `B — The full oven`
+
+**HEADLINE:** WHICH ONE IS YOUR<br>THANKSGIVING?
+
+**CAPTION (Facebook)**
+```
+The night before Thanksgiving. Two ways it goes sideways.
+
+A — it is Wednesday night, and the turkey is still a solid block of ice.
+B — everything is ready to go in, and the oven only has room for half of it.
+
+Which one is happening at your house? Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## THU 26 NOV 11:00 · STATIC — Twenty minutes until the doorbell
+**Daily moment.** Library asset, approved: `2026-09-17/e19c9c1b-0c32-492b-bd45-0f6624ab2d28.png` (pool slug `dog-rolled-in-something-awful-right-before-guests-arrive`). Push Through It band (red).
+
+**HEADLINE:** TWENTY MINUTES<br>UNTIL THE DOORBELL.
+
+**CAPTION (Facebook)**
+```
+Happy Thanksgiving. The table is set, the kitchen smells right, and everyone will be here in twenty minutes.
+
+The dog was outside for five of those minutes. The dog came back in covered in something you can smell from across the room.
+
+So it is towels, the hose, and one very offended dog, while somebody else watches the gravy. You will still be at the door when they ring.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## FRI 27 NOV 11:00 · STATIC — Nobody said a word
+**Daily moment.** Library asset, approved: `2026-09-17/026fd8c7-518b-4cc5-969f-1668585e6cad.png` (pool slug `clothing-caught-or-tucked-wrong-leaving-the-restroom`). Express Yourself band (purple).
+
+**HEADLINE:** NOBODY SAID<br>A WORD.
+
+**CAPTION (Facebook)**
+```
+You walked back out feeling good. Hair fixed, hands washed, ready for the rest of the night.
+
+Then you felt it. A draft where there should not be one. Something tucked in that was very much not supposed to be tucked in.
+
+Nobody said a word. Maybe nobody noticed. You fix it with one quick move and keep going like nothing happened.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SAT 28 NOV 11:00 · STATIC — You looked away for two minutes
+**Daily moment.** Library asset, approved: `2026-09-17/02d4d092-3207-4186-8782-f62ae324a787.png` (pool slug `baby-drops-the-remote-into-the-toilet-or-trash`). Grow Through It band (blue).
+
+**HEADLINE:** YOU LOOKED AWAY<br>FOR TWO MINUTES.
+
+**CAPTION (Facebook)**
+```
+Two minutes. You looked away for two minutes to answer the door.
+
+When you turned around, the remote was in a very small hand, held high over the one place a remote should never go. You watched it leave that hand.
+
+Gloves, paper towels, and a long talk with a little person who thinks this was a great game. The TV can wait.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SUN 29 NOV 11:00 · STATIC — First step of the day
+**Daily moment.** Library asset, approved: `2026-09-17/718b4c8c-89a2-42b0-8b5e-be8f54a1aca8.png` (pool slug `bare-foot-finds-the-pet-mess`). Laugh Through It band (orange).
+
+**HEADLINE:** FIRST STEP<br>OF THE DAY.
+
+**CAPTION (Facebook)**
+```
+Sunday morning. No alarm, no plans, nowhere to be. You walk out barefoot to start the coffee.
+
+Then your foot finds the little gift your pet left on the floor overnight.
+
+You hop to the sink on one foot. Your pet watches from the doorway, completely unbothered. The coffee will have to wait.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
 ## Open — needs Glenn
 
 1. **OpenAI key for `fable`** — the only thing between Meet Pip and Friday 08:00.
