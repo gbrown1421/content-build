@@ -1,0 +1,358 @@
+<meta name="claude:viewport-fit-sides" content="cover">
+<title>Content Routing Decision Points</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+  /* Layout: single measured column; dense reference tables, severity-coded conflict blocks. */
+  :root {
+    --bg: #f7f8fa;
+    --surface: #ffffff;
+    --fg: #16181d;
+    --muted: #5b6270;
+    --line: #dde1e8;
+    --accent: #2f5fd0;
+    --ok: #1a7f4b;
+    --ok-bg: #e8f5ee;
+    --warn: #9a6400;
+    --warn-bg: #fdf3e0;
+    --bad: #b3251f;
+    --bad-bg: #fcecea;
+    --code-bg: #eef1f5;
+    --font-text: "Inter", system-ui, -apple-system, sans-serif;
+    --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #101216;
+      --surface: #171a20;
+      --fg: #e6e9ef;
+      --muted: #969ead;
+      --line: #2a2f39;
+      --accent: #7aa2f7;
+      --ok: #5fcf92;
+      --ok-bg: #12291d;
+      --warn: #e0b057;
+      --warn-bg: #2b2210;
+      --bad: #f0837c;
+      --bad-bg: #2e1614;
+      --code-bg: #1e222a;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #101216;
+    --surface: #171a20;
+    --fg: #e6e9ef;
+    --muted: #969ead;
+    --line: #2a2f39;
+    --accent: #7aa2f7;
+    --ok: #5fcf92;
+    --ok-bg: #12291d;
+    --warn: #e0b057;
+    --warn-bg: #2b2210;
+    --bad: #f0837c;
+    --bad-bg: #2e1614;
+    --code-bg: #1e222a;
+    color-scheme: dark;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--font-text);
+    font-size: 15px;
+    line-height: 1.55;
+    margin: 0;
+  }
+  .wrap {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+    padding-right: max(16px, env(safe-area-inset-right, 0px));
+    padding-block: 36px 72px;
+  }
+
+  h1 { font-size: 27px; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 6px; text-wrap: balance; }
+  .sub { color: var(--muted); font-size: 14px; margin: 0 0 8px; max-width: 70ch; }
+  .stamp { font-family: var(--font-mono); font-size: 11.5px; color: var(--muted); margin: 0 0 32px; }
+
+  h2 {
+    font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.09em;
+    color: var(--muted); margin: 44px 0 4px; padding-bottom: 7px; border-bottom: 1px solid var(--line);
+  }
+  h2 .n { color: var(--accent); font-family: var(--font-mono); margin-right: 8px; }
+  .lede { color: var(--muted); font-size: 14px; margin: 12px 0 16px; max-width: 76ch; }
+
+  code, .m { font-family: var(--font-mono); font-size: 0.875em; }
+  code { background: var(--code-bg); padding: 1.5px 5px; border-radius: 3px; }
+  .path { font-family: var(--font-mono); font-size: 11.5px; color: var(--muted); }
+
+  .scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 0 4px; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; background: var(--surface); }
+  th {
+    text-align: left; font-size: 10.5px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.07em; color: var(--muted); padding: 9px 12px;
+    border-bottom: 1px solid var(--line); white-space: nowrap; background: var(--bg);
+  }
+  td { padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+  .step { font-family: var(--font-mono); font-weight: 600; color: var(--accent); white-space: nowrap; }
+  .nowrap { white-space: nowrap; }
+
+  .tag {
+    display: inline-block; font-family: var(--font-mono); font-size: 11px; font-weight: 600;
+    padding: 2px 7px; border-radius: 3px; white-space: nowrap;
+  }
+  .t-auto { background: var(--ok-bg); color: var(--ok); }
+  .t-peer { background: var(--bad-bg); color: var(--bad); }
+  .t-glenn { background: var(--warn-bg); color: var(--warn); }
+  .t-none { background: var(--code-bg); color: var(--muted); }
+
+  .yes { color: var(--ok); font-weight: 600; }
+  .no { color: var(--bad); font-weight: 600; }
+
+  .conflict {
+    background: var(--surface); border: 1px solid var(--line);
+    border-left: 3px solid var(--bad); border-radius: 4px;
+    padding: 16px 18px; margin: 0 0 14px;
+  }
+  .conflict.minor { border-left-color: var(--warn); }
+  .conflict.okrow { border-left-color: var(--ok); }
+  .chead { display: flex; flex-wrap: wrap; gap: 10px; align-items: baseline; margin-bottom: 10px; }
+  .cnum {
+    font-family: var(--font-mono); font-size: 11px; font-weight: 600; color: var(--bad);
+    background: var(--bad-bg); padding: 2px 7px; border-radius: 3px; white-space: nowrap;
+  }
+  .conflict.minor .cnum { color: var(--warn); background: var(--warn-bg); }
+  .conflict.okrow .cnum { color: var(--ok); background: var(--ok-bg); }
+  .ctitle { font-weight: 600; font-size: 15px; min-width: 0; }
+  .says { display: grid; grid-template-columns: 92px 1fr; gap: 5px 14px; font-size: 13.5px; margin-bottom: 11px; }
+  .says dt {
+    font-family: var(--font-mono); font-size: 11px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.05em; color: var(--muted); padding-top: 3px;
+  }
+  .says dd { margin: 0; min-width: 0; }
+  .effect { font-size: 13.5px; border-top: 1px solid var(--line); padding-top: 10px; color: var(--fg); }
+  .effect b { color: var(--bad); }
+  .conflict.okrow .effect b { color: var(--ok); }
+
+  .trace {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 4px;
+    padding: 14px 16px; font-family: var(--font-mono); font-size: 12.5px; line-height: 1.75;
+    overflow-x: auto; white-space: pre; color: var(--fg);
+  }
+  .trace .c { color: var(--muted); }
+  .trace .hit { color: var(--bad); font-weight: 600; }
+
+  .fix { background: var(--surface); border: 1px solid var(--line); border-radius: 4px; padding: 18px 20px; }
+  .fix ol { margin: 0; padding-left: 20px; }
+  .fix li { margin-bottom: 11px; }
+  .fix li:last-child { margin-bottom: 0; }
+
+  .note { font-size: 13px; color: var(--muted); margin-top: 14px; max-width: 76ch; }
+
+  @media (max-width: 560px) {
+    .says { grid-template-columns: 1fr; gap: 2px; }
+    .says dt { padding-top: 7px; }
+  }
+</style>
+
+<div class="wrap">
+
+  <h1>Content Routing Decision Points</h1>
+  <p class="sub">Every rule that decides who builds a calendar row, where each one is written, and the four places the documents disagree with the code that actually runs.</p>
+  <p class="stamp">Read from live code and the live calendar, 2026-11-16</p>
+
+  <h2><span class="n">01</span>The ladder the server actually walks</h2>
+  <p class="lede">One function decides every row: <code>ownerOf()</code> in <span class="path">supabase/functions/_shared/formats.ts:133</span>, called by the driver at <span class="path">src/routes/api/public/hooks/daily-driver-v2.ts:219</span>. It stops at the first match.</p>
+  <div class="scroll">
+    <table>
+      <thead>
+        <tr><th>Step</th><th>Test</th><th>Owner</th><th>Notes</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="step">1</td>
+          <td><code>isStoryPoll(row)</code></td>
+          <td><span class="tag t-glenn">glenn</span></td>
+          <td>Absolute. Overrides an explicit <code>assigned_to</code>, because GHL cannot post an Instagram Story.</td>
+        </tr>
+        <tr>
+          <td class="step">2</td>
+          <td><code>assigned_to</code> is <span class="m">automation</span>, <span class="m">peer</span> or <span class="m">glenn</span></td>
+          <td>that value</td>
+          <td>An explicit assignment beats the format. This is the step that killed two rows.</td>
+        </tr>
+        <tr>
+          <td class="step">2a</td>
+          <td>…and it also carries a <code>handoff_reason</code>, is not <span class="m">glenn</span>, and the format is naturally the Automation's</td>
+          <td><span class="tag t-auto">automation</span></td>
+          <td>Reclaim rule. A machine that gave up once does not own the row forever.</td>
+        </tr>
+        <tr>
+          <td class="step">3</td>
+          <td><code>assigned_to</code> is blank, <span class="m">builder</span>, or any other string</td>
+          <td><span class="tag t-none">ignored</span></td>
+          <td><b>'builder' is not an assignable holder</b> (Glenn, 2026-09-12). Falls through to the format.</td>
+        </tr>
+        <tr>
+          <td class="step">4</td>
+          <td><code>post_type = video</code>, or format begins <span class="m">reel · video · carousel · ad · episode · vo</span></td>
+          <td><span class="tag t-peer">peer</span></td>
+          <td>Anything the server compositor cannot make as a single still.</td>
+        </tr>
+        <tr>
+          <td class="step">5</td>
+          <td>everything else — any still, any project</td>
+          <td><span class="tag t-auto">automation</span></td>
+          <td>The default. An unlabelled row is a still until the Planner says otherwise.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2><span class="n">02</span>What the driver does once it knows the owner</h2>
+  <p class="lede">Checked in this order, every two hours, for every unposted row.</p>
+  <div class="scroll">
+    <table>
+      <thead><tr><th>Gate</th><th>Condition</th><th>Outcome</th></tr></thead>
+      <tbody>
+        <tr><td class="nowrap">Not mine</td><td><code>owner !== "automation"</code></td><td><b>Logged and skipped entirely.</b> No build, no booking, no retry — the row is left for a local run that may never come.</td></tr>
+        <tr><td class="nowrap">Expired</td><td>slot more than 120 min past</td><td>Counted <span class="m">MISSED</span>. Never rolled to tomorrow.</td></tr>
+        <tr><td class="nowrap">Video</td><td><code>post_type = video</code></td><td>Handed off — the compositor makes stills only.</td></tr>
+        <tr><td class="nowrap">Burned</td><td><code>render_attempts &gt;= 3</code></td><td><span class="m">EXCEPTION</span>, not retried.</td></tr>
+        <tr><td class="nowrap">No copy</td><td><code>missingCopy()</code> non-empty</td><td>Handed to Glenn with the reason. The Automation never writes copy.</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2><span class="n">03</span>Who runs, when, and what survives a closed laptop</h2>
+  <p class="lede">This is the column that decides whether a row lives or dies while you are away.</p>
+  <div class="scroll">
+    <table>
+      <thead><tr><th>Runner</th><th>Schedule</th><th>Runs where</th><th>Survives a closed laptop</th></tr></thead>
+      <tbody>
+        <tr>
+          <td class="nowrap"><b>Automation</b> <span class="path">daily-driver-v2</span></td>
+          <td class="nowrap">every 2h from 06:00 ET</td>
+          <td class="nowrap">server</td>
+          <td><span class="yes">YES</span> — ran every slot, Nov 5–15, zero gaps</td>
+        </tr>
+        <tr>
+          <td class="nowrap"><b>builder-morning-run</b></td>
+          <td class="nowrap"><code>15 6 * * *</code></td>
+          <td class="nowrap">local Claude app</td>
+          <td><span class="no">NO</span></td>
+        </tr>
+        <tr>
+          <td class="nowrap"><b>peer-morning-run</b></td>
+          <td class="nowrap"><code>30 6 * * *</code></td>
+          <td class="nowrap">local Claude app</td>
+          <td><span class="no">NO</span></td>
+        </tr>
+        <tr>
+          <td class="nowrap"><b>producer-sweep</b></td>
+          <td class="nowrap"><code>45 7,9,…,21 * * *</code></td>
+          <td class="nowrap">local Claude app</td>
+          <td><span class="no">NO</span></td>
+        </tr>
+        <tr>
+          <td class="nowrap"><b>sunday-content-review</b></td>
+          <td class="nowrap"><code>0 8 * * 0</code></td>
+          <td class="nowrap">local Claude app</td>
+          <td><span class="no">NO</span> — and a weekly task does not backfill</td>
+        </tr>
+        <tr>
+          <td class="nowrap"><b>Glenn</b></td>
+          <td class="nowrap">by hand</td>
+          <td class="nowrap">Instagram app</td>
+          <td>Story polls only</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="note">So any row routed to <span class="m">peer</span> or <span class="m">builder</span> is a row that only exists while the app is open. Routing to <span class="m">automation</span> is the only setting that is unconditionally safe.</p>
+
+  <h2><span class="n">04</span>Where the documents disagree with the code</h2>
+  <p class="lede">Four of these. The code wins every time, because the code is what runs.</p>
+
+  <div class="conflict">
+    <div class="chead"><span class="cnum">CONFLICT 1</span><span class="ctitle">A still marked <span class="m">'peer'</span> is silently fatal</span></div>
+    <dl class="says">
+      <dt>SKILL.md</dt><dd>The <span class="path">sunday-content-review</span> assignment table has <b>no line that produces 'peer' for a Static.</b> It wrote 'peer' anyway on 3 of the 11 UGH stills it created on 2026-11-01.</dd>
+      <dt>Code</dt><dd><span class="m">peer</span> <i>is</i> assignable, so step 2 honours it and the format default at step 5 never runs.</dd>
+    </dl>
+    <div class="effect"><b>Effect:</b> the server sees the row every two hours, correctly identifies it as the Peer's, and skips it forever. Nov 6 and Nov 9 both died this way. The eight siblings from the same batch marked <span class="m">automation</span> all posted.</div>
+  </div>
+
+  <div class="conflict">
+    <div class="chead"><span class="cnum">CONFLICT 2</span><span class="ctitle">The documents route carousels to the Builder; the code routes them to the Peer</span></div>
+    <dl class="says">
+      <dt>SKILL.md</dt><dd><span class="path">builder-morning-run:69</span> claims "carousels in any project". <span class="path">peer-morning-run:71</span> agrees. Charter §2c agrees.</dd>
+      <dt>Code</dt><dd><span class="path">formats.ts:58</span> matches <code>carousel</code> in the Peer regex. An unassigned carousel is reported as <b>PEER'S</b>.</dd>
+    </dl>
+    <div class="effect"><b>Effect:</b> three documents say one thing and the server does the opposite. A carousel nobody assigns goes to the Peer — a local run — not the Builder.</div>
+  </div>
+
+  <div class="conflict">
+    <div class="chead"><span class="cnum">CONFLICT 3</span><span class="ctitle"><span class="m">'builder'</span> is written by one run and discarded by the server</span></div>
+    <dl class="says">
+      <dt>SKILL.md</dt><dd><span class="path">sunday-content-review:89</span> — <code>stills, carousels, Story poll backgrounds -&gt; 'builder'</code></dd>
+      <dt>Code</dt><dd><span class="path">formats.ts:107</span> — <code>ASSIGNABLE = ["automation","peer","glenn"]</code>. 'builder' is not in it, so the value is thrown away and the format decides (Glenn, 2026-09-12).</dd>
+      <dt>But also</dt><dd><span class="path">builder-morning-run:76</span> <i>does</i> claim rows marked 'builder'.</dd>
+    </dl>
+    <div class="effect"><b>Effect:</b> a still marked 'builder' is claimed by <b>both</b> the server (via the format default) and the local Builder run. It usually works by accident, because the format default is the right answer anyway — but the value written in the column is a fiction, and two runners believe they own the row.</div>
+  </div>
+
+  <div class="conflict minor">
+    <div class="chead"><span class="cnum">CONFLICT 4</span><span class="ctitle">The Sunday review writes <span class="m">assigned_to</span> at all</span></div>
+    <dl class="says">
+      <dt>The shape</dt><dd>Every value that run can write falls into one of three cases: it matches the format default (a no-op), it is 'builder' (discarded), or it overrides the default (the only case that changes anything).</dd>
+      <dt>Code</dt><dd>The format default at steps 4–5 is already correct for every row type on the calendar.</dd>
+    </dl>
+    <div class="effect"><b>Effect:</b> the one case where the column has real force is the one case where it is always wrong. A planning run has no information the format does not already carry.</div>
+  </div>
+
+  <div class="conflict okrow">
+    <div class="chead"><span class="cnum">AGREES</span><span class="ctitle">Story polls → Glenn</span></div>
+    <dl class="says">
+      <dt>Everywhere</dt><dd>Charter §2c-1, both morning runs, the Sunday review and <code>isStoryPoll()</code> all say the same thing, and the code enforces it at step 1 ahead of every other rule.</dd>
+    </dl>
+    <div class="effect"><b>This is what a rule looks like when it is written once and enforced in code.</b> It has never misrouted a row.</div>
+  </div>
+
+  <h2><span class="n">05</span>The two dead rows, traced</h2>
+  <p class="lede">UGH Static, 2026-11-06 11:00 — identical in every field to the eight that posted, except one.</p>
+  <div class="trace"><span class="c">row:   project=ugh  planned_format=Static  post_type=daily_moment</span>
+<span class="c">       image_direction="Library asset 2026-09-17/489a0beb-….png"</span>
+<span class="c">       assigned_to="peer"   handoff_reason=NULL</span>
+
+ownerOf(row)
+  step 1  isStoryPoll        -> false
+  <span class="hit">step 2  assigned_to="peer" is ASSIGNABLE  -> "peer"   ◄ stops here</span>
+  step 2a handoff_reason is NULL, so no reclaim
+  step 5  (never reached — would have returned "automation")
+
+daily-driver-v2:220   maker !== "automation"  ->  log "PEER'S", continue
+
+<span class="c">driver log, every 2h:</span>
+  2026-11-06 11:00Z  in_scope 2  with_peer 1  missed 0
+  2026-11-06 18:00Z  in_scope 2  with_peer 0  <span class="hit">missed 1</span>
+  2026-11-09 11:00Z  in_scope 2  with_peer 1  missed 0
+  2026-11-09 14:00Z  in_scope 2  with_peer 0  <span class="hit">missed 1</span>
+
+<span class="c">only attempt ever made: peer-morning-run, 2026-11-15 20:11 ET — nine days late</span>
+<span class="c">  -> "generation refused: no_image_in_response" -> expired by the 2-hour rule</span></div>
+  <p class="note">The server was never down. It saw the row nine times and declined it nine times, correctly, because one column told it the row belonged to somebody else.</p>
+
+  <h2><span class="n">06</span>What fixes it</h2>
+  <div class="fix">
+    <ol>
+      <li><b>The Sunday review stops writing <span class="m">assigned_to</span> on anything but a deliberate exception.</b> Leave it NULL and the format default routes every row correctly, with no second copy of the rule to drift. This removes conflicts 1, 3 and 4 at once.</li>
+      <li><b>Delete the <span class="m">'builder'</span> target from the assignment table.</b> The server discards it; only the local Builder run reads it, and that run can find its own work by format.</li>
+      <li><b>Reconcile the carousel rule.</b> Either the code moves carousels to the Builder or the three documents stop claiming them. One of the two has to give, and the code is what runs.</li>
+      <li><b>Say in one line, in each file, that <span class="path">_shared/formats.ts</span> is the routing authority</b> — the same way Story polls are already settled. Any ownership rule restated in prose is a rule that will drift.</li>
+    </ol>
+  </div>
+  <p class="note">Items 1 and 2 are SKILL.md edits and need your approval on the copy before anything is written. Item 3 is a decision only you can make. Item 4 follows whichever way item 3 goes.</p>
+
+</div>
