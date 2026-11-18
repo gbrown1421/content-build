@@ -1,1 +1,1 @@
-{"lastReview":"2026-11-18T00:49:20Z","reportFile":"2026-11-17-1950.md","note":"1 PASS / 1 FAIL. slots-email-sweep never run (global_limit hold). Scheduler held ~5h 19:47Z-00:47Z. Carried contradictions (carousel owner, sunday-content-review role table) still await Glenn."}
+{"lastReview":"2026-11-18T02:10:01Z","reportFile":"2026-11-17-2110.md","note":"0 claims in window. slots-email-sweep ran 00:52Z (prior FAIL closed). Scheduler hold cleared. Carried contradictions (carousel owner, sunday-content-review role table) still await Glenn."}
