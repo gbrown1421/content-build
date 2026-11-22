@@ -2185,6 +2185,154 @@ UGH happens. We still show up.
 
 ---
 
+
+★ **SUNDAY REVIEW 2026-11-22 — entries 30 Nov–6 Dec.** UGH has a row on every day, 30 Nov–6 Dec. **Every one is a type-only card, with no photograph.** Checked 22 Nov: every approved `ugh_moment_pool` photo with a brief is inside its 90-day lock, and the first one back is `snack-explosion-in-the-back-seat` on 20 Dec. `sprinkler-soaks-the-delivered-package` stays held as a summer picture. The August daily-moment photos in `media_assets` are out of lock, but they have no pool brief and the bucket is private, so they could not be opened. No caption is written against a picture nobody looked at. So the week alternates the two type formats: Comment poll (12:00) and Question post (11:00). Question post is new to UGH but it is not a new format, because RVA runs it every week. No UGH reel this week. All seven rows are `builder`, the same as the type-only polls.
+
+## MON 30 NOV 12:00 · COMMENT POLL — THE LEFTOVERS vs THE DISHES
+**FB comment poll. TYPE ONLY.** UGH styling, orange divider. Laugh Through It band (orange).
+
+**Card:** letter **A** above **THE LEFTOVERS**, letter **B** above **THE DISHES**. Nothing else on the card.
+
+**Poll options:** `A — The leftovers` · `B — The dishes`
+
+**HEADLINE:** WHICH ONE IS STILL<br>WAITING FOR YOU?
+
+**CAPTION (Facebook)**
+```
+The Monday after Thanksgiving. The guests are gone, and something got left behind.
+
+A — the leftovers. The fridge is still full, and nobody can look at another plate of it.
+B — the dishes. The big pan has been soaking since Thursday, and it is not getting any cleaner.
+
+Which one is waiting at your house? Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## TUE 1 DEC 11:00 · QUESTION POST — What have you been putting off
+**TYPE ONLY — no photograph.** UGH styling. Push Through It band (red).
+
+**HEADLINE:** WHAT HAVE YOU BEEN<br>PUTTING OFF?
+
+**CAPTION (Facebook)**
+```
+Every list has one. The call you keep meaning to make. The form that has been sitting on the counter since October. The oil change the car keeps reminding you about.
+
+It is the first of December. What is the one you keep pushing to next week?
+
+Tell us below. Then maybe knock it out today.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## WED 2 DEC 12:00 · COMMENT POLL — THE TAPE vs THE SCISSORS
+**FB comment poll. TYPE ONLY.** UGH styling, orange divider. Laugh Through It band (orange).
+
+**Card:** letter **A** above **THE TAPE**, letter **B** above **THE SCISSORS**. Nothing else on the card.
+
+**Poll options:** `A — The tape` · `B — The scissors`
+
+**HEADLINE:** WHICH ONE RUINS<br>THE WRAPPING?
+
+**CAPTION (Facebook)**
+```
+Gift wrapping season. Two ways it falls apart before the first box is done.
+
+A — the tape. You can't find the end of the roll, and when you do, it tears off in a skinny little strip.
+B — the scissors. They were right here a second ago. Now they are nowhere.
+
+Which one gets you? Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## THU 3 DEC 11:00 · QUESTION POST — What went sideways this week
+**TYPE ONLY — no photograph.** UGH styling. Express Yourself band (purple).
+
+**HEADLINE:** WHAT WENT SIDEWAYS<br>THIS WEEK?
+
+**CAPTION (Facebook)**
+```
+It's Thursday. Somewhere between Monday and now, something did not go the way it was supposed to.
+
+The printer that picked today to quit. The parking spot someone took right as you pulled in. The school project nobody mentioned until last night.
+
+What was yours? Tell us below. You are not the only one.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## FRI 4 DEC 12:00 · COMMENT POLL — THE GROUP CHAT vs THE REPLY-ALL
+**FB comment poll. TYPE ONLY.** UGH styling, purple divider. Express Yourself band (purple).
+
+**Card:** letter **A** above **THE GROUP CHAT**, letter **B** above **THE REPLY-ALL**. Nothing else on the card.
+
+**Poll options:** `A — The group chat` · `B — The reply-all`
+
+**HEADLINE:** WHICH ONE IS BLOWING<br>UP YOUR PHONE?
+
+**CAPTION (Facebook)**
+```
+December plans. Two ways your phone stops being yours.
+
+A — the group chat. Ninety messages about one dinner, and still no date.
+B — the reply-all. Someone at work answered the whole company about the holiday party, and now everyone is answering them.
+
+Which one is buzzing right now? Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## SAT 5 DEC 11:00 · QUESTION POST — What went right this week
+**TYPE ONLY — no photograph.** UGH styling. Grow Through It band (blue).
+
+**HEADLINE:** WHAT WENT RIGHT<br>THIS WEEK?
+
+**CAPTION (Facebook)**
+```
+Not everything went sideways this week. Something went right, even if it was small.
+
+The bill paid before the due date. The kid who said thank you without being asked. The sock that came out of the dryer with its partner.
+
+What was yours? Tell us below. Small counts.
+
+UGH happens. We still show up.
+```
+**IG last line:** `UGH happens. We still show up.`
+
+---
+
+## SUN 6 DEC 12:00 · COMMENT POLL — THE TREE vs THE LIGHTS
+**FB comment poll. TYPE ONLY.** UGH styling, red divider. Push Through It band (red).
+
+**Card:** letter **A** above **THE TREE**, letter **B** above **THE LIGHTS**. Nothing else on the card.
+
+**Poll options:** `A — The tree` · `B — The lights`
+
+**HEADLINE:** WHICH ONE IS FIGHTING<br>YOU THIS YEAR?
+
+**CAPTION (Facebook)**
+```
+Decorating weekend. Two ways it goes sideways.
+
+A — the tree. It leans a little to the left, no matter how many times you turn it.
+B — the lights. They worked when you packed them away. Now half the strand is dark.
+
+Which one is giving you trouble? Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
 ## Open — needs Glenn
 
 1. **OpenAI key for `fable`** — the only thing between Meet Pip and Friday 08:00.

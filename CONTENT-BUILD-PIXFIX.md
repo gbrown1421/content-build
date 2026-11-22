@@ -2072,6 +2072,170 @@ Order: https://pixfixstudio.com/order.html
 
 ---
 
+★ **SUNDAY REVIEW 2026-11-22 — entries 30 Nov–6 Dec.** Every picture is a named file in `media_assets` (checked 22 Nov). $129 single-character Standard was read off pixfixstudio.com, signed out, 22 Nov. Nine files per character, no watermark and transparent PNG come from the deliverables model in memory `pixfix-studio-service`. Characters are the least used in this file: Spel, Moxie Bell, Kitt, Kaito Mochi, Ollie Quibble and Tank Bramble. `vintage-gramophone` has never been used and is still skipped, because it is an object, not a character, and nobody has said it belongs in marketing. The plates were not opened, so no line claims a color, a prop or an outfit. Captions describe angles.
+
+## MON 30 NOV 12:00 · CAROUSEL 5 slides · The left side gets its own three
+**PixFix styling.** Library assets only. One character: Spel. **The cover says three, and slides 2, 3 and 4 are the three.**
+
+| Slide | Picture | Text |
+|---|---|---|
+| 1 | `studio-canon/spel/master-reference-b55fd9fc.png` | THE LEFT SIDE GETS ITS OWN THREE ANGLES. |
+| 2 | `studio-canon/spel/three-quarter-left-c0cf652a.png` | Three-quarter left. |
+| 3 | `studio-canon/spel/left-profile-d6ea00f7.png` | Left profile. |
+| 4 | `studio-canon/spel/rear-three-quarter-left-b38e094c.png` | Rear three-quarter left. |
+| 5 | All eight `studio-canon/spel/` angle files as one sheet | The right side gets its own three too. Eight angles plus the full sheet, from $129. |
+
+**CAPTION (Facebook)**
+```
+A character's left side is not just its right side flipped over. So in a PixFix set, the left side gets its own three angles: three-quarter left, left profile and rear three-quarter left.
+
+The right side gets its own three. Add the front and the back, and that is eight angles, plus the full sheet with all of them on one page.
+
+This is Spel.
+
+Nine files. No watermark. From $129.
+
+Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## TUE 1 DEC 17:00 · STATIC — Turnaround of the week — the profile
+**PixFix styling.** Library assets only. `studio-canon/moxie-bell/right-profile-134ed2cd.png`, full bleed.
+
+**HEADLINE:** THE SIDE THAT<br>SHOWS THE SHAPE.
+
+**CAPTION (Facebook)**
+```
+The profile is where a character's shape shows most clearly: the line of the face, the posture, how the character stands from the side.
+
+If anything drifts between the front and the side, the profile is where people notice it first.
+
+This is Moxie Bell, right profile.
+
+Nine files. No watermark. From $129.
+
+Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## WED 2 DEC 18:00 · REEL — All eight, one character
+**PixFix styling.** Library assets only, no generation. **This reel SPEAKS.** The narrator is picked at random by `content-kit/pixfix/say.mjs`. One character the whole way: KITT.
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–4s | `studio-canon/kitt/master-reference-60f81ce6.png` | ONE PICTURE IN | `This is Kitt. One picture to start.` |
+| 4–12s | `studio-canon/kitt/front-e8a142b9.png` → `studio-canon/kitt/three-quarter-left-6c1bfa72.png` → `studio-canon/kitt/left-profile-98935018.png` → `studio-canon/kitt/rear-three-quarter-left-c1834e52.png` | *(nothing — the voice carries it)* | `From that one picture, the front, then around the left side, angle by angle.` |
+| 12–17s | `studio-canon/kitt/rear-c35cb572.png` → `studio-canon/kitt/rear-three-quarter-right-b563adb4.png` → `studio-canon/kitt/right-profile-260ba1fa.png` → `studio-canon/kitt/three-quarter-right-63324340.png` | AND BACK AROUND | `Then the back, and around the right side to the front.` |
+| 17–21s | All eight `studio-canon/kitt/` angle files as one sheet | 8 ANGLES · 9 FILES | `Eight angles and the full sheet. No watermark.` |
+| 21–24s | PixFix brand card | FROM $129 · PIXFIXSTUDIO.COM | `From a hundred and twenty-nine dollars.` |
+
+**46 spoken words. 24s allows 55.** Beat by beat it is 7 / 14 / 11 / 8 / 6, against budgets of 9.2 / 18.4 / 11.5 / 9.2 / 6.9.
+
+**CAPTION (Facebook)**
+```
+One picture to start.
+
+From that, the front, then around the left side, angle by angle. Then the back, and around the right side to the front again. The full sheet puts all eight angles on one page.
+
+Nine files, no watermark. This is Kitt.
+
+From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## THU 3 DEC 12:00 · CAROUSEL 5 slides · Three places a turnaround gets used
+**PixFix styling.** Library assets only. One character: Kaito Mochi. **The cover says three, and slides 2, 3 and 4 are the three.** The three uses echo the live site's own line: "the reference sheet animators, modelers, and merch printers actually ask for" (pixfixstudio.com, read 22 Nov).
+
+| Slide | Picture | Text |
+|---|---|---|
+| 1 | `studio-canon/kaito-mochi/master-reference-ee23f6f1.png` | THREE PLACES A TURNAROUND GETS USED |
+| 2 | `studio-canon/kaito-mochi/three-quarter-left-c1a9795a.png` | Comics. Every panel catches the character from a new angle. |
+| 3 | `studio-canon/kaito-mochi/rear-5faa733c.png` | Games and animation. A modeler or animator needs the back and the sides, not just the front. |
+| 4 | `studio-canon/kaito-mochi/left-profile-fcde1d47.png` | Merch. Whoever makes it needs to see every side of the character. |
+| 5 | All eight `studio-canon/kaito-mochi/` angle files as one sheet | Eight angles and the full sheet. No watermark, from $129. |
+
+**CAPTION (Facebook)**
+```
+Where does a turnaround actually get used? Three places it earns its keep.
+
+Comics, where every panel catches the character from a new angle. Games and animation, where a modeler or animator needs the back and the sides, not just the front. And merch, where whoever makes it needs to see every side of the character.
+
+This is Kaito Mochi. Eight angles and the full sheet.
+
+Nine files. No watermark. From $129. Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## FRI 4 DEC 17:00 · STATIC — Turnaround of the week — the rear three-quarter right
+**PixFix styling.** Library assets only. `studio-canon/ollie-quibble/rear-three-quarter-right-1a143c2d.png`, full bleed.
+
+**HEADLINE:** HALF THE BACK.<br>HALF THE SIDE.
+
+**CAPTION (Facebook)**
+```
+The rear three-quarter is the angle you need when a character turns away. Half the back, half the side.
+
+It is the hardest angle to guess from a front view, which is why every PixFix set has one on each side.
+
+This is Ollie Quibble, rear three-quarter right.
+
+Nine files. No watermark. From $129.
+
+Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
+## SAT 5 DEC 12:00 · COMMENT POLL — Where does the backstory live?
+**FB comment poll.** PixFix styling, A/B split card on white.
+
+**Card:** TYPE ONLY. PixFix white, split down the middle with the PixFix rule. Left half: letter **A** above **IT'S WRITTEN DOWN**. Right half: letter **B** above **IT'S IN MY HEAD**. Nothing else on the card.
+
+**Poll options:** `A — It's written down` · `B — It's in my head`
+
+**CAPTION (Facebook)**
+```
+Quick one for anyone with an original character. Where does the backstory live?
+
+A — written down. A doc, a wiki, a notebook full of it.
+B — in your head. You know exactly who they are, you just haven't put it on paper yet.
+
+Either way, the turnaround only needs one thing from you: one picture. Comment A or B.
+```
+**IG last line:** `Comment A or B.`
+
+---
+
+## SUN 6 DEC 17:00 · STATIC — Turnaround of the week — the full sheet
+**PixFix styling.** Library assets only. All eight `studio-canon/tank-bramble/` angle files as one sheet: `front-4b02b513`, `three-quarter-right-3fc2a6d8`, `right-profile-4159ecb8`, `rear-three-quarter-right-752b46dc`, `rear-eccdf4d1`, `rear-three-quarter-left-3816b362`, `left-profile-7f3cffdd`, `three-quarter-left-fcadd560` (all `.png`).
+
+**HEADLINE:** THE WHOLE CHARACTER<br>ON ONE PAGE.
+
+**CAPTION (Facebook)**
+```
+Eight angles make up the set. The full sheet is how most people actually use it: every angle, side by side, on one page.
+
+Pin it up next to your desk, drop it into a pitch, or send it to whoever is drawing the character next.
+
+This is Tank Bramble, all eight angles.
+
+Nine files. No watermark. From $129.
+
+Order: https://pixfixstudio.com/order.html
+```
+**IG last line:** `pixfixstudio.com/order.html — link in bio.`
+
+---
+
 ## Open — needs Glenn
 
 1. **Delete the Wed "winner delivered" post** from PixFix FB and IG. It states a winner who does

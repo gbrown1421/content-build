@@ -2172,6 +2172,181 @@ We check Richmond fares every morning: https://rvacheapflights.com/deals
 
 ---
 
+★ **SUNDAY REVIEW 2026-11-22 — entries 30 Nov–6 Dec.** Every picture is a named file in `media_assets`. Each was downloaded from the RVA media host and viewed on 22 Nov, and none appears anywhere earlier in this file. Every WIN hero except `EWR_WIN_pru-center.jpg` has been used since late October, so the photo slots use beach and waterfront heroes with no seasonal cues, and both carousels are type only. Left out after viewing: `CDG_SUM_louvre-pyramid.jpg`, `LIS_SPR_belem-tower.jpg`, `LAS_SPR_Bellagio fountains.jpg` and `JFK_SUM_statue-liberty.jpg` (summer flowers and full green trees, wrong for December); `PLS_FAL_sapodilla-bay.jpg` (orange autumn leaves on a Caribbean beach); `EWR_WIN_pru-center.jpg` (rendered signage, and people eating outside beside snow). Destination lines are from `DESTINATION-LINES.md`, verbatim or cut down. No fares anywhere. Story poll `.txt` drop files are not written by this run: `rva/build-poll-dropfiles.mjs` still writes both files, and the split in charter §2c-1 is not built.
+
+## MON 30 NOV 07:30 · STORY POLL — THE HOLIDAY TRIP *(Instagram only)*
+- **Question:** Going home for the holidays: drive, or fly?
+- **A:** Drive · **B:** Fly
+- **Background:** title **THE HOLIDAY TRIP**, line **Drive, or fly?**
+
+★ Posted by hand. GHL cannot post an Instagram Story.
+
+---
+
+## MON 30 NOV 18:00 · REEL 30s — Destination review: Punta Cana
+**RVA styling.** Segoe UI Black, RVA logo, navy/orange. Never the UGH font. No fare anywhere. **42 spoken words. 30s allows 69.** Lines are the Punta Cana winter and spring entries in `DESTINATION-LINES.md`, cut down. Picture viewed 22 Nov: a palm-lined beach, a thatched-roof restaurant, tables on the sand and boats offshore, with no text in frame. The filename says Saona Island, so nothing in the reel names the beach.
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–8s | `rva/heroes/PUJ_SUM_saona-island.jpg` | PUNTA CANA | `Punta Cana is dry and breezy in winter.` |
+| 8–15s | `rva/heroes/PUJ_SUM_saona-island.jpg`, slow pan | THE CARIBBEAN AT ITS BEST | `Low eighties, and the Caribbean at its best.` |
+| 15–23s | Navy type card | THEN SPRING | `It stays dry and warm into spring, and the resorts calm down after Easter.` |
+| 23–30s | RVA brand card | WE CHECK RIC EVERY MORNING | `It is one of twenty-three places we watch from Richmond, every morning.` |
+
+**CAPTION (Facebook)**
+```
+Punta Cana is dry and breezy in winter. Low eighties, and the Caribbean at its best.
+
+It stays dry and warm into spring, and the resorts calm down after Easter.
+
+It is one of 23 destinations we watch from Richmond.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## TUE 1 DEC 12:00 · CAROUSEL 5 cards — Flying somewhere warm this winter
+Navy type cards, orange rule, with no photographs. **The cover says three, and cards 2, 3 and 4 are the three.** No fares anywhere. **No painted buttons.**
+
+| Card | Picture | Text |
+|---|---|---|
+| 1 | Navy type card | FLYING SOMEWHERE WARM THIS WINTER? THREE THINGS TO DO DIFFERENTLY. |
+| 2 | Navy type card | Dress in layers for the airport. You leave Richmond in a coat and land somewhere that doesn't need one. |
+| 3 | Navy type card | Pack sunscreen before you leave. It is the easiest thing to forget when it is cold outside. |
+| 4 | Navy type card | Parking at RIC? Leave the heavy coat in the car. You will want it on the walk back. |
+| 5 | RVA brand card | We track 23 destinations out of Richmond, and check them every morning. |
+
+**CAPTION (Facebook)**
+```
+Flying somewhere warm this winter? Three things to do differently.
+
+Dress in layers for the airport, because you leave Richmond in a coat and land somewhere that doesn't need one. Pack sunscreen before you leave, since it is the easiest thing to forget when it is cold outside. And if you are parking at RIC, leave the heavy coat in the car. You will want it on the walk back.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## WED 2 DEC 19:00 · QUESTION POST — What do you always forget to pack
+**Navy type card, orange rule, with no photograph.** No fares anywhere.
+
+**HEADLINE:** WHAT DO YOU ALWAYS<br>FORGET TO PACK?
+
+**CAPTION (Facebook)**
+```
+Everybody has one. The phone charger. The toothbrush. The one pair of shoes that goes with the outfit you packed.
+
+What is the thing you leave behind every single trip?
+
+Tell us below.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## THU 3 DEC 12:30 · REEL 20s — Two warm places for December
+**RVA styling.** Segoe UI Black, RVA logo, navy/orange. Never the UGH font. No fare anywhere. **37 spoken words. 20s allows 46.** Lines are the Montego Bay and Fort Lauderdale winter entries in `DESTINATION-LINES.md`, cut down. Both pictures viewed 22 Nov. Montego Bay shows a river with bamboo rafts, waterfront cafés and palms. Fort Lauderdale shows a palm-lined beachfront with blue umbrellas and hotels. Neither has text in frame. The on-screen text avoids "the seventies", which reads as a decade.
+
+| Time | Picture | On screen | Say |
+|---|---|---|---|
+| 0–4s | Navy type card | TWO WARM PLACES FOR DECEMBER | `Want somewhere warm in December? Try these two.` |
+| 4–10s | `rva/heroes/MBJ_SUM_martha-brae-river.jpg` | MONTEGO BAY | `Montego Bay has its best weather in winter. Dry and breezy.` |
+| 10–16s | `rva/heroes/FLL_SPR_beach-sunshine.jpg` | FORT LAUDERDALE | `Fort Lauderdale is sunny, and the water is still warm enough to swim.` |
+| 16–20s | RVA brand card | CHECKED EVERY MORNING | `We check both every morning.` |
+
+**CAPTION (Facebook)**
+```
+Somewhere warm for December.
+
+Montego Bay has its best weather of the year in winter. Dry, breezy, mid-eighties. Fort Lauderdale is mid-seventies and sunny, and the water is still warm enough to swim.
+
+Both are among the 23 destinations we watch from Richmond.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## FRI 4 DEC 08:00 · STORY POLL — THE BAG *(Instagram only)*
+- **Question:** Holiday trip: carry-on only, or check a bag?
+- **A:** Carry-on only · **B:** Check a bag
+- **Background:** title **THE BAG**, line **Carry-on only, or check a bag?**
+
+★ Posted by hand. GHL cannot post an Instagram Story.
+
+---
+
+## FRI 4 DEC 17:30 · LOCAL IDENTITY — December is arrivals season
+**Navy type card, orange rule, with no photograph.** No fares anywhere.
+
+**HEADLINE:** DECEMBER IS<br>ARRIVALS SEASON.
+
+**CAPTION (Facebook)**
+```
+December at RIC is all arrivals. College kids home for the break. Grandparents with one suitcase and three bags of gifts. The cousin who swore they would make it this year, and did.
+
+Somewhere in Richmond tonight, someone is circling back around for one more lap of pickup.
+
+Whoever you are waiting on, we hope they land on time.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## SAT 5 DEC 10:00 · ROUTE CHECK — Turks and Caicos in December
+★ Route Check holds the Saturday 10:00 slot. No fare anywhere.
+
+**Picture:** `rva/heroes/PLS_SUM_sapodilla-bay.jpg`. Viewed 22 Nov: a palm, turquoise water, kayaks, bright umbrellas, villas and a beach shack, with no seasonal cues. One small chalkboard sign is unreadable at full size. The caption names Grace Bay as a fact about the islands, not as the place in the picture.
+
+**HEADLINE:** TURKS AND CAICOS<br>IN DECEMBER
+
+**CAPTION (Facebook)**
+```
+Turks and Caicos is dry and breezy in winter. Low eighties, and Grace Bay at its clearest.
+
+Hurricane season ends with November, and the islands' dry season starts right behind it.
+
+We track 23 destinations out of Richmond, Turks and Caicos included.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
+## SUN 6 DEC 19:00 · CAROUSEL 5 cards — Three cities that do December right
+Navy type cards, orange rule, with no photographs. **The cover says three, and cards 2, 3 and 4 are the three.** Lines are the New York, London and Paris winter entries in `DESTINATION-LINES.md`, verbatim. No fares anywhere. **No painted buttons.**
+
+| Card | Picture | Text |
+|---|---|---|
+| 1 | Navy type card | THREE CITIES THAT DO DECEMBER RIGHT |
+| 2 | Navy type card | New York is the holiday windows in December. Then a quiet, easier January. |
+| 3 | Navy type card | London is short days and bright lights in winter. West End shows, and pubs with fires. |
+| 4 | Navy type card | Paris is gray, quiet and cozy in winter. Shorter museum lines, and holiday lights into January. |
+| 5 | RVA brand card | We track 23 destinations out of Richmond, these three included. |
+
+**CAPTION (Facebook)**
+```
+Three cities that do December right.
+
+New York has the holiday windows, then a quiet, easier January. London is short days and bright lights, with West End shows and pubs with fires. And Paris is gray, quiet and cozy, with shorter museum lines and holiday lights into January.
+
+We track 23 destinations out of Richmond, these three included.
+
+We check Richmond fares every morning: https://rvacheapflights.com/deals
+```
+**IG last line:** `We check Richmond fares every morning: rvacheapflights.com/deals — link in bio`
+
+---
+
 ## Open — needs Glenn
 
 1. **The newsletter subscribe URL.** It appears in every destination review. Not inventing one — `rvacheapflights.com/deals` is the deals page, not a signup.
